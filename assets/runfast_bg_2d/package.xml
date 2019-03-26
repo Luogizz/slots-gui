@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="pzq4p2v1" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="ef8p0" name="bg_2d.jpg" path="/" exported="true"/>
+  </resources>
+  <publish name="runfast_bg_2d"/>
+</packageDescription>

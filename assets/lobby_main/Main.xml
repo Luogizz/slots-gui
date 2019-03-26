@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720" designImage="ui://abjl44hfd5oe0" designImageLayer="1">
+  <displayList>
+    <image id="n21_d5oe" name="n21" src="tdax1l" fileName="大厅_slices/bg@2x.png" xy="0,0"/>
+    <image id="n22_d5oe" name="n22" src="d5oei" fileName="大厅_slices/底栏@2x.png" xy="0,665"/>
+    <image id="n23_d5oe" name="n23" src="d5oeh" fileName="大厅_slices/左边底框@2x.png" xy="6,126" size="338,489"/>
+    <image id="n31_tdax" name="n31" src="d5oeh" fileName="大厅_slices/左边底框@2x.png" xy="355,127" size="912,489"/>
+    <image id="n28_d5oe" name="n28" src="d5oe9" fileName="大厅_slices/公告@2x.png" xy="446,86"/>
+    <component id="n1_d5oe" name="n1" src="d5oe11" fileName="ButtonQinYouQuan.xml" xy="-6,136"/>
+    <component id="n4_d5oe" name="n4" src="d5oe14" fileName="ButtonBiShaiChang.xml" xy="1,307"/>
+    <component id="n5_d5oe" name="n5" src="d5oe15" fileName="ButtonJinBiChang.xml" xy="10,458"/>
+    <component id="n6_d5oe" name="n6" src="d5oe16" fileName="ButtonYaoQing.xml" xy="712,651"/>
+    <component id="n7_d5oe" name="n7" src="d5oe17" fileName="ButtonHezuo.xml" xy="977,651"/>
+    <component id="n8_d5oe" name="n8" src="d5oe18" fileName="ButtonZhanJi.xml" xy="587,651"/>
+    <component id="n9_d5oe" name="n9" src="d5oe19" fileName="ButtonXiaoXi.xml" xy="846,651"/>
+    <component id="n10_d5oe" name="n10" src="d5oe1a" fileName="ButtonSheZhi.xml" xy="1107,651"/>
+    <component id="n11_d5oe" name="n11" src="d5oe1b" fileName="ButtonHuoDong.xml" xy="451,651"/>
+    <component id="n12_d5oe" name="n12" src="d5oe1c" fileName="ButtonJiaRuYouXi.xml" xy="0,623"/>
+    <component id="n29_d5oe" name="n29" src="d5oe1k" fileName="HSGameList.xml" xy="380,129"/>
+  </displayList>
+</component>

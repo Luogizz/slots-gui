@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="150,210" pivot="0.5,0.5" anchor="true" designImage="ui://ppyzj5nref8p7c" designImageOffsetX="-973" designImageOffsetY="-382" designImageLayer="1">
+  <displayList>
+    <component id="n5_ef8p" name="n0" src="ef8pcz" fileName="desk_card_button.xml" xy="1,2"/>
+    <loader id="n1_ef8p" name="n1" xy="5,12" size="46,46" touchable="false" url="ui://p966ud2tef8pl"/>
+    <loader id="n2_ef8p" name="n2" xy="9,62" size="39,43" touchable="false" url="ui://p966ud2tef8py"/>
+    <loader id="n3_ef8p" name="n3" xy="61,118" size="82,90" touchable="false" url="ui://p966ud2tef8pz"/>
+  </displayList>
+</component>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1115,210" pivot="0.5,0.5" anchor="true" designImage="ui://ppyzj5nref8p7c" designImageOffsetX="-9" designImageOffsetY="-382" designImageLayer="1">
+  <displayList>
+    <component id="n60_ef8p" name="plist" src="ef8pcy" fileName="desk_my_poker_list.xml" xy="-9,0"/>
+    <component id="n57_ef8p" name="n57" src="ef8pck" fileName="desk_user_button.xml" xy="16,159"/>
+    <image id="n58_ef8p" name="n58" src="ef8p3s" fileName="大丰关张美术资源/切图/t_通用/jf_dk.png" xy="163,234" pivot="0.5,0.5" anchor="true" size="102,40" restrictSize="102,0,0,0">
+      <relation target="n59_ef8p" sidePair="width-width"/>
+    </image>
+    <text id="n59_ef8p" name="n59" xy="163,233" pivot="0.5,0.5" anchor="true" size="19,24" font="ui://ppyzj5nref8pcn" fontSize="12" text="0"/>
+  </displayList>
+</component>

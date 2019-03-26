@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="abjl44hf" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="d5oe0" name="大厅.jpg" path="/"/>
+    <image id="d5oe1" name="+@2x.png" path="/大厅_slices/"/>
+    <image id="d5oe3" name="dian1@2x.png" path="/大厅_slices/"/>
+    <image id="d5oe4" name="dian2@2x.png" path="/大厅_slices/"/>
+    <image id="d5oe5" name="ID底框@2x.png" path="/大厅_slices/"/>
+    <image id="d5oe6" name="ID：3838438@2x.png" path="/大厅_slices/"/>
+    <image id="d5oe7" name="下拉@2x.png" path="/大厅_slices/"/>
+    <image id="d5oe8" name="亲友圈@2x.png" path="/大厅_slices/"/>
+    <image id="d5oe9" name="公告@2x.png" path="/大厅_slices/" scale="9grid" scale9grid="26,10,748,22" gridTile="16"/>
+    <image id="d5oea" name="加入游戏@2x.png" path="/大厅_slices/"/>
+    <image id="d5oeb" name="右边底框@2x.png" path="/大厅_slices/"/>
+    <image id="d5oec" name="合作@2x.png" path="/大厅_slices/"/>
+    <image id="d5oed" name="头像框@2x.png" path="/大厅_slices/"/>
+    <image id="d5oee" name="头像示意底图@2x.png" path="/大厅_slices/"/>
+    <image id="d5oef" name="字牌@2x.png" path="/大厅_slices/"/>
+    <image id="d5oeg" name="定位@2x.png" path="/大厅_slices/"/>
+    <image id="d5oeh" name="左边底框@2x.png" path="/大厅_slices/" scale="9grid" scale9grid="83,21,166,444" gridTile="16"/>
+    <image id="d5oei" name="底栏@2x.png" path="/大厅_slices/"/>
+    <image id="d5oej" name="战绩@2x.png" path="/大厅_slices/"/>
+    <image id="d5oek" name="拼三张@2x.png" path="/大厅_slices/"/>
+    <image id="d5oel" name="推倒胡@2x.png" path="/大厅_slices/"/>
+    <image id="d5oem" name="更多游戏@2x.png" path="/大厅_slices/"/>
+    <image id="d5oen" name="比赛场@2x.png" path="/大厅_slices/"/>
+    <image id="d5oeo" name="活动@2x.png" path="/大厅_slices/"/>
+    <image id="d5oep" name="消息@2x.png" path="/大厅_slices/"/>
+    <image id="d5oeq" name="福田区@2x.png" path="/大厅_slices/"/>
+    <image id="d5oer" name="红中麻将@2x.png" path="/大厅_slices/"/>
+    <image id="d5oes" name="经典牛牛@2x.png" path="/大厅_slices/"/>
+    <image id="d5oet" name="设置@2x.png" path="/大厅_slices/"/>
+    <image id="d5oeu" name="转转麻将@2x.png" path="/大厅_slices/"/>
+    <image id="d5oev" name="邀请@2x.png" path="/大厅_slices/"/>
+    <image id="d5oew" name="金币场@2x.png" path="/大厅_slices/"/>
+    <image id="d5oex" name="钻石@2x.png" path="/大厅_slices/"/>
+    <image id="d5oey" name="钻石底框@2x.png" path="/大厅_slices/"/>
+    <image id="d5oez" name="防火防盗防...@2x.png" path="/大厅_slices/"/>
+    <component id="d5oe10" name="Main.xml" path="/" exported="true"/>
+    <component id="d5oe11" name="ButtonQinYouQuan.xml" path="/"/>
+    <component id="d5oe14" name="ButtonBiShaiChang.xml" path="/"/>
+    <component id="d5oe15" name="ButtonJinBiChang.xml" path="/"/>
+    <component id="d5oe16" name="ButtonYaoQing.xml" path="/"/>
+    <component id="d5oe17" name="ButtonHezuo.xml" path="/"/>
+    <component id="d5oe18" name="ButtonZhanJi.xml" path="/"/>
+    <component id="d5oe19" name="ButtonXiaoXi.xml" path="/"/>
+    <component id="d5oe1a" name="ButtonSheZhi.xml" path="/"/>
+    <component id="d5oe1b" name="ButtonHuoDong.xml" path="/"/>
+    <component id="d5oe1c" name="ButtonJiaRuYouXi.xml" path="/"/>
+    <component id="d5oe1d" name="ButtonMore.xml" path="/"/>
+    <component id="d5oe1e" name="ButtonJingDianNiuNiu.xml" path="/"/>
+    <component id="d5oe1f" name="ButtonTuiDaoHu.xml" path="/"/>
+    <component id="d5oe1g" name="ButtonPingSanZhang.xml" path="/"/>
+    <component id="d5oe1h" name="ButtonZiPai.xml" path="/"/>
+    <component id="d5oe1i" name="ButtonHongZhong.xml" path="/"/>
+    <component id="d5oe1j" name="ButtonMahjong.xml" path="/"/>
+    <component id="d5oe1k" name="HSGameList.xml" path="/"/>
+    <image id="tdax1l" name="bg@2x.png" path="/大厅_slices/"/>
+  </resources>
+  <publish name="lobby_main"/>
+</packageDescription>

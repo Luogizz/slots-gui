@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="322,46" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n0_ef8p" name="n0" src="ef8p3m" fileName="大丰关张美术资源/切图/t_通用/dk_dp.png" xy="161,23" pivot="0.5,0.5" anchor="true" restrictSize="322,0,0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+  </displayList>
+  <Button/>
+</component>

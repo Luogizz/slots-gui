@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="850,489" overflow="scroll" scroll="horizontal" scrollBarFlags="8" scrollBar="hidden" designImage="ui://abjl44hfd5oe0" designImageOffsetX="-380" designImageOffsetY="-130">
+  <displayList>
+    <component id="n1_d5oe" name="n1" src="d5oe1d" fileName="ButtonMore.xml" xy="4,35"/>
+    <component id="n2_d5oe" name="n2" src="d5oe1e" fileName="ButtonJingDianNiuNiu.xml" xy="658,235"/>
+    <component id="n3_d5oe" name="n3" src="d5oe1f" fileName="ButtonTuiDaoHu.xml" xy="222,244"/>
+    <component id="n4_d5oe" name="n4" src="d5oe1g" fileName="ButtonPingSanZhang.xml" xy="642,27"/>
+    <component id="n5_d5oe" name="n5" src="d5oe1h" fileName="ButtonZiPai.xml" xy="440,240"/>
+    <component id="n6_d5oe" name="n6" src="d5oe1i" fileName="ButtonHongZhong.xml" xy="3,238"/>
+    <component id="n7_d5oe" name="n7" src="d5oe1j" fileName="ButtonMahjong.xml" xy="221,29"/>
+    <component id="n8_d5oe" name="n8" src="d5oe1j" fileName="ButtonMahjong.xml" xy="439,29"/>
+  </displayList>
+</component>

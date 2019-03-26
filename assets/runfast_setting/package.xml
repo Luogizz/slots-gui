@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="pt86xthp" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="ef8p0" name="bg.png" path="/"/>
+    <image id="ef8p1" name="fjsz.png" path="/"/>
+    <component id="ef8p5" name="setting.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="runfast_setting"/>
+</packageDescription>

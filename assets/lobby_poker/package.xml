@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="p966ud2t" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="ef8p0" name="bg.png" path="/poker/" exported="true"/>
+    <image id="ef8p1" name="E.png" path="/poker/" exported="true"/>
+    <image id="ef8p2" name="F.png" path="/poker/" exported="true"/>
+    <image id="ef8p3" name="fapai_bei.png" path="/poker/" exported="true"/>
+    <image id="ef8p4" name="fk.png" path="/poker/" exported="true"/>
+    <image id="ef8p5" name="fk_big.png" path="/poker/" exported="true"/>
+    <image id="ef8p6" name="hei_1.png" path="/poker/" exported="true"/>
+    <image id="ef8p7" name="hei_2.png" path="/poker/" exported="true"/>
+    <image id="ef8p8" name="hei_3.png" path="/poker/" exported="true"/>
+    <image id="ef8p9" name="hei_4.png" path="/poker/" exported="true"/>
+    <image id="ef8pa" name="hei_5.png" path="/poker/" exported="true"/>
+    <image id="ef8pb" name="hei_6.png" path="/poker/" exported="true"/>
+    <image id="ef8pc" name="hei_7.png" path="/poker/" exported="true"/>
+    <image id="ef8pd" name="hei_8.png" path="/poker/" exported="true"/>
+    <image id="ef8pe" name="hei_9.png" path="/poker/" exported="true"/>
+    <image id="ef8pf" name="hei_A.png" path="/poker/" exported="true"/>
+    <image id="ef8pg" name="hei_B.png" path="/poker/" exported="true"/>
+    <image id="ef8ph" name="hei_C.png" path="/poker/" exported="true"/>
+    <image id="ef8pi" name="hei_D.png" path="/poker/" exported="true"/>
+    <image id="ef8pj" name="hong_1.png" path="/poker/" exported="true"/>
+    <image id="ef8pk" name="hong_2.png" path="/poker/" exported="true"/>
+    <image id="ef8pl" name="hong_3.png" path="/poker/" exported="true"/>
+    <image id="ef8pm" name="hong_4.png" path="/poker/" exported="true"/>
+    <image id="ef8pn" name="hong_5.png" path="/poker/" exported="true"/>
+    <image id="ef8po" name="hong_6.png" path="/poker/" exported="true"/>
+    <image id="ef8pp" name="hong_7.png" path="/poker/" exported="true"/>
+    <image id="ef8pq" name="hong_8.png" path="/poker/" exported="true"/>
+    <image id="ef8pr" name="hong_9.png" path="/poker/" exported="true"/>
+    <image id="ef8ps" name="hong_A.png" path="/poker/" exported="true"/>
+    <image id="ef8pt" name="hong_B.png" path="/poker/" exported="true"/>
+    <image id="ef8pu" name="hong_C.png" path="/poker/" exported="true"/>
+    <image id="ef8pv" name="hong_D.png" path="/poker/" exported="true"/>
+    <image id="ef8pw" name="ht.png" path="/poker/" exported="true"/>
+    <image id="ef8px" name="ht_big.png" path="/poker/" exported="true"/>
+    <image id="ef8py" name="hx.png" path="/poker/" exported="true"/>
+    <image id="ef8pz" name="hx_big.png" path="/poker/" exported="true"/>
+    <image id="ef8p10" name="mh.png" path="/poker/" exported="true"/>
+    <image id="ef8p11" name="mh_big.png" path="/poker/" exported="true"/>
+    <image id="ef8p12" name="paibei.png" path="/poker/" exported="true"/>
+    <image id="ef8p13" name="paibei2.png" path="/poker/" exported="true"/>
+    <image id="ef8p14" name="paishu.png" path="/poker/" exported="true"/>
+    <image id="ef8p15" name="suit_boss1_big.png" path="/poker/" exported="true"/>
+    <image id="ef8p16" name="suit_boss2_big.png" path="/poker/" exported="true"/>
+    <image id="ef8p17" name="suit_heihua_11_big.png" path="/poker/" exported="true"/>
+    <image id="ef8p18" name="suit_heihua_12_big.png" path="/poker/" exported="true"/>
+    <image id="ef8p19" name="suit_heihua_13_big.png" path="/poker/" exported="true"/>
+    <image id="ef8p1a" name="suit_honghua_11_big.png" path="/poker/" exported="true"/>
+    <image id="ef8p1b" name="suit_honghua_12_big.png" path="/poker/" exported="true"/>
+    <image id="ef8p1c" name="suit_honghua_13_big.png" path="/poker/" exported="true"/>
+  </resources>
+  <publish name="lobby_poker"/>
+</packageDescription>

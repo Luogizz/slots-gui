@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="160,78" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n0_ef8p" name="n0" src="ef8p3d" fileName="大丰关张美术资源/切图/t_通用/an_l.png" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n2_ef8p" name="n2" src="ef8p3e" fileName="大丰关张美术资源/切图/t_通用/an_ts.png" xy="37,12"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue="0.80"/>
+</component>

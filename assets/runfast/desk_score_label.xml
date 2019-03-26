@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="102,40">
+  <displayList>
+    <image id="n0_ef8p" name="n0" src="ef8p3s" fileName="大丰关张美术资源/切图/t_通用/jf_dk.png" xy="51,20" pivot="0.5,0.5" anchor="true" size="121,40" restrictSize="102,0,0,0">
+      <relation target="n1_ef8p" sidePair="width-width"/>
+    </image>
+    <text id="n1_ef8p" name="n1" xy="50,18" pivot="0.5,0.5" anchor="true" size="76,19" fontSize="12" align="center" vAlign="middle" singleLine="true" text="12345444444"/>
+  </displayList>
+</component>
