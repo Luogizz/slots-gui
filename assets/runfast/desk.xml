@@ -11,10 +11,10 @@
     <text id="n21_ef8p" name="time" xy="14,8" size="58,30" fontSize="20" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="12:26"/>
     <loader id="n22_ef8p" name="wifi" xy="78,11" size="22,22" url="ui://ppyzj5nref8p3u"/>
     <loader id="n23_ef8p" name="battery" xy="109,12" size="37,21" url="ui://ppyzj5nref8p3i"/>
-    <component id="n27_ef8p" name="n27" src="ef8pci" fileName="desk_view_left.xml" xy="0,52"/>
-    <component id="n28_ef8p" name="n28" src="ef8pcr" fileName="desk_view_right.xml" xy="235,52"/>
-    <component id="n29_ef8p" name="n29" src="ef8pch" fileName="desk_view_mine.xml" xy="565,487"/>
-    <component id="n31_ef8p" name="n31" src="ef8pc4" fileName="desk_operation_panel.xml" xy="0,264"/>
+    <component id="n27_ef8p" name="playerLeft" src="ef8pci" fileName="desk_view_left.xml" xy="0,52"/>
+    <component id="n28_ef8p" name="playerRight" src="ef8pcr" fileName="desk_view_right.xml" xy="235,52"/>
+    <component id="n29_ef8p" name="playerMine" src="ef8pch" fileName="desk_view_mine.xml" xy="565,487"/>
+    <component id="n31_ef8p" name="operationPanel" src="ef8pc4" fileName="desk_operation_panel.xml" xy="0,264"/>
     <text id="n33_ef8p" name="top_room_info" xy="566,17" pivot="0.5,0.5" anchor="true" size="285,27" fontSize="20" color="#cccccc" align="center" vAlign="middle" singleLine="true" text="房间号：883456 局数：16/16 ()"/>
     <component id="n35_ef8p" name="n35" src="ef8pcu" fileName="desk_roominfo_button.xml" xy="566,22" pivot="0.5,0.5" anchor="true" size="337,46" restrictSize="322,0,0,0">
       <relation target="n33_ef8p" sidePair="width-width"/>
