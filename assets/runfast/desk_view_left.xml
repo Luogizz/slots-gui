@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="900,220" designImage="ui://ppyzj5nref8p7c" designImageOffsetY="-51">
   <displayList>
-    <component id="n6_ef8p" name="n6" src="ef8pck" fileName="desk_user_button.xml" xy="24,82"/>
-    <image id="n3_ef8p" name="n3" src="ef8p14" fileName="poker/paishu.png" pkg="p966ud2t" xy="139,119"/>
-    <image id="n4_ef8p" name="n4" src="ef8p3r" fileName="大丰关张美术资源/切图/t_通用/jb_fz.png" xy="2,79"/>
-    <image id="n5_ef8p" name="n5" src="ef8pay" fileName="大丰关张美术资源/老版/切图/y_游戏内/yxn_bj_ct.png" xy="95,135"/>
-    <image id="n7_ef8p" name="n7" src="ef8p3s" fileName="大丰关张美术资源/切图/t_通用/jf_dk.png" xy="70,194" pivot="0.5,0.5" anchor="true" size="102,40" restrictSize="102,0,0,0">
+    <component id="n6_ef8p" name="head" src="ef8pck" fileName="desk_user_button.xml" xy="24,82"/>
+    <image id="n3_ef8p" name="n3" src="ef8p14" fileName="poker/paishu.png" pkg="p966ud2t" xy="139,119" visible="false"/>
+    <image id="n4_ef8p" name="n4" src="ef8p3r" fileName="大丰关张美术资源/切图/t_通用/jb_fz.png" xy="2,79" visible="false"/>
+    <image id="n5_ef8p" name="n5" src="ef8pay" fileName="大丰关张美术资源/老版/切图/y_游戏内/yxn_bj_ct.png" xy="95,135" visible="false"/>
+    <image id="n7_ef8p" name="score" src="ef8p3s" fileName="大丰关张美术资源/切图/t_通用/jf_dk.png" xy="70,194" pivot="0.5,0.5" anchor="true" size="102,40" restrictSize="102,0,0,0" visible="false">
       <relation target="n8_ef8p" sidePair="width-width"/>
     </image>
-    <text id="n8_ef8p" name="n8" xy="70,193" pivot="0.5,0.5" anchor="true" size="19,24" font="ui://ppyzj5nref8pcn" fontSize="12" text="0"/>
-    <text id="n9_ef8p" name="n9" xy="159,145" pivot="0.5,0.5" anchor="true" size="47,27" font="ui://ppyzj5nref8pco" fontSize="12" align="center" vAlign="middle" autoSize="none" text="11"/>
+    <text id="n8_ef8p" name="scoreText" xy="70,193" pivot="0.5,0.5" anchor="true" size="19,24" visible="false" font="ui://ppyzj5nref8pcn" fontSize="12" text="0"/>
+    <text id="n9_ef8p" name="n9" xy="159,145" pivot="0.5,0.5" anchor="true" size="47,27" visible="false" font="ui://ppyzj5nref8pco" fontSize="12" align="center" vAlign="middle" autoSize="none" text="11"/>
     <graph id="n10_ef8p" name="n10" xy="211,60" size="83,114" visible="false" type="rect"/>
   </displayList>
 </component>
