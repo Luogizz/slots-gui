@@ -5,5 +5,7 @@
     <loader id="n1_ef8p" name="n1" xy="5,12" size="46,46" touchable="false" url="ui://p966ud2tef8pl"/>
     <loader id="n2_ef8p" name="n2" xy="9,62" size="39,43" touchable="false" url="ui://p966ud2tef8py"/>
     <loader id="n3_ef8p" name="n3" xy="61,118" size="82,90" touchable="false" url="ui://p966ud2tef8pz"/>
+    <graph id="n6_vp44" name="p1" xy="61,118" size="0,0" touchable="false" type="rect"/>
+    <graph id="n7_vp44" name="p2" xy="2,2" size="0,0" touchable="false" type="rect"/>
   </displayList>
 </component>
