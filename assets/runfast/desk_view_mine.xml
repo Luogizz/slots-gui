@@ -8,5 +8,6 @@
     </image>
     <text id="n59_ef8p" name="scoreText" xy="163,233" pivot="0.5,0.5" anchor="true" size="19,24" visible="false" font="ui://ppyzj5nref8pcn" fontSize="12" text="0"/>
     <image id="n61_vp44" name="ready" src="ef8p4m" fileName="大丰关张美术资源/切图/z_准备开始gps/ok.png" xy="149,127" visible="false"/>
+    <component id="n62_vp44" name="discards" src="vp44d3" fileName="desk_discard_list.xml" xy="450,-225"/>
   </displayList>
 </component>

@@ -414,6 +414,7 @@
     <component id="ef8pd0" name="desk_cancel_button.xml" path="/" exported="true"/>
     <component id="ef8pd1" name="desk_ok_button.xml" path="/" exported="true"/>
     <component id="vp44d2" name="desk_ready_button.xml" path="/"/>
+    <component id="vp44d3" name="desk_discard_list.xml" path="/"/>
   </resources>
   <publish name="runfast"/>
 </packageDescription>
