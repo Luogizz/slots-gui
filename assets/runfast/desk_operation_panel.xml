@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1136,100" designImage="ui://ppyzj5nref8p7c" designImageOffsetY="-263">
   <displayList>
-    <component id="n0_ef8p" name="n0" src="ef8pcc" fileName="desk_tips_button.xml" xy="543,12"/>
-    <component id="n1_ef8p" name="n1" src="ef8pcd" fileName="desk_skip_button.xml" xy="242,12"/>
-    <component id="n2_ef8p" name="n2" src="ef8pcb" fileName="desk_discard_button.xml" xy="733,13"/>
-    <image id="n3_ef8p" name="n3" src="ef8pb5" fileName="大丰关张美术资源/老版/切图/y_游戏内/yxn_nz.png" xy="429,-2"/>
-    <text id="n4_ef8p" name="n4" xy="441,19" size="60,45" font="ui://ppyzj5nref8pct" fontSize="12" align="center" vAlign="middle" autoSize="none" text="20"/>
+    <component id="n0_ef8p" name="tip" src="ef8pcc" fileName="desk_tips_button.xml" xy="543,12" visible="false"/>
+    <component id="n1_ef8p" name="pass" src="ef8pcd" fileName="desk_skip_button.xml" xy="242,12" visible="false"/>
+    <component id="n2_ef8p" name="discard" src="ef8pcb" fileName="desk_discard_button.xml" xy="733,13" visible="false"/>
+    <image id="n3_ef8p" name="count" src="ef8pb5" fileName="大丰关张美术资源/老版/切图/y_游戏内/yxn_nz.png" xy="429,-2" visible="false"/>
+    <text id="n4_ef8p" name="countDown" xy="441,19" size="60,45" visible="false" font="ui://ppyzj5nref8pct" fontSize="12" align="center" vAlign="middle" autoSize="none" text="20"/>
   </displayList>
 </component>
