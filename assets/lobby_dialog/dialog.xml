@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="400,400">
+  <displayList>
+    <component id="n0_vp44" name="n0" src="vp442" fileName="Button1.xml" xy="0,0" size="20,78">
+      <relation target="n1_vp44" sidePair="height-height,width-width"/>
+    </component>
+    <text id="n1_vp44" name="text" xy="5,3" size="10,33" fontSize="24" color="#d73f3a" bold="true" text=""/>
+    <component id="n2_vp44" name="n2" src="vp443" fileName="Button2.xml" xy="57,108" hideByEditor="true" scale="0.5,0.5" visible="false"/>
+    <component id="n3_vp44" name="n3" src="vp444" fileName="Button3.xml" xy="148,76" hideByEditor="true" scale="0.5,0.5" visible="false"/>
+  </displayList>
+</component>
