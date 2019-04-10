@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="400,80">
+  <displayList>
+    <image id="n2_zqjk" name="n2" src="vp440" fileName="dialog/tsbg.png" xy="0,0" size="23,52">
+      <relation target="n3_zqjk" sidePair="height-height,width-width"/>
+    </image>
+    <text id="n3_zqjk" name="text" xy="6,7" size="10,33" fontSize="24" color="#d73f3a" bold="true" text=""/>
+  </displayList>
+</component>

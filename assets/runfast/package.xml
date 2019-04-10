@@ -97,8 +97,8 @@
     <image id="ef8p2m" name="tcfj.png" path="/大丰关张美术资源/切图/s_设置/"/>
     <image id="ef8p2n" name="xzzm.png" path="/大丰关张美术资源/切图/s_设置/"/>
     <image id="ef8p2o" name="yxgze.png" path="/大丰关张美术资源/切图/s_设置/"/>
-    <image id="ef8p2p" name="an_qd.png" path="/大丰关张美术资源/切图/t_信息弹窗/"/>
-    <image id="ef8p2q" name="an_qx.png" path="/大丰关张美术资源/切图/t_信息弹窗/"/>
+    <image id="ef8p2p" name="an_qd.png" path="/大丰关张美术资源/切图/t_信息弹窗/" exported="true"/>
+    <image id="ef8p2q" name="an_qx.png" path="/大丰关张美术资源/切图/t_信息弹窗/" exported="true"/>
     <image id="ef8p2r" name="3d1.png" path="/大丰关张美术资源/切图/t_提示语/"/>
     <image id="ef8p2s" name="3d2.png" path="/大丰关张美术资源/切图/t_提示语/"/>
     <image id="ef8p2t" name="4d2.png" path="/大丰关张美术资源/切图/t_提示语/"/>
