@@ -3,9 +3,7 @@
   <resources>
     <image id="vp440" name="tsbg.png" path="/dialog/" scale="9grid" scale9grid="21,19,5,5" gridTile="16"/>
     <component id="vp441" name="dialog.xml" path="/" exported="true"/>
-    <component id="vp442" name="Button1.xml" path="/"/>
-    <component id="vp443" name="Button2.xml" path="/"/>
-    <component id="vp444" name="Button3.xml" path="/"/>
+    <component id="zqjk5" name="prompt.xml" path="/" exported="true"/>
   </resources>
   <publish name="lobby_dialog"/>
 </packageDescription>
