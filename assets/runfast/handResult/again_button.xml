@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="160,78" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n0_rhc4" name="n0" src="ef8p3b" fileName="大丰关张美术资源/切图/t_通用/an_h.png" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_rhc4" name="n1" src="ef8p12" fileName="大丰关张美术资源/切图/j_结算/an_jxyx.png" xy="16,17"/>
+  </displayList>
+  <Button/>
+</component>
