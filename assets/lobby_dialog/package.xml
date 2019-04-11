@@ -4,6 +4,12 @@
     <image id="vp440" name="tsbg.png" path="/dialog/" scale="9grid" scale9grid="21,19,5,5" gridTile="16"/>
     <component id="vp441" name="dialog.xml" path="/" exported="true"/>
     <component id="zqjk5" name="prompt.xml" path="/" exported="true"/>
+    <image id="pn8z6" name="an_h.png" path="/dialog/"/>
+    <image id="pn8z7" name="an_l.png" path="/dialog/"/>
+    <image id="pn8z9" name="an_qd.png" path="/dialog/"/>
+    <image id="pn8za" name="an_qx.png" path="/dialog/"/>
+    <component id="pn8zb" name="cancel_button.xml" path="/"/>
+    <component id="pn8zd" name="ok_button.xml" path="/"/>
   </resources>
   <publish name="lobby_dialog"/>
 </packageDescription>
