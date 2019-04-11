@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="270,350" designImageOffsetX="-120" designImageOffsetY="-130">
+  <displayList>
+    <image id="n0_rhc4" name="n0" src="ef8p1k" fileName="大丰关张美术资源/切图/j_结算/zjsbk.png" xy="4,4" size="262,340"/>
+    <component id="n1_rhc4" name="head" src="ef8pck" fileName="desk/desk_user_button.xml" xy="87,32"/>
+    <image id="n2_rhc4" name="roomOwner" src="ef8p3r" fileName="大丰关张美术资源/切图/t_通用/jb_fz.png" xy="64,35"/>
+    <text id="n3_rhc4" name="name" xy="76,125" size="112,28" fontSize="20" color="#784819" bold="true" text="哈哈哈啊哈"/>
+    <text id="n4_rhc4" name="id" xy="89,148" size="86,22" fontSize="16" color="#784819" text="id：213215"/>
+    <image id="n5_rhc4" name="n5" src="ef8p1l" fileName="大丰关张美术资源/切图/j_结算/zjsxx.png" xy="13,180"/>
+    <text id="n6_rhc4" name="number" xy="55,185" size="150,32" fontSize="25" color="#f1d15c" strokeColor="#734305" strokeSize="2" text="胜利局数:5局"/>
+    <text id="n7_rhc4" name="n7" xy="93,228" size="73,29" fontSize="22" color="#c09163" text="总成绩"/>
+    <text id="n8_rhc4" name="text_win" xy="30,263" size="10,0" font="ui://ppyzj5nrrhc4d9" fontSize="22" color="#c09163" text=""/>
+    <text id="n9_rhc4" name="text_lose" xy="30,263" size="10,0" font="ui://ppyzj5nrrhc4d8" fontSize="22" color="#c09163" text=""/>
+  </displayList>
+</component>

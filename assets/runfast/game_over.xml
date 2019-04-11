@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640" designImage="ui://ppyzj5nref8p7z" designImageLayer="1">
+  <displayList>
+    <image id="n0_rhc4" name="n0" src="ef8p16" fileName="大丰关张美术资源/切图/j_结算/dk_zjs.png" xy="2,0" size="1130,640"/>
+    <text id="n1_rhc4" name="roomNumber" xy="65,40" size="247,29" fontSize="22" color="#f1d15c" text="大丰关张    房号:123456"/>
+    <text id="n2_rhc4" name="date" xy="849,39" size="214,33" fontSize="22" color="#f1d15c" text="2018-25-12 20:12:20&#xA;"/>
+    <component id="n3_rhc4" name="shanreBtn" src="rhc4d5" fileName="handResult/share_button.xml" xy="340,566"/>
+    <component id="n4_rhc4" name="player1" src="rhc4df" fileName="gameOver/game_over_player.xml" xy="119,130"/>
+    <component id="n5_rhc4" name="player2" src="rhc4df" fileName="gameOver/game_over_player.xml" xy="428,130"/>
+    <component id="n6_rhc4" name="player3" src="rhc4df" fileName="gameOver/game_over_player.xml" xy="736,130"/>
+    <component id="n7_rhc4" name="backHallBtn" src="rhc4de" fileName="gameOver/back_hall_button.xml" xy="624,561"/>
+  </displayList>
+</component>

@@ -56,7 +56,7 @@
     <image id="ef8p1h" name="jia.png" path="/大丰关张美术资源/切图/j_结算/"/>
     <image id="ef8p1i" name="jian.png" path="/大丰关张美术资源/切图/j_结算/"/>
     <image id="ef8p1j" name="txk.png" path="/大丰关张美术资源/切图/j_结算/"/>
-    <image id="ef8p1k" name="zjsbk.png" path="/大丰关张美术资源/切图/j_结算/"/>
+    <image id="ef8p1k" name="zjsbk.png" path="/大丰关张美术资源/切图/j_结算/" scale="9grid" scale9grid="67,65,10,14" gridTile="16"/>
     <image id="ef8p1l" name="zjsxx.png" path="/大丰关张美术资源/切图/j_结算/"/>
     <image id="ef8p1m" name="an_bty.png" path="/大丰关张美术资源/切图/j_解散房间/"/>
     <image id="ef8p1n" name="an_ty.png" path="/大丰关张美术资源/切图/j_解散房间/"/>
@@ -422,6 +422,9 @@
     <font id="rhc4d8" name="hand_fesult_font_lose.fnt" path="/handResult/" exported="true"/>
     <font id="rhc4d9" name="hand_fesult_font_win.fnt" path="/handResult/" exported="true"/>
     <component id="rhc4da" name="hand_result_poker_list.xml" path="/handResult/"/>
+    <component id="rhc4db" name="game_over.xml" path="/" exported="true"/>
+    <component id="rhc4de" name="back_hall_button.xml" path="/gameOver/"/>
+    <component id="rhc4df" name="game_over_player.xml" path="/gameOver/"/>
   </resources>
   <publish name="runfast"/>
 </packageDescription>
