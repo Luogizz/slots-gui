@@ -40,7 +40,7 @@
     <image id="ef8p11" name="an_fhdt.png" path="/大丰关张美术资源/切图/j_结算/"/>
     <image id="ef8p12" name="an_jxyx.png" path="/大丰关张美术资源/切图/j_结算/"/>
     <image id="ef8p13" name="an_wxfx.png" path="/大丰关张美术资源/切图/j_结算/"/>
-    <image id="ef8p14" name="dk_sb.png" path="/大丰关张美术资源/切图/j_结算/"/>
+    <image id="ef8p14" name="dk_sb.png" path="/大丰关张美术资源/切图/j_结算/" scale9grid="255,274,512,109"/>
     <image id="ef8p15" name="dk_sl.png" path="/大丰关张美术资源/切图/j_结算/"/>
     <image id="ef8p16" name="dk_zjs.png" path="/大丰关张美术资源/切图/j_结算/"/>
     <image id="ef8p17" name="f0.png" path="/大丰关张美术资源/切图/j_结算/"/>
@@ -385,36 +385,43 @@
     <image id="ef8pbz" name="关张备注1.18.png" path="/大丰关张美术资源/老版/特效文件/"/>
     <image id="ef8pc0" name="关张特效备注1.19.png" path="/大丰关张美术资源/老版/特效文件/"/>
     <component id="ef8pc1" name="desk.xml" path="/" exported="true"/>
-    <component id="ef8pc2" name="desk_chat_button.xml" path="/"/>
-    <component id="ef8pc3" name="desk_voice_button.xml" path="/"/>
-    <component id="ef8pc4" name="desk_operation_panel.xml" path="/"/>
-    <component id="ef8pc5" name="desk_setting_button.xml" path="/"/>
-    <component id="ef8pc8" name="desk_rule_button.xml" path="/"/>
-    <component id="ef8pc9" name="desk_back_button.xml" path="/"/>
-    <component id="ef8pcb" name="desk_discard_button.xml" path="/"/>
-    <component id="ef8pcc" name="desk_tips_button.xml" path="/"/>
-    <component id="ef8pcd" name="desk_skip_button.xml" path="/"/>
-    <component id="ef8pch" name="desk_view_mine.xml" path="/"/>
-    <component id="ef8pci" name="desk_view_left.xml" path="/"/>
-    <component id="ef8pck" name="desk_user_button.xml" path="/"/>
-    <component id="ef8pcl" name="desk_score_label.xml" path="/"/>
-    <font id="ef8pcm" name="desk_score_font_win.fnt" path="/" exported="true"/>
-    <font id="ef8pcn" name="desk_score_font_lose.fnt" path="/" exported="true"/>
-    <font id="ef8pco" name="desk_tile_count_font.fnt" path="/" exported="true"/>
+    <component id="ef8pc2" name="desk_chat_button.xml" path="/desk/"/>
+    <component id="ef8pc3" name="desk_voice_button.xml" path="/desk/"/>
+    <component id="ef8pc4" name="desk_operation_panel.xml" path="/desk/"/>
+    <component id="ef8pc5" name="desk_setting_button.xml" path="/desk/"/>
+    <component id="ef8pc8" name="desk_rule_button.xml" path="/desk/"/>
+    <component id="ef8pc9" name="desk_back_button.xml" path="/desk/"/>
+    <component id="ef8pcb" name="desk_discard_button.xml" path="/desk/"/>
+    <component id="ef8pcc" name="desk_tips_button.xml" path="/desk/"/>
+    <component id="ef8pcd" name="desk_skip_button.xml" path="/desk/"/>
+    <component id="ef8pch" name="desk_view_mine.xml" path="/desk/"/>
+    <component id="ef8pci" name="desk_view_left.xml" path="/desk/"/>
+    <component id="ef8pck" name="desk_user_button.xml" path="/desk/"/>
+    <component id="ef8pcl" name="desk_score_label.xml" path="/desk/"/>
+    <font id="ef8pcm" name="desk_score_font_win.fnt" path="/desk/" exported="true"/>
+    <font id="ef8pcn" name="desk_score_font_lose.fnt" path="/desk/" exported="true"/>
+    <font id="ef8pco" name="desk_tile_count_font.fnt" path="/desk/" exported="true"/>
     <image id="ef8pcp" name="boy_img.png" path="/大丰关张美术资源/切图/t_通用/"/>
     <image id="ef8pcq" name="girl_img.png" path="/大丰关张美术资源/切图/t_通用/"/>
-    <component id="ef8pcr" name="desk_view_right.xml" path="/"/>
-    <font id="ef8pct" name="desk_countdown_font.fnt" path="/" exported="true"/>
-    <component id="ef8pcu" name="desk_roominfo_button.xml" path="/"/>
+    <component id="ef8pcr" name="desk_view_right.xml" path="/desk/"/>
+    <font id="ef8pct" name="desk_countdown_font.fnt" path="/desk/" exported="true"/>
+    <component id="ef8pcu" name="desk_roominfo_button.xml" path="/desk/"/>
     <component id="ef8pcv" name="desk_poker_joker_lo.xml" path="/" exported="true"/>
     <component id="ef8pcw" name="desk_poker_jqk_lo.xml" path="/" exported="true"/>
     <component id="ef8pcx" name="desk_poker_number_lo.xml" path="/" exported="true"/>
-    <component id="ef8pcy" name="desk_my_poker_list.xml" path="/"/>
-    <component id="ef8pcz" name="desk_card_button.xml" path="/"/>
-    <component id="ef8pd0" name="desk_cancel_button.xml" path="/" exported="true"/>
-    <component id="ef8pd1" name="desk_ok_button.xml" path="/" exported="true"/>
-    <component id="vp44d2" name="desk_ready_button.xml" path="/"/>
-    <component id="vp44d3" name="desk_discard_list.xml" path="/"/>
+    <component id="ef8pcy" name="desk_my_poker_list.xml" path="/desk/"/>
+    <component id="ef8pcz" name="desk_card_button.xml" path="/desk/"/>
+    <component id="ef8pd0" name="desk_cancel_button.xml" path="/desk/" exported="true"/>
+    <component id="ef8pd1" name="desk_ok_button.xml" path="/desk/" exported="true"/>
+    <component id="vp44d2" name="desk_ready_button.xml" path="/desk/"/>
+    <component id="vp44d3" name="desk_discard_list.xml" path="/desk/"/>
+    <component id="rhc4d4" name="hand_result.xml" path="/" exported="true"/>
+    <component id="rhc4d5" name="share_button.xml" path="/handResult/"/>
+    <component id="rhc4d6" name="again_button.xml" path="/handResult/"/>
+    <component id="rhc4d7" name="hand_result_player.xml" path="/handResult/"/>
+    <font id="rhc4d8" name="hand_fesult_font_lose.fnt" path="/handResult/" exported="true"/>
+    <font id="rhc4d9" name="hand_fesult_font_win.fnt" path="/handResult/" exported="true"/>
+    <component id="rhc4da" name="hand_result_poker_list.xml" path="/handResult/"/>
   </resources>
   <publish name="runfast"/>
 </packageDescription>
