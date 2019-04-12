@@ -396,7 +396,7 @@
     <component id="ef8pcd" name="desk_skip_button.xml" path="/desk/"/>
     <component id="ef8pch" name="desk_view_mine.xml" path="/desk/"/>
     <component id="ef8pci" name="desk_view_left.xml" path="/desk/"/>
-    <component id="ef8pck" name="desk_user_button.xml" path="/desk/"/>
+    <component id="ef8pck" name="desk_user_button.xml" path="/common/"/>
     <component id="ef8pcl" name="desk_score_label.xml" path="/desk/"/>
     <font id="ef8pcm" name="desk_score_font_win.fnt" path="/desk/" exported="true"/>
     <font id="ef8pcn" name="desk_score_font_lose.fnt" path="/desk/" exported="true"/>
@@ -406,9 +406,7 @@
     <component id="ef8pcr" name="desk_view_right.xml" path="/desk/"/>
     <font id="ef8pct" name="desk_countdown_font.fnt" path="/desk/" exported="true"/>
     <component id="ef8pcu" name="desk_roominfo_button.xml" path="/desk/"/>
-    <component id="ef8pcv" name="desk_poker_joker_lo.xml" path="/" exported="true"/>
-    <component id="ef8pcw" name="desk_poker_jqk_lo.xml" path="/" exported="true"/>
-    <component id="ef8pcx" name="desk_poker_number_lo.xml" path="/" exported="true"/>
+    <component id="ef8pcx" name="desk_poker_number_lo.xml" path="/common/" exported="true"/>
     <component id="ef8pcy" name="desk_my_poker_list.xml" path="/desk/"/>
     <component id="ef8pcz" name="desk_card_button.xml" path="/desk/"/>
     <component id="ef8pd0" name="desk_cancel_button.xml" path="/desk/" exported="true"/>
@@ -425,6 +423,13 @@
     <component id="rhc4db" name="game_over.xml" path="/" exported="true"/>
     <component id="rhc4de" name="back_hall_button.xml" path="/gameOver/"/>
     <component id="rhc4df" name="game_over_player.xml" path="/gameOver/"/>
+    <component id="rhc4dg" name="room_create.xml" path="/" exported="true"/>
+    <image id="mjk8dh" name="cjfj_bt.png" path="/大丰关张美术资源/切图/c_创建房间/"/>
+    <image id="mjk8di" name="cjfj_di_f.png" path="/大丰关张美术资源/切图/c_创建房间/"/>
+    <image id="mjk8dj" name="cjfj_di_y.png" path="/大丰关张美术资源/切图/c_创建房间/"/>
+    <image id="mjk8dk" name="cjfj_di_y1.png" path="/大丰关张美术资源/切图/c_创建房间/"/>
+    <image id="mjk8dl" name="cjfj_gou.png" path="/大丰关张美术资源/切图/c_创建房间/"/>
+    <component id="mjk8dm" name="toggle.xml" path="/roomCreate/"/>
   </resources>
   <publish name="runfast"/>
 </packageDescription>
