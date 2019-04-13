@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640" designImageLayer="1">
+  <displayList>
+    <image id="n0_mjk8" name="n0" src="ef8pp" fileName="大丰关张美术资源/切图/f_房间设置/bg.png" xy="167,42" size="801,545"/>
+    <image id="n1_mjk8" name="n1" src="ef8p1o" fileName="大丰关张美术资源/切图/j_解散房间/jsfj.png" xy="492,59"/>
+    <component id="n2_mjk8" name="agreeBtn" src="mjk8dq" fileName="disbandRoom/agree_button.xml" xy="341,480"/>
+    <component id="n3_mjk8" name="unagreeBtn" src="mjk8dr" fileName="disbandRoom/unagree_button.xml" xy="620,484"/>
+    <component id="n4_mjk8" name="player1" src="mjk8do" fileName="disbandRoom/disband_room_player.xml" xy="238,163"/>
+    <component id="n5_mjk8" name="player2" src="mjk8do" fileName="disbandRoom/disband_room_player.xml" xy="576,163"/>
+    <component id="n6_mjk8" name="player3" src="mjk8do" fileName="disbandRoom/disband_room_player.xml" xy="407,294"/>
+    <text id="n7_mjk8" name="n7" xy="239,124" size="384,51" fontSize="24" color="#784819" autoSize="none" bold="true" text="玩家                        申请解散房间"/>
+    <text id="n8_mjk8" name="name" xy="295,124" size="160,33" fontSize="24" color="#d73f3a" autoSize="none" bold="true" text=""/>
+    <text id="n9_mjk8" name="n9" xy="432,429" size="265,33" fontSize="24" color="#784819" align="center" vAlign="middle" autoSize="none" bold="true" strokeColor="#efd9b6" text="(         秒后自动同意 )"/>
+    <text id="n10_mjk8" name="time" xy="457,429" size="56,33" fontSize="24" color="#d73f3a" align="center" vAlign="middle" autoSize="none" bold="true" strokeColor="#efd9b6" text=""/>
+  </displayList>
+</component>

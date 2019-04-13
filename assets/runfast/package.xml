@@ -56,14 +56,14 @@
     <image id="ef8p1h" name="jia.png" path="/大丰关张美术资源/切图/j_结算/"/>
     <image id="ef8p1i" name="jian.png" path="/大丰关张美术资源/切图/j_结算/"/>
     <image id="ef8p1j" name="txk.png" path="/大丰关张美术资源/切图/j_结算/"/>
-    <image id="ef8p1k" name="zjsbk.png" path="/大丰关张美术资源/切图/j_结算/"/>
+    <image id="ef8p1k" name="zjsbk.png" path="/大丰关张美术资源/切图/j_结算/" scale="9grid" scale9grid="67,65,10,14" gridTile="16"/>
     <image id="ef8p1l" name="zjsxx.png" path="/大丰关张美术资源/切图/j_结算/"/>
     <image id="ef8p1m" name="an_bty.png" path="/大丰关张美术资源/切图/j_解散房间/"/>
     <image id="ef8p1n" name="an_ty.png" path="/大丰关张美术资源/切图/j_解散房间/"/>
     <image id="ef8p1o" name="jsfj.png" path="/大丰关张美术资源/切图/j_解散房间/"/>
     <image id="ef8p1p" name="wenhao.png" path="/大丰关张美术资源/切图/j_解散房间/"/>
     <image id="ef8p1q" name="x.png" path="/大丰关张美术资源/切图/j_解散房间/"/>
-    <image id="ef8p1r" name="y_xxk.png" path="/大丰关张美术资源/切图/j_解散房间/"/>
+    <image id="ef8p1r" name="y_xxk.png" path="/大丰关张美术资源/切图/j_解散房间/" scale="9grid" scale9grid="32,32,64,64" gridTile="16"/>
     <image id="ef8p1s" name="zt_gou.png" path="/大丰关张美术资源/切图/j_解散房间/"/>
     <image id="ef8p1t" name="bq.png" path="/大丰关张美术资源/切图/l_聊天/"/>
     <image id="ef8p1u" name="bq_1.png" path="/大丰关张美术资源/切图/l_聊天/"/>
@@ -396,7 +396,7 @@
     <component id="ef8pcd" name="desk_skip_button.xml" path="/desk/"/>
     <component id="ef8pch" name="desk_view_mine.xml" path="/desk/"/>
     <component id="ef8pci" name="desk_view_left.xml" path="/desk/"/>
-    <component id="ef8pck" name="desk_user_button.xml" path="/desk/"/>
+    <component id="ef8pck" name="desk_user_button.xml" path="/common/"/>
     <component id="ef8pcl" name="desk_score_label.xml" path="/desk/"/>
     <font id="ef8pcm" name="desk_score_font_win.fnt" path="/desk/" exported="true"/>
     <font id="ef8pcn" name="desk_score_font_lose.fnt" path="/desk/" exported="true"/>
@@ -406,9 +406,7 @@
     <component id="ef8pcr" name="desk_view_right.xml" path="/desk/"/>
     <font id="ef8pct" name="desk_countdown_font.fnt" path="/desk/" exported="true"/>
     <component id="ef8pcu" name="desk_roominfo_button.xml" path="/desk/"/>
-    <component id="ef8pcv" name="desk_poker_joker_lo.xml" path="/" exported="true"/>
-    <component id="ef8pcw" name="desk_poker_jqk_lo.xml" path="/" exported="true"/>
-    <component id="ef8pcx" name="desk_poker_number_lo.xml" path="/" exported="true"/>
+    <component id="ef8pcx" name="desk_poker_number_lo.xml" path="/common/" exported="true"/>
     <component id="ef8pcy" name="desk_my_poker_list.xml" path="/desk/"/>
     <component id="ef8pcz" name="desk_card_button.xml" path="/desk/"/>
     <component id="ef8pd0" name="desk_cancel_button.xml" path="/desk/" exported="true"/>
@@ -422,6 +420,20 @@
     <font id="rhc4d8" name="hand_fesult_font_lose.fnt" path="/handResult/" exported="true"/>
     <font id="rhc4d9" name="hand_fesult_font_win.fnt" path="/handResult/" exported="true"/>
     <component id="rhc4da" name="hand_result_poker_list.xml" path="/handResult/"/>
+    <component id="rhc4db" name="game_over.xml" path="/" exported="true"/>
+    <component id="rhc4de" name="back_hall_button.xml" path="/gameOver/"/>
+    <component id="rhc4df" name="game_over_player.xml" path="/gameOver/"/>
+    <component id="rhc4dg" name="room_create.xml" path="/" exported="true"/>
+    <image id="mjk8dh" name="cjfj_bt.png" path="/大丰关张美术资源/切图/c_创建房间/"/>
+    <image id="mjk8di" name="cjfj_di_f.png" path="/大丰关张美术资源/切图/c_创建房间/"/>
+    <image id="mjk8dj" name="cjfj_di_y.png" path="/大丰关张美术资源/切图/c_创建房间/"/>
+    <image id="mjk8dk" name="cjfj_di_y1.png" path="/大丰关张美术资源/切图/c_创建房间/"/>
+    <image id="mjk8dl" name="cjfj_gou.png" path="/大丰关张美术资源/切图/c_创建房间/"/>
+    <component id="mjk8dm" name="toggle.xml" path="/roomCreate/"/>
+    <component id="mjk8dn" name="disband_room.xml" path="/" exported="true"/>
+    <component id="mjk8do" name="disband_room_player.xml" path="/disbandRoom/"/>
+    <component id="mjk8dq" name="agree_button.xml" path="/disbandRoom/"/>
+    <component id="mjk8dr" name="unagree_button.xml" path="/disbandRoom/"/>
   </resources>
   <publish name="runfast"/>
 </packageDescription>
