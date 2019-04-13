@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="800,560" designImage="ui://ppyzj5nref8pbl" designImageOffsetX="-250" designImageOffsetY="-10" designImageLayer="1">
+<component size="800,560" designImageOffsetX="-250" designImageOffsetY="-10" designImageLayer="1">
   <displayList>
     <image id="n0_rhc4" name="n0" src="ef8po" fileName="大丰关张美术资源/切图/f_房间设置/bg - 原始.png" xy="6,-3"/>
+    <component id="n1_mjk8" name="hand4" src="mjk8dm" fileName="roomCreate/toggle_button.xml" xy="153,113"/>
+    <component id="n2_mjk8" name="hand8" src="mjk8dm" fileName="roomCreate/toggle_button.xml" xy="369,113"/>
+    <component id="n3_mjk8" name="hand16" src="mjk8dm" fileName="roomCreate/toggle_button.xml" xy="588,113"/>
+    <text id="n8_mjk8" name="n8" xy="197,113" size="45,34" fontSize="25" color="#cc6600" bold="true" text="4局"/>
+    <text id="n9_mjk8" name="n9" xy="409,113" size="45,34" fontSize="25" color="#cc6600" bold="true" text="8局"/>
+    <text id="n10_mjk8" name="n10" xy="627,113" size="59,34" fontSize="25" color="#cc6600" bold="true" text="16局"/>
+    <text id="n11_mjk8" name="n11" xy="256,208" size="109,34" fontSize="25" color="#cc6600" bold="true" text="房主支付"/>
+    <text id="n12_mjk8" name="n12" xy="538,207" size="65,34" fontSize="25" color="#cc6600" bold="true" text="AA制"/>
+    <component id="n13_mjk8" name="createBtn" src="ef8pd1" fileName="desk/desk_ok_button.xml" xy="339,441"/>
+    <component id="n14_mjk8" name="pay1" src="mjk8dm" fileName="roomCreate/toggle_button.xml" xy="219,207"/>
+    <component id="n15_mjk8" name="pay2" src="mjk8dm" fileName="roomCreate/toggle_button.xml" xy="495,209"/>
   </displayList>
 </component>

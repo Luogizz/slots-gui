@@ -2,8 +2,8 @@
 <component size="160,78" pivot="0.5,0.5" extention="Button">
   <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
   <displayList>
-    <image id="n0_ef8p" name="n0" src="ef8p3b" fileName="大丰关张美术资源/切图/t_通用/an_h.png" xy="0,0">
-      <relation target="" sidePair="width-width,height-height"/>
+    <image id="n2_mjk8" name="n2" src="ef8p3d" fileName="大丰关张美术资源/切图/t_通用/an_l.png" xy="0,0">
+      <relation target="" sidePair="height-height,width-width"/>
     </image>
     <image id="n1_ef8p" name="n1" src="ef8p2q" fileName="大丰关张美术资源/切图/t_信息弹窗/an_qx.png" xy="47,18"/>
   </displayList>
