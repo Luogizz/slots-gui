@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1115,210" pivot="0.5,0.5" anchor="true" designImage="ui://ppyzj5nref8p7c" designImageOffsetX="-9" designImageOffsetY="-382" designImageLayer="1">
   <displayList>
-    <component id="n60_ef8p" name="hands" src="ef8pcy" fileName="desk_my_poker_list.xml" xy="-9,0"/>
-    <component id="n57_ef8p" name="head" src="ef8pck" fileName="desk_user_button.xml" xy="16,159"/>
+    <component id="n60_ef8p" name="hands" src="ef8pcy" fileName="desk/desk_my_poker_list.xml" xy="-9,0"/>
+    <component id="n57_ef8p" name="head" src="ef8pck" fileName="common/desk_user_button.xml" xy="16,159"/>
     <image id="n58_ef8p" name="score" src="ef8p3s" fileName="大丰关张美术资源/切图/t_通用/jf_dk.png" xy="163,234" pivot="0.5,0.5" anchor="true" size="102,40" restrictSize="102,0,0,0" visible="false">
       <relation target="n59_ef8p" sidePair="width-width"/>
     </image>
     <text id="n59_ef8p" name="scoreText" xy="163,233" pivot="0.5,0.5" anchor="true" size="19,24" visible="false" font="ui://ppyzj5nref8pcn" fontSize="12" text="0"/>
     <image id="n61_vp44" name="ready" src="ef8p4m" fileName="大丰关张美术资源/切图/z_准备开始gps/ok.png" xy="149,127" visible="false"/>
-    <component id="n62_vp44" name="discards" src="vp44d3" fileName="desk_discard_list.xml" xy="455,-151"/>
+    <component id="n62_vp44" name="discards" src="vp44d3" fileName="desk/desk_discard_list.xml" xy="455,-151"/>
+    <image id="n63_b6aq" name="count" src="ef8pb5" fileName="大丰关张美术资源/老版/切图/y_游戏内/yxn_nz.png" xy="418,-120" visible="false"/>
+    <text id="n64_b6aq" name="countDown" xy="430,-99" size="60,45" visible="false" font="ui://ppyzj5nref8pct" fontSize="12" align="center" vAlign="middle" autoSize="none" text="20"/>
   </displayList>
 </component>
