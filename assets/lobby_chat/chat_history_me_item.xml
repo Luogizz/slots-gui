@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="400,90" designImageOffsetX="-670" designImageOffsetY="-120">
+  <displayList>
+    <image id="n5_jq88" name="n5" src="jq88e" fileName="chat/txk_zji.png" xy="343,6"/>
+    <image id="n6_jq88" name="n6" src="jq88b" fileName="chat/paopao_zji.png" xy="12,14" size="324,37">
+      <relation target="n3_jq88" sidePair="bottom-bottom,height-height"/>
+    </image>
+    <text id="n3_jq88" name="text" xy="22,20" size="295,28" fontSize="20" color="#f3e3cb" vAlign="middle" autoSize="height" bold="true" text=""/>
+  </displayList>
+</component>

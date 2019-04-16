@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="bb38kaz6" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="jq880" name="bq.png" path="/chat/"/>
+    <image id="jq881" name="bq_1.png" path="/chat/"/>
+    <image id="jq882" name="dyu.png" path="/chat/"/>
+    <image id="jq883" name="dyu_1.png" path="/chat/"/>
+    <image id="jq884" name="fgx.png" path="/chat/"/>
+    <image id="jq885" name="fs.png" path="/chat/"/>
+    <image id="jq886" name="jlu.png" path="/chat/"/>
+    <image id="jq887" name="jlu_1.png" path="/chat/"/>
+    <image id="jq888" name="ltbg - 原始.png" path="/chat/"/>
+    <image id="jq889" name="ltbg.png" path="/chat/"/>
+    <image id="jq88a" name="paopao_qt.png" path="/chat/" scale="9grid" scale9grid="21,26,287,21" gridTile="16"/>
+    <image id="jq88b" name="paopao_zji.png" path="/chat/" scale="9grid" scale9grid="20,25,277,24" gridTile="16"/>
+    <image id="jq88c" name="pp_wz.png" path="/chat/"/>
+    <image id="jq88d" name="txk_qt.png" path="/chat/"/>
+    <image id="jq88e" name="txk_zji.png" path="/chat/"/>
+    <image id="jq88f" name="you.png" path="/chat/"/>
+    <image id="jq88g" name="短语_同斗地主.jpg" path="/chat/效果图/"/>
+    <image id="jq88h" name="短语标注_同斗地主.jpg" path="/chat/效果图/"/>
+    <image id="jq88i" name="表情_用大丰最新的表情.jpg" path="/chat/效果图/"/>
+    <image id="jq88j" name="表情标注_用大丰最新的表情.jpg" path="/chat/效果图/"/>
+    <component id="jq88k" name="chat.xml" path="/" exported="true"/>
+    <image id="jq88l" name="聊天_同斗地主.jpg" path="/chat/效果图/"/>
+    <image id="jq88m" name="聊天标注_同斗地主.jpg" path="/chat/效果图/"/>
+    <component id="jq88n" name="biaoqing_Button.xml" path="/"/>
+    <component id="jq88o" name="duanyu_Button.xml" path="/"/>
+    <component id="jq88p" name="jilu_Button.xml" path="/"/>
+    <component id="jq88q" name="send_Button.xml" path="/"/>
+    <component id="jq88r" name="chat_phrase_item.xml" path="/" exported="true"/>
+    <component id="jq88s" name="chat_expression_item.xml" path="/" exported="true"/>
+    <component id="jq88t" name="chat_history_other_item.xml" path="/" exported="true"/>
+    <component id="jq88v" name="chat_history_me_item.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="lobby_chat"/>
+</packageDescription>
