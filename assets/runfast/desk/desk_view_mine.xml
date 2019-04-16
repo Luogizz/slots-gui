@@ -8,7 +8,7 @@
     </image>
     <text id="n59_ef8p" name="scoreText" xy="163,233" pivot="0.5,0.5" anchor="true" size="19,24" visible="false" font="ui://ppyzj5nref8pcn" fontSize="12" text="0"/>
     <image id="n61_vp44" name="ready" src="ef8p4m" fileName="大丰关张美术资源/切图/z_准备开始gps/ok.png" xy="149,127" visible="false"/>
-    <component id="n62_vp44" name="discards" src="vp44d3" fileName="desk/desk_discard_list.xml" xy="455,-151"/>
+    <component id="n62_vp44" name="discards" src="vp44d3" fileName="desk/desk_discard_list.xml" xy="430,-145"/>
     <image id="n63_b6aq" name="count" src="ef8pb5" fileName="大丰关张美术资源/老版/切图/y_游戏内/yxn_nz.png" xy="418,-120" visible="false"/>
     <text id="n64_b6aq" name="countDown" xy="430,-99" size="60,45" visible="false" font="ui://ppyzj5nref8pct" fontSize="12" align="center" vAlign="middle" autoSize="none" text="20"/>
   </displayList>

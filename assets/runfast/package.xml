@@ -435,6 +435,7 @@
     <component id="mjk8dq" name="agree_button.xml" path="/disbandRoom/"/>
     <component id="mjk8dr" name="unagree_button.xml" path="/disbandRoom/"/>
     <component id="mjk8ds" name="checkbox_button.xml" path="/roomCreate/"/>
+    <component id="jq88dt" name="desk_light_list.xml" path="/desk/"/>
   </resources>
   <publish name="runfast"/>
 </packageDescription>
