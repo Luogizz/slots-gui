@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="1136,640" designImageLayer="1">
+<component size="1136,640" designImage="ui://bb38kaz6jq88l" designImageLayer="1">
   <displayList>
     <image id="n0_jq88" name="n0" src="jq889" fileName="chat/ltbg.png" xy="632,0" size="506,643"/>
     <component id="n2_jq88" name="phraseBtn" src="jq88o" fileName="duanyu_Button.xml" xy="1069,20">
@@ -10,7 +10,8 @@
     <component id="n4_jq88" name="sendBtn" src="jq88q" fileName="send_Button.xml" xy="1013,566"/>
     <text id="n5_jq88" name="chatText" xy="687,575" size="314,42" input="true" prompt="点击这里输入，限30字以内&#xD;" fontSize="24" color="#ffcc66" vAlign="middle" autoSize="none" bold="true" text=""/>
     <list id="n6_jq88" name="phraseList" xy="670,27" size="398,522" overflow="scroll"/>
-    <list id="n7_jq88" name="expressionList" xy="670,27" size="398,522" visible="false" overflow="scroll"/>
+    <list id="n7_jq88" name="expressionList" xy="670,27" size="398,522" visible="false" layout="flow_hz" overflow="scroll" lineItemCount="3"/>
     <list id="n8_jq88" name="historyList" xy="670,27" size="398,522" visible="false" overflow="scroll"/>
+    <loader id="n11_jq88" name="close" xy="0,2" size="664,641"/>
   </displayList>
 </component>
