@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="1136,640" designImage="ui://bb38kaz6jq88l" designImageLayer="1">
+<component size="1136,640" designImage="ui://bb38kaz6jq88l">
   <displayList>
     <image id="n0_jq88" name="n0" src="jq889" fileName="chat/ltbg.png" xy="632,0" size="506,643"/>
     <component id="n2_jq88" name="phraseBtn" src="jq88o" fileName="duanyu_Button.xml" xy="1069,20">

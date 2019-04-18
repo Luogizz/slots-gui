@@ -11,9 +11,9 @@
     <text id="n8_ef8p" name="scoreText" xy="831,193" pivot="0.5,0.5" anchor="true" size="19,24" visible="false" font="ui://ppyzj5nref8pcn" fontSize="12" text="0"/>
     <text id="n9_ef8p" name="handsNum" xy="740,145" pivot="0.5,0.5" anchor="true" size="47,27" visible="false" font="ui://ppyzj5nref8pco" fontSize="12" align="center" vAlign="middle" autoSize="none" text="11"/>
     <image id="n11_vp44" name="ready" src="ef8p4m" fileName="大丰关张美术资源/切图/z_准备开始gps/ok.png" xy="635,107" visible="false"/>
-    <component id="n12_vp44" name="discards" src="vp44d3" fileName="desk/desk_discard_list.xml" xy="459,59"/>
+    <component id="n12_vp44" name="discards" src="vp44d3" fileName="desk/desk_discard_other_list.xml" xy="455,66"/>
     <image id="n13_b6aq" name="count" src="ef8pb5" fileName="大丰关张美术资源/老版/切图/y_游戏内/yxn_nz.png" xy="603,90" visible="false"/>
     <text id="n14_b6aq" name="countDown" xy="615,111" size="60,45" visible="false" font="ui://ppyzj5nref8pct" fontSize="12" align="center" vAlign="middle" autoSize="none" text="20"/>
-    <component id="n15_jq88" name="lights" src="jq88dt" fileName="desk/desk_light_list.xml" xy="365,-5"/>
+    <component id="n15_jq88" name="lights" src="jq88dt" fileName="desk/desk_light_list.xml" xy="400,6"/>
   </displayList>
 </component>
