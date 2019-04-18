@@ -412,7 +412,7 @@
     <component id="ef8pd0" name="desk_cancel_button.xml" path="/desk/" exported="true"/>
     <component id="ef8pd1" name="desk_ok_button.xml" path="/desk/" exported="true"/>
     <component id="vp44d2" name="desk_ready_button.xml" path="/desk/"/>
-    <component id="vp44d3" name="desk_discard_list.xml" path="/desk/"/>
+    <component id="vp44d3" name="desk_discard_other_list.xml" path="/desk/"/>
     <component id="rhc4d4" name="hand_result.xml" path="/" exported="true"/>
     <component id="rhc4d5" name="share_button.xml" path="/handResult/"/>
     <component id="rhc4d6" name="again_button.xml" path="/handResult/"/>
@@ -429,11 +429,14 @@
     <image id="mjk8dj" name="cjfj_di_y.png" path="/大丰关张美术资源/切图/c_创建房间/"/>
     <image id="mjk8dk" name="cjfj_di_y1.png" path="/大丰关张美术资源/切图/c_创建房间/"/>
     <image id="mjk8dl" name="cjfj_gou.png" path="/大丰关张美术资源/切图/c_创建房间/"/>
-    <component id="mjk8dm" name="toggle.xml" path="/roomCreate/"/>
+    <component id="mjk8dm" name="toggle_button.xml" path="/roomCreate/"/>
     <component id="mjk8dn" name="disband_room.xml" path="/" exported="true"/>
     <component id="mjk8do" name="disband_room_player.xml" path="/disbandRoom/"/>
     <component id="mjk8dq" name="agree_button.xml" path="/disbandRoom/"/>
     <component id="mjk8dr" name="unagree_button.xml" path="/disbandRoom/"/>
+    <component id="mjk8ds" name="checkbox_button.xml" path="/roomCreate/"/>
+    <component id="jq88dt" name="desk_light_list.xml" path="/desk/"/>
+    <component id="jq88du" name="desk_discard_my_list.xml" path="/desk/"/>
   </resources>
   <publish name="runfast"/>
 </packageDescription>

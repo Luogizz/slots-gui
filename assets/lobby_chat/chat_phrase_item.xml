@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="400,50" designImageOffsetX="-670" designImageOffsetY="-20">
+  <displayList>
+    <text id="n0_jq88" name="n0" xy="9,3" size="382,37" fontSize="20" color="#784819" vAlign="middle" autoSize="none" bold="true" text="我等到花都卸了"/>
+    <image id="n1_jq88" name="n1" src="jq884" fileName="chat/fgx.png" xy="10,45"/>
+  </displayList>
+</component>

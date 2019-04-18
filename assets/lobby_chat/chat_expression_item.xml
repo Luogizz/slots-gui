@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="120,120" designImageOffsetX="-950" designImageOffsetY="-50">
+  <displayList>
+    <image id="n0_jq88" name="n0" src="jq88f" fileName="chat/you.png" xy="78,20"/>
+    <image id="n1_jq88" name="n1" src="jq88e" fileName="chat/txk_zji.png" xy="40,31"/>
+  </displayList>
+</component>
