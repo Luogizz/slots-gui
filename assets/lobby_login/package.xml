@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="gcpb6umq" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="e27g0" name="an_h.png" path="/login/"/>
+    <image id="e27g1" name="bg@2x.png" path="/login/"/>
+    <image id="e27g2" name="btn_KSYX.png" path="/login/"/>
+    <image id="e27g3" name="btn_weixin.png" path="/login/"/>
+    <component id="e27g4" name="login.xml" path="/" exported="true"/>
+    <component id="e27g6" name="login_button.xml" path="/"/>
+    <component id="e27g7" name="weixin_button.xml" path="/"/>
+  </resources>
+  <publish name="lobby_login"/>
+</packageDescription>

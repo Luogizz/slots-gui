@@ -11,5 +11,6 @@
     <text id="n7_rhc4" name="n7" xy="93,228" size="71,29" fontSize="22" color="#c09163" text="总成绩"/>
     <text id="n8_rhc4" name="text_win" xy="13,261" size="240,60" font="ui://ppyzj5nrrhc4d9" fontSize="22" color="#c09163" align="center" vAlign="middle" autoSize="none" text=""/>
     <text id="n9_rhc4" name="text_lose" xy="13,261" size="240,60" font="ui://ppyzj5nrrhc4d8" fontSize="22" color="#c09163" align="center" vAlign="middle" autoSize="none" text=""/>
+    <graph id="n10_e27g" name="aniPos" xy="239,45" size="0,0"/>
   </displayList>
 </component>

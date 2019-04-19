@@ -2,12 +2,13 @@
 <component size="1136,640" designImageLayer="1">
   <displayList>
     <image id="n0_rhc4" name="n0" src="ef8p14" fileName="大丰关张美术资源/切图/j_结算/dk_sb.png" xy="8,1" size="1118,566"/>
-    <text id="n1_rhc4" name="roomNumber" xy="109,39" size="143,29" fontSize="22" color="#f1d15c" strokeColor="#734305" text="房号:1231456"/>
-    <text id="n2_rhc4" name="date" xy="845,43" size="215,31" fontSize="22" color="#f1d15c" strokeColor="#734305" text="2018-12-12 08:20:20&#xA;"/>
+    <text id="n1_rhc4" name="roomNumber" xy="109,39" size="139,29" fontSize="22" color="#f1d15c" strokeColor="#734305" text="房号:1231456"/>
+    <text id="n2_rhc4" name="date" xy="845,43" size="205,31" fontSize="22" color="#f1d15c" strokeColor="#734305" text="2018-12-12 08:20:20&#xA;"/>
     <component id="n3_rhc4" name="againBtn" src="rhc4d6" fileName="handResult/again_button.xml" xy="625,561"/>
     <component id="n4_rhc4" name="shanreBtn" src="rhc4d5" fileName="handResult/share_button.xml" xy="341,565"/>
     <component id="n5_rhc4" name="player1" src="rhc4d7" fileName="handResult/hand_result_player.xml" xy="49,79" size="1021,144"/>
     <component id="n6_rhc4" name="player2" src="rhc4d7" fileName="handResult/hand_result_player.xml" xy="49,238"/>
     <component id="n7_rhc4" name="player3" src="rhc4d7" fileName="handResult/hand_result_player.xml" xy="49,390"/>
+    <graph id="n8_e27g" name="aniPos" xy="568,320" pivot="0.5,0.5" size="0,0"/>
   </displayList>
 </component>
