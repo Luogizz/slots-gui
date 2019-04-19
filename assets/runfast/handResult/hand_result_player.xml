@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1050,150" designImageOffsetX="-50" designImageOffsetY="-80">
   <displayList>
-    <component id="n0_rhc4" name="head" src="ef8pck" fileName="desk/desk_user_button.xml" xy="84,15"/>
+    <component id="n0_rhc4" name="head" src="ef8pck" fileName="common/desk_user_button.xml" xy="84,15"/>
     <text id="n1_rhc4" name="name" xy="72,108" size="110,28" fontSize="20" color="#784819" align="center" vAlign="middle" autoSize="shrink" bold="true" text="哈哈哈啊是"/>
     <text id="n2_rhc4" name="id" xy="99,128" size="59,24" fontSize="16" color="#784819" text="123456&#xA;"/>
     <text id="n3_rhc4" name="remainderHands" xy="187,16" size="153,28" fontSize="20" color="#784819" bold="true" text="剩余手牌：12张"/>
@@ -9,5 +9,6 @@
     <text id="n5_rhc4" name="text_lose" xy="783,48" size="10,0" font="ui://ppyzj5nrrhc4d8" fontSize="20" color="#784819" align="center" vAlign="middle" bold="true" text=""/>
     <text id="n6_rhc4" name="text_win" xy="783,48" size="10,0" font="ui://ppyzj5nrrhc4d9" fontSize="20" color="#784819" align="center" vAlign="middle" bold="true" text=""/>
     <component id="n8_rhc4" name="hands" src="rhc4da" fileName="handResult/hand_result_poker_list.xml" xy="223,93"/>
+    <graph id="n9_e27g" name="aniPos" xy="515,61" size="0,0"/>
   </displayList>
 </component>
