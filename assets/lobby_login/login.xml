@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640">
+  <displayList>
+    <image id="n1_e27g" name="n1" src="e27g1" fileName="login/bg@2x.png" xy="-73,-41"/>
+    <component id="n2_e27g" name="n2" src="e27g6" fileName="login_button.xml" xy="312,459"/>
+    <component id="n3_e27g" name="n3" src="e27g7" fileName="weixin_button.xml" xy="622,452"/>
+  </displayList>
+</component>
