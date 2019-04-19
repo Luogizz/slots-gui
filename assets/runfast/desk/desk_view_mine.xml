@@ -11,5 +11,6 @@
     <image id="n63_b6aq" name="count" src="ef8pb5" fileName="大丰关张美术资源/老版/切图/y_游戏内/yxn_nz.png" xy="418,-120" visible="false"/>
     <text id="n64_b6aq" name="countDown" xy="430,-99" size="60,45" visible="false" font="ui://ppyzj5nref8pct" fontSize="12" align="center" vAlign="middle" autoSize="none" text="20"/>
     <component id="n65_jq88" name="discards" src="jq88du" fileName="desk/desk_discard_my_list.xml" xy="348,-116"/>
+    <graph id="n66_e27g" name="aniPos" xy="546,-87" pivot="0.5,0.5" size="50,36"/>
   </displayList>
 </component>
