@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="awenqlop" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="gtqh0" name="pjhf_fanhui.png" path="/"/>
+    <image id="gtqh1" name="pjhb_an_bof.png" path="/"/>
+    <image id="gtqh2" name="pjhb_an_kj.png" path="/"/>
+    <image id="gtqh3" name="pjhb_an_zt.png" path="/"/>
+    <image id="gtqh4" name="pjhb_d.png" path="/" scale="9grid" scale9grid="17,15,510,77" gridTile="16"/>
+    <component id="gtqh5" name="operations.xml" path="/" exported="true"/>
+    <component id="gtqh6" name="back.xml" path="/"/>
+    <component id="gtqh7" name="pause.xml" path="/"/>
+    <component id="gtqh8" name="resume.xml" path="/"/>
+    <component id="gtqh9" name="fast.xml" path="/"/>
+  </resources>
+  <publish name="lobby_replay"/>
+</packageDescription>

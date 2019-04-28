@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640">
+  <displayList>
+    <image id="n2_gtqh" name="n2" src="gtqh4" fileName="pjhb_d.png" xy="0,529" size="1135,111"/>
+    <component id="n0_gtqh" name="back" src="gtqh6" fileName="back.xml" xy="17,8"/>
+    <component id="n3_gtqh" name="fast" src="gtqh9" fileName="fast.xml" xy="691,572"/>
+    <component id="n5_gtqh" name="pause" src="gtqh7" fileName="pause.xml" xy="553,572"/>
+    <component id="n6_gtqh" name="resume" src="gtqh8" fileName="resume.xml" xy="552,572"/>
+    <component id="n7_gtqh" name="slow" src="gtqh9" fileName="fast.xml" xy="421,572" rotation="-180"/>
+  </displayList>
+</component>

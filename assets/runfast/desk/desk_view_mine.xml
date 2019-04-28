@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1115,210" pivot="0.5,0.5" anchor="true" designImage="ui://ppyzj5nref8p7c" designImageOffsetX="-9" designImageOffsetY="-382" designImageLayer="1">
   <displayList>
-    <component id="n60_ef8p" name="hands" src="ef8pcy" fileName="desk/desk_my_poker_list.xml" xy="568,110" pivot="0.5,0.5" anchor="true"/>
+    <component id="n60_ef8p" name="hands" src="ef8pcy" fileName="desk/desk_my_poker_list.xml" xy="568,110"/>
+    <image id="n67_fxwe" name="roomOwner" src="ef8p3r" fileName="大丰关张美术资源/切图/t_通用/jb_fz.png" xy="-7,158" visible="false"/>
     <component id="n57_ef8p" name="head" src="ef8pck" fileName="common/desk_user_button.xml" xy="16,159"/>
     <image id="n58_ef8p" name="score" src="ef8p3s" fileName="大丰关张美术资源/切图/t_通用/jf_dk.png" xy="163,234" pivot="0.5,0.5" anchor="true" size="102,40" restrictSize="102,0,0,0" visible="false">
       <relation target="n59_ef8p" sidePair="width-width"/>
