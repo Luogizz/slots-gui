@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="900,90" designImage="ui://ppyzj5nrfxweeg" designImageOffsetX="-150" designImageOffsetY="-150" designImageLayer="1">
+  <displayList>
+    <image id="n0_fxwe" name="n0" src="fxweec" fileName="大丰关张美术资源/切图/战绩/zj_tiao.png" xy="7,5" size="887,80"/>
+    <text id="n1_fxwe" name="num" xy="34,30" size="34,34" fontSize="26" color="#c78c2e" bold="true" text="01"/>
+    <text id="n2_fxwe" name="time" xy="95,34" size="83,34" fontSize="20" color="#96693a" autoSize="none" bold="true" text=""/>
+    <component id="n3_fxwe" name="shareBtn" src="fxwees" fileName="record/share_button.xml" xy="727,10"/>
+    <component id="n4_fxwe" name="playBtn" src="fxweer" fileName="record/play_button.xml" xy="820,10"/>
+    <text id="n5_fxwe" name="score1" xy="198,29" size="127,33" fontSize="32" color="#96693a" align="center" vAlign="middle" autoSize="none" bold="true" text="15615"/>
+    <text id="n6_fxwe" name="score2" xy="334,29" size="127,33" fontSize="32" color="#96693a" align="center" vAlign="middle" autoSize="none" bold="true" text="15615"/>
+    <text id="n7_fxwe" name="score3" xy="466,29" size="127,33" fontSize="32" color="#96693a" align="center" vAlign="middle" autoSize="none" bold="true" text="15615"/>
+    <image id="n8_fxwe" name="n8" src="fxwee6" fileName="大丰关张美术资源/切图/战绩/zj_fgx.png" xy="328,21"/>
+    <image id="n9_fxwe" name="n9" src="fxwee6" fileName="大丰关张美术资源/切图/战绩/zj_fgx.png" xy="463,21"/>
+  </displayList>
+</component>
