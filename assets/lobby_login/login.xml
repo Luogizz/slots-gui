@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1136,640">
   <displayList>
-    <image id="n1_e27g" name="n1" src="e27g1" fileName="login/bg@2x.png" xy="0,0" size="1136,640"/>
+    <image id="n1_e27g" name="n1" src="e27g1" fileName="login/bg@2x.png" xy="4,-4" size="1136,640"/>
     <component id="n2_e27g" name="n2" src="e27g6" fileName="login_button.xml" xy="312,459"/>
     <component id="n3_e27g" name="n3" src="e27g7" fileName="weixin_button.xml" xy="622,452"/>
-    <component id="n5_acmd" name="n4" src="acmd8" fileName="ProgressBar1.xml" xy="0,570" size="1136,25">
+    <component id="n5_acmd" name="n4" src="acmd8" fileName="ProgressBar1.xml" xy="2,538" size="1136,25">
       <ProgressBar value="100" max="100"/>
     </component>
+    <text id="n13_lyez" name="gameAdvice" xy="0,31" size="1136,23" fontSize="16" align="center" autoSize="none" bold="true" singleLine="true" text=""/>
+    <text id="n15_lyez" name="text1" xy="88,576" size="10,23" fontSize="16" color="#6666ff" align="center" bold="true" text=""/>
+    <text id="n22_lyez" name="text2" xy="438,576" size="10,23" fontSize="16" color="#6666ff" align="center" bold="true" text=""/>
+    <text id="n21_lyez" name="text3" xy="698,576" size="10,23" fontSize="16" color="#6666ff" align="center" bold="true" text=""/>
+    <text id="n23_lyez" name="text4" xy="88,608" size="10,23" fontSize="16" color="#6666ff" align="center" bold="true" text=""/>
+    <text id="n24_lyez" name="text5" xy="438,607" size="10,23" fontSize="16" color="#6666ff" align="center" bold="true" text=""/>
+    <text id="n25_lyez" name="text6" xy="698,611" size="10,23" fontSize="16" color="#6666ff" align="center" bold="true" text=""/>
+    <text id="n26_vahs" name="versionName" xy="1070,606" size="64,27" fontSize="20" color="#ffffff" align="center" autoSize="none" text=""/>
   </displayList>
 </component>
