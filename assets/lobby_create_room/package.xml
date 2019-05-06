@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="58oggipc" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="onfo1" name="cjfj_di_y.png" path="/resource/" exported="true"/>
+    <image id="onfo2" name="cjfj_di_y1.png" path="/resource/" exported="true"/>
+    <image id="onfo4" name="cjfj_di_f.png" path="/resource/" exported="true"/>
+    <image id="onfo5" name="cjfj_gou.png" path="/resource/" exported="true"/>
+    <component id="onfo6" name="createRoom.xml" path="/" exported="true"/>
+    <image id="kdqvh" name="cjfj_yq_liang.png" path="/resource/" exported="true"/>
+    <image id="kdqvi" name="type_7w253.png" path="/resource/" exported="true"/>
+    <image id="kdqvj" name="type_ddz.png" path="/resource/" exported="true"/>
+    <image id="kdqvk" name="type_dfgz.png" path="/resource/" exported="true"/>
+    <image id="kdqvl" name="type_dfmj.png" path="/resource/" exported="true"/>
+    <component id="kdqvt" name="ddz.xml" path="/"/>
+    <image id="kdqvu" name="cjfj_yq_an.png" path="/resource/" exported="true"/>
+    <component id="kdqvx" name="gzRoom.xml" path="/" exported="true"/>
+    <image id="kdqvy" name="ty_di_Pic2.png" path="/resource/" exported="true" scale="9grid" scale9grid="64,64,128,128"/>
+    <component id="kdqv14" name="round4Button.xml" path="/"/>
+    <component id="kdqv15" name="round8Button.xml" path="/"/>
+    <component id="kdqv16" name="round16Button.xml" path="/"/>
+    <component id="kdqv17" name="ownerPayButton.xml" path="/"/>
+    <component id="kdqv18" name="AAPayButton.xml" path="/"/>
+    <image id="kdqv19" name="cjfj_bq_di.png" path="/resource/" exported="true" scale="9grid" scale9grid="73,160,147,238"/>
+    <image id="kdqv1a" name="ty_tanchuang1.png" path="/resource/" exported="true" scale="9grid" scale9grid="128,128,256,256"/>
+    <component id="kdqv1b" name="gz.xml" path="/"/>
+    <component id="kdqv1c" name="mj.xml" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

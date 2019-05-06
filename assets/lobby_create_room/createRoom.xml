@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640">
+  <controller name="gameList" pages="2,gz,3,mj,4,ddz,5,7w253" selected="0"/>
+  <controller name="button" pages="0,up,1,down" selected="0"/>
+  <displayList>
+    <image id="n42_kdqv" name="bg" src="kdqv1a" fileName="resource/ty_tanchuang1.png" xy="249,48" size="829,564"/>
+    <image id="n43_kdqv" name="bg" src="kdqv19" fileName="resource/cjfj_bq_di.png" xy="1,10" size="296,625"/>
+    <loader id="n40_kdqv" name="content" xy="281,73" size="782,522"/>
+    <list id="n0_onfo" name="gamelist" xy="50,145" size="195,420" overflow="scroll" margin="5,0,0,0" lineGap="5" align="center" selectionController="gameList">
+      <item url="ui://58oggipckdqv1b"/>
+      <item url="ui://58oggipckdqv1c"/>
+      <item url="ui://58oggipckdqvt"/>
+    </list>
+  </displayList>
+</component>
