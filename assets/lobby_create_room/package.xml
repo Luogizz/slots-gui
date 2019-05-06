@@ -15,11 +15,6 @@
     <image id="kdqvu" name="cjfj_yq_an.png" path="/resource/" exported="true"/>
     <component id="kdqvx" name="gzRoom.xml" path="/" exported="true"/>
     <image id="kdqvy" name="ty_di_Pic2.png" path="/resource/" exported="true" scale="9grid" scale9grid="64,64,128,128"/>
-    <component id="kdqv14" name="round4Button.xml" path="/"/>
-    <component id="kdqv15" name="round8Button.xml" path="/"/>
-    <component id="kdqv16" name="round16Button.xml" path="/"/>
-    <component id="kdqv17" name="ownerPayButton.xml" path="/"/>
-    <component id="kdqv18" name="AAPayButton.xml" path="/"/>
     <image id="kdqv19" name="cjfj_bq_di.png" path="/resource/" exported="true" scale="9grid" scale9grid="73,160,147,238"/>
     <image id="kdqv1a" name="ty_tanchuang1.png" path="/resource/" exported="true" scale="9grid" scale9grid="128,128,256,256"/>
     <component id="kdqv1b" name="gz.xml" path="/"/>
@@ -29,6 +24,9 @@
     <component id="kdqv1g" name="mjRoom.xml" path="/" exported="true"/>
     <image id="kdqv1h" name="ty_btnClose.png" path="/resource/"/>
     <component id="kdqv1i" name="close.xml" path="/"/>
+    <component id="kdqv1j" name="radioButton.xml" path="/"/>
+    <component id="kdqv1o" name="checkbox.xml" path="/"/>
+    <component id="kdqv1p" name="downloadProgress.xml" path="/" exported="true"/>
   </resources>
   <publish name="lobby_create_room"/>
 </packageDescription>
