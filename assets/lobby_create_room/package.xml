@@ -24,6 +24,11 @@
     <image id="kdqv1a" name="ty_tanchuang1.png" path="/resource/" exported="true" scale="9grid" scale9grid="128,128,256,256"/>
     <component id="kdqv1b" name="gz.xml" path="/"/>
     <component id="kdqv1c" name="mj.xml" path="/"/>
+    <image id="kdqv1e" name="ty_btn1_cheng.png" path="/resource/"/>
+    <component id="kdqv1f" name="createRoomBtn.xml" path="/" exported="true"/>
+    <component id="kdqv1g" name="mjRoom.xml" path="/" exported="true"/>
+    <image id="kdqv1h" name="ty_btnClose.png" path="/resource/"/>
+    <component id="kdqv1i" name="close.xml" path="/"/>
   </resources>
-  <publish name=""/>
+  <publish name="lobby_create_room"/>
 </packageDescription>
