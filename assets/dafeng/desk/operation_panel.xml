@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,130" designImage="ui://tnqevky2fxweub" designImageOffsetY="-380">
+  <displayList>
+    <list id="n3_fxwe" name="n3" xy="220,0" size="844,136" hideByEditor="true" visible="false" layout="row" overflow="scroll" scroll="horizontal" align="center" vAlign="middle">
+      <item url="ui://tnqevky2fxwe161" name="chi"/>
+      <item url="ui://tnqevky2fxwe162" name="peng"/>
+      <item url="ui://tnqevky2fxwe163" name="gang"/>
+      <item url="ui://tnqevky2fxwe164" name="hu"/>
+      <item url="ui://tnqevky2fxwe165" name="ting"/>
+      <item url="ui://tnqevky2fxwe166" name="guo"/>
+    </list>
+    <component id="n5_fxwe" name="chiBtn" src="fxwe161" fileName="desk/button/chi_button.xml" xy="258,0"/>
+    <component id="n6_fxwe" name="gangBtn" src="fxwe163" fileName="desk/button/gang_button.xml" xy="514,2"/>
+    <component id="n7_fxwe" name="guoBtn" src="fxwe166" fileName="desk/button/guo_button.xml" xy="901,0"/>
+    <component id="n8_fxwe" name="huBtn" src="fxwe164" fileName="desk/button/hu_button.xml" xy="640,3"/>
+    <component id="n9_fxwe" name="pengBtn" src="fxwe162" fileName="desk/button/peng_button.xml" xy="387,1"/>
+    <component id="n10_fxwe" name="tingBtn" src="fxwe165" fileName="desk/button/ting_button.xml" xy="773,1"/>
+  </displayList>
+</component>

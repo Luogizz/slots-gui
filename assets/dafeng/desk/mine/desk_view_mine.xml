@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,290" opaque="false" designImage="ui://tnqevky2fxweua" designImageOffsetY="-350">
+  <displayList>
+    <component id="n0_fxwe" name="head" src="fxwe15n" fileName="common/head_button.xml" xy="28,44"/>
+    <image id="n1_fxwe" name="owner" src="fxwexq" fileName="大丰麻将美术改版/2 游戏内/切图/bq_fanzhu.png" xy="7,49"/>
+    <image id="n2_fxwe" name="hua" src="fxweyd" fileName="大丰麻将美术改版/2 游戏内/切图/huabg.png" xy="37,7"/>
+    <image id="n3_fxwe" name="ting" src="fxweyk" fileName="大丰麻将美术改版/2 游戏内/切图/tb_ting.png" xy="85,46"/>
+    <image id="n4_fxwe" name="zhuang" src="fxweyl" fileName="大丰麻将美术改版/2 游戏内/切图/tb_zhuang.png" xy="97,114"/>
+    <image id="n5_fxwe" name="lianzhuang" src="fxweyj" fileName="大丰麻将美术改版/2 游戏内/切图/tb_lianzhuang.png" xy="96,89"/>
+    <component id="n6_fxwe" name="discards" src="fxwe15q" fileName="desk/desk_discard_heng.xml" xy="370,12" touchable="false"/>
+    <component id="n9_fxwe" name="melds" src="fxwe16a" fileName="desk/mine/desk_meld.xml" xy="0,150" touchable="false"/>
+    <component id="n7_fxwe" name="hands" src="fxwe15s" fileName="desk/mine/desk_hand.xml" xy="0,150"/>
+    <image id="n8_fxwe" name="ready" src="fxwez5" fileName="大丰麻将美术改版/2 游戏内/切图/z_准备开始gps/ok.png" xy="143,48"/>
+  </displayList>
+</component>

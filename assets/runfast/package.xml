@@ -329,36 +329,36 @@
     <image id="ef8paf" name="suit_mh.png" path="/大丰关张美术资源/老版/切图/ui_poker/"/>
     <image id="ef8pag" name="suit_mh_big.png" path="/大丰关张美术资源/老版/切图/ui_poker/"/>
     <image id="ef8pah" name="suit_pai_bg.png" path="/大丰关张美术资源/老版/切图/ui_poker/"/>
-    <image id="ef8pai" name="btn_hs_hs.png" path="/大丰关张美术资源/老版/切图/y_游戏内/"/>
-    <image id="ef8paj" name="btn_hs_x.png" path="/大丰关张美术资源/老版/切图/y_游戏内/"/>
-    <image id="ef8pak" name="btn_lls_x.png" path="/大丰关张美术资源/老版/切图/y_游戏内/"/>
-    <image id="ef8pal" name="btn_ls_x.png" path="/大丰关张美术资源/老版/切图/y_游戏内/"/>
-    <image id="ef8pam" name="btn_zt_bc.png" path="/大丰关张美术资源/老版/切图/y_游戏内/"/>
-    <image id="ef8pan" name="btn_zt_bc_h.png" path="/大丰关张美术资源/老版/切图/y_游戏内/"/>
-    <image id="ef8pao" name="btn_zt_cp.png" path="/大丰关张美术资源/老版/切图/y_游戏内/"/>
-    <image id="ef8pap" name="btn_zt_cp_h.png" path="/大丰关张美术资源/老版/切图/y_游戏内/"/>
-    <image id="ef8paq" name="btn_zt_ts.png" path="/大丰关张美术资源/老版/切图/y_游戏内/"/>
-    <image id="ef8par" name="btn_zt_ts_h.png" path="/大丰关张美术资源/老版/切图/y_游戏内/"/>
-    <image id="ef8pas" name="jds.png" path="/大丰关张美术资源/老版/切图/y_游戏内/"/>
-    <image id="ef8pat" name="jds_hui.png" path="/大丰关张美术资源/老版/切图/y_游戏内/"/>
-    <image id="ef8pau" name="pls.png" path="/大丰关张美术资源/老版/切图/y_游戏内/"/>
-    <image id="ef8pav" name="pls_hui.png" path="/大丰关张美术资源/老版/切图/y_游戏内/"/>
-    <image id="ef8paw" name="skin1_background.jpg" path="/大丰关张美术资源/老版/切图/y_游戏内/"/>
-    <image id="ef8pax" name="skin2_background.jpg" path="/大丰关张美术资源/老版/切图/y_游戏内/"/>
-    <image id="ef8pay" name="yxn_bj_ct.png" path="/大丰关张美术资源/老版/切图/y_游戏内/"/>
-    <image id="ef8paz" name="yxn_bj_fz.png" path="/大丰关张美术资源/老版/切图/y_游戏内/"/>
-    <image id="ef8pb0" name="yxn_bj_hs.png" path="/大丰关张美术资源/老版/切图/y_游戏内/"/>
-    <image id="ef8pb1" name="yxn_bj_hs_d.png" path="/大丰关张美术资源/老版/切图/y_游戏内/"/>
-    <image id="ef8pb2" name="yxn_kw.png" path="/大丰关张美术资源/老版/切图/y_游戏内/"/>
-    <image id="ef8pb3" name="yxn_ltqp_01.png" path="/大丰关张美术资源/老版/切图/y_游戏内/"/>
-    <image id="ef8pb4" name="yxn_ltqp_02.png" path="/大丰关张美术资源/老版/切图/y_游戏内/"/>
-    <image id="ef8pb5" name="yxn_nz.png" path="/大丰关张美术资源/老版/切图/y_游戏内/"/>
-    <image id="ef8pb6" name="yxn_sp_dk.png" path="/大丰关张美术资源/老版/切图/y_游戏内/"/>
-    <image id="ef8pb7" name="yxn_s_ok.png" path="/大丰关张美术资源/老版/切图/y_游戏内/"/>
-    <image id="ef8pb8" name="yxn_tb_gz.png" path="/大丰关张美术资源/老版/切图/y_游戏内/"/>
-    <image id="ef8pb9" name="yxn_tb_lt.png" path="/大丰关张美术资源/老版/切图/y_游戏内/"/>
-    <image id="ef8pba" name="yxn_tb_sz.png" path="/大丰关张美术资源/老版/切图/y_游戏内/"/>
-    <image id="ef8pbb" name="yxn_tb_yy.png" path="/大丰关张美术资源/老版/切图/y_游戏内/"/>
+    <image id="ef8pai" name="btn_hs_hs.png" path="/大丰关张美术资源/老版/切图/ui_poker/y_游戏内/"/>
+    <image id="ef8paj" name="btn_hs_x.png" path="/大丰关张美术资源/老版/切图/ui_poker/y_游戏内/"/>
+    <image id="ef8pak" name="btn_lls_x.png" path="/大丰关张美术资源/老版/切图/ui_poker/y_游戏内/"/>
+    <image id="ef8pal" name="btn_ls_x.png" path="/大丰关张美术资源/老版/切图/ui_poker/y_游戏内/"/>
+    <image id="ef8pam" name="btn_zt_bc.png" path="/大丰关张美术资源/老版/切图/ui_poker/y_游戏内/"/>
+    <image id="ef8pan" name="btn_zt_bc_h.png" path="/大丰关张美术资源/老版/切图/ui_poker/y_游戏内/"/>
+    <image id="ef8pao" name="btn_zt_cp.png" path="/大丰关张美术资源/老版/切图/ui_poker/y_游戏内/"/>
+    <image id="ef8pap" name="btn_zt_cp_h.png" path="/大丰关张美术资源/老版/切图/ui_poker/y_游戏内/"/>
+    <image id="ef8paq" name="btn_zt_ts.png" path="/大丰关张美术资源/老版/切图/ui_poker/y_游戏内/"/>
+    <image id="ef8par" name="btn_zt_ts_h.png" path="/大丰关张美术资源/老版/切图/ui_poker/y_游戏内/"/>
+    <image id="ef8pas" name="jds.png" path="/大丰关张美术资源/老版/切图/ui_poker/y_游戏内/"/>
+    <image id="ef8pat" name="jds_hui.png" path="/大丰关张美术资源/老版/切图/ui_poker/y_游戏内/"/>
+    <image id="ef8pau" name="pls.png" path="/大丰关张美术资源/老版/切图/ui_poker/y_游戏内/"/>
+    <image id="ef8pav" name="pls_hui.png" path="/大丰关张美术资源/老版/切图/ui_poker/y_游戏内/"/>
+    <image id="ef8paw" name="skin1_background.jpg" path="/大丰关张美术资源/老版/切图/ui_poker/y_游戏内/"/>
+    <image id="ef8pax" name="skin2_background.jpg" path="/大丰关张美术资源/老版/切图/ui_poker/y_游戏内/"/>
+    <image id="ef8pay" name="yxn_bj_ct.png" path="/大丰关张美术资源/老版/切图/ui_poker/y_游戏内/"/>
+    <image id="ef8paz" name="yxn_bj_fz.png" path="/大丰关张美术资源/老版/切图/ui_poker/y_游戏内/"/>
+    <image id="ef8pb0" name="yxn_bj_hs.png" path="/大丰关张美术资源/老版/切图/ui_poker/y_游戏内/"/>
+    <image id="ef8pb1" name="yxn_bj_hs_d.png" path="/大丰关张美术资源/老版/切图/ui_poker/y_游戏内/"/>
+    <image id="ef8pb2" name="yxn_kw.png" path="/大丰关张美术资源/老版/切图/ui_poker/y_游戏内/"/>
+    <image id="ef8pb3" name="yxn_ltqp_01.png" path="/大丰关张美术资源/老版/切图/ui_poker/y_游戏内/"/>
+    <image id="ef8pb4" name="yxn_ltqp_02.png" path="/大丰关张美术资源/老版/切图/ui_poker/y_游戏内/"/>
+    <image id="ef8pb5" name="yxn_nz.png" path="/大丰关张美术资源/老版/切图/ui_poker/y_游戏内/"/>
+    <image id="ef8pb6" name="yxn_sp_dk.png" path="/大丰关张美术资源/老版/切图/ui_poker/y_游戏内/"/>
+    <image id="ef8pb7" name="yxn_s_ok.png" path="/大丰关张美术资源/老版/切图/ui_poker/y_游戏内/"/>
+    <image id="ef8pb8" name="yxn_tb_gz.png" path="/大丰关张美术资源/老版/切图/ui_poker/y_游戏内/"/>
+    <image id="ef8pb9" name="yxn_tb_lt.png" path="/大丰关张美术资源/老版/切图/ui_poker/y_游戏内/"/>
+    <image id="ef8pba" name="yxn_tb_sz.png" path="/大丰关张美术资源/老版/切图/ui_poker/y_游戏内/"/>
+    <image id="ef8pbb" name="yxn_tb_yy.png" path="/大丰关张美术资源/老版/切图/ui_poker/y_游戏内/"/>
     <image id="ef8pbc" name="j_单局结算-胜利-标注.jpg" path="/大丰关张美术资源/老版/切图/结算界面3.29/"/>
     <image id="ef8pbd" name="j_单局结算-胜利.jpg" path="/大丰关张美术资源/老版/切图/结算界面3.29/"/>
     <image id="ef8pbe" name="j_结算-大赢家-标注.jpg" path="/大丰关张美术资源/老版/切图/结算界面3.29/"/>
@@ -406,7 +406,7 @@
     <component id="ef8pcr" name="desk_view_right.xml" path="/desk/"/>
     <font id="ef8pct" name="desk_countdown_font.fnt" path="/desk/" exported="true"/>
     <component id="ef8pcu" name="desk_roominfo_button.xml" path="/desk/"/>
-    <component id="ef8pcx" name="desk_poker_number_lo.xml" path="/common/" exported="true"/>
+    <component id="ef8pcx" name="desk_poker_number.xml" path="/common/" exported="true"/>
     <component id="ef8pcy" name="desk_my_poker_list.xml" path="/desk/"/>
     <component id="ef8pcz" name="desk_card_button.xml" path="/desk/"/>
     <component id="ef8pd0" name="desk_cancel_button.xml" path="/desk/" exported="true"/>
