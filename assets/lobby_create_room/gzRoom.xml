@@ -3,39 +3,39 @@
   <controller name="c1" pages="0,4,1,8,2,16" selected="1"/>
   <controller name="c2" pages="0,owner,1,aa" selected="0"/>
   <displayList>
-    <image id="n0_kdqv" name="n0" src="kdqvy" fileName="resource/ty_di_Pic2.png" xy="0,0" size="791,595"/>
-    <component id="n10_kdqv" name="round4Button" src="kdqv1j" fileName="radioButton.xml" xy="159,29">
+    <component id="n10_kdqv" name="round4Button" src="kdqv1j" fileName="btnRadio.xml" xy="159,22">
       <Button controller="c1" page="0"/>
     </component>
-    <component id="n12_kdqv" name="round8Button" src="kdqv1j" fileName="radioButton.xml" xy="386,29">
+    <component id="n12_kdqv" name="round8Button" src="kdqv1j" fileName="btnRadio.xml" xy="386,22">
       <Button checked="true" controller="c1" page="1"/>
     </component>
-    <component id="n11_kdqv" name="round16Button" src="kdqv1j" fileName="radioButton.xml" xy="613,29">
+    <component id="n11_kdqv" name="round16Button" src="kdqv1j" fileName="btnRadio.xml" xy="613,22">
       <Button controller="c1" page="2"/>
     </component>
-    <text id="n4_kdqv" name="round4Lab" xy="204,26" size="53,39" fontSize="30" color="#660033" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="4局&#xA;">
+    <text id="n4_kdqv" name="round4Lab" xy="204,19" size="53,41" fontSize="22" color="#660033" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="4局&#xA;">
       <relation target="n10_kdqv" sidePair="center-center,middle-middle"/>
     </text>
-    <text id="n6_kdqv" name="round8Lab" xy="431,26" size="53,39" fontSize="30" color="#660033" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="8局&#xA;">
+    <text id="n6_kdqv" name="round8Lab" xy="431,19" size="53,41" fontSize="22" color="#660033" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="8局&#xA;">
       <relation target="n12_kdqv" sidePair="center-center,middle-middle"/>
     </text>
-    <text id="n5_kdqv" name="round16Lab" xy="657,26" size="74,39" fontSize="30" color="#660033" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="16局&#xA;">
+    <text id="n5_kdqv" name="round16Lab" xy="657,19" size="74,41" fontSize="22" color="#660033" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="16局&#xA;">
       <relation target="n11_kdqv" sidePair="center-center,middle-middle"/>
     </text>
-    <component id="n13_kdqv" name="aapPayButton" src="kdqv1j" fileName="radioButton.xml" xy="386,89">
+    <component id="n13_kdqv" name="aapPayButton" src="kdqv1j" fileName="btnRadio.xml" xy="386,77">
       <Button controller="c2" page="1"/>
     </component>
-    <component id="n14_kdqv" name="ownerPayButton" src="kdqv1j" fileName="radioButton.xml" xy="159,89">
+    <component id="n14_kdqv" name="ownerPayButton" src="kdqv1j" fileName="btnRadio.xml" xy="159,77">
       <Button checked="true" controller="c2" page="0"/>
     </component>
-    <text id="n15_kdqv" name="ownerPayLab" xy="204,86" size="130,39" fontSize="30" color="#660033" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="房主支付">
+    <text id="n15_kdqv" name="ownerPayLab" xy="204,74" size="130,41" fontSize="22" color="#660033" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="房主支付">
       <relation target="n14_kdqv" sidePair="center-center,middle-middle"/>
     </text>
-    <text id="n16_kdqv" name="aaPayLab" xy="431,86" size="109,39" fontSize="30" color="#660033" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="AA支付">
+    <text id="n16_kdqv" name="aaPayLab" xy="431,74" size="109,41" fontSize="22" color="#660033" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="AA支付">
       <relation target="n13_kdqv" sidePair="center-center,middle-middle"/>
     </text>
-    <text id="n22_kdqv" name="text1" xy="22,26" size="133,39" fontSize="30" color="#660033" align="center" vAlign="middle" bold="true" text="局      数 :"/>
-    <text id="n23_kdqv" name="text2" xy="22,86" size="139,39" fontSize="30" color="#660033" align="center" vAlign="middle" bold="true" text="付费模式:"/>
-    <component id="n20_kdqv" name="createRoomButton" src="kdqv1f" fileName="createRoomBtn.xml" xy="267,461"/>
+    <text id="n22_kdqv" name="text1" xy="22,25" size="105,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="局      数 :"/>
+    <text id="n23_kdqv" name="text2" xy="22,80" size="106,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="付费模式:"/>
+    <component id="n20_kdqv" name="createRoomButton" src="kdqv1f" fileName="btnCreateRoom.xml" xy="267,461"/>
+    <component id="n24_hqw9" name="consumeCom" src="hqw91r" fileName="diamondConsume.xml" xy="205,419"/>
   </displayList>
 </component>

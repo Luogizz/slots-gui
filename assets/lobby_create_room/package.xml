@@ -11,22 +11,23 @@
     <image id="kdqvj" name="type_ddz.png" path="/resource/" exported="true"/>
     <image id="kdqvk" name="type_dfgz.png" path="/resource/" exported="true"/>
     <image id="kdqvl" name="type_dfmj.png" path="/resource/" exported="true"/>
-    <component id="kdqvt" name="ddz.xml" path="/"/>
+    <component id="kdqvt" name="btnDDZ.xml" path="/"/>
     <image id="kdqvu" name="cjfj_yq_an.png" path="/resource/" exported="true"/>
     <component id="kdqvx" name="gzRoom.xml" path="/" exported="true"/>
-    <image id="kdqvy" name="ty_di_Pic2.png" path="/resource/" exported="true" scale="9grid" scale9grid="64,64,128,128"/>
     <image id="kdqv19" name="cjfj_bq_di.png" path="/resource/" exported="true" scale="9grid" scale9grid="73,160,147,238"/>
     <image id="kdqv1a" name="ty_tanchuang1.png" path="/resource/" exported="true" scale="9grid" scale9grid="128,128,256,256"/>
-    <component id="kdqv1b" name="gz.xml" path="/"/>
-    <component id="kdqv1c" name="mj.xml" path="/"/>
-    <image id="kdqv1e" name="ty_btn1_cheng.png" path="/resource/"/>
-    <component id="kdqv1f" name="createRoomBtn.xml" path="/" exported="true"/>
+    <component id="kdqv1b" name="btnGZ.xml" path="/"/>
+    <component id="kdqv1c" name="btnDFMJ.xml" path="/"/>
+    <image id="kdqv1e" name="ty_btn1_cheng.png" path="/resource/" exported="true"/>
+    <component id="kdqv1f" name="btnCreateRoom.xml" path="/" exported="true"/>
     <component id="kdqv1g" name="mjRoom.xml" path="/" exported="true"/>
-    <image id="kdqv1h" name="ty_btnClose.png" path="/resource/"/>
-    <component id="kdqv1i" name="close.xml" path="/"/>
-    <component id="kdqv1j" name="radioButton.xml" path="/"/>
-    <component id="kdqv1o" name="checkbox.xml" path="/"/>
+    <image id="kdqv1h" name="ty_btnClose.png" path="/resource/" exported="true"/>
+    <component id="kdqv1i" name="btnClose.xml" path="/"/>
+    <component id="kdqv1j" name="btnRadio.xml" path="/"/>
+    <component id="kdqv1o" name="btnCheckbox.xml" path="/"/>
     <component id="kdqv1p" name="downloadProgress.xml" path="/" exported="true"/>
+    <image id="hqw91q" name="dt_zuan.png" path="/resource/" exported="true"/>
+    <component id="hqw91r" name="diamondConsume.xml" path="/"/>
   </resources>
   <publish name="lobby_create_room"/>
 </packageDescription>
