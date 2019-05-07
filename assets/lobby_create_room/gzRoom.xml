@@ -37,5 +37,6 @@
     <text id="n23_kdqv" name="text2" xy="22,80" size="106,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="付费模式:"/>
     <component id="n20_kdqv" name="createRoomButton" src="kdqv1f" fileName="btnCreateRoom.xml" xy="267,461"/>
     <component id="n24_hqw9" name="consumeCom" src="hqw91r" fileName="diamondConsume.xml" xy="205,419"/>
+    <text id="n25_hqw9" name="versionLab" xy="669,502" size="105,29" fontSize="25" align="center" vAlign="middle" autoSize="none" text="v1.0.3"/>
   </displayList>
 </component>
