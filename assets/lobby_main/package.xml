@@ -56,6 +56,9 @@
     <component id="d5oe1j" name="ButtonMahjong.xml" path="/"/>
     <component id="d5oe1k" name="HSGameList.xml" path="/"/>
     <image id="tdax1l" name="bg@2x.png" path="/大厅_slices/"/>
+    <image id="jrto1m" name="cjfj_bt.png" path="/大厅_slices/"/>
+    <image id="jrto1n" name="cjfj_yq_liang.png" path="/大厅_slices/"/>
+    <component id="jrto1o" name="ButtonCreateRoom.xml" path="/"/>
   </resources>
   <publish name="lobby_main"/>
 </packageDescription>
