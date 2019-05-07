@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1136,640" designImage="ui://s2p4ct89hagwg">
   <displayList>
-    <graph id="n48_h8zv" name="bg" xy="0,-1" size="1136,640" touchable="false" type="rect" fillColor="#00ffffff"/>
+    <graph id="n48_h8zv" name="diBg" xy="0,-1" size="1136,640" touchable="false" type="rect" fillColor="#00ffffff"/>
     <image id="n44_h8zv" name="bg" src="hagwf" fileName="resource/jrfj_db.png" xy="248,26" size="640,590"/>
     <component id="n19_h8zv" name="button0" src="h8zvr" fileName="button0.xml" xy="497,479"/>
     <component id="n20_h8zv" name="button1" src="h8zvi" fileName="button1.xml" xy="329,220"/>
