@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="142,74" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n0_h8zv" name="n0" src="hagw1" fileName="resource/jrfj_btn.png" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n2_h8zv" name="n2" src="hagwa" fileName="resource/jrfj_sz7.png" xy="55,17"/>
+  </displayList>
+  <Button downEffect="dark" downEffectValue="0.80"/>
+</component>

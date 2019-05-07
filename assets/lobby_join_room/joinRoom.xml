@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640" designImage="ui://s2p4ct89hagwg">
+  <displayList>
+    <image id="n44_h8zv" name="bg" src="hagwf" fileName="resource/jrfj_db.png" xy="248,26" size="640,590"/>
+    <component id="n19_h8zv" name="button0" src="h8zvr" fileName="button0.xml" xy="497,479"/>
+    <component id="n20_h8zv" name="button1" src="h8zvi" fileName="button1.xml" xy="329,220"/>
+    <component id="n21_h8zv" name="button2" src="h8zvj" fileName="button2.xml" xy="497,219"/>
+    <component id="n22_h8zv" name="button3" src="h8zvk" fileName="button3.xml" xy="663,220"/>
+    <component id="n23_h8zv" name="button4" src="h8zvl" fileName="button4.xml" xy="327,307"/>
+    <component id="n24_h8zv" name="button5" src="h8zvm" fileName="button5.xml" xy="496,305"/>
+    <component id="n25_h8zv" name="button6" src="h8zvn" fileName="button6.xml" xy="663,306"/>
+    <component id="n26_h8zv" name="button7" src="h8zvo" fileName="button7.xml" xy="328,391"/>
+    <component id="n27_h8zv" name="button8" src="h8zvp" fileName="button8.xml" xy="496,389"/>
+    <component id="n28_h8zv" name="button9" src="h8zvq" fileName="button9.xml" xy="663,390"/>
+    <component id="n29_h8zv" name="buttonCS" src="h8zvs" fileName="buttonCS.xml" xy="327,479"/>
+    <component id="n30_h8zv" name="buttonSC" src="h8zvt" fileName="buttonSC.xml" xy="663,479"/>
+    <image id="n32_h8zv" name="n32" src="hagw2" fileName="resource/jrfj_fgx.png" xy="364,182"/>
+    <image id="n33_h8zv" name="n33" src="hagw2" fileName="resource/jrfj_fgx.png" xy="436,182"/>
+    <image id="n34_h8zv" name="n34" src="hagw2" fileName="resource/jrfj_fgx.png" xy="508,182"/>
+    <image id="n35_h8zv" name="n35" src="hagw2" fileName="resource/jrfj_fgx.png" xy="578,182"/>
+    <image id="n36_h8zv" name="n36" src="hagw2" fileName="resource/jrfj_fgx.png" xy="650,182"/>
+    <image id="n37_h8zv" name="n37" src="hagw2" fileName="resource/jrfj_fgx.png" xy="719,182"/>
+    <text id="n38_h8zv" name="number1" xy="364,135" size="49,50" fontSize="40" color="#943f35" align="center" vAlign="middle" autoSize="none" bold="true" text=""/>
+    <text id="n39_h8zv" name="number2" xy="436,135" size="49,50" fontSize="40" color="#943f35" align="center" vAlign="middle" autoSize="none" bold="true" text=""/>
+    <text id="n40_h8zv" name="number3" xy="508,135" size="49,50" fontSize="40" color="#943f35" align="center" vAlign="middle" autoSize="none" bold="true" text=""/>
+    <text id="n41_h8zv" name="number4" xy="578,135" size="49,50" fontSize="40" color="#943f35" align="center" vAlign="middle" autoSize="none" bold="true" text=""/>
+    <text id="n42_h8zv" name="number5" xy="650,135" size="49,50" fontSize="40" color="#943f35" align="center" vAlign="middle" autoSize="none" bold="true" text=""/>
+    <text id="n43_h8zv" name="number6" xy="721,135" size="49,50" fontSize="40" color="#943f35" align="center" vAlign="middle" autoSize="none" bold="true" text=""/>
+    <component id="n46_h8zv" name="closeBtn" src="h8zvw" fileName="btnClose.xml" xy="783,-7"/>
+    <text id="n47_h8zv" name="hintText" xy="426,127" size="282,46" fontSize="30" color="#b78957" align="center" vAlign="middle" autoSize="none" bold="true" text="请输入6位房间号"/>
+  </displayList>
+</component>

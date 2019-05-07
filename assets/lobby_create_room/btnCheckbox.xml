@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="34,34" extention="Button">
-  <Button mode="Check"/>
-  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver"/>
+<component size="44,38" extention="Button">
+  <controller name="button" pages="0,up,1,down" selected="0"/>
   <displayList>
-    <image id="n0_kdqv" src="onfo4" name="n0" xy="0,0">
+    <image id="n0_kdqv" name="n0" src="onfo4" fileName="resource/cjfj_di_f.png" xy="0,0">
       <gearDisplay controller="button" pages="0,2"/>
-      <relation target="" sidePair="width,height"/>
+      <relation target="" sidePair="width-width,height-height"/>
     </image>
-    <image id="n1_kdqv" src="onfo5" name="n1" xy="-4,-1">
+    <image id="n1_kdqv" name="n1" src="onfo5" fileName="resource/cjfj_gou.png" xy="0,0">
       <gearDisplay controller="button" pages="1,3"/>
-      <relation target="" sidePair="width,height"/>
+      <relation target="" sidePair="width-width,height-height"/>
     </image>
   </displayList>
+  <Button mode="Check"/>
 </component>
