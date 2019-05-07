@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="400,90" designImageOffsetX="-670" designImageOffsetY="-30">
   <displayList>
+    <image id="n5_myud" name="n5" src="myudx" fileName="chat/girl_img.png" xy="9,21" scale="0.6,0.6"/>
     <image id="n0_jq88" name="n0" src="jq88d" fileName="chat/txk_qt.png" xy="7,18"/>
     <image id="n1_jq88" name="friend" src="jq88f" fileName="chat/you.png" xy="196,0"/>
     <text id="n2_jq88" name="name" xy="63,1" size="131,19" fontSize="18" color="#784819" vAlign="middle" autoSize="none" bold="true" text=""/>

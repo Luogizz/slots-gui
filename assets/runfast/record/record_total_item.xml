@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="950,200" designImage="ui://ppyzj5nrfxweef" designImageOffsetX="-130" designImageOffsetY="-40" designImageLayer="1">
+  <displayList>
+    <image id="n0_fxwe" name="n0" src="fxwee4" fileName="大丰关张美术资源/切图/战绩/zj_diban.png" xy="15,9" size="927,180"/>
+    <text id="n1_fxwe" name="roomNumber" xy="30,22" size="149,33" fontSize="20" color="#f5f6d3" vAlign="middle" autoSize="none" bold="true" text=""/>
+    <text id="n2_fxwe" name="gameName" xy="176,22" size="144,32" fontSize="20" color="#3defff" vAlign="middle" autoSize="none" bold="true" text=""/>
+    <text id="n3_fxwe" name="date" xy="671,22" size="204,28" fontSize="20" color="#3defff" vAlign="middle" autoSize="none" bold="true" text=""/>
+    <component id="n4_fxwe" name="player1" src="fxweeo" fileName="record/record_total_item_player.xml" xy="30,72"/>
+    <component id="n5_fxwe" name="player2" src="fxweeo" fileName="record/record_total_item_player.xml" xy="256,72"/>
+    <component id="n6_fxwe" name="player3" src="fxweeo" fileName="record/record_total_item_player.xml" xy="477,72"/>
+  </displayList>
+</component>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="230,100" designImageOffsetX="-160" designImageOffsetY="-110" designImageLayer="1">
+  <displayList>
+    <image id="n0_fxwe" name="n0" src="fxweeb" fileName="大丰关张美术资源/切图/战绩/zj_srk.png" xy="5,0" size="209,102"/>
+    <image id="n1_fxwe" name="n1" src="fxwedv" fileName="大丰关张美术资源/切图/战绩/zj_bk.png" xy="15,13"/>
+    <image id="n2_fxwe" name="roomOwer" src="fxwee5" fileName="大丰关张美术资源/切图/战绩/zj_fanzhu.png" xy="7,9"/>
+    <text id="n3_fxwe" name="name" xy="93,14" size="115,28" fontSize="20" color="#96693a" autoSize="none" bold="true" text=""/>
+    <text id="n4_fxwe" name="winScore" xy="94,56" size="110,30" fontSize="32" color="#d52012" autoSize="shrink" bold="true" text=""/>
+    <text id="n5_fxwe" name="loseScore" xy="94,57" size="110,30" fontSize="32" color="#359031" autoSize="shrink" bold="true" text=""/>
+  </displayList>
+</component>

@@ -437,6 +437,40 @@
     <component id="mjk8ds" name="checkbox_button.xml" path="/roomCreate/"/>
     <component id="jq88dt" name="desk_light_list.xml" path="/desk/"/>
     <component id="jq88du" name="desk_discard_my_list.xml" path="/desk/"/>
+    <image id="fxwedv" name="zj_bk.png" path="/大丰关张美术资源/切图/战绩/"/>
+    <image id="fxwedw" name="zj_bt.png" path="/大丰关张美术资源/切图/战绩/"/>
+    <image id="fxwedx" name="zj_btn.png" path="/大丰关张美术资源/切图/战绩/"/>
+    <image id="fxwedy" name="zj_btn_bf.png" path="/大丰关张美术资源/切图/战绩/"/>
+    <image id="fxwedz" name="zj_btn_ckhf.png" path="/大丰关张美术资源/切图/战绩/"/>
+    <image id="fxwee0" name="zj_btn_fx.png" path="/大丰关张美术资源/切图/战绩/"/>
+    <image id="fxwee1" name="zj_btn_hf.png" path="/大丰关张美术资源/切图/战绩/"/>
+    <image id="fxwee2" name="zj_btn_nt.png" path="/大丰关张美术资源/切图/战绩/"/>
+    <image id="fxwee3" name="zj_di.png" path="/大丰关张美术资源/切图/战绩/"/>
+    <image id="fxwee4" name="zj_diban.png" path="/大丰关张美术资源/切图/战绩/" scale="9grid" scale9grid="147,88,15,14" gridTile="16"/>
+    <image id="fxwee5" name="zj_fanzhu.png" path="/大丰关张美术资源/切图/战绩/"/>
+    <image id="fxwee6" name="zj_fgx.png" path="/大丰关张美术资源/切图/战绩/"/>
+    <image id="fxwee7" name="zj_icon_fz.png" path="/大丰关张美术资源/切图/战绩/"/>
+    <image id="fxwee8" name="zj_icon_zwzj.png" path="/大丰关张美术资源/切图/战绩/"/>
+    <image id="fxwee9" name="zj_jt.png" path="/大丰关张美术资源/切图/战绩/"/>
+    <image id="fxweea" name="zj_line.png" path="/大丰关张美术资源/切图/战绩/"/>
+    <image id="fxweeb" name="zj_srk.png" path="/大丰关张美术资源/切图/战绩/" scale="9grid" scale9grid="17,17,34,34" gridTile="16"/>
+    <image id="fxweec" name="zj_tiao.png" path="/大丰关张美术资源/切图/战绩/" scale="9grid" scale9grid="105,38,15,11" gridTile="16"/>
+    <image id="fxweed" name="zj_tk.png" path="/大丰关张美术资源/切图/战绩/"/>
+    <image id="fxweee" name="zj_zi_gkyqhyb.png" path="/大丰关张美术资源/切图/战绩/"/>
+    <image id="fxweef" name="z_战绩1.jpg" path="/大丰关张美术资源/切图/战绩/"/>
+    <image id="fxweeg" name="z_战绩_标注.jpg" path="/大丰关张美术资源/切图/战绩/"/>
+    <component id="fxweeh" name="record_total.xml" path="/" exported="true"/>
+    <image id="fxweei" name="ty_bg.jpg" path="/大丰关张美术资源/切图/战绩/"/>
+    <image id="fxweej" name="ty_btnBack.png" path="/大丰关张美术资源/切图/战绩/"/>
+    <image id="fxweek" name="ty_Deng.png" path="/大丰关张美术资源/切图/战绩/"/>
+    <component id="fxweel" name="back_button.xml" path="/record/"/>
+    <component id="fxweem" name="search_record_button.xml" path="/record/"/>
+    <component id="fxween" name="record_total_item.xml" path="/record/"/>
+    <component id="fxweeo" name="record_total_item_player.xml" path="/record/"/>
+    <component id="fxweep" name="record_detail.xml" path="/" exported="true"/>
+    <component id="fxweeq" name="record_detail_item.xml" path="/record/"/>
+    <component id="fxweer" name="play_button.xml" path="/record/"/>
+    <component id="fxwees" name="share_button.xml" path="/record/"/>
   </resources>
   <publish name="runfast"/>
 </packageDescription>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="400,90" designImageOffsetX="-670" designImageOffsetY="-120">
   <displayList>
+    <image id="n7_myud" name="n7" src="myudw" fileName="chat/boy_img.png" xy="345,8" scale="0.6,0.6"/>
     <image id="n5_jq88" name="n5" src="jq88e" fileName="chat/txk_zji.png" xy="343,6"/>
     <image id="n6_jq88" name="n6" src="jq88b" fileName="chat/paopao_zji.png" xy="12,14" size="324,37">
       <relation target="n3_jq88" sidePair="bottom-bottom,height-height"/>

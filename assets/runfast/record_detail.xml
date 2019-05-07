@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640" designImage="ui://ppyzj5nrfxweeg" designImageLayer="1">
+  <displayList>
+    <image id="n0_fxwe" name="n0" src="fxweei" fileName="大丰关张美术资源/切图/战绩/ty_bg.jpg" xy="0,0" size="1136,640"/>
+    <image id="n1_fxwe" name="n1" src="fxweek" fileName="大丰关张美术资源/切图/战绩/ty_Deng.png" xy="-30,350"/>
+    <image id="n2_fxwe" name="n2" src="fxwedw" fileName="大丰关张美术资源/切图/战绩/zj_bt.png" xy="43,450"/>
+    <component id="n3_fxwe" name="backBtn" src="fxweel" fileName="record/back_button.xml" xy="-3,-4"/>
+    <image id="n4_fxwe" name="n4" src="fxwee4" fileName="大丰关张美术资源/切图/战绩/zj_diban.png" xy="144,47" size="922,453"/>
+    <text id="n5_fxwe" name="roomNumber" xy="156,58" size="158,30" fontSize="22" color="#f5f6d3" autoSize="none" bold="true" text=""/>
+    <text id="n6_fxwe" name="gameName" xy="313,58" size="158,30" fontSize="22" color="#2bcedd" autoSize="none" bold="true" text=""/>
+    <text id="n7_fxwe" name="date" xy="804,58" size="207,30" fontSize="20" color="#2bcedd" autoSize="none" bold="true" text=""/>
+    <text id="n8_fxwe" name="name1" xy="351,117" size="127,36" fontSize="20" color="#96693a" align="center" vAlign="middle" autoSize="none" bold="true" text="说的阿萨德是是"/>
+    <text id="n10_fxwe" name="name2" xy="486,117" size="127,36" fontSize="20" color="#96693a" align="center" vAlign="middle" autoSize="none" bold="true" text="说的阿萨德是是"/>
+    <text id="n9_fxwe" name="name3" xy="619,117" size="127,36" fontSize="20" color="#96693a" align="center" vAlign="middle" autoSize="none" bold="true" text="说的阿萨德是是"/>
+  </displayList>
+</component>
