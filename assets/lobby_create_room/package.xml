@@ -25,7 +25,6 @@
     <component id="kdqv1i" name="btnClose.xml" path="/"/>
     <component id="kdqv1j" name="btnRadio.xml" path="/"/>
     <component id="kdqv1o" name="btnCheckbox.xml" path="/"/>
-    <component id="kdqv1p" name="downloadProgress.xml" path="/" exported="true"/>
     <image id="hqw91q" name="dt_zuan.png" path="/resource/" exported="true"/>
     <component id="hqw91r" name="diamondConsume.xml" path="/"/>
   </resources>
