@@ -7,9 +7,11 @@
     <image id="n5_fxwe" name="ting" src="fxweyk" fileName="大丰麻将美术改版/2 游戏内/切图/tb_ting.png" xy="304,175"/>
     <image id="n6_fxwe" name="zhuang" src="fxweyl" fileName="大丰麻将美术改版/2 游戏内/切图/tb_zhuang.png" xy="324,240"/>
     <image id="n7_fxwe" name="hua" src="fxweyd" fileName="大丰麻将美术改版/2 游戏内/切图/huabg.png" xy="262,135"/>
-    <component id="n1_fxwe" name="discards" src="fxwe15r" fileName="desk/desk_discard_shu.xml" xy="8,144" touchable="false"/>
+    <component id="n1_fxwe" name="discards" src="fxwe16k" fileName="desk/right/desk_discard.xml" xy="8,144" touchable="false"/>
     <component id="n8_fxwe" name="hands" src="fxwe15z" fileName="desk/right/desk_hand.xml" xy="180,0" touchable="false"/>
     <component id="n10_fxwe" name="melds" src="fxwe16d" fileName="desk/right/desk_meld.xml" xy="180,0" touchable="false"/>
+    <component id="n12_fxwe" name="lights" src="fxwe16n" fileName="desk/right/desk_light.xml" xy="180,0" touchable="false"/>
+    <component id="n11_fxwe" name="flowers" src="fxwe16l" fileName="desk/right/desk_flower.xml" xy="142,155" touchable="false"/>
     <image id="n9_fxwe" name="ready" src="fxwez5" fileName="大丰麻将美术改版/2 游戏内/切图/z_准备开始gps/ok.png" xy="190,215"/>
   </displayList>
 </component>

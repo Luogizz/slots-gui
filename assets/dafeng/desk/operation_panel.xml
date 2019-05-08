@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="1136,130" designImage="ui://tnqevky2fxweub" designImageOffsetY="-380">
+<component size="1136,130" opaque="false" designImage="ui://tnqevky2fxweub" designImageOffsetY="-380">
   <displayList>
     <list id="n3_fxwe" name="n3" xy="220,0" size="844,136" hideByEditor="true" visible="false" layout="row" overflow="scroll" scroll="horizontal" align="center" vAlign="middle">
       <item url="ui://tnqevky2fxwe161" name="chi"/>

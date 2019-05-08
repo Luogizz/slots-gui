@@ -195,7 +195,7 @@
     <image id="fxweyc" name="guize.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
     <image id="fxweyd" name="huabg.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
     <image id="fxweye" name="hufgx.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
-    <image id="fxweyf" name="hukk.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxweyf" name="hukk.png" path="/大丰麻将美术改版/2 游戏内/切图/" scale="9grid" scale9grid="46,42,92,84" gridTile="16"/>
     <image id="fxweyg" name="jiantou.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
     <image id="fxweyh" name="jttouyin.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
     <image id="fxweyi" name="shouzhi.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
@@ -456,8 +456,6 @@
     <image id="fxwe15m" name="txk_wx80.png" path="/大丰麻将美术改版/2 游戏内/头像/"/>
     <component id="fxwe15n" name="head_button.xml" path="/common/"/>
     <component id="fxwe15p" name="desk_view_mine.xml" path="/desk/mine/"/>
-    <component id="fxwe15q" name="desk_discard_heng.xml" path="/desk/"/>
-    <component id="fxwe15r" name="desk_discard_shu.xml" path="/desk/"/>
     <component id="fxwe15s" name="desk_hand.xml" path="/desk/mine/"/>
     <component id="fxwe15t" name="desk_view_left.xml" path="/desk/left/"/>
     <component id="fxwe15u" name="desk_hand.xml" path="/desk/left/"/>
@@ -478,6 +476,19 @@
     <component id="fxwe16b" name="desk_meld.xml" path="/desk/left/"/>
     <component id="fxwe16c" name="desk_meld.xml" path="/desk/dui/"/>
     <component id="fxwe16d" name="desk_meld.xml" path="/desk/right/"/>
+    <component id="fxwe16e" name="desk_discard.xml" path="/desk/dui/"/>
+    <component id="fxwe16f" name="desk_flower.xml" path="/desk/dui/"/>
+    <component id="fxwe16g" name="desk_discard.xml" path="/desk/mine/"/>
+    <component id="fxwe16h" name="desk_flower.xml" path="/desk/mine/"/>
+    <component id="fxwe16i" name="desk_discard.xml" path="/desk/left/"/>
+    <component id="fxwe16j" name="desk_flower.xml" path="/desk/left/"/>
+    <component id="fxwe16k" name="desk_discard.xml" path="/desk/right/"/>
+    <component id="fxwe16l" name="desk_flower.xml" path="/desk/right/"/>
+    <component id="fxwe16m" name="meld_multi_ops.xml" path="/desk/"/>
+    <component id="fxwe16n" name="desk_light.xml" path="/desk/right/"/>
+    <component id="fxwe16o" name="desk_light.xml" path="/desk/mine/"/>
+    <component id="fxwe16p" name="desk_light.xml" path="/desk/left/"/>
+    <component id="fxwe16q" name="desk_light.xml" path="/desk/dui/"/>
   </resources>
   <publish name="dafeng"/>
 </packageDescription>

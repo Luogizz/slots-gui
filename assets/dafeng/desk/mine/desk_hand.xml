@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="1136,140" designImage="ui://tnqevky2fxweua" designImageOffsetY="-500">
+<component size="1136,140" opaque="false" designImage="ui://tnqevky2fxweua" designImageOffsetY="-500">
   <displayList>
-    <component id="n28_fxwe" name="n1" src="fxwe1g" fileName="mahjong_mine/mahjong_mine_shu.xml" pkg="tjfy9hi3" xy="905,15"/>
-    <component id="n29_fxwe" name="n2" src="fxwe1g" fileName="mahjong_mine/mahjong_mine_shu.xml" pkg="tjfy9hi3" xy="830,15"/>
-    <component id="n30_fxwe" name="n3" src="fxwe1g" fileName="mahjong_mine/mahjong_mine_shu.xml" pkg="tjfy9hi3" xy="755,15"/>
-    <component id="n31_fxwe" name="n4" src="fxwe1g" fileName="mahjong_mine/mahjong_mine_shu.xml" pkg="tjfy9hi3" xy="680,15"/>
-    <component id="n32_fxwe" name="n5" src="fxwe1g" fileName="mahjong_mine/mahjong_mine_shu.xml" pkg="tjfy9hi3" xy="605,15"/>
-    <component id="n33_fxwe" name="n6" src="fxwe1g" fileName="mahjong_mine/mahjong_mine_shu.xml" pkg="tjfy9hi3" xy="530,15"/>
-    <component id="n34_fxwe" name="n7" src="fxwe1g" fileName="mahjong_mine/mahjong_mine_shu.xml" pkg="tjfy9hi3" xy="455,15"/>
-    <component id="n35_fxwe" name="n8" src="fxwe1g" fileName="mahjong_mine/mahjong_mine_shu.xml" pkg="tjfy9hi3" xy="380,15"/>
-    <component id="n36_fxwe" name="n9" src="fxwe1g" fileName="mahjong_mine/mahjong_mine_shu.xml" pkg="tjfy9hi3" xy="305,15"/>
-    <component id="n37_fxwe" name="n10" src="fxwe1g" fileName="mahjong_mine/mahjong_mine_shu.xml" pkg="tjfy9hi3" xy="230,15"/>
-    <component id="n38_fxwe" name="n11" src="fxwe1g" fileName="mahjong_mine/mahjong_mine_shu.xml" pkg="tjfy9hi3" xy="155,15"/>
-    <component id="n39_fxwe" name="n12" src="fxwe1g" fileName="mahjong_mine/mahjong_mine_shu.xml" pkg="tjfy9hi3" xy="80,15"/>
-    <component id="n40_fxwe" name="n13" src="fxwe1g" fileName="mahjong_mine/mahjong_mine_shu.xml" pkg="tjfy9hi3" xy="5,15"/>
-    <component id="n41_fxwe" name="n14" src="fxwe1g" fileName="mahjong_mine/mahjong_mine_shu.xml" pkg="tjfy9hi3" xy="1002,15"/>
+    <component id="n28_fxwe" name="n1" src="fxwe1g" fileName="mahjong_mine/mahjong_mine_shu.xml" pkg="tjfy9hi3" xy="905,15" visible="false"/>
+    <component id="n29_fxwe" name="n2" src="fxwe1g" fileName="mahjong_mine/mahjong_mine_shu.xml" pkg="tjfy9hi3" xy="830,15" visible="false"/>
+    <component id="n30_fxwe" name="n3" src="fxwe1g" fileName="mahjong_mine/mahjong_mine_shu.xml" pkg="tjfy9hi3" xy="755,15" visible="false"/>
+    <component id="n31_fxwe" name="n4" src="fxwe1g" fileName="mahjong_mine/mahjong_mine_shu.xml" pkg="tjfy9hi3" xy="680,15" visible="false"/>
+    <component id="n32_fxwe" name="n5" src="fxwe1g" fileName="mahjong_mine/mahjong_mine_shu.xml" pkg="tjfy9hi3" xy="605,15" visible="false"/>
+    <component id="n33_fxwe" name="n6" src="fxwe1g" fileName="mahjong_mine/mahjong_mine_shu.xml" pkg="tjfy9hi3" xy="530,15" visible="false"/>
+    <component id="n34_fxwe" name="n7" src="fxwe1g" fileName="mahjong_mine/mahjong_mine_shu.xml" pkg="tjfy9hi3" xy="455,15" visible="false"/>
+    <component id="n35_fxwe" name="n8" src="fxwe1g" fileName="mahjong_mine/mahjong_mine_shu.xml" pkg="tjfy9hi3" xy="380,15" visible="false"/>
+    <component id="n36_fxwe" name="n9" src="fxwe1g" fileName="mahjong_mine/mahjong_mine_shu.xml" pkg="tjfy9hi3" xy="305,15" visible="false"/>
+    <component id="n37_fxwe" name="n10" src="fxwe1g" fileName="mahjong_mine/mahjong_mine_shu.xml" pkg="tjfy9hi3" xy="230,15" visible="false"/>
+    <component id="n38_fxwe" name="n11" src="fxwe1g" fileName="mahjong_mine/mahjong_mine_shu.xml" pkg="tjfy9hi3" xy="155,15" visible="false"/>
+    <component id="n39_fxwe" name="n12" src="fxwe1g" fileName="mahjong_mine/mahjong_mine_shu.xml" pkg="tjfy9hi3" xy="80,15" visible="false"/>
+    <component id="n40_fxwe" name="n13" src="fxwe1g" fileName="mahjong_mine/mahjong_mine_shu.xml" pkg="tjfy9hi3" xy="5,15" visible="false"/>
+    <component id="n41_fxwe" name="n14" src="fxwe1g" fileName="mahjong_mine/mahjong_mine_shu.xml" pkg="tjfy9hi3" xy="1002,15" visible="false"/>
   </displayList>
 </component>

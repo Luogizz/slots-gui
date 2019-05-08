@@ -17,7 +17,8 @@
     <component id="n15_fxwe" name="player2" src="fxwe15x" fileName="desk/right/desk_view_right.xml" xy="775,0"/>
     <component id="n16_fxwe" name="player3" src="fxwe15v" fileName="desk/dui/desk_view_dui.xml" xy="0,0"/>
     <component id="n17_fxwe" name="player4" src="fxwe15t" fileName="desk/left/desk_view_left.xml" xy="0,0"/>
-    <component id="n18_fxwe" name="operationPanel" src="fxwe160" fileName="desk/operation_panel.xml" xy="-1,378" touchable="false"/>
+    <component id="n18_fxwe" name="operationPanel" src="fxwe160" fileName="desk/operation_panel.xml" xy="-1,378"/>
     <component id="n19_fxwe" name="ready" src="fxwe167" fileName="desk/ready_button.xml" xy="465,427"/>
+    <component id="n20_fxwe" name="meldOpsPanel" src="fxwe16m" fileName="desk/meld_multi_ops.xml" xy="0,0" visible="false"/>
   </displayList>
 </component>

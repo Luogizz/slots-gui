@@ -2,7 +2,6 @@
 <component size="80,120">
   <displayList>
     <image id="n0_fxwe" name="n0" src="fxwe1d" fileName="image_bg/wo_shou.png" xy="2,1"/>
-    <image id="n1_fxwe" name="nn" src="fxwe0" fileName="image_title/suit1.png" xy="5,25" hideByEditor="true"/>
     <loader id="n2_fxwe" name="title" xy="5,25" size="74,88" autoSize="true"/>
     <image id="n3_fxwe" name="ting" src="fxwe21" fileName="image_bg/jbting.png" xy="5,25" visible="false"/>
   </displayList>

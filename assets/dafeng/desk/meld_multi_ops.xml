@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640" designImage="ui://tnqevky2fxwetc" designImageLayer="1">
+  <displayList>
+    <image id="n11_fxwe" name="bg" src="fxweyf" fileName="大丰麻将美术改版/2 游戏内/切图/hukk.png" xy="569,429" pivot="0.5,0.5" anchor="true" size="616,151"/>
+    <component id="n12_fxwe" name="n1" src="fxwe1o" fileName="mahjong_mine/mahjong_mine_meld_gang1.xml" pkg="tjfy9hi3" xy="296,407" scale="0.8,0.8"/>
+    <component id="n13_fxwe" name="n2" src="fxwe1o" fileName="mahjong_mine/mahjong_mine_meld_gang1.xml" pkg="tjfy9hi3" xy="490,407" scale="0.8,0.8"/>
+    <component id="n14_fxwe" name="n3" src="fxwe1o" fileName="mahjong_mine/mahjong_mine_meld_gang1.xml" pkg="tjfy9hi3" xy="688,408" scale="0.8,0.8"/>
+  </displayList>
+</component>
