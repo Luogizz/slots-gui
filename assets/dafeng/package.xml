@@ -489,6 +489,20 @@
     <component id="fxwe16o" name="desk_light.xml" path="/desk/mine/"/>
     <component id="fxwe16p" name="desk_light.xml" path="/desk/left/"/>
     <component id="fxwe16q" name="desk_light.xml" path="/desk/dui/"/>
+    <font id="fxwe16r" name="countDown.fnt" path="/desk/" exported="true"/>
+    <component id="fxwe16s" name="round_mask.xml" path="/desk/"/>
+    <component id="fxwe16t" name="listens_panel.xml" path="/desk/"/>
+    <component id="fxwe16u" name="listens_item.xml" path="/desk/"/>
+    <image id="fxwe16v" name="bg.png" path="/"/>
+    <component id="fxwe16w" name="game_over.xml" path="/" exported="true"/>
+    <component id="fxwe171" name="game_over_player.xml" path="/gameOver/"/>
+    <component id="fxwe17b" name="hand_result.xml" path="/" exported="true"/>
+    <component id="fxwe17f" name="hand_result_player.xml" path="/handResult/"/>
+    <font id="fxwe17h" name="lose.fnt" path="/handResult/" exported="true"/>
+    <font id="fxwe17i" name="win.fnt" path="/handResult/" exported="true"/>
+    <component id="fxwe17j" name="again_button.xml" path="/handResult/"/>
+    <component id="fxwe17k" name="share_button.xml" path="/handResult/"/>
+    <component id="fxwe17l" name="back_hall_button.xml" path="/gameOver/"/>
   </resources>
   <publish name="dafeng"/>
 </packageDescription>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1050,110" designImage="ui://tnqevky2fxwety" designImageOffsetX="-50" designImageOffsetY="-220">
+  <displayList>
+    <component id="n0_rhc4" name="head" src="fxwe15n" fileName="common/head_button.xml" xy="82,26" scale="0.7,0.7"/>
+    <text id="n1_rhc4" name="name" xy="160,43" size="110,28" fontSize="20" color="#8aceed" vAlign="middle" autoSize="none" bold="true" text="哈哈哈啊是"/>
+    <text id="n2_rhc4" name="id" xy="164,67" size="77,25" fontSize="16" color="#8aceed" autoSize="none" text="12345600&#xA;&#xA;"/>
+    <image id="n4_rhc4" name="roomOwner" src="fxwexq" fileName="大丰麻将美术改版/2 游戏内/切图/bq_fanzhu.png" xy="60,27"/>
+    <text id="n5_rhc4" name="text_lose" xy="843,38" size="210,59" font="ui://tnqevky2fxwe17h" fontSize="20" color="#784819" align="center" vAlign="middle" autoSize="none" bold="true" text=""/>
+    <text id="n6_rhc4" name="text_win" xy="843,40" size="210,59" font="ui://tnqevky2fxwe17i" fontSize="20" color="#784819" align="center" vAlign="middle" autoSize="none" bold="true" text=""/>
+    <graph id="n9_e27g" name="aniPos" xy="515,61" size="0,0"/>
+    <text id="n10_fxwe" name="score" xy="161,6" size="688,33" fontSize="24" color="#fff3a1" align="center" vAlign="middle" autoSize="none" bold="true" strokeColor="#734305" text=""/>
+    <component id="n12_fxwe" name="hands" src="fxwe15s" fileName="desk/mine/desk_hand.xml" xy="328,32" scale="0.45,0.45"/>
+    <component id="n13_fxwe" name="melds" src="fxwe16a" fileName="desk/mine/desk_meld.xml" xy="298,35" scale="0.45,0.45"/>
+    <image id="n14_fxwe" name="hu" src="fxwe133" fileName="大丰麻将美术改版/2 游戏内/切图/j_结算/hu.png" xy="803,36" visible="false"/>
+    <image id="n15_fxwe" name="lianzhuang" src="fxweyj" fileName="大丰麻将美术改版/2 游戏内/切图/tb_lianzhuang.png" xy="130,47"/>
+    <image id="n16_fxwe" name="zhuang" src="fxweyl" fileName="大丰麻将美术改版/2 游戏内/切图/tb_zhuang.png" xy="132,67"/>
+  </displayList>
+</component>
