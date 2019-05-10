@@ -517,6 +517,8 @@
     <image id="fxwe17x" name="zt_gou.png" path="/大丰关张美术资源/切图/j_解散房间/"/>
     <image id="fxwe17y" name="x.png" path="/大丰关张美术资源/切图/j_解散房间/"/>
     <image id="fxwe17z" name="wenhao.png" path="/大丰关张美术资源/切图/j_解散房间/"/>
+    <image id="fxwe180" name="zhua.png" path="/大丰麻将美术改版/2 游戏内/切图/出牌按钮/"/>
+    <component id="fxwe181" name="zhua_button.xml" path="/desk/button/" exported="true"/>
   </resources>
   <publish name="dafeng"/>
 </packageDescription>
