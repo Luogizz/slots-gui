@@ -503,6 +503,20 @@
     <component id="fxwe17j" name="again_button.xml" path="/handResult/"/>
     <component id="fxwe17k" name="share_button.xml" path="/handResult/"/>
     <component id="fxwe17l" name="back_hall_button.xml" path="/gameOver/"/>
+    <component id="fxwe17m" name="disband_room.xml" path="/" exported="true"/>
+    <image id="fxwe17n" name="bg.png" path="/大丰关张美术资源/切图/f_房间设置/"/>
+    <image id="fxwe17o" name="jsfj.png" path="/大丰关张美术资源/切图/j_解散房间/"/>
+    <component id="fxwe17p" name="agree_button.xml" path="/disbandRoom/"/>
+    <image id="fxwe17q" name="an_h.png" path="/大丰关张美术资源/切图/t_通用/"/>
+    <image id="fxwe17r" name="an_ty.png" path="/大丰关张美术资源/切图/j_解散房间/"/>
+    <component id="fxwe17s" name="unagree_button.xml" path="/disbandRoom/"/>
+    <image id="fxwe17t" name="an_4zl.png" path="/大丰关张美术资源/切图/t_通用/"/>
+    <image id="fxwe17u" name="an_bty.png" path="/大丰关张美术资源/切图/j_解散房间/"/>
+    <component id="fxwe17v" name="disband_room_player.xml" path="/disbandRoom/"/>
+    <image id="fxwe17w" name="y_xxk.png" path="/大丰关张美术资源/切图/j_解散房间/" scale="9grid" scale9grid="32,32,64,64" gridTile="16"/>
+    <image id="fxwe17x" name="zt_gou.png" path="/大丰关张美术资源/切图/j_解散房间/"/>
+    <image id="fxwe17y" name="x.png" path="/大丰关张美术资源/切图/j_解散房间/"/>
+    <image id="fxwe17z" name="wenhao.png" path="/大丰关张美术资源/切图/j_解散房间/"/>
   </resources>
   <publish name="dafeng"/>
 </packageDescription>

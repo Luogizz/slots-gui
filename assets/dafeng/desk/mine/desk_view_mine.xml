@@ -13,5 +13,6 @@
     <component id="n7_fxwe" name="hands" src="fxwe15s" fileName="desk/mine/desk_hand.xml" xy="0,150"/>
     <component id="n11_fxwe" name="lights" src="fxwe16o" fileName="desk/mine/desk_light.xml" xy="0,150" touchable="false"/>
     <image id="n8_fxwe" name="ready" src="fxwez5" fileName="大丰麻将美术改版/2 游戏内/切图/z_准备开始gps/ok.png" xy="143,48"/>
+    <graph id="n12_fxwe" name="aniPos" xy="567,53" pivot="0.5,0.5" size="0,0"/>
   </displayList>
 </component>

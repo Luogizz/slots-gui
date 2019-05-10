@@ -13,5 +13,6 @@
     <component id="n11_fxwe" name="flowers" src="fxwe16f" fileName="desk/dui/desk_flower.xml" xy="253,112" touchable="false"/>
     <component id="n12_fxwe" name="lights" src="fxwe16q" fileName="desk/dui/desk_light.xml" xy="0,0" touchable="false"/>
     <image id="n9_fxwe" name="ready" src="fxwez5" fileName="大丰麻将美术改版/2 游戏内/切图/z_准备开始gps/ok.png" xy="773,49"/>
+    <graph id="n13_fxwe" name="aniPos" xy="574,156" pivot="0.5,0.5" size="0,0"/>
   </displayList>
 </component>
