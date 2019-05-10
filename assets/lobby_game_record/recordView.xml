@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640" designImageAlpha="100">
+  <displayList>
+    <image id="n1_kq45" name="bg" src="kq45h" fileName="resource/pcbjk.png" xy="159,49" size="818,522"/>
+    <component id="n2_kq45" name="closeBtn" src="kq45j" fileName="closeBrn.xml" xy="940,60"/>
+    <list id="n3_kq45" name="list" xy="171,107" size="788,445" overflow="scroll" lineGap="10" defaultItem="ui://0oi8ctskkq45k" align="center" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n6_kq45" name="n6" xy="197,57" size="65,39" fontSize="30" color="#ffffff" text="游戏"/>
+    <text id="n7_kq45" name="n7" xy="376,57" size="65,39" fontSize="30" color="#ffffff" text="时间"/>
+    <text id="n8_kq45" name="n8" xy="587,54" size="95,39" fontSize="30" color="#ffffff" text="房间号"/>
+    <text id="n9_kq45" name="n9" xy="740,54" size="65,39" fontSize="30" color="#ffffff" text="房主"/>
+    <text id="n10_kq45" name="n10" xy="853,54" size="65,39" fontSize="30" color="#ffffff" text="结果"/>
+  </displayList>
+</component>
