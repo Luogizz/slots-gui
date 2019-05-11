@@ -91,8 +91,8 @@
       <relation target="n40_kdqv" sidePair="center-center,middle-middle"/>
     </text>
     <component id="n43_kdqv" name="zimojiafen" src="kdqv1o" fileName="btnCheckbox.xml" xy="159,352" size="44,38"/>
-    <component id="n44_kdqv" name="lianzhuangjiafen" src="kdqv1o" fileName="btnCheckbox.xml" xy="613,352"/>
-    <component id="n45_kdqv" name="jinyuanzi" src="kdqv1o" fileName="btnCheckbox.xml" xy="386,352"/>
+    <component id="n45_kdqv" name="lianzhuangjiafen" src="kdqv1o" fileName="btnCheckbox.xml" xy="386,352"/>
+    <component id="n44_kdqv" name="jinyuanzi" src="kdqv1o" fileName="btnCheckbox.xml" xy="613,352"/>
     <text id="n46_kdqv" name="zmjf" xy="205,355" size="129,41" fontSize="22" color="#660033" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="自摸加分">
       <relation target="n43_kdqv" sidePair="center-center,middle-middle"/>
     </text>
@@ -103,12 +103,12 @@
       <relation target="n44_kdqv" sidePair="center-center,middle-middle"/>
     </text>
     <component id="n20_kdqv" name="createRoomButton" src="kdqv1f" fileName="btnCreateRoom.xml" xy="267,461"/>
-    <text id="n52_kdqv" name="text1" xy="22,25" size="105,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="局      数 :"/>
-    <text id="n54_kdqv" name="text2" xy="22,80" size="109,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="付费模式:"/>
-    <text id="n55_kdqv" name="text3" xy="22,135" size="105,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="人      数 :"/>
-    <text id="n56_kdqv" name="text4" xy="22,190" size="105,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="封      顶 :"/>
-    <text id="n57_kdqv" name="text5" xy="22,300" size="105,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="墩      子 :"/>
-    <text id="n58_kdqv" name="text6" xy="22,360" size="109,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="其他玩法:"/>
+    <text id="n52_kdqv" name="text1" xy="22,25" size="100,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="局      数 :"/>
+    <text id="n54_kdqv" name="text2" xy="22,80" size="104,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="付费模式:"/>
+    <text id="n55_kdqv" name="text3" xy="22,135" size="100,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="人      数 :"/>
+    <text id="n56_kdqv" name="text4" xy="22,190" size="100,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="封      顶 :"/>
+    <text id="n57_kdqv" name="text5" xy="22,300" size="100,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="墩      子 :"/>
+    <text id="n58_kdqv" name="text6" xy="22,360" size="104,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="其他玩法:"/>
     <component id="n62_hqw9" name="consumeCom" src="hqw91r" fileName="diamondConsume.xml" xy="205,419"/>
     <text id="n63_hqw9" name="versionLab" xy="669,502" size="105,29" fontSize="25" align="center" vAlign="middle" autoSize="none" text="v1.0.3"/>
   </displayList>

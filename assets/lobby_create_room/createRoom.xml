@@ -17,8 +17,6 @@
       <gearDisplay controller="gameList" pages="3"/>
     </component>
     <component id="n51_kdqv" name="closeBtn" src="kdqv1i" fileName="btnClose.xml" xy="1012,-3"/>
-    <component id="n58_kdqv" name="downloadProgress" src="kdqv1p" fileName="downloadProgress.xml" xy="377,241" hideByEditor="true">
-      <ProgressBar value="50" max="100"/>
-    </component>
+    <component id="n58_kdqv" name="downloadProgress" src="kdqv1p" fileName="downloadProgress.xml" xy="377,241" hideByEditor="true"/>
   </displayList>
 </component>

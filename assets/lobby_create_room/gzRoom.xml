@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="782,595">
-  <controller name="c1" pages="0,4,1,8,2,16" selected="1"/>
+  <controller name="c1" pages="0,4,1,8,2,16" selected="0"/>
   <controller name="c2" pages="0,owner,1,aa" selected="0"/>
   <displayList>
     <component id="n10_kdqv" name="round4Button" src="kdqv1j" fileName="btnRadio.xml" xy="159,22">
-      <Button controller="c1" page="0"/>
+      <Button checked="true" controller="c1" page="0"/>
     </component>
     <component id="n12_kdqv" name="round8Button" src="kdqv1j" fileName="btnRadio.xml" xy="386,22">
-      <Button checked="true" controller="c1" page="1"/>
+      <Button controller="c1" page="1"/>
     </component>
     <component id="n11_kdqv" name="round16Button" src="kdqv1j" fileName="btnRadio.xml" xy="613,22">
       <Button controller="c1" page="2"/>
@@ -33,8 +33,8 @@
     <text id="n16_kdqv" name="aaPayLab" xy="431,74" size="109,41" fontSize="22" color="#660033" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="AA支付">
       <relation target="n13_kdqv" sidePair="center-center,middle-middle"/>
     </text>
-    <text id="n22_kdqv" name="text1" xy="22,25" size="105,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="局      数 :"/>
-    <text id="n23_kdqv" name="text2" xy="22,80" size="106,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="付费模式:"/>
+    <text id="n22_kdqv" name="text1" xy="22,25" size="100,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="局      数 :"/>
+    <text id="n23_kdqv" name="text2" xy="22,80" size="104,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="付费模式:"/>
     <component id="n20_kdqv" name="createRoomButton" src="kdqv1f" fileName="btnCreateRoom.xml" xy="267,461"/>
     <component id="n24_hqw9" name="consumeCom" src="hqw91r" fileName="diamondConsume.xml" xy="205,419"/>
     <text id="n25_hqw9" name="versionLab" xy="669,502" size="105,29" fontSize="25" align="center" vAlign="middle" autoSize="none" text="v1.0.3"/>
