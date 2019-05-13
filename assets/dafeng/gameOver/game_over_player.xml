@@ -9,8 +9,8 @@
     <text id="n7_rhc4" name="num_jiepao" xy="52,185" size="190,34" fontSize="26" color="#813826" vAlign="middle" autoSize="none" bold="true" text="&#xA;&#xA;&#xA;"/>
     <text id="n13_fxwe" name="num_fangpao" xy="53,217" size="190,34" fontSize="26" color="#813826" vAlign="middle" autoSize="none" bold="true" text="&#xA;&#xA;&#xA;"/>
     <text id="n12_fxwe" name="num_zimo" xy="53,249" size="190,34" fontSize="26" color="#813826" vAlign="middle" autoSize="none" bold="true" text="&#xA;&#xA;&#xA;"/>
-    <text id="n8_rhc4" name="text_win" xy="30,320" size="222,60" font="ui://tnqevky2fxwe17i" fontSize="22" color="#c09163" align="center" vAlign="middle" autoSize="none" text="&#xA;"/>
-    <text id="n9_rhc4" name="text_lose" xy="30,320" size="222,60" font="ui://ppyzj5nrrhc4d8" fontSize="22" color="#c09163" align="center" vAlign="middle" autoSize="none" text=""/>
+    <text id="n8_rhc4" name="text_win" xy="30,320" size="222,60" font="ui://tnqevky2fxwe17i" fontSize="22" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="&#xA;"/>
+    <text id="n9_rhc4" name="text_lose" xy="32,322" size="222,60" font="ui://tnqevky2fxwe17h" fontSize="22" color="#ffffff" align="center" vAlign="middle" autoSize="none" text=""/>
     <graph id="n10_e27g" name="aniPos" xy="239,45" size="0,0"/>
     <image id="n11_fxwe" name="zhuang" src="fxweyl" fileName="大丰麻将美术改版/2 游戏内/切图/tb_zhuang.png" xy="165,80"/>
   </displayList>

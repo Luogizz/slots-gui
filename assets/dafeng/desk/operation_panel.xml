@@ -5,11 +5,5 @@
       <relation target="n3_fxwe" sidePair="width-width,left-left"/>
     </image>
     <list id="n3_fxwe" name="buttonList" xy="966,-2" pivot="1,0" size="29,136" layout="row" overflow="scroll" scroll="horizontal" defaultItem="ui://tnqevky2fxwe161" align="right" vAlign="middle"/>
-    <component id="n5_fxwe" name="chiBtn" src="fxwe161" fileName="desk/button/chi_button.xml" xy="258,0" hideByEditor="true" visible="false"/>
-    <component id="n6_fxwe" name="gangBtn" src="fxwe163" fileName="desk/button/gang_button.xml" xy="514,2" hideByEditor="true" visible="false"/>
-    <component id="n7_fxwe" name="guoBtn" src="fxwe166" fileName="desk/button/guo_button.xml" xy="901,0" hideByEditor="true" visible="false"/>
-    <component id="n8_fxwe" name="huBtn" src="fxwe164" fileName="desk/button/hu_button.xml" xy="640,3" hideByEditor="true" visible="false"/>
-    <component id="n9_fxwe" name="pengBtn" src="fxwe162" fileName="desk/button/peng_button.xml" xy="387,1" hideByEditor="true" visible="false"/>
-    <component id="n10_fxwe" name="tingBtn" src="fxwe165" fileName="desk/button/ting_button.xml" xy="773,1" hideByEditor="true" visible="false"/>
   </displayList>
 </component>
