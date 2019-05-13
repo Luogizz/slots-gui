@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="vztvq5em" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="h59f0" name="emailView.xml" path="/" exported="true"/>
+    <image id="h59f1" name="1.png" path="/resource/" scale="9grid" scale9grid="10,15,28,32"/>
+    <image id="h59f2" name="3.png" path="/resource/" scale="9grid" scale9grid="110,16,33,32"/>
+    <image id="h59f3" name="4.png" path="/resource/"/>
+    <component id="h59f4" name="mailItem.xml" path="/"/>
+    <image id="h59f5" name="2.png" path="/resource/" scale="9grid" scale9grid="25,26,26,90"/>
+    <image id="h59f6" name="0.png" path="/resource/" scale="9grid" scale9grid="17,16,74,73"/>
+    <image id="h59f7" name="7.png" path="/resource/"/>
+    <image id="h59f8" name="9.png" path="/resource/"/>
+    <image id="h59f9" name="6.png" path="/resource/"/>
+    <image id="h59fa" name="8.png" path="/resource/"/>
+    <image id="h59fd" name="btnClose1.png" path="/resource/"/>
+    <component id="h59fe" name="closeBtn.xml" path="/"/>
+  </resources>
+  <publish name="lobby_email"/>
+</packageDescription>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="401,40" bgColor="#000000">
   <displayList>
-    <text id="n0_hqw9" name="n0" xy="106,5" size="69,34" fontSize="25" color="#660033" vAlign="middle" autoSize="none" bold="true" text="消耗:"/>
+    <text id="n0_hqw9" name="n0" xy="106,5" size="74,34" fontSize="25" color="#660033" vAlign="middle" autoSize="none" bold="true" text="消耗:"/>
     <image id="n1_hqw9" name="n1" src="hqw91q" fileName="resource/dt_zuan.png" xy="184,5"/>
     <text id="n2_hqw9" name="consumeText" xy="225,3" size="69,34" fontSize="25" color="#660033" vAlign="middle" autoSize="none" bold="true" text="x3"/>
   </displayList>

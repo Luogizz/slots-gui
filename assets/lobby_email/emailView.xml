@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640">
+  <displayList>
+    <image id="n0" name="n0" src="h59f1" fileName="resource/1.png" xy="366,39" size="404,562"/>
+    <image id="n1" name="n1" src="h59f2" fileName="resource/3.png" xy="378,53" size="384,63"/>
+    <image id="n2" name="n2" src="h59f3" fileName="resource/4.png" xy="496,65"/>
+    <list id="n3" name="mailList" xy="378,113" size="380,473" overflow="scroll" scrollBarFlags="2" clipSoftness="0,20" defaultItem="ui://vztvq5emh59f4"/>
+    <component id="n11_h59f" name="closeBtn" src="h59fe" fileName="closeBtn.xml" xy="746,26"/>
+  </displayList>
+</component>

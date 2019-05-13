@@ -6,109 +6,58 @@
   <controller name="fengding" pages="0,1,1,2,2,3,3,4" selected="0"/>
   <controller name="dunzi" pages="0,1,1,2" selected="0"/>
   <displayList>
-    <component id="n10_kdqv" name="round4Button" src="kdqv1j" fileName="btnRadio.xml" xy="159,22">
+    <component id="n10_kdqv" name="round4Button" src="h59f1y" fileName="radioButton.xml" xy="159,22" size="122,35">
       <Button checked="true" controller="round" page="0"/>
     </component>
-    <component id="n12_kdqv" name="round8Button" src="kdqv1j" fileName="btnRadio.xml" xy="386,22">
+    <component id="n12_kdqv" name="round8Button" src="h59f1y" fileName="radioButton.xml" xy="386,22" size="122,35">
       <Button controller="round" page="1"/>
     </component>
-    <component id="n11_kdqv" name="round16Button" src="kdqv1j" fileName="btnRadio.xml" xy="613,22">
+    <component id="n11_kdqv" name="round16Button" src="h59f1y" fileName="radioButton.xml" xy="613,22" size="122,35">
       <Button controller="round" page="2"/>
     </component>
-    <text id="n4_kdqv" name="round4Lab" xy="204,19" size="53,41" fontSize="22" color="#660033" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="4局&#xA;">
-      <relation target="n10_kdqv" sidePair="center-center,middle-middle"/>
-    </text>
-    <text id="n6_kdqv" name="round8Lab" xy="431,19" size="53,41" fontSize="22" color="#660033" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="8局&#xA;">
-      <relation target="n12_kdqv" sidePair="center-center,middle-middle"/>
-    </text>
-    <text id="n5_kdqv" name="round16Lab" xy="657,19" size="74,41" fontSize="22" color="#660033" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="16局&#xA;">
-      <relation target="n11_kdqv" sidePair="center-center,middle-middle"/>
-    </text>
-    <component id="n14_kdqv" name="ownerPayButton" src="kdqv1j" fileName="btnRadio.xml" xy="159,77">
+    <component id="n14_kdqv" name="ownerPayButton" src="h59f1y" fileName="radioButton.xml" xy="159,77" size="156,35">
       <Button checked="true" controller="pay" page="0"/>
     </component>
-    <component id="n13_kdqv" name="aapPayButton" src="kdqv1j" fileName="btnRadio.xml" xy="386,77">
+    <component id="n13_kdqv" name="aapPayButton" src="h59f1y" fileName="radioButton.xml" xy="386,77" size="156,35">
       <Button controller="pay" page="1"/>
     </component>
-    <text id="n15_kdqv" name="ownerPayLab" xy="204,74" size="129,41" fontSize="22" color="#660033" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="房主支付">
-      <relation target="n14_kdqv" sidePair="center-center,middle-middle"/>
-    </text>
-    <text id="n16_kdqv" name="aaPayLab" xy="431,74" size="85,41" fontSize="22" color="#660033" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="AA支付">
-      <relation target="n13_kdqv" sidePair="center-center,middle-middle"/>
-    </text>
-    <component id="n25_kdqv" name="2Player" src="kdqv1j" fileName="btnRadio.xml" xy="159,132">
+    <component id="n25_kdqv" name="2Player" src="h59f1y" fileName="radioButton.xml" xy="159,132">
       <Button checked="true" controller="player" page="0"/>
     </component>
-    <component id="n26_kdqv" name="3Player" src="kdqv1j" fileName="btnRadio.xml" xy="386,132">
+    <component id="n26_kdqv" name="3Player" src="h59f1y" fileName="radioButton.xml" xy="386,132" size="122,35">
       <Button controller="player" page="1"/>
     </component>
-    <component id="n27_kdqv" name="4Player" src="kdqv1j" fileName="btnRadio.xml" xy="613,132">
+    <component id="n27_kdqv" name="4Player" src="h59f1y" fileName="radioButton.xml" xy="613,132" size="122,35">
       <Button controller="player" page="2"/>
     </component>
-    <text id="n28_kdqv" name="2PlayerLab" xy="204,129" size="53,41" fontSize="22" color="#660033" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="2人">
-      <relation target="n25_kdqv" sidePair="center-center,middle-middle"/>
-    </text>
-    <text id="n29_kdqv" name="3PlayerLab" xy="431,129" size="53,41" fontSize="22" color="#660033" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="3人&#xA;">
-      <relation target="n26_kdqv" sidePair="center-center,middle-middle"/>
-    </text>
-    <text id="n30_kdqv" name="4PlayerLab" xy="657,129" size="53,41" fontSize="22" color="#660033" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="4人&#xA;">
-      <relation target="n27_kdqv" sidePair="center-center,middle-middle"/>
-    </text>
-    <component id="n31_kdqv" name="fengding1" src="kdqv1j" fileName="btnRadio.xml" xy="159,187">
+    <component id="n31_kdqv" name="fengding1" src="h59f1y" fileName="radioButton.xml" xy="159,187" size="122,35">
       <Button checked="true" controller="fengding" page="0"/>
     </component>
-    <component id="n32_kdqv" name="fengding2" src="kdqv1j" fileName="btnRadio.xml" xy="386,187">
+    <component id="n32_kdqv" name="fengding2" src="h59f1y" fileName="radioButton.xml" xy="386,187" size="122,35">
       <Button controller="fengding" page="1"/>
     </component>
-    <component id="n33_kdqv" name="fengding3" src="kdqv1j" fileName="btnRadio.xml" xy="159,242">
+    <component id="n33_kdqv" name="fengding3" src="h59f1y" fileName="radioButton.xml" xy="159,242">
       <Button controller="fengding" page="2"/>
     </component>
-    <component id="n34_kdqv" name="fengding4" src="kdqv1j" fileName="btnRadio.xml" xy="386,242">
+    <component id="n34_kdqv" name="fengding4" src="h59f1y" fileName="radioButton.xml" xy="386,242">
       <Button controller="fengding" page="3"/>
     </component>
-    <text id="n35_kdqv" name="fengdingLab1" xy="204,184" size="81,41" fontSize="22" color="#660033" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="20/40">
-      <relation target="n31_kdqv" sidePair="center-center,middle-middle"/>
-    </text>
-    <text id="n36_kdqv" name="fengdingLab2" xy="431,184" size="81,41" fontSize="22" color="#660033" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="30/60">
-      <relation target="n32_kdqv" sidePair="center-center,middle-middle"/>
-    </text>
-    <text id="n37_kdqv" name="fengdingLab3" xy="204,239" size="157,41" fontSize="22" color="#660033" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="50/100/150">
-      <relation target="n33_kdqv" sidePair="center-center,middle-middle"/>
-    </text>
-    <text id="n38_kdqv" name="fengdingLab4" xy="431,239" size="174,41" fontSize="22" color="#660033" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="100/200/300">
-      <relation target="n34_kdqv" sidePair="center-center,middle-middle"/>
-    </text>
-    <component id="n39_kdqv" name="dunzi1" src="kdqv1j" fileName="btnRadio.xml" xy="159,297">
+    <component id="n39_kdqv" name="dunzi1" src="h59f1y" fileName="radioButton.xml" xy="159,297" size="156,35">
       <Button checked="true" controller="dunzi" page="0"/>
     </component>
-    <component id="n40_kdqv" name="dunzi2" src="kdqv1j" fileName="btnRadio.xml" xy="386,297">
+    <component id="n40_kdqv" name="dunzi2" src="h59f1y" fileName="radioButton.xml" xy="386,297" size="258,35">
       <Button controller="dunzi" page="1"/>
     </component>
-    <text id="n42_kdqv" name="dunziLab1" xy="204,294" size="109,41" fontSize="22" color="#660033" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="1分/2分">
-      <relation target="n39_kdqv" sidePair="center-center,middle-middle"/>
-    </text>
-    <text id="n41_kdqv" name="dunziLab2" xy="431,294" size="216,41" fontSize="22" color="#660033" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="10分/20分/30分">
-      <relation target="n40_kdqv" sidePair="center-center,middle-middle"/>
-    </text>
-    <component id="n43_kdqv" name="zimojiafen" src="kdqv1o" fileName="btnCheckbox.xml" xy="159,352" size="44,38"/>
-    <component id="n45_kdqv" name="lianzhuangjiafen" src="kdqv1o" fileName="btnCheckbox.xml" xy="386,352"/>
-    <component id="n44_kdqv" name="jinyuanzi" src="kdqv1o" fileName="btnCheckbox.xml" xy="613,352"/>
-    <text id="n46_kdqv" name="zmjf" xy="205,355" size="129,41" fontSize="22" color="#660033" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="自摸加分">
-      <relation target="n43_kdqv" sidePair="center-center,middle-middle"/>
-    </text>
-    <text id="n47_kdqv" name="lzjf" xy="431,355" size="129,41" fontSize="22" color="#660033" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="连庄加分">
-      <relation target="n45_kdqv" sidePair="center-center,middle-middle"/>
-    </text>
-    <text id="n48_kdqv" name="jyz" xy="657,355" size="98,41" fontSize="22" color="#660033" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="进园子">
-      <relation target="n44_kdqv" sidePair="center-center,middle-middle"/>
-    </text>
+    <component id="n43_kdqv" name="zimojiafen" src="h59f23" fileName="checkBox.xml" xy="159,352" size="200,35"/>
+    <component id="n45_kdqv" name="lianzhuangjiafen" src="h59f23" fileName="checkBox.xml" xy="386,352"/>
+    <component id="n44_kdqv" name="jinyuanzi" src="h59f23" fileName="checkBox.xml" xy="613,352"/>
     <component id="n20_kdqv" name="createRoomButton" src="kdqv1f" fileName="btnCreateRoom.xml" xy="267,461"/>
     <text id="n52_kdqv" name="text1" xy="22,25" size="100,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="局      数 :"/>
     <text id="n54_kdqv" name="text2" xy="22,80" size="104,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="付费模式:"/>
     <text id="n55_kdqv" name="text3" xy="22,135" size="100,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="人      数 :"/>
     <text id="n56_kdqv" name="text4" xy="22,190" size="100,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="封      顶 :"/>
     <text id="n57_kdqv" name="text5" xy="22,300" size="100,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="墩      子 :"/>
-    <text id="n58_kdqv" name="text6" xy="22,360" size="104,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="其他玩法:"/>
+    <text id="n58_kdqv" name="text6" xy="22,357" size="104,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="其他玩法:"/>
     <component id="n62_hqw9" name="consumeCom" src="hqw91r" fileName="diamondConsume.xml" xy="205,419"/>
     <text id="n63_hqw9" name="versionLab" xy="669,502" size="105,29" fontSize="25" align="center" vAlign="middle" autoSize="none" text="v1.0.3"/>
   </displayList>

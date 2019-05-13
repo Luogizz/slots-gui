@@ -6,9 +6,10 @@
     <image id="n42_kdqv" name="bgRight" src="kdqv1a" fileName="resource/ty_tanchuang1.png" xy="249,22" size="829,600"/>
     <image id="n43_kdqv" name="bgLeft" src="kdqv19" fileName="resource/cjfj_bq_di.png" xy="1,10" size="296,625"/>
     <list id="n0_onfo" name="gamelist" xy="50,145" size="195,420" overflow="scroll" margin="5,0,0,0" lineGap="5" align="center" selectionController="gameList">
-      <item url="ui://58oggipckdqv1b"/>
-      <item url="ui://58oggipckdqv1c"/>
+      <gearDisplay controller="gameList" pages=""/>
+      <item url="ui://58oggipch59f1t"/>
       <item url="ui://58oggipckdqvt"/>
+      <item url="ui://58oggipch59f1s"/>
     </list>
     <component id="n49_kdqv" name="gzRule" src="kdqvx" fileName="gzRoom.xml" xy="282,30" size="782,595">
       <gearDisplay controller="gameList" pages="2"/>
