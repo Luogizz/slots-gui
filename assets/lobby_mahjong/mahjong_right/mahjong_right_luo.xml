@@ -3,5 +3,6 @@
   <displayList>
     <image id="n0_fxwe" name="n0" src="fxwe18" fileName="image_bg/heng_zheng.png" xy="1,1"/>
     <loader id="n2_fxwe" name="title" xy="4,36" size="74,88" scale="0.5,0.5" rotation="-90"/>
+    <graph id="n3_fxwe" name="pos" xy="25,10" pivot="0.5,0.5" anchor="true" size="18,15"/>
   </displayList>
 </component>

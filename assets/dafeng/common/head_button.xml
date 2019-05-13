@@ -6,6 +6,7 @@
       <relation target="" sidePair="width-width,height-height"/>
     </image>
     <image id="n1_fxwe" name="n1" src="fxwe15k" fileName="大丰麻将美术改版/2 游戏内/头像/boy_img.png" xy="9,7"/>
+    <graph id="n2_fxwe" name="pos" xy="45,44" pivot="0.5,0.5" anchor="true" size="8,9"/>
   </displayList>
   <Button/>
 </component>
