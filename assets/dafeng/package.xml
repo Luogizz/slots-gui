@@ -116,10 +116,10 @@
     <image id="fxwew5" name="sldban1.png" path="/大丰麻将美术改版/2 游戏内/切图0301/"/>
     <image id="fxwew6" name="tb_ting.png" path="/大丰麻将美术改版/2 游戏内/切图0301/"/>
     <image id="fxwew7" name="tb_ting1.png" path="/大丰麻将美术改版/2 游戏内/切图0301/"/>
-    <image id="fxwew8" name="ts_chi.png" path="/大丰麻将美术改版/2 游戏内/切图0301/"/>
-    <image id="fxwew9" name="ts_dui.png" path="/大丰麻将美术改版/2 游戏内/切图0301/"/>
-    <image id="fxwewa" name="ts_shang.png" path="/大丰麻将美术改版/2 游戏内/切图0301/"/>
-    <image id="fxwewb" name="ts_xia.png" path="/大丰麻将美术改版/2 游戏内/切图0301/"/>
+    <image id="fxwew8" name="ts_chi.png" path="/大丰麻将美术改版/2 游戏内/切图0301/" exported="true"/>
+    <image id="fxwew9" name="ts_dui.png" path="/大丰麻将美术改版/2 游戏内/切图0301/" exported="true"/>
+    <image id="fxwewa" name="ts_shang.png" path="/大丰麻将美术改版/2 游戏内/切图0301/" exported="true"/>
+    <image id="fxwewb" name="ts_xia.png" path="/大丰麻将美术改版/2 游戏内/切图0301/" exported="true"/>
     <image id="fxwewc" name="zimo.png" path="/大丰麻将美术改版/2 游戏内/切图0301/"/>
     <image id="fxwewd" name="zjsbg.png" path="/大丰麻将美术改版/2 游戏内/切图0301/"/>
     <image id="fxwewe" name="zjsbg_di.png" path="/大丰麻将美术改版/2 游戏内/切图0301/"/>
