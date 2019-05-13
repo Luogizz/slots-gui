@@ -14,5 +14,6 @@
     <component id="n11_fxwe" name="flowers" src="fxwe16l" fileName="desk/right/desk_flower.xml" xy="142,155" touchable="false"/>
     <image id="n9_fxwe" name="ready" src="fxwez5" fileName="大丰麻将美术改版/2 游戏内/切图/z_准备开始gps/ok.png" xy="190,215"/>
     <graph id="n13_fxwe" name="aniPos" xy="52,242" pivot="0.5,0.5" size="0,0"/>
+    <component id="n14_g0pr" name="discardTip" src="g0pr185" fileName="desk/right/discard_tip.xml" xy="32,228" visible="false"/>
   </displayList>
 </component>
