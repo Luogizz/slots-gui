@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="154,84" extention="Button">
+<component size="154,84" pivot="0.5,0.5" extention="Button">
   <controller name="button" pages="0,up,1,down" selected="1"/>
-  <controller name="c1" pages="0,未读,1,已读" selected="0"/>
+  <controller name="c3" pages="0,已领取,1,未领取" selected="0"/>
   <displayList>
     <image id="n10" name="bg" src="h59f5" fileName="resource/bg_di.png" xy="0,0" size="154,84"/>
-    <image id="n20_h59f" name="image" src="h59f9" fileName="resource/xf.png" xy="50,14" pivot="0.5,0" scale="0.8,0.8">
-      <gearDisplay controller="c1" pages="0"/>
+    <image id="n20_h59f" name="image" src="h59f15" fileName="resource/tbzs.png" xy="54,17" pivot="0.5,0" scale="0.8,0.8"/>
+    <text id="n22_h59f" name="count" xy="55,46" pivot="0.5,0" size="47,27" fontSize="20" color="#0000ff" align="center" vAlign="middle" singleLine="true" autoClearText="true" text="x300"/>
+    <image id="n23_h59f" name="image" src="h59fa" fileName="resource/yl.png" xy="-4,-7" scale="0.5,0.5">
+      <gearDisplay controller="c3" pages="0"/>
     </image>
-    <text id="n22_h59f" name="count" xy="69,51" pivot="0.5,0" size="17,19" fontSize="12" color="#660033" align="center" vAlign="middle" singleLine="true" text="x3"/>
-    <image id="n23_h59f" name="getImage" src="h59fa" fileName="resource/yl.png" xy="-4,-7" scale="0.5,0.5"/>
   </displayList>
-  <Button mode="Radio"/>
+  <Button downEffect="scale" downEffectValue="0.80"/>
   <transition name="t0">
     <item time="0" type="Visible" value="true"/>
     <item time="0" type="XY" tween="true" startValue="391,-" endValue="0,0" duration="9"/>

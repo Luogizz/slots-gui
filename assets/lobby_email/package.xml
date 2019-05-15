@@ -36,6 +36,7 @@
     <component id="h59f12" name="GripButton_VT.xml" path="/component/"/>
     <component id="h59f13" name="attachmentItem.xml" path="/"/>
     <component id="h59f14" name="spaceBtn.xml" path="/"/>
+    <image id="h59f15" name="tbzs.png" path="/resource/"/>
   </resources>
   <publish name="lobby_email"/>
 </packageDescription>
