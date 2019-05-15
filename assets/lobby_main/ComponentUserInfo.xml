@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="283,91" designImageOffsetY="-2">
+  <displayList>
+    <image id="n33_h59f" name="bg" src="d5oed" fileName="大厅_slices/头像框@2x.png" xy="0,0"/>
+    <image id="n34_h59f" name="icon" src="d5oee" fileName="大厅_slices/头像示意底图@2x.png" xy="8,7"/>
+    <image id="n35_h59f" name="id_bg" src="d5oe5" fileName="大厅_slices/ID底框@2x.png" xy="91,43"/>
+    <text id="n36_h59f" name="id" xy="103,48" size="147,30" fontSize="22" align="center" vAlign="middle" ubb="true" autoSize="none" singleLine="true" autoClearText="true" text="ID:1964646"/>
+    <text id="n37_h59f" name="name" xy="101,12" size="147,30" fontSize="20" vAlign="middle" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="我的昵称阿斯达斯阿斯达"/>
+  </displayList>
+</component>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="vcha2uma" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="h59f0" name="userInfoView.xml" path="/" exported="true"/>
+    <image id="h59f1" name="grxx_btn_ghbk.png" path="/resource/"/>
+    <image id="h59f2" name="grxx_dgk.png" path="/resource/"/>
+    <image id="h59f3" name="grxx_di.png" path="/resource/" scale="9grid" scale9grid="33,35,7,6"/>
+    <image id="h59f4" name="grxx_hwfg_dg.png" path="/resource/"/>
+    <image id="h59f5" name="grxx_icon_dltb.png" path="/resource/"/>
+    <image id="h59f6" name="grxx_icon_sou.png" path="/resource/"/>
+    <image id="h59f7" name="grxx_icon_xbn.png" path="/resource/"/>
+    <image id="h59f8" name="grxx_icon_xbv.png" path="/resource/"/>
+    <image id="h59f9" name="grxx_jt.png" path="/resource/"/>
+    <image id="h59fa" name="grxx_txbk.png" path="/resource/"/>
+    <image id="h59fb" name="grxx_txdk.png" path="/resource/"/>
+    <image id="h59fc" name="grxx_zi_ghbk.png" path="/resource/"/>
+    <image id="h59fd" name="grxx_zi_yqhy.png" path="/resource/"/>
+    <component id="h59fe" name="item.xml" path="/"/>
+    <component id="h59ff" name="closeBtn.xml" path="/"/>
+  </resources>
+  <publish name="lobby_user_info"/>
+</packageDescription>

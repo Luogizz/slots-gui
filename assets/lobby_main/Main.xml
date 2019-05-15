@@ -18,5 +18,7 @@
     <component id="n12_d5oe" name="n12" src="d5oe1c" fileName="ButtonJiaRuYouXi.xml" xy="0,623"/>
     <component id="n29_d5oe" name="n29" src="d5oe1k" fileName="HSGameList.xml" xy="380,129"/>
     <component id="n32_jrto" name="createRoom" src="jrto1o" fileName="ButtonCreateRoom.xml" xy="252,637"/>
+    <component id="n33_h59f" name="userInfo" src="h59f1q" fileName="ComponentUserInfo.xml" xy="0,4"/>
+    <component id="n36_h59f" name="diamondNode" src="h59f1r" fileName="ComponentDiamond.xml" xy="822,19"/>
   </displayList>
 </component>
