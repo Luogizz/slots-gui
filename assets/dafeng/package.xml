@@ -523,6 +523,7 @@
     <component id="g0pr183" name="discard_tip.xml" path="/desk/left/"/>
     <component id="g0pr184" name="discard_tip.xml" path="/desk/mine/"/>
     <component id="g0pr185" name="discard_tip.xml" path="/desk/right/"/>
+    <component id="rh8w186" name="check_ting_button.xml" path="/desk/"/>
   </resources>
   <publish name="dafeng"/>
 </packageDescription>
