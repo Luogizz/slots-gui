@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="1136,300" opaque="false" designImage="ui://tnqevky2fxweua">
+<component size="1136,640" opaque="false" designImage="ui://tnqevky2fxweua">
   <displayList>
     <component id="n0_fxwe" name="head" src="fxwe15n" fileName="common/head_button.xml" xy="841,10"/>
     <image id="n1_fxwe" name="owner" src="fxwexq" fileName="大丰麻将美术改版/2 游戏内/切图/bq_fanzhu.png" xy="820,15"/>
@@ -15,5 +15,6 @@
     <image id="n9_fxwe" name="ready" src="fxwez5" fileName="大丰麻将美术改版/2 游戏内/切图/z_准备开始gps/ok.png" xy="773,49"/>
     <graph id="n13_fxwe" name="aniPos" xy="574,156" pivot="0.5,0.5" size="0,0" visible="false"/>
     <component id="n14_g0pr" name="discardTip" src="g0pr182" fileName="desk/dui/discard_tip.xml" xy="501,104" visible="false"/>
+    <graph id="n15_rh8w" name="userInfoPos" xy="357,40" size="20,26"/>
   </displayList>
 </component>

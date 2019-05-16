@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="92,92" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <loader id="n3_rh8w" name="n0" xy="0,-1" size="98,99"/>
+    <image id="n1_fxwe" name="n1" src="rh8wm" fileName="image/y_txk.png" xy="-6,-7"/>
+  </displayList>
+  <Button/>
+</component>

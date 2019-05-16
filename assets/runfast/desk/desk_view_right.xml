@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="900,220" designImage="ui://ppyzj5nref8p7c" designImageOffsetX="-235" designImageOffsetY="-51">
+<component size="1136,640" opaque="false" designImage="ui://ppyzj5nref8p7c">
   <displayList>
-    <component id="n6_ef8p" name="head" src="ef8pck" fileName="common/desk_user_button.xml" xy="785,83"/>
-    <image id="n3_ef8p" name="hands" src="ef8p14" fileName="poker/paishu.png" pkg="p966ud2t" xy="720,119" visible="false"/>
-    <image id="n4_ef8p" name="roomOwner" src="ef8p3r" fileName="大丰关张美术资源/切图/t_通用/jb_fz.png" xy="877,79" visible="false"/>
-    <image id="n5_ef8p" name="n5" src="ef8pay" fileName="大丰关张美术资源/老版/切图/ui_poker/y_游戏内/yxn_bj_ct.png" xy="770,137" visible="false"/>
-    <image id="n7_ef8p" name="score" src="ef8p3s" fileName="大丰关张美术资源/切图/t_通用/jf_dk.png" xy="831,194" pivot="0.5,0.5" anchor="true" size="102,40" restrictSize="102,0,0,0" visible="false">
+    <component id="n6_ef8p" name="head" src="ef8pck" fileName="common/desk_user_button.xml" xy="1020,131"/>
+    <image id="n3_ef8p" name="hands" src="ef8p14" fileName="poker/paishu.png" pkg="p966ud2t" xy="955,167" visible="false"/>
+    <image id="n4_ef8p" name="roomOwner" src="ef8p3r" fileName="大丰关张美术资源/切图/t_通用/jb_fz.png" xy="1112,127" visible="false"/>
+    <image id="n5_ef8p" name="n5" src="ef8pay" fileName="大丰关张美术资源/老版/切图/ui_poker/y_游戏内/yxn_bj_ct.png" xy="1005,185" visible="false"/>
+    <image id="n7_ef8p" name="score" src="ef8p3s" fileName="大丰关张美术资源/切图/t_通用/jf_dk.png" xy="1066,242" pivot="0.5,0.5" anchor="true" size="102,40" restrictSize="102,0,0,0" visible="false">
       <relation target="n8_ef8p" sidePair="width-width"/>
     </image>
-    <text id="n8_ef8p" name="scoreText" xy="831,193" pivot="0.5,0.5" anchor="true" size="19,24" visible="false" font="ui://ppyzj5nref8pcn" fontSize="12" text="0"/>
-    <text id="n9_ef8p" name="handsNum" xy="740,145" pivot="0.5,0.5" anchor="true" size="47,27" visible="false" font="ui://ppyzj5nref8pco" fontSize="12" align="center" vAlign="middle" autoSize="none" text="11"/>
-    <image id="n11_vp44" name="ready" src="ef8p4m" fileName="大丰关张美术资源/切图/z_准备开始gps/ok.png" xy="635,107" visible="false"/>
-    <component id="n12_vp44" name="discards" src="vp44d3" fileName="desk/desk_discard_other_list.xml" xy="455,66"/>
-    <image id="n13_b6aq" name="count" src="ef8pb5" fileName="大丰关张美术资源/老版/切图/ui_poker/y_游戏内/yxn_nz.png" xy="603,90" visible="false"/>
-    <text id="n14_b6aq" name="countDown" xy="615,111" size="60,45" visible="false" font="ui://ppyzj5nref8pct" fontSize="12" align="center" vAlign="middle" autoSize="none" text="20"/>
-    <component id="n15_jq88" name="lights" src="jq88dt" fileName="desk/desk_light_list.xml" xy="400,1"/>
-    <graph id="n16_e27g" name="aniPos" xy="528,130" pivot="0.5,0.5" size="44,36"/>
+    <text id="n8_ef8p" name="scoreText" xy="1066,241" pivot="0.5,0.5" anchor="true" size="19,24" visible="false" font="ui://ppyzj5nref8pcn" fontSize="12" text="0"/>
+    <text id="n9_ef8p" name="handsNum" xy="975,193" pivot="0.5,0.5" anchor="true" size="47,27" visible="false" font="ui://ppyzj5nref8pco" fontSize="12" align="center" vAlign="middle" autoSize="none" text="11"/>
+    <image id="n11_vp44" name="ready" src="ef8p4m" fileName="大丰关张美术资源/切图/z_准备开始gps/ok.png" xy="870,155" visible="false"/>
+    <component id="n12_vp44" name="discards" src="vp44d3" fileName="desk/desk_discard_other_list.xml" xy="690,114"/>
+    <image id="n13_b6aq" name="count" src="ef8pb5" fileName="大丰关张美术资源/老版/切图/ui_poker/y_游戏内/yxn_nz.png" xy="838,138" visible="false"/>
+    <text id="n14_b6aq" name="countDown" xy="850,159" size="60,45" visible="false" font="ui://ppyzj5nref8pct" fontSize="12" align="center" vAlign="middle" autoSize="none" text="20"/>
+    <component id="n15_jq88" name="lights" src="jq88dt" fileName="desk/desk_light_list.xml" xy="635,49"/>
+    <graph id="n16_e27g" name="aniPos" xy="763,178" pivot="0.5,0.5" size="44,36"/>
+    <graph id="n17_rh8w" name="userInfoPos" xy="532,129" size="20,26"/>
   </displayList>
 </component>
