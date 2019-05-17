@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1136,640" opaque="false" designImage="ui://ppyzj5nref8p7c">
   <displayList>
-    <component id="n6_ef8p" name="head" src="ef8pck" fileName="common/desk_user_button.xml" xy="24,133"/>
+    <component id="n6_ef8p" name="head" src="ef8pck" fileName="common/desk_user_button.xml" xy="71,178"/>
     <image id="n3_ef8p" name="hands" src="ef8p14" fileName="poker/paishu.png" pkg="p966ud2t" xy="139,170" visible="false"/>
     <image id="n4_ef8p" name="roomOwner" src="ef8p3r" fileName="大丰关张美术资源/切图/t_通用/jb_fz.png" xy="2,130" visible="false"/>
     <image id="n5_ef8p" name="n5" src="ef8pay" fileName="大丰关张美术资源/老版/切图/ui_poker/y_游戏内/yxn_bj_ct.png" xy="95,186" visible="false"/>

@@ -3,7 +3,7 @@
   <displayList>
     <component id="n60_ef8p" name="hands" src="ef8pcy" fileName="desk/desk_my_poker_list.xml" xy="577,492"/>
     <image id="n67_fxwe" name="roomOwner" src="ef8p3r" fileName="大丰关张美术资源/切图/t_通用/jb_fz.png" xy="2,540" visible="false"/>
-    <component id="n57_ef8p" name="head" src="ef8pck" fileName="common/desk_user_button.xml" xy="25,541"/>
+    <component id="n57_ef8p" name="head" src="ef8pck" fileName="common/desk_user_button.xml" xy="69,585"/>
     <image id="n58_ef8p" name="score" src="ef8p3s" fileName="大丰关张美术资源/切图/t_通用/jf_dk.png" xy="172,616" pivot="0.5,0.5" anchor="true" size="102,40" restrictSize="102,0,0,0" visible="false">
       <relation target="n59_ef8p" sidePair="width-width"/>
     </image>

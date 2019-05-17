@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1136,640" opaque="false" designImage="ui://tnqevky2fxweua">
   <displayList>
-    <component id="n2_fxwe" name="head" src="fxwe15n" fileName="common/head_button.xml" xy="1024,173"/>
+    <component id="n2_fxwe" name="head" src="fxwe15n" fileName="common/head_button.xml" xy="1073,219"/>
     <image id="n3_fxwe" name="owner" src="fxwexq" fileName="大丰麻将美术改版/2 游戏内/切图/bq_fanzhu.png" xy="1009,175"/>
     <image id="n4_fxwe" name="lianzhuang" src="fxweyj" fileName="大丰麻将美术改版/2 游戏内/切图/tb_lianzhuang.png" xy="1099,220"/>
     <image id="n5_fxwe" name="ting" src="fxweyk" fileName="大丰麻将美术改版/2 游戏内/切图/tb_ting.png" xy="1079,175"/>
@@ -10,7 +10,7 @@
     <component id="n1_fxwe" name="discards" src="fxwe16k" fileName="desk/right/desk_discard.xml" xy="783,144" touchable="false"/>
     <component id="n8_fxwe" name="hands" src="fxwe15z" fileName="desk/right/desk_hand.xml" xy="955,0" touchable="false"/>
     <component id="n10_fxwe" name="melds" src="fxwe16d" fileName="desk/right/desk_meld.xml" xy="955,0" touchable="false"/>
-    <component id="n12_fxwe" name="lights" src="fxwe16n" fileName="desk/right/desk_light.xml" xy="955,0" touchable="false"/>
+    <component id="n12_fxwe" name="lights" src="fxwe16n" fileName="desk/right/desk_light.xml" xy="956,0" touchable="false"/>
     <component id="n11_fxwe" name="flowers" src="fxwe16l" fileName="desk/right/desk_flower.xml" xy="917,155" touchable="false"/>
     <image id="n9_fxwe" name="ready" src="fxwez5" fileName="大丰麻将美术改版/2 游戏内/切图/z_准备开始gps/ok.png" xy="965,215"/>
     <graph id="n13_fxwe" name="aniPos" xy="827,242" pivot="0.5,0.5" size="0,0"/>
