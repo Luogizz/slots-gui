@@ -20,5 +20,6 @@
       <relation target="n33_ef8p" sidePair="width-width"/>
     </component>
     <component id="n37_vp44" name="ready" src="vp44d2" fileName="desk/desk_ready_button.xml" xy="440,467" visible="false"/>
+    <loader id="n39_6906" name="donate" xy="521,277" pivot="0.5,0.5" anchor="true" size="105,97" visible="false"/>
   </displayList>
 </component>
