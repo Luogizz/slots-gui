@@ -2,7 +2,7 @@
 <component size="285,512" designImage="ui://tnqevky2fxwetv" designImageOffsetX="-5" designImageOffsetY="-90" designImageLayer="1">
   <displayList>
     <image id="n0_rhc4" name="n0" src="fxwe13v" fileName="大丰麻将美术改版/2 游戏内/切图/j_结算/zjsbg.png" xy="2,0" size="281,459"/>
-    <component id="n1_rhc4" name="head" src="fxwe15n" fileName="common/head_button.xml" xy="115,42" scale="0.7,0.7"/>
+    <component id="n1_rhc4" name="head" src="fxwe15n" fileName="common/head_button.xml" xy="148,73" scale="0.7,0.7"/>
     <image id="n2_rhc4" name="roomOwner" src="fxwexq" fileName="大丰麻将美术改版/2 游戏内/切图/bq_fanzhu.png" xy="94,38"/>
     <text id="n3_rhc4" name="name" xy="46,104" size="200,28" fontSize="20" color="#8aceed" align="center" vAlign="middle" autoSize="none" bold="true" text=""/>
     <text id="n4_rhc4" name="id" xy="46,129" size="200,22" fontSize="16" color="#8aceed" align="center" vAlign="middle" autoSize="none" text=""/>

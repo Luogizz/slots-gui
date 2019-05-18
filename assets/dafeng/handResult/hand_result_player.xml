@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1050,110" designImage="ui://tnqevky2fxwety" designImageOffsetX="-50" designImageOffsetY="-220">
   <displayList>
-    <component id="n0_rhc4" name="head" src="fxwe15n" fileName="common/head_button.xml" xy="82,26" scale="0.7,0.7"/>
+    <component id="n0_rhc4" name="head" src="fxwe15n" fileName="common/head_button.xml" xy="116,59" scale="0.7,0.7"/>
     <text id="n1_rhc4" name="name" xy="160,43" size="110,28" fontSize="20" color="#8aceed" vAlign="middle" autoSize="none" bold="true" text="哈哈哈啊是"/>
     <text id="n2_rhc4" name="id" xy="164,67" size="77,25" fontSize="16" color="#8aceed" autoSize="none" text="12345600&#xA;&#xA;"/>
     <image id="n4_rhc4" name="roomOwner" src="fxwexq" fileName="大丰麻将美术改版/2 游戏内/切图/bq_fanzhu.png" xy="60,27"/>
