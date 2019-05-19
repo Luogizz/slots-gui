@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="55,120">
+  <displayList>
+    <component id="n6_fxwe" name="n1" src="fxwe1k" fileName="mahjong_left/mahjong_luo.xml" xy="0,0"/>
+    <component id="n7_fxwe" name="n2" src="fxwe1k" fileName="mahjong_left/mahjong_luo.xml" xy="0,33"/>
+    <component id="n8_fxwe" name="n3" src="fxwe1k" fileName="mahjong_left/mahjong_luo.xml" xy="0,66"/>
+    <component id="n9_fxwe" name="n4" src="fxwe1k" fileName="mahjong_left/mahjong_luo.xml" xy="0,23"/>
+  </displayList>
+</component>

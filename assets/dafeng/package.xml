@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="tnqevky2" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="fxwet1" name="gps.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxwet2" name="gps标注.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxwet3" name="j_解散房间.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxwet4" name="j_解散房间_提示.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxwet5" name="j_解散房间_提示标注.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxwet6" name="j_解散房间标注.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxwet7" name="j_金币场-结算.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxwet8" name="全摆牌.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxwet9" name="全摆牌标注.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxweta" name="出牌.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxwetb" name="吃牌加取消.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxwetc" name="吃胡提示框.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxwetd" name="吃胡提示框标注.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxwete" name="大按钮.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxwetf" name="录像按钮增加手图.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxwetg" name="标志改效果图.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxweth" name="游戏内游戏规则.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxweti" name="点击查看游戏规则.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxwetj" name="牌墙标注.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxwetk" name="用户信息-0326.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxwetl" name="用户信息-0326标注.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxwetm" name="用户信息-别人.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxwetn" name="用户信息-本人.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxweto" name="用户信息-标注.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxwetp" name="结算-失败.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxwetq" name="结算-失败标注.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxwetr" name="结算-总结算.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxwets" name="结算-总结算0326.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxwett" name="结算-总结算2人.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxwetu" name="结算-总结算2人标注.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxwetv" name="结算-总结算标注.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxwetw" name="结算-胜利.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxwetx" name="结算-胜利0326.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxwety" name="结算-胜利标注.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxwetz" name="结算-荒庄.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxweu0" name="结算-荒庄标注.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxweu1" name="聊天短语.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxweu2" name="聊天短语标注.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxweu3" name="聊天表情.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxweu4" name="聊天表情标注.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxweu5" name="聊天记录.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxweu6" name="聊天记录标注.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxweu7" name="行牌箭头.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxweu8" name="设置.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxweu9" name="设置标注.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="fxweua" name="打牌界面.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/效果图0301/"/>
+    <image id="fxweub" name="打牌界面1.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/效果图0301/"/>
+    <image id="fxweuc" name="打牌界面标注.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/效果图0301/"/>
+    <image id="fxweud" name="结算-失败0228.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/效果图0301/"/>
+    <image id="fxweue" name="结算-总结算0228.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/效果图0301/"/>
+    <image id="fxweuf" name="结算-总结算0228标注.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/效果图0301/"/>
+    <image id="fxweug" name="结算-胜利0228.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/效果图0301/"/>
+    <image id="fxweuh" name="结算-胜利0228标注.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/效果图0301/"/>
+    <image id="fxweui" name="结算-荒庄0228.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/效果图0301/"/>
+    <misc id="fxweuj" name="zan01.atlas.txt" path="/大丰麻将美术改版/2 游戏内/表情动画/zan01/"/>
+    <misc id="fxweuk" name="zan01.json" path="/大丰麻将美术改版/2 游戏内/表情动画/zan01/"/>
+    <image id="fxweul" name="zan01.png" path="/大丰麻将美术改版/2 游戏内/表情动画/zan01/"/>
+    <misc id="fxweum" name="yinxiao01.atlas.txt" path="/大丰麻将美术改版/2 游戏内/表情动画/yingxiao01/"/>
+    <misc id="fxweun" name="yinxiao01.json" path="/大丰麻将美术改版/2 游戏内/表情动画/yingxiao01/"/>
+    <image id="fxweuo" name="yinxiao01.png" path="/大丰麻将美术改版/2 游戏内/表情动画/yingxiao01/"/>
+    <misc id="fxweup" name="shaoxiang01.atlas.txt" path="/大丰麻将美术改版/2 游戏内/表情动画/shaoxiang01/"/>
+    <misc id="fxweuq" name="shaoxiang01.json" path="/大丰麻将美术改版/2 游戏内/表情动画/shaoxiang01/"/>
+    <image id="fxweur" name="shaoxiang01.png" path="/大丰麻将美术改版/2 游戏内/表情动画/shaoxiang01/"/>
+    <misc id="fxweus" name="qinqin01.atlas.txt" path="/大丰麻将美术改版/2 游戏内/表情动画/qinqin01/"/>
+    <misc id="fxweut" name="qinqin01.json" path="/大丰麻将美术改版/2 游戏内/表情动画/qinqin01/"/>
+    <image id="fxweuu" name="qinqin01.png" path="/大丰麻将美术改版/2 游戏内/表情动画/qinqin01/"/>
+    <misc id="fxweuv" name="liulei01.atlas.txt" path="/大丰麻将美术改版/2 游戏内/表情动画/liulei01/"/>
+    <misc id="fxweuw" name="liulei01.json" path="/大丰麻将美术改版/2 游戏内/表情动画/liulei01/"/>
+    <image id="fxweux" name="liulei01.png" path="/大丰麻将美术改版/2 游戏内/表情动画/liulei01/"/>
+    <misc id="fxweuy" name="liuhan01.atlas.txt" path="/大丰麻将美术改版/2 游戏内/表情动画/liuhan01/"/>
+    <misc id="fxweuz" name="liuhan01.json" path="/大丰麻将美术改版/2 游戏内/表情动画/liuhan01/"/>
+    <image id="fxwev0" name="liuhan01.png" path="/大丰麻将美术改版/2 游戏内/表情动画/liuhan01/"/>
+    <misc id="fxwev1" name="liubixue01.atlas.txt" path="/大丰麻将美术改版/2 游戏内/表情动画/liubixie01/"/>
+    <misc id="fxwev2" name="liubixue01.json" path="/大丰麻将美术改版/2 游戏内/表情动画/liubixie01/"/>
+    <image id="fxwev3" name="liubixue01.png" path="/大丰麻将美术改版/2 游戏内/表情动画/liubixie01/"/>
+    <misc id="fxwev4" name="lingbiyi01.atlas.txt" path="/大丰麻将美术改版/2 游戏内/表情动画/lingbiyi01/"/>
+    <misc id="fxwev5" name="lingbiyi01.json" path="/大丰麻将美术改版/2 游戏内/表情动画/lingbiyi01/"/>
+    <image id="fxwev6" name="lingbiyi01.png" path="/大丰麻将美术改版/2 游戏内/表情动画/lingbiyi01/"/>
+    <misc id="fxwev7" name="koubishi01.atlas.txt" path="/大丰麻将美术改版/2 游戏内/表情动画/koubishi01/"/>
+    <misc id="fxwev8" name="koubishi01.json" path="/大丰麻将美术改版/2 游戏内/表情动画/koubishi01/"/>
+    <image id="fxwev9" name="koubishi01.png" path="/大丰麻将美术改版/2 游戏内/表情动画/koubishi01/"/>
+    <misc id="fxweva" name="jingya01.atlas.txt" path="/大丰麻将美术改版/2 游戏内/表情动画/jingya01/"/>
+    <misc id="fxwevb" name="jingya01.json" path="/大丰麻将美术改版/2 游戏内/表情动画/jingya01/"/>
+    <image id="fxwevc" name="jingya01.png" path="/大丰麻将美术改版/2 游戏内/表情动画/jingya01/"/>
+    <misc id="fxwevd" name="fahuo01.atlas.txt" path="/大丰麻将美术改版/2 游戏内/表情动画/fahuo01/"/>
+    <misc id="fxweve" name="fahuo01.json" path="/大丰麻将美术改版/2 游戏内/表情动画/fahuo01/"/>
+    <image id="fxwevf" name="fahuo01.png" path="/大丰麻将美术改版/2 游戏内/表情动画/fahuo01/"/>
+    <misc id="fxwevg" name="daxiao01.atlas.txt" path="/大丰麻将美术改版/2 游戏内/表情动画/daxiao01/"/>
+    <misc id="fxwevh" name="daxiao01.json" path="/大丰麻将美术改版/2 游戏内/表情动画/daxiao01/"/>
+    <image id="fxwevi" name="daxiao01.png" path="/大丰麻将美术改版/2 游戏内/表情动画/daxiao01/"/>
+    <misc id="fxwevj" name="dabomei.atlas.txt" path="/大丰麻将美术改版/2 游戏内/表情动画/dabomei/"/>
+    <misc id="fxwevk" name="dabomei.json" path="/大丰麻将美术改版/2 游戏内/表情动画/dabomei/"/>
+    <image id="fxwevl" name="dabomei.png" path="/大丰麻将美术改版/2 游戏内/表情动画/dabomei/"/>
+    <misc id="fxwevm" name="chouyan01.atlas.txt" path="/大丰麻将美术改版/2 游戏内/表情动画/chouyan01/"/>
+    <misc id="fxwevn" name="chouyan01.json" path="/大丰麻将美术改版/2 游戏内/表情动画/chouyan01/"/>
+    <image id="fxwevo" name="chouyan01.png" path="/大丰麻将美术改版/2 游戏内/表情动画/chouyan01/"/>
+    <misc id="fxwevp" name="biaoqing01.atlas.txt" path="/大丰麻将美术改版/2 游戏内/表情动画/biaoqing01/"/>
+    <misc id="fxwevq" name="biaoqing01.json" path="/大丰麻将美术改版/2 游戏内/表情动画/biaoqing01/"/>
+    <image id="fxwevr" name="biaoqing01.png" path="/大丰麻将美术改版/2 游戏内/表情动画/biaoqing01/"/>
+    <misc id="fxwevs" name="Effects_zi_tishi_zhua.unitypackage" path="/大丰麻将美术改版/2 游戏内/动效/"/>
+    <misc id="fxwevt" name="Effects_zi_zhua.unitypackage" path="/大丰麻将美术改版/2 游戏内/动效/"/>
+    <image id="fxwevu" name="an_chatin.png" path="/大丰麻将美术改版/2 游戏内/切图0301/"/>
+    <image id="fxwevv" name="an_gengduo.png" path="/大丰麻将美术改版/2 游戏内/切图0301/"/>
+    <image id="fxwevw" name="bg1.jpg" path="/大丰麻将美术改版/2 游戏内/切图0301/"/>
+    <image id="fxwevx" name="bg2.jpg" path="/大丰麻将美术改版/2 游戏内/切图0301/"/>
+    <image id="fxwevy" name="fpao.png" path="/大丰麻将美术改版/2 游戏内/切图0301/"/>
+    <image id="fxwevz" name="huabg.png" path="/大丰麻将美术改版/2 游戏内/切图0301/"/>
+    <image id="fxwew0" name="huabg1.png" path="/大丰麻将美术改版/2 游戏内/切图0301/"/>
+    <image id="fxwew1" name="hupai.png" path="/大丰麻将美术改版/2 游戏内/切图0301/"/>
+    <image id="fxwew2" name="jiantou.png" path="/大丰麻将美术改版/2 游戏内/切图0301/"/>
+    <image id="fxwew3" name="jttouyin.png" path="/大丰麻将美术改版/2 游戏内/切图0301/"/>
+    <image id="fxwew4" name="sldban.png" path="/大丰麻将美术改版/2 游戏内/切图0301/"/>
+    <image id="fxwew5" name="sldban1.png" path="/大丰麻将美术改版/2 游戏内/切图0301/"/>
+    <image id="fxwew6" name="tb_ting.png" path="/大丰麻将美术改版/2 游戏内/切图0301/"/>
+    <image id="fxwew7" name="tb_ting1.png" path="/大丰麻将美术改版/2 游戏内/切图0301/"/>
+    <image id="fxwew8" name="ts_chi.png" path="/大丰麻将美术改版/2 游戏内/切图0301/" exported="true"/>
+    <image id="fxwew9" name="ts_dui.png" path="/大丰麻将美术改版/2 游戏内/切图0301/" exported="true"/>
+    <image id="fxwewa" name="ts_shang.png" path="/大丰麻将美术改版/2 游戏内/切图0301/" exported="true"/>
+    <image id="fxwewb" name="ts_xia.png" path="/大丰麻将美术改版/2 游戏内/切图0301/" exported="true"/>
+    <image id="fxwewc" name="zimo.png" path="/大丰麻将美术改版/2 游戏内/切图0301/"/>
+    <image id="fxwewd" name="zjsbg.png" path="/大丰麻将美术改版/2 游戏内/切图0301/"/>
+    <image id="fxwewe" name="zjsbg_di.png" path="/大丰麻将美术改版/2 游戏内/切图0301/"/>
+    <image id="fxwewf" name="di_hu.png" path="/大丰麻将美术改版/2 游戏内/切图0301/出牌按钮/"/>
+    <image id="fxwewg" name="hu.png" path="/大丰麻将美术改版/2 游戏内/切图0301/出牌按钮/"/>
+    <image id="fxwewh" name="di1.png" path="/大丰麻将美术改版/2 游戏内/切图0301/j_结算/"/>
+    <image id="fxwewi" name="di11.png" path="/大丰麻将美术改版/2 游戏内/切图0301/j_结算/"/>
+    <image id="fxwewj" name="dian.png" path="/大丰麻将美术改版/2 游戏内/切图0301/j_结算/"/>
+    <image id="fxwewk" name="di_l.png" path="/大丰麻将美术改版/2 游戏内/切图0301/j_结算/"/>
+    <image id="fxwewl" name="di_l1.png" path="/大丰麻将美术改版/2 游戏内/切图0301/j_结算/"/>
+    <image id="fxwewm" name="di_r.png" path="/大丰麻将美术改版/2 游戏内/切图0301/j_结算/"/>
+    <image id="fxwewn" name="di_r1.png" path="/大丰麻将美术改版/2 游戏内/切图0301/j_结算/"/>
+    <image id="fxwewo" name="dl.png" path="/大丰麻将美术改版/2 游戏内/切图0301/j_结算/"/>
+    <image id="fxwewp" name="dyj.png" path="/大丰麻将美术改版/2 游戏内/切图0301/j_结算/"/>
+    <image id="fxwewq" name="guang.png" path="/大丰麻将美术改版/2 游戏内/切图0301/j_结算/"/>
+    <image id="fxwewr" name="guang1.png" path="/大丰麻将美术改版/2 游戏内/切图0301/j_结算/"/>
+    <image id="fxwews" name="h.png" path="/大丰麻将美术改版/2 游戏内/切图0301/j_结算/"/>
+    <image id="fxwewt" name="hz.png" path="/大丰麻将美术改版/2 游戏内/切图0301/j_结算/"/>
+    <image id="fxwewu" name="Js_zjf.png" path="/大丰麻将美术改版/2 游戏内/切图0301/j_结算/"/>
+    <image id="fxwewv" name="Js_zjf1.png" path="/大丰麻将美术改版/2 游戏内/切图0301/j_结算/"/>
+    <image id="fxweww" name="l.png" path="/大丰麻将美术改版/2 游戏内/切图0301/j_结算/"/>
+    <image id="fxwewx" name="s.png" path="/大丰麻将美术改版/2 游戏内/切图0301/j_结算/"/>
+    <image id="fxwewy" name="shi.png" path="/大丰麻将美术改版/2 游戏内/切图0301/j_结算/"/>
+    <image id="fxwewz" name="shibai.png" path="/大丰麻将美术改版/2 游戏内/切图0301/j_结算/"/>
+    <image id="fxwex0" name="shufen.png" path="/大丰麻将美术改版/2 游戏内/切图0301/j_结算/"/>
+    <image id="fxwex1" name="shuye.png" path="/大丰麻将美术改版/2 游戏内/切图0301/j_结算/"/>
+    <image id="fxwex2" name="chi.png" path="/大丰麻将美术改版/2 游戏内/动效/出牌按钮/"/>
+    <image id="fxwex3" name="cpbg_9gong.png" path="/大丰麻将美术改版/2 游戏内/动效/出牌按钮/"/>
+    <image id="fxwex4" name="di_cpg.png" path="/大丰麻将美术改版/2 游戏内/动效/出牌按钮/"/>
+    <image id="fxwex5" name="di_guo.png" path="/大丰麻将美术改版/2 游戏内/动效/出牌按钮/"/>
+    <image id="fxwex6" name="di_hu.png" path="/大丰麻将美术改版/2 游戏内/动效/出牌按钮/"/>
+    <image id="fxwex7" name="di_ting.png" path="/大丰麻将美术改版/2 游戏内/动效/出牌按钮/"/>
+    <image id="fxwex8" name="gang.png" path="/大丰麻将美术改版/2 游戏内/动效/出牌按钮/"/>
+    <image id="fxwex9" name="guo.png" path="/大丰麻将美术改版/2 游戏内/动效/出牌按钮/"/>
+    <image id="fxwexa" name="hu.png" path="/大丰麻将美术改版/2 游戏内/动效/出牌按钮/"/>
+    <image id="fxwexb" name="pen.png" path="/大丰麻将美术改版/2 游戏内/动效/出牌按钮/"/>
+    <image id="fxwexc" name="tin.png" path="/大丰麻将美术改版/2 游戏内/动效/出牌按钮/"/>
+    <image id="fxwexd" name="an_chatin.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxwexe" name="an_dazi.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxwexf" name="an_gengduo.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxwexg" name="an_yuyin.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxwexh" name="bg1.jpg" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxwexi" name="bg2.jpg" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxwexj" name="bgUp.png" path="/大丰麻将美术改版/2 游戏内/切图/" scale="9grid" scale9grid="170,9,16,6" gridTile="16"/>
+    <image id="fxwexk" name="bgyc_yc1.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxwexl" name="bgyc_yc2.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxwexm" name="bgyxm_df1.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxwexn" name="bgyxm_df2.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxwexo" name="bgyxm_dt1.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxwexp" name="bgyxm_dt2.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxwexq" name="bq_fanzhu.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxwexr" name="chupai.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxwexs" name="chupai2.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxwext" name="cpqx.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxwexu" name="dfppl_1.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxwexv" name="dfppl_2.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxwexw" name="dian.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxwexx" name="dian2.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxwexy" name="dian3.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxwexz" name="djs0.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxwey0" name="djs1.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxwey1" name="djs2.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxwey2" name="djs3.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxwey3" name="djs4.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxwey4" name="djs5.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxwey5" name="djs6.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxwey6" name="djs7.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxwey7" name="djs8.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxwey8" name="djs9.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxwey9" name="fanhui.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxweya" name="fenquanbg.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxweyb" name="fgxian.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxweyc" name="guize.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxweyd" name="huabg.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxweye" name="hufgx.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxweyf" name="hukk.png" path="/大丰麻将美术改版/2 游戏内/切图/" scale="9grid" scale9grid="46,42,92,84" gridTile="16"/>
+    <image id="fxweyg" name="jiantou.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxweyh" name="jttouyin.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxweyi" name="shouzhi.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxweyj" name="tb_lianzhuang.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxweyk" name="tb_ting.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxweyl" name="tb_zhuang.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxweym" name="tcxxk.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxweyn" name="ts_dui.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxweyo" name="wifi.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxweyp" name="wifi2.png" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxweyq" name="zhouye.jpg" path="/大丰麻将美术改版/2 游戏内/切图/"/>
+    <image id="fxweyr" name="chi.png" path="/大丰麻将美术改版/2 游戏内/切图/出牌按钮/"/>
+    <image id="fxweys" name="cpbg_9gong.png" path="/大丰麻将美术改版/2 游戏内/切图/出牌按钮/" scale="9grid" scale9grid="46,29,92,58"/>
+    <image id="fxweyt" name="di_cpg.png" path="/大丰麻将美术改版/2 游戏内/切图/出牌按钮/"/>
+    <image id="fxweyu" name="di_guo.png" path="/大丰麻将美术改版/2 游戏内/切图/出牌按钮/"/>
+    <image id="fxweyv" name="di_hu.png" path="/大丰麻将美术改版/2 游戏内/切图/出牌按钮/"/>
+    <image id="fxweyw" name="di_ting.png" path="/大丰麻将美术改版/2 游戏内/切图/出牌按钮/"/>
+    <image id="fxweyx" name="gang.png" path="/大丰麻将美术改版/2 游戏内/切图/出牌按钮/"/>
+    <image id="fxweyy" name="guo.png" path="/大丰麻将美术改版/2 游戏内/切图/出牌按钮/"/>
+    <image id="fxweyz" name="hu.png" path="/大丰麻将美术改版/2 游戏内/切图/出牌按钮/"/>
+    <image id="fxwez0" name="pen.png" path="/大丰麻将美术改版/2 游戏内/切图/出牌按钮/"/>
+    <image id="fxwez1" name="tin.png" path="/大丰麻将美术改版/2 游戏内/切图/出牌按钮/"/>
+    <image id="fxwez2" name="dwtb.png" path="/大丰麻将美术改版/2 游戏内/切图/z_准备开始gps/"/>
+    <image id="fxwez3" name="hon.png" path="/大丰麻将美术改版/2 游戏内/切图/z_准备开始gps/"/>
+    <image id="fxwez4" name="lv.png" path="/大丰麻将美术改版/2 游戏内/切图/z_准备开始gps/"/>
+    <image id="fxwez5" name="ok.png" path="/大丰麻将美术改版/2 游戏内/切图/z_准备开始gps/"/>
+    <image id="fxwez6" name="shouzhi.png" path="/大丰麻将美术改版/2 游戏内/切图/z_准备开始gps/"/>
+    <image id="fxwez7" name="tcxxk.png" path="/大丰麻将美术改版/2 游戏内/切图/z_准备开始gps/"/>
+    <image id="fxwez8" name="yaoqin.png" path="/大丰麻将美术改版/2 游戏内/切图/z_准备开始gps/"/>
+    <image id="fxwez9" name="zhunbei.png" path="/大丰麻将美术改版/2 游戏内/切图/z_准备开始gps/"/>
+    <image id="fxweza" name="dj_bb.png" path="/大丰麻将美术改版/2 游戏内/切图/y_用户信息/"/>
+    <image id="fxwezb" name="dj_ganbei.png" path="/大丰麻将美术改版/2 游戏内/切图/y_用户信息/"/>
+    <image id="fxwezc" name="dj_hj.png" path="/大丰麻将美术改版/2 游戏内/切图/y_用户信息/"/>
+    <image id="fxwezd" name="dj_hongqi.png" path="/大丰麻将美术改版/2 游戏内/切图/y_用户信息/"/>
+    <image id="fxweze" name="dj_jd.png" path="/大丰麻将美术改版/2 游戏内/切图/y_用户信息/"/>
+    <image id="fxwezf" name="dj_meigui.png" path="/大丰麻将美术改版/2 游戏内/切图/y_用户信息/"/>
+    <image id="fxwezg" name="dj_mmd.png" path="/大丰麻将美术改版/2 游戏内/切图/y_用户信息/"/>
+    <image id="fxwezh" name="dj_qj.png" path="/大丰麻将美术改版/2 游戏内/切图/y_用户信息/"/>
+    <image id="fxwezi" name="dj_tuoxie.png" path="/大丰麻将美术改版/2 游戏内/切图/y_用户信息/"/>
+    <image id="fxwezj" name="dj_xin.png" path="/大丰麻将美术改版/2 游戏内/切图/y_用户信息/"/>
+    <image id="fxwezk" name="dj_zuqiu.png" path="/大丰麻将美术改版/2 游戏内/切图/y_用户信息/"/>
+    <image id="fxwezl" name="fgx.png" path="/大丰麻将美术改版/2 游戏内/切图/y_用户信息/"/>
+    <image id="fxwezm" name="gouhao.png" path="/大丰麻将美术改版/2 游戏内/切图/y_用户信息/"/>
+    <image id="fxwezn" name="gouk.png" path="/大丰麻将美术改版/2 游戏内/切图/y_用户信息/"/>
+    <image id="fxwezo" name="gps.png" path="/大丰麻将美术改版/2 游戏内/切图/y_用户信息/"/>
+    <image id="fxwezp" name="y_djk.png" path="/大丰麻将美术改版/2 游戏内/切图/y_用户信息/"/>
+    <image id="fxwezq" name="y_mlz.png" path="/大丰麻将美术改版/2 游戏内/切图/y_用户信息/"/>
+    <image id="fxwezr" name="y_nan.png" path="/大丰麻将美术改版/2 游戏内/切图/y_用户信息/"/>
+    <image id="fxwezs" name="y_nk.png" path="/大丰麻将美术改版/2 游戏内/切图/y_用户信息/"/>
+    <image id="fxwezt" name="y_nv.png" path="/大丰麻将美术改版/2 游戏内/切图/y_用户信息/"/>
+    <image id="fxwezu" name="y_sz.png" path="/大丰麻将美术改版/2 游戏内/切图/y_用户信息/"/>
+    <image id="fxwezv" name="y_tcfj.png" path="/大丰麻将美术改版/2 游戏内/切图/y_用户信息/"/>
+    <image id="fxwezw" name="y_txk.png" path="/大丰麻将美术改版/2 游戏内/切图/y_用户信息/"/>
+    <image id="fxwezx" name="y_wk.png" path="/大丰麻将美术改版/2 游戏内/切图/y_用户信息/"/>
+    <image id="fxwezy" name="y_xxk.png" path="/大丰麻将美术改版/2 游戏内/切图/y_用户信息/"/>
+    <image id="fxwezz" name="y_zs.png" path="/大丰麻将美术改版/2 游戏内/切图/y_用户信息/"/>
+    <image id="fxwe100" name="butongyi.png" path="/大丰麻将美术改版/2 游戏内/切图/t_弹窗/"/>
+    <image id="fxwe101" name="gou.png" path="/大丰麻将美术改版/2 游戏内/切图/t_弹窗/"/>
+    <image id="fxwe102" name="jsfj.png" path="/大丰麻将美术改版/2 游戏内/切图/t_弹窗/"/>
+    <image id="fxwe103" name="tongyi.png" path="/大丰麻将美术改版/2 游戏内/切图/t_弹窗/"/>
+    <image id="fxwe104" name="wenhao.png" path="/大丰麻将美术改版/2 游戏内/切图/t_弹窗/"/>
+    <image id="fxwe105" name="x.png" path="/大丰麻将美术改版/2 游戏内/切图/t_弹窗/"/>
+    <image id="fxwe106" name="yxgz.png" path="/大丰麻将美术改版/2 游戏内/切图/t_弹窗/"/>
+    <image id="fxwe107" name="suit1.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe108" name="suit11.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe109" name="suit12.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe10a" name="suit13.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe10b" name="suit14.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe10c" name="suit15.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe10d" name="suit16.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe10e" name="suit17.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe10f" name="suit18.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe10g" name="suit19.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe10h" name="suit2.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe10i" name="suit21.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe10j" name="suit22.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe10k" name="suit23.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe10l" name="suit24.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe10m" name="suit25.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe10n" name="suit26.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe10o" name="suit27.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe10p" name="suit28.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe10q" name="suit29.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe10r" name="suit3.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe10s" name="suit31.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe10t" name="suit32.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe10u" name="suit33.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe10v" name="suit34.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe10w" name="suit4.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe10x" name="suit41.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe10y" name="suit42.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe10z" name="suit43.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe110" name="suit5.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe111" name="suit51.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe112" name="suit52.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe113" name="suit53.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe114" name="suit54.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe115" name="suit55.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe116" name="suit56.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe117" name="suit57.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe118" name="suit58.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe119" name="suit6.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe11a" name="suit7.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe11b" name="suit8.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe11c" name="suit9.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
+    <image id="fxwe11d" name="beiban.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
+    <image id="fxwe11e" name="fengge.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
+    <image id="fxwe11f" name="guanbi.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
+    <image id="fxwe11g" name="gze.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
+    <image id="fxwe11h" name="jds.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
+    <image id="fxwe11i" name="jds_hui.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
+    <image id="fxwe11j" name="jdtkon.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
+    <image id="fxwe11k" name="jdtman.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
+    <image id="fxwe11l" name="kgps.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
+    <image id="fxwe11m" name="pls.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
+    <image id="fxwe11n" name="pls_hui.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
+    <image id="fxwe11o" name="shuipinx.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
+    <image id="fxwe11p" name="sqjs.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
+    <image id="fxwe11q" name="syin.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
+    <image id="fxwe11r" name="szgb.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
+    <image id="fxwe11s" name="tcfj.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
+    <image id="fxwe11t" name="yxgze.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
+    <image id="fxwe11u" name="yyue.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
+    <image id="fxwe11v" name="bq.png" path="/大丰麻将美术改版/2 游戏内/切图/l_聊天/"/>
+    <image id="fxwe11w" name="bq_1.png" path="/大丰麻将美术改版/2 游戏内/切图/l_聊天/"/>
+    <image id="fxwe11x" name="dyu.png" path="/大丰麻将美术改版/2 游戏内/切图/l_聊天/"/>
+    <image id="fxwe11y" name="dyu_1.png" path="/大丰麻将美术改版/2 游戏内/切图/l_聊天/"/>
+    <image id="fxwe11z" name="fgx.png" path="/大丰麻将美术改版/2 游戏内/切图/l_聊天/"/>
+    <image id="fxwe120" name="fs.png" path="/大丰麻将美术改版/2 游戏内/切图/l_聊天/"/>
+    <image id="fxwe121" name="jlu.png" path="/大丰麻将美术改版/2 游戏内/切图/l_聊天/"/>
+    <image id="fxwe122" name="jlu_1.png" path="/大丰麻将美术改版/2 游戏内/切图/l_聊天/"/>
+    <image id="fxwe123" name="ltbg.png" path="/大丰麻将美术改版/2 游戏内/切图/l_聊天/"/>
+    <image id="fxwe124" name="paopao_qt.png" path="/大丰麻将美术改版/2 游戏内/切图/l_聊天/"/>
+    <image id="fxwe125" name="paopao_zji.png" path="/大丰麻将美术改版/2 游戏内/切图/l_聊天/"/>
+    <image id="fxwe126" name="txk_qt.png" path="/大丰麻将美术改版/2 游戏内/切图/l_聊天/"/>
+    <image id="fxwe127" name="txk_zji.png" path="/大丰麻将美术改版/2 游戏内/切图/l_聊天/"/>
+    <image id="fxwe128" name="you.png" path="/大丰麻将美术改版/2 游戏内/切图/l_聊天/"/>
+    <image id="fxwe129" name="an_fh.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe12a" name="an_jxyx.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe12b" name="an_wxfx.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe12c" name="dian.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe12d" name="dl.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe12e" name="dw_dian.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe12f" name="dw_dian_h.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe12g" name="dw_qian.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe12h" name="dw_qian_h.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe12i" name="dw_wan.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe12j" name="dw_wan_h.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe12k" name="dw_yi.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe12l" name="dw_yi_h.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe12m" name="dyj.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe12n" name="dzhh.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe12o" name="f0.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe12p" name="f1.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe12q" name="f2.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe12r" name="f3.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe12s" name="f4.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe12t" name="f5.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe12u" name="f6.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe12v" name="f7.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe12w" name="f8.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe12x" name="f9.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe12y" name="fgx.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe12z" name="fjian.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe130" name="fpao.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe131" name="guang.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe132" name="h.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe133" name="hu.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe134" name="hupai.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe135" name="hz.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe136" name="l.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe137" name="pd.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe138" name="pdhui.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe139" name="s.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe13a" name="shi.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe13b" name="shibai.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe13c" name="shudban.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe13d" name="shufen.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe13e" name="shuye.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe13f" name="sldban.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe13g" name="z0.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe13h" name="z1.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe13i" name="z2.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe13j" name="z3.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe13k" name="z4.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe13l" name="z5.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe13m" name="z6.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe13n" name="z7.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe13o" name="z8.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe13p" name="z9.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe13q" name="zimo.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe13r" name="zjia.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe13s" name="zjie.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe13t" name="zjps.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe13u" name="zjsbg.jpg" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe13v" name="zjsbg.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe13w" name="zon.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe13x" name="zsuan.png" path="/大丰麻将美术改版/2 游戏内/切图/j_结算/"/>
+    <image id="fxwe13y" name="f_hon.png" path="/大丰麻将美术改版/2 游戏内/切图/f_方位/"/>
+    <image id="fxwe13z" name="f_huang.png" path="/大丰麻将美术改版/2 游戏内/切图/f_方位/"/>
+    <image id="fxwe140" name="f_kon.png" path="/大丰麻将美术改版/2 游戏内/切图/f_方位/"/>
+    <image id="fxwe141" name="f_lan.png" path="/大丰麻将美术改版/2 游戏内/切图/f_方位/"/>
+    <image id="fxwe142" name="f_lv.png" path="/大丰麻将美术改版/2 游戏内/切图/f_方位/"/>
+    <image id="fxwe143" name="bk_guoqin.png" path="/大丰麻将美术改版/2 游戏内/切图/bk_特色边框/"/>
+    <image id="fxwe144" name="bk_shequ.png" path="/大丰麻将美术改版/2 游戏内/切图/bk_特色边框/"/>
+    <image id="fxwe145" name="bk_xiongmao.png" path="/大丰麻将美术改版/2 游戏内/切图/bk_特色边框/"/>
+    <image id="fxwe146" name="bk_zhonqiu.png" path="/大丰麻将美术改版/2 游戏内/切图/bk_特色边框/"/>
+    <image id="fxwe147" name="0.png" path="/大丰麻将美术改版/2 游戏内/切图/4g/"/>
+    <image id="fxwe148" name="1.png" path="/大丰麻将美术改版/2 游戏内/切图/4g/"/>
+    <image id="fxwe149" name="2.png" path="/大丰麻将美术改版/2 游戏内/切图/4g/"/>
+    <image id="fxwe14a" name="3.png" path="/大丰麻将美术改版/2 游戏内/切图/4g/"/>
+    <image id="fxwe14b" name="dajia_da.png" path="/大丰麻将美术改版/2 游戏内/切图/2pai/"/>
+    <image id="fxwe14c" name="dui_chi.png" path="/大丰麻将美术改版/2 游戏内/切图/2pai/"/>
+    <image id="fxwe14d" name="dui_dachu.png" path="/大丰麻将美术改版/2 游戏内/切图/2pai/"/>
+    <image id="fxwe14e" name="dui_gang.png" path="/大丰麻将美术改版/2 游戏内/切图/2pai/"/>
+    <image id="fxwe14f" name="dui_hua.png" path="/大丰麻将美术改版/2 游戏内/切图/2pai/"/>
+    <image id="fxwe14g" name="dui_shu.png" path="/大丰麻将美术改版/2 游戏内/切图/2pai/"/>
+    <image id="fxwe14h" name="fengquan.png" path="/大丰麻将美术改版/2 游戏内/切图/2pai/"/>
+    <image id="fxwe14i" name="shang_shu.png" path="/大丰麻将美术改版/2 游戏内/切图/2pai/"/>
+    <image id="fxwe14j" name="skin1_mjback_6.png" path="/大丰麻将美术改版/2 游戏内/切图/2pai/"/>
+    <image id="fxwe14k" name="skin1_mjback_7.png" path="/大丰麻将美术改版/2 游戏内/切图/2pai/"/>
+    <image id="fxwe14l" name="sx_chi.png" path="/大丰麻将美术改版/2 游戏内/切图/2pai/"/>
+    <image id="fxwe14m" name="sx_dachu.png" path="/大丰麻将美术改版/2 游戏内/切图/2pai/"/>
+    <image id="fxwe14n" name="sx_gang.png" path="/大丰麻将美术改版/2 游戏内/切图/2pai/"/>
+    <image id="fxwe14o" name="sx_huapai.png" path="/大丰麻将美术改版/2 游戏内/切图/2pai/"/>
+    <image id="fxwe14p" name="wo_chi.png" path="/大丰麻将美术改版/2 游戏内/切图/2pai/"/>
+    <image id="fxwe14q" name="wo_dachu.png" path="/大丰麻将美术改版/2 游戏内/切图/2pai/"/>
+    <image id="fxwe14r" name="wo_gang.png" path="/大丰麻将美术改版/2 游戏内/切图/2pai/"/>
+    <image id="fxwe14s" name="wo_huapai.png" path="/大丰麻将美术改版/2 游戏内/切图/2pai/"/>
+    <image id="fxwe14t" name="wo_shou.png" path="/大丰麻将美术改版/2 游戏内/切图/2pai/"/>
+    <image id="fxwe14u" name="xia_shu.png" path="/大丰麻将美术改版/2 游戏内/切图/2pai/"/>
+    <image id="fxwe14v" name="dajia_da.png" path="/大丰麻将美术改版/2 游戏内/切图/1pai/"/>
+    <image id="fxwe14w" name="dui_chi.png" path="/大丰麻将美术改版/2 游戏内/切图/1pai/"/>
+    <image id="fxwe14x" name="dui_dachu.png" path="/大丰麻将美术改版/2 游戏内/切图/1pai/"/>
+    <image id="fxwe14y" name="dui_gang.png" path="/大丰麻将美术改版/2 游戏内/切图/1pai/"/>
+    <image id="fxwe14z" name="dui_hua.png" path="/大丰麻将美术改版/2 游戏内/切图/1pai/"/>
+    <image id="fxwe150" name="dui_shu.png" path="/大丰麻将美术改版/2 游戏内/切图/1pai/"/>
+    <image id="fxwe151" name="fengquan.png" path="/大丰麻将美术改版/2 游戏内/切图/1pai/"/>
+    <image id="fxwe152" name="shang_shu.png" path="/大丰麻将美术改版/2 游戏内/切图/1pai/"/>
+    <image id="fxwe153" name="skin1_mjback_6.png" path="/大丰麻将美术改版/2 游戏内/切图/1pai/"/>
+    <image id="fxwe154" name="skin1_mjback_7.png" path="/大丰麻将美术改版/2 游戏内/切图/1pai/"/>
+    <image id="fxwe155" name="sx_chi.png" path="/大丰麻将美术改版/2 游戏内/切图/1pai/"/>
+    <image id="fxwe156" name="sx_dachu.png" path="/大丰麻将美术改版/2 游戏内/切图/1pai/"/>
+    <image id="fxwe157" name="sx_gang.png" path="/大丰麻将美术改版/2 游戏内/切图/1pai/"/>
+    <image id="fxwe158" name="sx_huapai.png" path="/大丰麻将美术改版/2 游戏内/切图/1pai/"/>
+    <image id="fxwe159" name="wo_chi.png" path="/大丰麻将美术改版/2 游戏内/切图/1pai/"/>
+    <image id="fxwe15a" name="wo_dachu.png" path="/大丰麻将美术改版/2 游戏内/切图/1pai/"/>
+    <image id="fxwe15b" name="wo_gang.png" path="/大丰麻将美术改版/2 游戏内/切图/1pai/"/>
+    <image id="fxwe15c" name="wo_huapai.png" path="/大丰麻将美术改版/2 游戏内/切图/1pai/"/>
+    <image id="fxwe15d" name="wo_shou.png" path="/大丰麻将美术改版/2 游戏内/切图/1pai/"/>
+    <image id="fxwe15e" name="xia_shu.png" path="/大丰麻将美术改版/2 游戏内/切图/1pai/"/>
+    <component id="fxwe15f" name="desk.xml" path="/" exported="true"/>
+    <component id="fxwe15g" name="setting_button.xml" path="/desk/"/>
+    <component id="fxwe15h" name="guize_button.xml" path="/desk/"/>
+    <component id="fxwe15i" name="chat_button.xml" path="/desk/"/>
+    <image id="fxwe15k" name="boy_img.png" path="/大丰麻将美术改版/2 游戏内/头像/"/>
+    <image id="fxwe15l" name="girl_img.png" path="/大丰麻将美术改版/2 游戏内/头像/"/>
+    <image id="fxwe15m" name="txk_wx80.png" path="/大丰麻将美术改版/2 游戏内/头像/"/>
+    <component id="fxwe15n" name="head_button.xml" path="/common/"/>
+    <component id="fxwe15p" name="desk_view_mine.xml" path="/desk/mine/"/>
+    <component id="fxwe15s" name="desk_hand.xml" path="/desk/mine/"/>
+    <component id="fxwe15t" name="desk_view_left.xml" path="/desk/left/"/>
+    <component id="fxwe15u" name="desk_hand.xml" path="/desk/left/"/>
+    <component id="fxwe15v" name="desk_view_dui.xml" path="/desk/dui/"/>
+    <component id="fxwe15w" name="desk_hand.xml" path="/desk/dui/"/>
+    <component id="fxwe15x" name="desk_view_right.xml" path="/desk/right/"/>
+    <component id="fxwe15z" name="desk_hand.xml" path="/desk/right/"/>
+    <component id="fxwe160" name="operation_panel.xml" path="/desk/"/>
+    <component id="fxwe161" name="chi_button.xml" path="/desk/button/" exported="true"/>
+    <component id="fxwe162" name="peng_button.xml" path="/desk/button/" exported="true"/>
+    <component id="fxwe163" name="gang_button.xml" path="/desk/button/" exported="true"/>
+    <component id="fxwe164" name="hu_button.xml" path="/desk/button/" exported="true"/>
+    <component id="fxwe165" name="ting_button.xml" path="/desk/button/" exported="true"/>
+    <component id="fxwe166" name="guo_button.xml" path="/desk/button/" exported="true"/>
+    <component id="fxwe167" name="ready_button.xml" path="/desk/"/>
+    <component id="fxwe168" name="peng_button.xml" path="/"/>
+    <component id="fxwe16a" name="desk_meld.xml" path="/desk/mine/"/>
+    <component id="fxwe16b" name="desk_meld.xml" path="/desk/left/"/>
+    <component id="fxwe16c" name="desk_meld.xml" path="/desk/dui/"/>
+    <component id="fxwe16d" name="desk_meld.xml" path="/desk/right/"/>
+    <component id="fxwe16e" name="desk_discard.xml" path="/desk/dui/"/>
+    <component id="fxwe16f" name="desk_flower.xml" path="/desk/dui/"/>
+    <component id="fxwe16g" name="desk_discard.xml" path="/desk/mine/"/>
+    <component id="fxwe16h" name="desk_flower.xml" path="/desk/mine/"/>
+    <component id="fxwe16i" name="desk_discard.xml" path="/desk/left/"/>
+    <component id="fxwe16j" name="desk_flower.xml" path="/desk/left/"/>
+    <component id="fxwe16k" name="desk_discard.xml" path="/desk/right/"/>
+    <component id="fxwe16l" name="desk_flower.xml" path="/desk/right/"/>
+    <component id="fxwe16m" name="meld_multi_ops.xml" path="/desk/"/>
+    <component id="fxwe16n" name="desk_light.xml" path="/desk/right/"/>
+    <component id="fxwe16o" name="desk_light.xml" path="/desk/mine/"/>
+    <component id="fxwe16p" name="desk_light.xml" path="/desk/left/"/>
+    <component id="fxwe16q" name="desk_light.xml" path="/desk/dui/"/>
+    <font id="fxwe16r" name="countDown.fnt" path="/desk/" exported="true"/>
+    <component id="fxwe16s" name="round_mask.xml" path="/desk/"/>
+    <component id="fxwe16t" name="listens_panel.xml" path="/desk/"/>
+    <component id="fxwe16u" name="listens_item.xml" path="/desk/"/>
+    <image id="fxwe16v" name="bg.png" path="/"/>
+    <component id="fxwe16w" name="game_over.xml" path="/" exported="true"/>
+    <component id="fxwe171" name="game_over_player.xml" path="/gameOver/"/>
+    <component id="fxwe17b" name="hand_result.xml" path="/" exported="true"/>
+    <component id="fxwe17f" name="hand_result_player.xml" path="/handResult/"/>
+    <font id="fxwe17h" name="lose.fnt" path="/handResult/" exported="true"/>
+    <font id="fxwe17i" name="win.fnt" path="/handResult/" exported="true"/>
+    <component id="fxwe17j" name="again_button.xml" path="/handResult/"/>
+    <component id="fxwe17k" name="share_button.xml" path="/handResult/"/>
+    <component id="fxwe17l" name="back_hall_button.xml" path="/gameOver/"/>
+    <component id="fxwe17m" name="disband_room.xml" path="/" exported="true"/>
+    <image id="fxwe17n" name="bg.png" path="/大丰关张美术资源/切图/f_房间设置/"/>
+    <image id="fxwe17o" name="jsfj.png" path="/大丰关张美术资源/切图/j_解散房间/"/>
+    <component id="fxwe17p" name="agree_button.xml" path="/disbandRoom/"/>
+    <image id="fxwe17q" name="an_h.png" path="/大丰关张美术资源/切图/t_通用/"/>
+    <image id="fxwe17r" name="an_ty.png" path="/大丰关张美术资源/切图/j_解散房间/"/>
+    <component id="fxwe17s" name="unagree_button.xml" path="/disbandRoom/"/>
+    <image id="fxwe17t" name="an_4zl.png" path="/大丰关张美术资源/切图/t_通用/"/>
+    <image id="fxwe17u" name="an_bty.png" path="/大丰关张美术资源/切图/j_解散房间/"/>
+    <component id="fxwe17v" name="disband_room_player.xml" path="/disbandRoom/"/>
+    <image id="fxwe17w" name="y_xxk.png" path="/大丰关张美术资源/切图/j_解散房间/" scale="9grid" scale9grid="32,32,64,64" gridTile="16"/>
+    <image id="fxwe17x" name="zt_gou.png" path="/大丰关张美术资源/切图/j_解散房间/"/>
+    <image id="fxwe17y" name="x.png" path="/大丰关张美术资源/切图/j_解散房间/"/>
+    <image id="fxwe17z" name="wenhao.png" path="/大丰关张美术资源/切图/j_解散房间/"/>
+    <image id="fxwe180" name="zhua.png" path="/大丰麻将美术改版/2 游戏内/切图/出牌按钮/"/>
+    <component id="fxwe181" name="zhua_button.xml" path="/desk/button/" exported="true"/>
+    <component id="g0pr182" name="discard_tip.xml" path="/desk/dui/"/>
+    <component id="g0pr183" name="discard_tip.xml" path="/desk/left/"/>
+    <component id="g0pr184" name="discard_tip.xml" path="/desk/mine/"/>
+    <component id="g0pr185" name="discard_tip.xml" path="/desk/right/"/>
+    <component id="rh8w186" name="check_ting_button.xml" path="/desk/"/>
+  </resources>
+  <publish name="dafeng"/>
+</packageDescription>

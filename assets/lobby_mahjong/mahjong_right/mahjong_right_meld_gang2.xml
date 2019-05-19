@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="55,120">
+  <displayList>
+    <component id="n10_fxwe" name="n10" src="fxwe1m" fileName="mahjong_fan_heng.xml" xy="0,0"/>
+    <component id="n11_fxwe" name="n11" src="fxwe1m" fileName="mahjong_fan_heng.xml" xy="0,31"/>
+    <component id="n12_fxwe" name="n12" src="fxwe1m" fileName="mahjong_fan_heng.xml" xy="0,62"/>
+    <component id="n13_fxwe" name="n13" src="fxwe1m" fileName="mahjong_fan_heng.xml" xy="0,20"/>
+  </displayList>
+</component>

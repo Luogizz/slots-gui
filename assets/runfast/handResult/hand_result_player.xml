@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1050,150" designImageOffsetX="-50" designImageOffsetY="-80">
   <displayList>
-    <component id="n0_rhc4" name="head" src="ef8pck" fileName="common/desk_user_button.xml" xy="84,15"/>
+    <component id="n0_rhc4" name="head" src="ef8pck" fileName="common/desk_user_button.xml" xy="126,60"/>
     <text id="n1_rhc4" name="name" xy="72,108" size="110,28" fontSize="20" color="#784819" align="center" vAlign="middle" autoSize="shrink" bold="true" text="哈哈哈啊是"/>
     <text id="n2_rhc4" name="id" xy="99,128" size="59,24" fontSize="16" color="#784819" text="123456&#xA;"/>
     <text id="n3_rhc4" name="remainderHands" xy="187,16" size="153,28" fontSize="20" color="#784819" bold="true" text="剩余手牌：12张"/>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="tjfy9hi3" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="fxwe15o" name="mahjong_mine_luo.xml" path="/mahjong_mine/" exported="true"/>
+    <image id="fxwe0" name="suit1.png" path="/image_title/" exported="true"/>
+    <image id="fxwe1" name="suit11.png" path="/image_title/" exported="true"/>
+    <image id="fxwe2" name="suit12.png" path="/image_title/" exported="true"/>
+    <image id="fxwe3" name="suit13.png" path="/image_title/" exported="true"/>
+    <image id="fxwe4" name="suit14.png" path="/image_title/" exported="true"/>
+    <image id="fxwe5" name="suit15.png" path="/image_title/" exported="true"/>
+    <image id="fxwe6" name="suit16.png" path="/image_title/" exported="true"/>
+    <image id="fxwe7" name="suit17.png" path="/image_title/" exported="true"/>
+    <image id="fxwe8" name="suit18.png" path="/image_title/" exported="true"/>
+    <image id="fxwe9" name="suit19.png" path="/image_title/" exported="true"/>
+    <image id="fxwea" name="suit2.png" path="/image_title/" exported="true"/>
+    <image id="fxweb" name="suit21.png" path="/image_title/" exported="true"/>
+    <image id="fxwec" name="suit22.png" path="/image_title/" exported="true"/>
+    <image id="fxwed" name="suit23.png" path="/image_title/" exported="true"/>
+    <image id="fxwee" name="suit24.png" path="/image_title/" exported="true"/>
+    <image id="fxwef" name="suit25.png" path="/image_title/" exported="true"/>
+    <image id="fxweg" name="suit26.png" path="/image_title/" exported="true"/>
+    <image id="fxweh" name="suit27.png" path="/image_title/" exported="true"/>
+    <image id="fxwei" name="suit28.png" path="/image_title/" exported="true"/>
+    <image id="fxwej" name="suit29.png" path="/image_title/" exported="true"/>
+    <image id="fxwek" name="suit3.png" path="/image_title/" exported="true"/>
+    <image id="fxwel" name="suit31.png" path="/image_title/" exported="true"/>
+    <image id="fxwem" name="suit32.png" path="/image_title/" exported="true"/>
+    <image id="fxwen" name="suit33.png" path="/image_title/" exported="true"/>
+    <image id="fxweo" name="suit34.png" path="/image_title/" exported="true"/>
+    <image id="fxwep" name="suit4.png" path="/image_title/" exported="true"/>
+    <image id="fxweq" name="suit41.png" path="/image_title/" exported="true"/>
+    <image id="fxwer" name="suit42.png" path="/image_title/" exported="true"/>
+    <image id="fxwes" name="suit43.png" path="/image_title/" exported="true"/>
+    <image id="fxwet" name="suit5.png" path="/image_title/" exported="true"/>
+    <image id="fxweu" name="suit51.png" path="/image_title/" exported="true"/>
+    <image id="fxwev" name="suit52.png" path="/image_title/" exported="true"/>
+    <image id="fxwew" name="suit53.png" path="/image_title/" exported="true"/>
+    <image id="fxwex" name="suit54.png" path="/image_title/" exported="true"/>
+    <image id="fxwey" name="suit55.png" path="/image_title/" exported="true"/>
+    <image id="fxwez" name="suit56.png" path="/image_title/" exported="true"/>
+    <image id="fxwe10" name="suit57.png" path="/image_title/" exported="true"/>
+    <image id="fxwe11" name="suit58.png" path="/image_title/" exported="true"/>
+    <image id="fxwe12" name="suit6.png" path="/image_title/" exported="true"/>
+    <image id="fxwe13" name="suit7.png" path="/image_title/" exported="true"/>
+    <image id="fxwe14" name="suit8.png" path="/image_title/" exported="true"/>
+    <image id="fxwe15" name="suit9.png" path="/image_title/" exported="true"/>
+    <image id="fxwe16" name="dui.png" path="/image_bg/"/>
+    <image id="fxwe17" name="heng_fan.png" path="/image_bg/"/>
+    <image id="fxwe18" name="heng_zheng.png" path="/image_bg/"/>
+    <image id="fxwe19" name="wo.png" path="/image_bg/"/>
+    <image id="fxwe1a" name="you.png" path="/image_bg/"/>
+    <image id="fxwe1b" name="zuo.png" path="/image_bg/"/>
+    <image id="fxwe1c" name="dui_shu.png" path="/image_bg/"/>
+    <image id="fxwe1d" name="wo_shou.png" path="/image_bg/"/>
+    <component id="fxwe1e" name="mahjong_dui_shu.xml" path="/mahjong_dui/" exported="true"/>
+    <component id="fxwe1f" name="mahjong_dui_luo.xml" path="/mahjong_dui/" exported="true"/>
+    <component id="fxwe1g" name="mahjong_mine_shu.xml" path="/mahjong_mine/" exported="true"/>
+    <component id="fxwe1h" name="mahjong_left_shu.xml" path="/mahjong_left/" exported="true"/>
+    <component id="fxwe1i" name="mahjong_right_shu.xml" path="/mahjong_right/" exported="true"/>
+    <component id="fxwe1j" name="mahjong_right_luo.xml" path="/mahjong_right/" exported="true"/>
+    <component id="fxwe1k" name="mahjong_left_luo.xml" path="/mahjong_left/" exported="true"/>
+    <component id="fxwe1l" name="mahjong_fan_shu.xml" path="/" exported="true"/>
+    <component id="fxwe1m" name="mahjong_fan_heng.xml" path="/" exported="true"/>
+    <component id="fxwe1n" name="mahjong_dui_meld_gang1.xml" path="/mahjong_dui/" exported="true"/>
+    <component id="fxwe1o" name="mahjong_mine_meld_gang1.xml" path="/mahjong_mine/" exported="true"/>
+    <component id="fxwe1p" name="mahjong_left_meld_gang1.xml" path="/mahjong_left/" exported="true"/>
+    <component id="fxwe1q" name="mahjong_mine_meld_gang2.xml" path="/mahjong_mine/" exported="true"/>
+    <component id="fxwe1r" name="mahjong_mine_meld_chipeng.xml" path="/mahjong_mine/" exported="true"/>
+    <component id="fxwe1s" name="mahjong_left_meld_gang2.xml" path="/mahjong_left/" exported="true"/>
+    <component id="fxwe1t" name="mahjong_left_meld_chipeng.xml" path="/mahjong_left/" exported="true"/>
+    <component id="fxwe1v" name="mahjong_right_meld_gang1.xml" path="/mahjong_right/" exported="true"/>
+    <component id="fxwe1x" name="mahjong_right_meld_gang2.xml" path="/mahjong_right/" exported="true"/>
+    <component id="fxwe1y" name="mahjong_right_meld_chipeng.xml" path="/mahjong_right/" exported="true"/>
+    <component id="fxwe1z" name="mahjong_dui_meld_chipeng.xml" path="/mahjong_dui/" exported="true"/>
+    <component id="fxwe20" name="mahjong_dui_meld_gang2.xml" path="/mahjong_dui/" exported="true"/>
+    <image id="fxwe21" name="jbting.png" path="/image_bg/"/>
+  </resources>
+  <publish name="lobby_mahjong"/>
+</packageDescription>

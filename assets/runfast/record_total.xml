@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640" designImage="ui://ppyzj5nrfxweef" designImageLayer="1">
+  <displayList>
+    <image id="n0_fxwe" name="n0" src="fxweei" fileName="大丰关张美术资源/切图/战绩/ty_bg.jpg" xy="0,0" size="1136,640"/>
+    <image id="n1_fxwe" name="n1" src="fxweek" fileName="大丰关张美术资源/切图/战绩/ty_Deng.png" xy="-33,348"/>
+    <image id="n5_fxwe" name="n5" src="fxwedw" fileName="大丰关张美术资源/切图/战绩/zj_bt.png" xy="44,450"/>
+    <component id="n7_fxwe" name="backBtn" src="fxweel" fileName="record/back_button.xml" xy="-15,-2" blend="screen"/>
+    <component id="n8_fxwe" name="shareRecordBtn" src="fxweem" fileName="record/search_record_button.xml" xy="874,580"/>
+    <list id="n9_fxwe" name="list" xy="131,48" size="958,473" overflow="scroll" defaultItem="ui://ppyzj5nrfxween"/>
+  </displayList>
+</component>
