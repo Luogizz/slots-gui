@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="s2p4ct89" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="hagw0" name="joinRoom.xml" path="/" exported="true"/>
+    <image id="hagw1" name="jrfj_btn.png" path="/resource/" exported="true"/>
+    <image id="hagw2" name="jrfj_fgx.png" path="/resource/" exported="true"/>
+    <image id="hagw3" name="jrfj_sz0.png" path="/resource/" exported="true"/>
+    <image id="hagw4" name="jrfj_sz1.png" path="/resource/" exported="true"/>
+    <image id="hagw5" name="jrfj_sz2.png" path="/resource/" exported="true"/>
+    <image id="hagw6" name="jrfj_sz3.png" path="/resource/" exported="true"/>
+    <image id="hagw7" name="jrfj_sz4.png" path="/resource/" exported="true"/>
+    <image id="hagw8" name="jrfj_sz5.png" path="/resource/" exported="true"/>
+    <image id="hagw9" name="jrfj_sz6.png" path="/resource/" exported="true"/>
+    <image id="hagwa" name="jrfj_sz7.png" path="/resource/" exported="true"/>
+    <image id="hagwb" name="jrfj_sz8.png" path="/resource/" exported="true"/>
+    <image id="hagwc" name="jrfj_sz9.png" path="/resource/" exported="true"/>
+    <image id="hagwd" name="jrfj_szcs.png" path="/resource/" exported="true"/>
+    <image id="hagwe" name="jrfj_szsc.png" path="/resource/" exported="true"/>
+    <image id="hagwf" name="jrfj_db.png" path="/resource/" exported="true" scale="9grid" scale9grid="141,176,226,205"/>
+    <image id="hagwg" name="j_加入房间.jpg" path="/resource/" exported="true"/>
+    <component id="h8zvi" name="button1.xml" path="/"/>
+    <component id="h8zvj" name="button2.xml" path="/"/>
+    <component id="h8zvk" name="button3.xml" path="/"/>
+    <component id="h8zvl" name="button4.xml" path="/"/>
+    <component id="h8zvm" name="button5.xml" path="/"/>
+    <component id="h8zvn" name="button6.xml" path="/"/>
+    <component id="h8zvo" name="button7.xml" path="/"/>
+    <component id="h8zvp" name="button8.xml" path="/"/>
+    <component id="h8zvq" name="button9.xml" path="/"/>
+    <component id="h8zvr" name="button0.xml" path="/"/>
+    <component id="h8zvs" name="buttonCS.xml" path="/"/>
+    <component id="h8zvt" name="buttonSC.xml" path="/"/>
+    <image id="h8zvv" name="ty_btnClose.png" path="/resource/" exported="true"/>
+    <component id="h8zvw" name="btnClose.xml" path="/"/>
+  </resources>
+  <publish name="lobby_join_room"/>
+</packageDescription>

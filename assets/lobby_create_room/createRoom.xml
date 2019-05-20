@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640">
+  <controller name="gameList" pages="2,gz,3,mj,4,ddz,5,7w253" selected="0"/>
+  <displayList>
+    <graph id="n59_h8zv" name="diBg" xy="0,0" size="1136,640" touchable="false" type="rect" fillColor="#00000000"/>
+    <image id="n42_kdqv" name="bgRight" src="kdqv1a" fileName="resource/ty_tanchuang1.png" xy="249,22" size="829,600"/>
+    <image id="n43_kdqv" name="bgLeft" src="kdqv19" fileName="resource/cjfj_bq_di.png" xy="1,10" size="296,625"/>
+    <list id="n0_onfo" name="gamelist" xy="50,145" size="195,420" overflow="scroll" margin="5,0,0,0" lineGap="5" align="center" selectionController="gameList">
+      <gearDisplay controller="gameList" pages=""/>
+      <item url="ui://58oggipch59f1t"/>
+      <item url="ui://58oggipckdqvt"/>
+      <item url="ui://58oggipch59f1s"/>
+    </list>
+    <component id="n49_kdqv" name="gzRule" src="kdqvx" fileName="gzRoom.xml" xy="282,30" size="782,595">
+      <gearDisplay controller="gameList" pages="2"/>
+    </component>
+    <component id="n50_kdqv" name="damjRule" src="kdqv1g" fileName="mjRoom.xml" xy="282,30" size="782,595">
+      <gearDisplay controller="gameList" pages="3"/>
+    </component>
+    <component id="n51_kdqv" name="closeBtn" src="kdqv1i" fileName="btnClose.xml" xy="1012,-3"/>
+    <component id="n58_kdqv" name="downloadProgress" src="kdqv1p" fileName="downloadProgress.xml" xy="377,241" hideByEditor="true"/>
+  </displayList>
+</component>

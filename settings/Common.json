@@ -7,8 +7,8 @@
 	"fontSizeScheme":["自定义字体大小 30"],
 	"scrollBars":{
 		"defaultDisplay":"visible",
-		"horizontal":"",
-		"vertical":""
+		"horizontal":"ui://vztvq5emh59fn",
+		"vertical":"ui://vztvq5emh59f11"
 	},
 	"textColor":"#000000",
 	"tipsRes":""

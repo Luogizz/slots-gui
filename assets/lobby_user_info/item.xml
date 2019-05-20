@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="400,50">
+  <displayList>
+    <text id="n0_h59f" name="item" xy="0,0" size="99,50" fontSize="30" align="right" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text="昵称："/>
+    <text id="n2_h59f" name="text" xy="99,0" size="297,50" fontSize="30" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text="我不知道我的名字为什么这么长"/>
+  </displayList>
+</component>

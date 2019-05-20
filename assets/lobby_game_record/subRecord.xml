@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="788,110">
+  <displayList>
+    <image id="n3_kq45" name="bg" src="kq45m" fileName="resource/phb_nr_dk.png" xy="0,0" size="788,110"/>
+    <text id="n8_kq45" name="roundText" xy="23,37" size="62,29" fontSize="22" align="center" vAlign="middle" autoSize="none" text=""/>
+    <text id="n9_kq45" name="time" xy="113,37" size="67,29" fontSize="22" align="center" vAlign="middle" autoSize="none" text="&#xA;&#xA;"/>
+    <text id="n10_kq45" name="score1" xy="209,37" size="67,29" fontSize="22" align="center" vAlign="middle" autoSize="none" text="&#xA;&#xA;&#xA;"/>
+    <text id="n11_kq45" name="score2" xy="309,37" size="67,29" fontSize="22" align="center" vAlign="middle" autoSize="none" text="&#xA;&#xA;"/>
+    <text id="n12_kq45" name="score3" xy="414,37" size="67,29" fontSize="22" align="center" vAlign="middle" autoSize="none" text="&#xA;"/>
+    <text id="n13_kq45" name="score4" xy="519,37" size="67,29" fontSize="22" align="center" vAlign="middle" autoSize="none" text="&#xA;"/>
+    <component id="n18_l84r" name="shareBtn" src="l84rr" fileName="shareBtn.xml" xy="622,17"/>
+    <component id="n19_l84r" name="playBtn" src="l84rt" fileName="playBtn.xml" xy="705,17"/>
+  </displayList>
+</component>

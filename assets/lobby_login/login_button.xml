@@ -7,5 +7,5 @@
     </image>
     <image id="n1_e27g" name="n1" src="e27g2" fileName="login/btn_KSYX.png" xy="19,11"/>
   </displayList>
-  <Button/>
+  <Button downEffect="dark" downEffectValue="0.80"/>
 </component>

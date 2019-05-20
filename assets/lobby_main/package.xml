@@ -56,6 +56,12 @@
     <component id="d5oe1j" name="ButtonMahjong.xml" path="/"/>
     <component id="d5oe1k" name="HSGameList.xml" path="/"/>
     <image id="tdax1l" name="bg@2x.png" path="/大厅_slices/"/>
+    <image id="jrto1m" name="cjfj_bt.png" path="/大厅_slices/"/>
+    <image id="jrto1n" name="cjfj_yq_liang.png" path="/大厅_slices/"/>
+    <component id="jrto1o" name="ButtonCreateRoom.xml" path="/"/>
+    <image id="h59f1p" name="ty_btnClose.png" path="/大厅_slices/" exported="true"/>
+    <component id="h59f1q" name="ComponentUserInfo.xml" path="/"/>
+    <component id="h59f1r" name="ComponentDiamond.xml" path="/"/>
   </resources>
   <publish name="lobby_main"/>
 </packageDescription>

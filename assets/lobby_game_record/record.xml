@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="788,110">
+  <displayList>
+    <image id="n3_kq45" name="bg" src="kq45m" fileName="resource/phb_nr_dk.png" xy="0,0" size="788,110"/>
+    <text id="n0_kq45" name="name" xy="26,36" size="67,39" fontSize="30" align="center" vAlign="middle" autoSize="none" text=""/>
+    <text id="n4_kq45" name="time" xy="125,34" size="245,39" fontSize="30" align="center" vAlign="middle" autoSize="none" text="&#xA;"/>
+    <text id="n5_kq45" name="roomNumber" xy="411,34" size="106,39" fontSize="30" align="center" vAlign="middle" autoSize="none" text=""/>
+    <text id="n6_kq45" name="owner" xy="564,34" size="66,39" fontSize="30" align="center" vAlign="middle" autoSize="none" text=""/>
+    <text id="n7_kq45" name="result" xy="680,34" size="66,39" fontSize="30" align="center" vAlign="middle" autoSize="none" text=""/>
+  </displayList>
+</component>

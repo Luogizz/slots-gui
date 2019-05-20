@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="02vajnvx" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="kq451" name="progressBar.xml" path="/" exported="true"/>
+    <component id="kq452" name="downloadProgress.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="lobby_progress_bar"/>
+</packageDescription>
