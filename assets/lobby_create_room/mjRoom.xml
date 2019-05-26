@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="782,595">
+<component size="782,595" remark="textfield_fold">
   <controller name="round" pages="0,4,1,8,2,16" selected="0"/>
   <controller name="pay" pages="0,owner,1,aa" selected="0"/>
   <controller name="player" pages="0,2人,1,3人,2,4人" selected="0"/>

@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <packageDescription id="58oggipc" jpegQuality="80" compressPNG="true">
   <resources>
-    <image id="onfo1" name="cjfj_di_y.png" path="/resource/" exported="true"/>
-    <image id="onfo2" name="cjfj_di_y1.png" path="/resource/" exported="true"/>
-    <image id="onfo4" name="cjfj_di_f.png" path="/resource/" exported="true"/>
-    <image id="onfo5" name="cjfj_gou.png" path="/resource/" exported="true"/>
+    <image id="onfo1" name="cjfj_di_y.png" path="/resource/"/>
+    <image id="onfo2" name="cjfj_di_y1.png" path="/resource/"/>
+    <image id="onfo4" name="cjfj_di_f.png" path="/resource/"/>
+    <image id="onfo5" name="cjfj_gou.png" path="/resource/"/>
     <component id="onfo6" name="createRoom.xml" path="/" exported="true"/>
-    <image id="kdqvh" name="cjfj_yq_liang.png" path="/resource/" exported="true"/>
-    <image id="kdqvi" name="type_7w253.png" path="/resource/" exported="true"/>
-    <image id="kdqvj" name="type_ddz.png" path="/resource/" exported="true"/>
-    <image id="kdqvk" name="type_dfgz.png" path="/resource/" exported="true"/>
-    <image id="kdqvl" name="type_dfmj.png" path="/resource/" exported="true"/>
+    <image id="kdqvh" name="cjfj_yq_liang.png" path="/resource/"/>
+    <image id="kdqvi" name="type_7w253.png" path="/resource/"/>
+    <image id="kdqvj" name="type_ddz.png" path="/resource/"/>
+    <image id="kdqvk" name="type_dfgz.png" path="/resource/"/>
+    <image id="kdqvl" name="type_dfmj.png" path="/resource/"/>
     <component id="kdqvt" name="btnDFMJ.xml" path="/"/>
-    <image id="kdqvu" name="cjfj_yq_an.png" path="/resource/" exported="true"/>
-    <component id="kdqvx" name="gzRoom.xml" path="/" exported="true"/>
-    <image id="kdqv19" name="cjfj_bq_di.png" path="/resource/" exported="true" scale="9grid" scale9grid="73,160,147,238"/>
-    <image id="kdqv1a" name="ty_tanchuang1.png" path="/resource/" exported="true" scale="9grid" scale9grid="128,128,256,256"/>
-    <image id="kdqv1e" name="ty_btn1_cheng.png" path="/resource/" exported="true"/>
-    <component id="kdqv1f" name="btnCreateRoom.xml" path="/" exported="true"/>
-    <component id="kdqv1g" name="mjRoom.xml" path="/" exported="true"/>
-    <image id="kdqv1h" name="ty_btnClose.png" path="/resource/" exported="true"/>
+    <image id="kdqvu" name="cjfj_yq_an.png" path="/resource/"/>
+    <component id="kdqvx" name="gzRoom.xml" path="/"/>
+    <image id="kdqv19" name="cjfj_bq_di.png" path="/resource/" scale="9grid" scale9grid="73,160,147,238"/>
+    <image id="kdqv1a" name="ty_tanchuang1.png" path="/resource/" scale="9grid" scale9grid="128,128,256,256"/>
+    <image id="kdqv1e" name="ty_btn1_cheng.png" path="/resource/"/>
+    <component id="kdqv1f" name="btnCreateRoom.xml" path="/"/>
+    <component id="kdqv1g" name="mjRoom.xml" path="/"/>
+    <image id="kdqv1h" name="ty_btnClose.png" path="/resource/"/>
     <component id="kdqv1i" name="btnClose.xml" path="/"/>
-    <image id="hqw91q" name="dt_zuan.png" path="/resource/" exported="true"/>
+    <image id="hqw91q" name="dt_zuan.png" path="/resource/"/>
     <component id="hqw91r" name="diamondConsume.xml" path="/"/>
     <component id="h59f1s" name="btnDDZ.xml" path="/"/>
     <component id="h59f1t" name="btnGZ.xml" path="/"/>
-    <image id="h59f1w" name="ty_btnClose.png" path="/" exported="true"/>
+    <image id="h59f1w" name="ty_btnClose.png" path="/"/>
     <component id="h59f1y" name="radioButton.xml" path="/"/>
     <component id="h59f23" name="checkBox.xml" path="/"/>
   </resources>

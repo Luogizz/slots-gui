@@ -423,7 +423,7 @@
     <component id="rhc4db" name="game_over.xml" path="/" exported="true"/>
     <component id="rhc4de" name="back_hall_button.xml" path="/gameOver/"/>
     <component id="rhc4df" name="game_over_player.xml" path="/gameOver/"/>
-    <component id="rhc4dg" name="room_create.xml" path="/" exported="true"/>
+    <component id="rhc4dg" name="room_create.xml" path="/"/>
     <image id="mjk8dh" name="cjfj_bt.png" path="/大丰关张美术资源/切图/c_创建房间/"/>
     <image id="mjk8di" name="cjfj_di_f.png" path="/大丰关张美术资源/切图/c_创建房间/"/>
     <image id="mjk8dj" name="cjfj_di_y.png" path="/大丰关张美术资源/切图/c_创建房间/"/>
