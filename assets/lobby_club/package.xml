@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="vil278bs" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="h59f0" name="clubView.xml" path="/" exported="true"/>
+    <component id="h59f1" name="backBtn.xml" path="/btn/"/>
+    <component id="h59f4" name="clubItem.xml" path="/"/>
+    <component id="h59f5" name="pageContent.xml" path="/"/>
+    <component id="h59f7" name="noClubPage.xml" path="/"/>
+    <component id="h59f8" name="clubPage.xml" path="/"/>
+    <component id="h59f9" name="JoinClubBtn.xml" path="/btn/"/>
+    <component id="h59fa" name="createClubBtn.xml" path="/btn/"/>
+    <component id="h59fb" name="shareBtn.xml" path="/btn/"/>
+    <component id="h59fj" name="appointBtn.xml" path="/btn/"/>
+    <component id="h59fk" name="memberSettingBtn.xml" path="/btn/"/>
+    <component id="h59fl" name="settingBtn.xml" path="/btn/"/>
+    <component id="h59fn" name="filterBtn.xml" path="/btn/"/>
+    <component id="h59fo" name="refreshBtn.xml" path="/btn/"/>
+    <component id="h59fp" name="gameRecordBtn.xml" path="/btn/"/>
+    <component id="h59fq" name="createQuicklyBtn.xml" path="/btn/"/>
+    <component id="h59fr" name="tipsBtn.xml" path="/btn/"/>
+    <component id="h59fs" name="createRoomBtn.xml" path="/btn/"/>
+    <component id="h59ft" name="roomItem.xml" path="/"/>
+    <component id="h59fu" name="inviteBtn.xml" path="/btn/"/>
+    <component id="h59fv" name="joinRoomBtn.xml" path="/btn/"/>
+    <component id="h59fw" name="playerItem.xml" path="/"/>
+    <component id="h59fx" name="applyRecord.xml" path="/"/>
+    <component id="h59fy" name="closeBtn.xml" path="/btn/"/>
+    <component id="h59fz" name="applyRecordItem.xml" path="/"/>
+    <component id="h59f10" name="spaceBtn.xml" path="/btn/"/>
+    <component id="h59f12" name="applyBtn.xml" path="/btn/"/>
+    <component id="apn913" name="createClubView.xml" path="/" exported="true"/>
+    <component id="apn914" name="comfirmBtn.xml" path="/btn/"/>
+    <component id="apn915" name="settingPopup.xml" path="/" exported="true"/>
+    <component id="apn916" name="settingPopupItem.xml" path="/"/>
+  </resources>
+  <publish name="lobby_club"/>
+</packageDescription>

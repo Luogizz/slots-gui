@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="900,600">
+  <controller name="isClub" exported="true" pages="0,no,1,yes" selected="0"/>
+  <displayList>
+    <graph id="n10_h59f" name="bg" xy="0,0" size="900,600" type="rect"/>
+    <graph id="n2_h59f" name="n2" xy="53,89" size="795,180" type="rect"/>
+    <text id="n3_h59f" name="n3" xy="53,89" size="795,180" fontSize="30" align="center" vAlign="middle" autoSize="none" text="特权信息"/>
+    <graph id="n5_h59f" name="n5" xy="53,274" size="795,180" type="rect"/>
+    <text id="n6_h59f" name="n6" xy="53,274" size="795,180" fontSize="30" align="center" vAlign="middle" autoSize="none" text="加入方法"/>
+    <component id="n8_h59f" name="joinClubBtn" src="h59f9" fileName="btn/JoinClubBtn.xml" xy="104,490"/>
+    <component id="n9_h59f" name="createClubBtn" src="h59fa" fileName="btn/createClubBtn.xml" xy="561,491"/>
+    <component id="n11_apn9" name="n11" src="h59f12" fileName="btn/applyBtn.xml" xy="680,19"/>
+  </displayList>
+</component>
