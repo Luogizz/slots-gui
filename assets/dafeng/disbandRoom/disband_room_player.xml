@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="320,120" designImageOffsetX="-240" designImageOffsetY="-165">
+  <displayList>
+    <image id="n0_mjk8" name="n0" src="fxwe17w" fileName="大丰关张美术资源/切图/j_解散房间/y_xxk.png" xy="5,0" size="309,119"/>
+    <image id="n1_mjk8" name="agree" src="fxwe17x" fileName="大丰关张美术资源/切图/j_解散房间/zt_gou.png" xy="242,38" visible="false"/>
+    <image id="n2_mjk8" name="unagree" src="fxwe17y" fileName="大丰关张美术资源/切图/j_解散房间/x.png" xy="234,25" visible="false"/>
+    <image id="n3_mjk8" name="wait" src="fxwe17z" fileName="大丰关张美术资源/切图/j_解散房间/wenhao.png" xy="233,22" visible="false"/>
+    <text id="n4_mjk8" name="name" xy="28,42" size="203,37" fontSize="24" color="#784819" vAlign="middle" autoSize="none" bold="true" text=""/>
+  </displayList>
+</component>

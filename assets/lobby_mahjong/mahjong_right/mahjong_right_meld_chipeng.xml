@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="55,120">
+  <displayList>
+    <component id="n10_fxwe" name="n1" src="fxwe1j" fileName="mahjong_right/mahjong_luo.xml" xy="0,0"/>
+    <component id="n11_fxwe" name="n2" src="fxwe1j" fileName="mahjong_right/mahjong_luo.xml" xy="0,32"/>
+    <component id="n12_fxwe" name="n3" src="fxwe1j" fileName="mahjong_right/mahjong_luo.xml" xy="0,65"/>
+  </displayList>
+</component>

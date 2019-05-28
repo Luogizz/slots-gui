@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="tyl78gwt" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="rh8w0" name="dj_bb.png" path="/image/" exported="true"/>
+    <image id="rh8w1" name="dj_ganbei.png" path="/image/" exported="true"/>
+    <image id="rh8w2" name="dj_hj.png" path="/image/" exported="true"/>
+    <image id="rh8w3" name="dj_hongqi.png" path="/image/" exported="true"/>
+    <image id="rh8w4" name="dj_jd.png" path="/image/" exported="true"/>
+    <image id="rh8w5" name="dj_meigui.png" path="/image/" exported="true"/>
+    <image id="rh8w6" name="dj_mmd.png" path="/image/" exported="true"/>
+    <image id="rh8w7" name="dj_qj.png" path="/image/" exported="true"/>
+    <image id="rh8w8" name="dj_tuoxie.png" path="/image/" exported="true"/>
+    <image id="rh8w9" name="dj_xin.png" path="/image/"/>
+    <image id="rh8wa" name="dj_zuqiu.png" path="/image/"/>
+    <image id="rh8wb" name="fgx.png" path="/image/"/>
+    <image id="rh8wc" name="gouhao.png" path="/image/"/>
+    <image id="rh8wd" name="gouk.png" path="/image/"/>
+    <image id="rh8we" name="gps.png" path="/image/"/>
+    <image id="rh8wf" name="y_djk.png" path="/image/"/>
+    <image id="rh8wg" name="y_mlz.png" path="/image/"/>
+    <image id="rh8wh" name="y_nan.png" path="/image/" exported="true"/>
+    <image id="rh8wi" name="y_nk.png" path="/image/" scale="9grid" scale9grid="28,28,56,56" gridTile="16"/>
+    <image id="rh8wj" name="y_nv.png" path="/image/" exported="true"/>
+    <image id="rh8wk" name="y_sz.png" path="/image/"/>
+    <image id="rh8wl" name="y_tcfj.png" path="/image/"/>
+    <image id="rh8wm" name="y_txk.png" path="/image/"/>
+    <image id="rh8wn" name="y_wk.png" path="/image/" scale="9grid" scale9grid="29,29,58,58" gridTile="16"/>
+    <image id="rh8wo" name="y_xxk.png" path="/image/" scale="9grid" scale9grid="39,39,78,78" gridTile="16"/>
+    <image id="rh8wp" name="y_zs.png" path="/image/"/>
+    <image id="rh8wq" name="用户信息-0326.jpg" path="/image/效果图/"/>
+    <image id="rh8wr" name="用户信息-0326标注.jpg" path="/image/效果图/"/>
+    <image id="rh8ws" name="用户信息-别人.jpg" path="/image/效果图/"/>
+    <image id="rh8wt" name="用户信息-标注.jpg" path="/image/效果图/"/>
+    <component id="rh8wu" name="player_info_view.xml" path="/" exported="true"/>
+    <component id="rh8wv" name="kickout_button.xml" path="/"/>
+    <component id="rh8ww" name="head_button.xml" path="/"/>
+    <component id="rh8wz" name="prop_button.xml" path="/"/>
+  </resources>
+  <publish name="lobby_player_info"/>
+</packageDescription>

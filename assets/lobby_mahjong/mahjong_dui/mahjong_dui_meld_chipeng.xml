@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="150,80">
+  <displayList>
+    <component id="n6_fxwe" name="n1" src="fxwe1f" fileName="mahjong_dui/mahjong_dui_luo.xml" xy="0,0" scale="0.6,0.6"/>
+    <component id="n7_fxwe" name="n2" src="fxwe1f" fileName="mahjong_dui/mahjong_dui_luo.xml" xy="39,0" scale="0.6,0.6"/>
+    <component id="n8_fxwe" name="n3" src="fxwe1f" fileName="mahjong_dui/mahjong_dui_luo.xml" xy="78,0" scale="0.6,0.6"/>
+  </displayList>
+</component>

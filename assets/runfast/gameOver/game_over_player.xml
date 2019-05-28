@@ -2,7 +2,7 @@
 <component size="270,350" designImageOffsetX="-120" designImageOffsetY="-130">
   <displayList>
     <image id="n0_rhc4" name="n0" src="ef8p1k" fileName="大丰关张美术资源/切图/j_结算/zjsbk.png" xy="4,4" size="262,340"/>
-    <component id="n1_rhc4" name="head" src="ef8pck" fileName="common/desk_user_button.xml" xy="87,32"/>
+    <component id="n1_rhc4" name="head" src="ef8pck" fileName="common/desk_user_button.xml" xy="132,74"/>
     <image id="n2_rhc4" name="roomOwner" src="ef8p3r" fileName="大丰关张美术资源/切图/t_通用/jb_fz.png" xy="64,35"/>
     <text id="n3_rhc4" name="name" xy="35,126" size="200,28" fontSize="20" color="#784819" align="center" vAlign="middle" autoSize="none" bold="true" text=""/>
     <text id="n4_rhc4" name="id" xy="35,151" size="200,22" fontSize="16" color="#784819" align="center" vAlign="middle" autoSize="none" text=""/>
