@@ -37,6 +37,7 @@
     <component id="h59f13" name="attachmentItem.xml" path="/"/>
     <component id="h59f14" name="spaceBtn.xml" path="/"/>
     <image id="h59f15" name="tbzs.png" path="/resource/"/>
+    <image id="tjkx16" name="yxn_bj_hs.png" path="/resource/"/>
   </resources>
   <publish name="lobby_email"/>
 </packageDescription>
