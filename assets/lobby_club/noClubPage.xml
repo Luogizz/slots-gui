@@ -9,6 +9,6 @@
     <text id="n6_h59f" name="n6" xy="53,274" size="795,180" fontSize="30" align="center" vAlign="middle" autoSize="none" text="加入方法"/>
     <component id="n8_h59f" name="joinClubBtn" src="h59f9" fileName="btn/JoinClubBtn.xml" xy="104,490"/>
     <component id="n9_h59f" name="createClubBtn" src="h59fa" fileName="btn/createClubBtn.xml" xy="561,491"/>
-    <component id="n11_apn9" name="n11" src="h59f12" fileName="btn/applyBtn.xml" xy="680,19"/>
+    <component id="n11_apn9" name="recordBtn" src="h59f12" fileName="btn/applyBtn.xml" xy="680,19"/>
   </displayList>
 </component>

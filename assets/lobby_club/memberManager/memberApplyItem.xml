@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,120">
+  <displayList>
+    <graph id="n0_tjkx" name="bg" xy="0,0" size="800,130" type="rect"/>
+    <graph id="n1_tjkx" name="icon" xy="21,17" size="100,100" type="rect"/>
+    <text id="n2_tjkx" name="name" xy="134,23" size="130,35" fontSize="25" vAlign="middle" autoSize="none" text="名字"/>
+    <text id="n3_tjkx" name="id" xy="134,72" size="127,35" fontSize="25" vAlign="middle" autoSize="none" text="ID"/>
+    <text id="n4_tjkx" name="info" xy="269,23" size="256,39" fontSize="30" vAlign="middle" autoSize="none" text="申请信息"/>
+    <text id="n5_tjkx" name="time" xy="269,72" size="258,39" fontSize="30" vAlign="middle" autoSize="none" text="2019-06-06"/>
+    <component id="n8_tjkx" name="agreeBtn" src="tjkx2d" fileName="memberManager/agreeBtn.xml" xy="537,43"/>
+    <component id="n9_tjkx" name="rejectBtn" src="tjkx2c" fileName="memberManager/rejectBtn.xml" xy="645,43"/>
+  </displayList>
+</component>
