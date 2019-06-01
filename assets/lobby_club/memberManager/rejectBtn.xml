@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,50" extention="Button">
+  <controller name="button" pages="0,up,1,down" selected="0"/>
+  <displayList>
+    <graph id="n0_tjkx" name="n0" xy="0,0" size="100,50" touchable="false" type="rect" lineSize="0" fillColor="#fff0f0f0">
+      <gearDisplay controller="button" pages="0"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <text id="n3_tjkx" name="n3" xy="0,0" size="100,50" fontSize="30" align="center" vAlign="middle" autoSize="none" text="拒绝"/>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

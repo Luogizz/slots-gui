@@ -28,12 +28,12 @@
     <component id="jq88o" name="duanyu_Button.xml" path="/"/>
     <component id="jq88p" name="jilu_Button.xml" path="/"/>
     <component id="jq88q" name="send_Button.xml" path="/"/>
-    <component id="jq88r" name="chat_phrase_item.xml" path="/" exported="true"/>
     <component id="jq88s" name="chat_expression_item.xml" path="/" exported="true"/>
     <component id="jq88t" name="chat_history_other_item.xml" path="/" exported="true"/>
     <component id="jq88v" name="chat_history_me_item.xml" path="/" exported="true"/>
     <image id="myudw" name="boy_img.png" path="/chat/"/>
     <image id="myudx" name="girl_img.png" path="/chat/"/>
+    <component id="uubfy" name="chat_phrase_item.xml" path="/"/>
   </resources>
   <publish name="lobby_chat"/>
 </packageDescription>

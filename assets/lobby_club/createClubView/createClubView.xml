@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640">
+  <displayList>
+    <graph id="n10_apn9" name="bg" xy="264,117" size="600,366" type="rect"/>
+    <text id="n1_apn9" name="n1" xy="263,164" size="600,32" fontSize="25" align="center" vAlign="middle" autoSize="none" singleLine="true" text="创建我的亲友圈"/>
+    <text id="n2_apn9" name="n2" xy="263,211" size="600,32" fontSize="20" align="center" vAlign="middle" autoSize="none" singleLine="true" text="创建亲友圈，需消耗999钻石"/>
+    <graph id="n4_apn9" name="n4" xy="396,260" size="343,59" type="rect" fillColor="#ff66ccff"/>
+    <text id="n3_apn9" name="inputField" xy="396,260" size="343,59" input="true" prompt="输入亲友圈圈名,数字或中文七个字" maxLength="7" fontSize="30" align="center" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text="阿斯达大啊阿斯达"/>
+    <text id="n6_apn9" name="needDiamond" xy="476,327" size="166,32" fontSize="25" align="center" vAlign="middle" autoSize="none" text="999"/>
+    <component id="n8_apn9" name="comfirmBtn" src="apn914" fileName="btn/comfirmBtn.xml" xy="464,378"/>
+    <component id="n9_apn9" name="closeBtn" src="h59fy" fileName="btn/closeBtn.xml" xy="834,103"/>
+  </displayList>
+</component>

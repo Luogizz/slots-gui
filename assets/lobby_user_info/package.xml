@@ -15,7 +15,7 @@
     <image id="h59fb" name="grxx_txdk.png" path="/resource/"/>
     <image id="h59fc" name="grxx_zi_ghbk.png" path="/resource/"/>
     <image id="h59fd" name="grxx_zi_yqhy.png" path="/resource/"/>
-    <component id="h59fe" name="item.xml" path="/"/>
+    <component id="h59fe" name="item.xml" path="/" exported="true"/>
     <component id="h59ff" name="closeBtn.xml" path="/"/>
   </resources>
   <publish name="lobby_user_info"/>
