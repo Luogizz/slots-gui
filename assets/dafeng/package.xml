@@ -464,12 +464,12 @@
     <component id="fxwe15x" name="desk_view_right.xml" path="/desk/right/"/>
     <component id="fxwe15z" name="desk_hand.xml" path="/desk/right/"/>
     <component id="fxwe160" name="operation_panel.xml" path="/desk/"/>
-    <component id="fxwe161" name="chi_button.xml" path="/desk/button/" exported="true"/>
-    <component id="fxwe162" name="peng_button.xml" path="/desk/button/" exported="true"/>
-    <component id="fxwe163" name="gang_button.xml" path="/desk/button/" exported="true"/>
-    <component id="fxwe164" name="hu_button.xml" path="/desk/button/" exported="true"/>
-    <component id="fxwe165" name="ting_button.xml" path="/desk/button/" exported="true"/>
-    <component id="fxwe166" name="guo_button.xml" path="/desk/button/" exported="true"/>
+    <component id="fxwe161" name="chi_button.xml" path="/desk/button/"/>
+    <component id="fxwe162" name="peng_button.xml" path="/desk/button/"/>
+    <component id="fxwe163" name="gang_button.xml" path="/desk/button/"/>
+    <component id="fxwe164" name="hu_button.xml" path="/desk/button/"/>
+    <component id="fxwe165" name="ting_button.xml" path="/desk/button/"/>
+    <component id="fxwe166" name="guo_button.xml" path="/desk/button/"/>
     <component id="fxwe167" name="ready_button.xml" path="/desk/"/>
     <component id="fxwe168" name="peng_button.xml" path="/"/>
     <component id="fxwe16a" name="desk_meld.xml" path="/desk/mine/"/>
@@ -518,7 +518,7 @@
     <image id="fxwe17y" name="x.png" path="/大丰关张美术资源/切图/j_解散房间/"/>
     <image id="fxwe17z" name="wenhao.png" path="/大丰关张美术资源/切图/j_解散房间/"/>
     <image id="fxwe180" name="zhua.png" path="/大丰麻将美术改版/2 游戏内/切图/出牌按钮/"/>
-    <component id="fxwe181" name="zhua_button.xml" path="/desk/button/" exported="true"/>
+    <component id="fxwe181" name="zhua_button.xml" path="/desk/button/"/>
     <component id="g0pr182" name="discard_tip.xml" path="/desk/dui/"/>
     <component id="g0pr183" name="discard_tip.xml" path="/desk/left/"/>
     <component id="g0pr184" name="discard_tip.xml" path="/desk/mine/"/>
