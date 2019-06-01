@@ -3,6 +3,8 @@
   <resources>
     <component id="kq451" name="progressBar.xml" path="/" exported="true"/>
     <component id="kq452" name="downloadProgress.xml" path="/" exported="true"/>
+    <component id="gz236" name="rolling.xml" path="/" exported="true"/>
+    <image id="gz237" name="rolling.png" path="/"/>
   </resources>
   <publish name="lobby_progress_bar"/>
 </packageDescription>
