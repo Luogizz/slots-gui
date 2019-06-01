@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,20" extention="Button">
+  <displayList>
+    <graph id="n0_h59f" name="n0" xy="0,0" size="100,30" touchable="false" type="rect" lineSize="0" fillColor="#fff0f0f0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <text id="n3_h59f" name="n3" xy="28,2" size="56,27" fontSize="20" align="center" vAlign="middle" autoSize="none" singleLine="true" text="返回"/>
+  </displayList>
+  <Button/>
+</component>

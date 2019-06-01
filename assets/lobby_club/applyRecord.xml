@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640">
+  <displayList>
+    <graph id="n4_h59f" name="bg" xy="229,155" size="680,280" type="rect"/>
+    <component id="n1_h59f" name="closeBtn" src="h59fy" fileName="btn/closeBtn.xml" xy="883,139"/>
+    <text id="n2_h59f" name="title" xy="443,159" size="253,43" fontSize="30" align="center" vAlign="middle" autoSize="none" text="申请记录"/>
+    <list id="n3_h59f" name="recordList" xy="311,212" size="513,167" overflow="scroll" scrollBar="hidden" lineGap="10" defaultItem="ui://vil278bsh59fz" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="500,80">
+  <displayList>
+    <graph id="n6_h59f" name="bg" xy="0,0" size="500,80" type="rect"/>
+    <text id="n0_h59f" name="name" xy="5,10" size="84,21" fontSize="15" text="申请人名称"/>
+    <text id="n1_h59f" name="n1" xy="230,10" size="69,21" fontSize="15" text="入会申请"/>
+    <text id="n2_h59f" name="id" xy="5,43" size="153,21" fontSize="15" text="亲友圈ID：13513514"/>
+    <text id="n3_h59f" name="time" xy="230,42" size="131,21" fontSize="15" text="时间：2019-09-09"/>
+    <text id="n4_h59f" name="result" xy="391,11" size="107,50" fontSize="20" align="center" vAlign="middle" autoSize="none" text="同意申请"/>
+  </displayList>
+</component>
