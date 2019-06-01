@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="480,470" designImage="ui://tyl78gwtrh8wt" designImageOffsetX="-540" designImageOffsetY="-160" designImageLayer="1">
+<component size="480,240" designImage="ui://tyl78gwtrh8wt" designImageOffsetX="-540" designImageOffsetY="-160" designImageAlpha="0" designImageLayer="1">
   <displayList>
     <image id="n0_rh8w" name="n0" src="rh8wn" fileName="image/y_wk.png" xy="-3,0" size="487,241">
       <relation target="n1_rh8w" sidePair="bottom-bottom,height-height"/>
