@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1136,640" designImage="ui://tnqevky2fxwet8" designImageLayer="1">
+  <controller name="bgController" pages="0,经典,1,普蓝" selected="0"/>
   <displayList>
-    <image id="n1_fxwe" name="n1" src="fxwexh" fileName="大丰麻将美术改版/2 游戏内/切图/bg1.jpg" xy="0,0" size="1136,640"/>
+    <image id="n29_qhzt" name="blueBg" src="fxwexi" fileName="大丰麻将美术改版/2 游戏内/切图/bg2.jpg" xy="0,0" size="1136,640">
+      <gearDisplay controller="bgController" pages="1"/>
+    </image>
+    <image id="n1_fxwe" name="classBg" src="fxwexh" fileName="大丰麻将美术改版/2 游戏内/切图/bg1.jpg" xy="0,0" size="1136,640">
+      <gearDisplay controller="bgController" pages="0"/>
+    </image>
     <image id="n3_fxwe" name="n3" src="fxweya" fileName="大丰麻将美术改版/2 游戏内/切图/fenquanbg.png" xy="35,44"/>
     <component id="n21_fxwe" name="fengquan" src="fxwe1g" fileName="mahjong_mine/mahjong_mine_shu.xml" pkg="tjfy9hi3" xy="53,50" scale="0.4,0.4"/>
     <image id="n2_fxwe" name="n2" src="fxwexj" fileName="大丰麻将美术改版/2 游戏内/切图/bgUp.png" xy="280,1" size="554,36"/>

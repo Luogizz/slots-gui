@@ -301,7 +301,7 @@
     <image id="fxwe11a" name="suit7.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
     <image id="fxwe11b" name="suit8.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
     <image id="fxwe11c" name="suit9.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
-    <image id="fxwe11d" name="beiban.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
+    <image id="fxwe11d" name="beiban.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/" scale9grid="128,128,256,256"/>
     <image id="fxwe11e" name="fengge.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
     <image id="fxwe11f" name="guanbi.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
     <image id="fxwe11g" name="gze.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
@@ -524,6 +524,16 @@
     <component id="g0pr184" name="discard_tip.xml" path="/desk/mine/"/>
     <component id="g0pr185" name="discard_tip.xml" path="/desk/right/"/>
     <component id="rh8w186" name="check_ting_button.xml" path="/desk/"/>
+    <component id="tjkx187" name="setting.xml" path="/settingRoom/" exported="true"/>
+    <component id="tjkx189" name="disbandBtn.xml" path="/settingRoom/"/>
+    <component id="tjkx18a" name="shutdownBtn.xml" path="/settingRoom/"/>
+    <component id="tjkx18b" name="arrowBtn.xml" path="/settingRoom/"/>
+    <component id="tjkx18c" name="classColorBtn.xml" path="/settingRoom/"/>
+    <component id="tjkx18d" name="blueColorBtn.xml" path="/settingRoom/"/>
+    <component id="tjkx18e" name="closeBtn.xml" path="/settingRoom/"/>
+    <component id="tjkx18f" name="soundSlider_grip.xml" path="/settingRoom/"/>
+    <component id="qhzt18h" name="bar.xml" path="/settingRoom/"/>
+    <component id="qhzt18o" name="Slider_grip.xml" path="/settingRoom/"/>
   </resources>
   <publish name="dafeng"/>
 </packageDescription>
