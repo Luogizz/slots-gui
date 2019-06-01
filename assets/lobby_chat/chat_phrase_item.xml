@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="400,50" designImageOffsetX="-670" designImageOffsetY="-20">
+<component size="400,50" extention="Button" bgColor="#000000">
+  <controller name="button" pages="0,up,1,down" selected="1"/>
   <displayList>
-    <text id="n0_jq88" name="n0" xy="9,3" size="382,37" fontSize="20" color="#784819" vAlign="middle" autoSize="none" bold="true" text="我等到花都卸了"/>
-    <image id="n1_jq88" name="n1" src="jq884" fileName="chat/fgx.png" xy="10,45"/>
+    <graph id="n0_uubf" name="n0" xy="7,3" size="393,44" touchable="false" type="rect" lineSize="4" lineColor="#ffffffff">
+      <gearDisplay controller="button" pages="1"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <text id="n3_uubf" name="n3" xy="15,10" size="382,37" fontSize="20" color="#784819" vAlign="middle" autoSize="none" bold="true" text="我等到花都卸了"/>
+    <image id="n4_uubf" name="n4" src="jq884" fileName="chat/fgx.png" xy="16,52"/>
   </displayList>
+  <Button/>
 </component>
