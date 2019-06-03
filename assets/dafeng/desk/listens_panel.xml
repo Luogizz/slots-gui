@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="1136,640" designImageLayer="1">
+<component size="1136,640" opaque="false" designImageLayer="1">
   <displayList>
     <image id="n11_fxwe" name="bg" src="fxweyf" fileName="大丰麻将美术改版/2 游戏内/切图/hukk.png" xy="574,145" pivot="0.5,0" anchor="true" size="124,165">
       <relation target="n15_fxwe" sidePair="height-height,width-width"/>
