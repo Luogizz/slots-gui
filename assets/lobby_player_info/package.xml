@@ -35,6 +35,21 @@
     <component id="rh8wv" name="kickout_button.xml" path="/"/>
     <component id="rh8ww" name="head_button.xml" path="/"/>
     <component id="rh8wz" name="prop_button.xml" path="/"/>
+    <image id="g7tj12" name="zi2_jian.png" path="/image/bmfont/"/>
+    <image id="g7tj13" name="zi_0.png" path="/image/bmfont/"/>
+    <image id="g7tj14" name="zi_1.png" path="/image/bmfont/"/>
+    <image id="g7tj15" name="zi_2.png" path="/image/bmfont/"/>
+    <image id="g7tj16" name="zi_3.png" path="/image/bmfont/"/>
+    <image id="g7tj17" name="zi_4.png" path="/image/bmfont/"/>
+    <image id="g7tj18" name="zi_5.png" path="/image/bmfont/"/>
+    <image id="g7tj19" name="zi_6.png" path="/image/bmfont/"/>
+    <image id="g7tj1a" name="zi_7.png" path="/image/bmfont/"/>
+    <image id="g7tj1b" name="zi_8.png" path="/image/bmfont/"/>
+    <image id="g7tj1c" name="zi_9.png" path="/image/bmfont/"/>
+    <image id="g7tj1d" name="zi_jia.png" path="/image/bmfont/"/>
+    <image id="g7tj1f" name="bf_atlas.png" path="/image/" qualityOption="source"/>
+    <font id="g7tj1e" name="bf.fnt" path="/" texture="g7tj1f"/>
+    <image id="g7tj1g" name="bf_0.png" path="/image/"/>
   </resources>
   <publish name="lobby_player_info"/>
 </packageDescription>

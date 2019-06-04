@@ -5,11 +5,11 @@
     <image id="n0_rh8w" name="n0" src="rh8wf" fileName="image/y_djk.png" xy="0,0">
       <relation target="" sidePair="width-width,height-height"/>
     </image>
-    <loader id="n1_rh8w" name="icon" xy="2,3" size="17,23" url="ui://tyl78gwtrh8w4"/>
     <image id="n4_rh8w" name="n4" src="rh8wg" fileName="image/y_mlz.png" xy="11,9" scale="0.5,0.5"/>
     <image id="n5_rh8w" name="n5" src="rh8wp" fileName="image/y_zs.png" xy="54,67" scale="0.5,0.5"/>
-    <text id="n6_rh8w" name="xinNum" xy="31,6" size="26,25" fontSize="18" color="#ea3d3d" bold="true" text="+2"/>
-    <text id="n7_rh8w" name="zuanNum" xy="75,64" size="16,28" fontSize="18" color="#527983" bold="true" text="2&#xA;"/>
+    <loader id="n1_rh8w" name="icon" xy="2,3" size="17,23" url="ui://tyl78gwtrh8w4"/>
+    <text id="n6_rh8w" name="xinNum" xy="31,6" size="22,22" font="ui://tyl78gwtg7tj1e" fontSize="18" color="#ea3d3d" bold="true" text="+2"/>
+    <text id="n7_rh8w" name="zuanNum" xy="75,64" size="13,22" font="ui://tyl78gwtg7tj1e" fontSize="18" color="#527983" bold="true" text="2"/>
   </displayList>
   <Button/>
 </component>
