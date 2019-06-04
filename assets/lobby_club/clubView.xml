@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="1136,640">
+<component size="1136,640" designImage="ui://vil278bsis8o76" designImageAlpha="100">
+  <controller name="isClub" pages="0,No,1,Yes" selected="0"/>
   <displayList>
-    <graph id="n7_h59f" name="bg" xy="0,0" size="1136,640" type="rect"/>
-    <component id="n0_h59f" name="backBtn" src="h59f1" fileName="btn/backBtn.xml" xy="21,15"/>
-    <graph id="n6_h59f" name="bg" xy="20,84" size="180,503" type="rect"/>
-    <list id="n1_h59f" name="clubList" xy="20,84" size="180,503" overflow="scroll" scrollBar="hidden" lineGap="10" defaultItem="ui://vil278bsh59f4" align="center">
+    <image id="n9_is8o" name="bg" src="is8o7j" fileName="resource/切图/q_bbkk.png" xy="568,0" size="568,640"/>
+    <image id="n7_h59f" name="bg" src="is8o7j" fileName="resource/切图/q_bbkk.png" xy="0,0" size="568,640" flip="hz"/>
+    <image id="n10_is8o" name="title" src="is8o85" fileName="resource/切图/q_qyqbt.png" xy="448,-2"/>
+    <image id="n15_is8o" name="diamondBg" src="is8o97" fileName="resource/切图/q_zssz.png" xy="127,69"/>
+    <image id="n16_is8o" name="buyBtn" src="is8o9a" fileName="resource/切图/btn_gm.png" xy="232,67"/>
+    <image id="n13_is8o" name="diamondImg" src="is8o96" fileName="resource/切图/q_zs.png" xy="106,65"/>
+    <image id="n11_is8o" name="clubImg1" src="is8o7y" fileName="resource/切图/q_jrxtq.png" xy="397,74">
+      <gearDisplay controller="isClub" pages="0"/>
+    </image>
+    <image id="n8_is8o" name="clubListBg" src="is8o8y" fileName="resource/切图/q_yq9g.png" xy="8,119" size="190,487"/>
+    <component id="n0_h59f" name="backBtn" src="h59f1" fileName="btn/backBtn.xml" xy="37,52"/>
+    <component id="n12_is8o" name="applyRecordBtn" src="is8o99" fileName="applyRecordBtn.xml" xy="957,49">
+      <gearDisplay controller="isClub" pages="0"/>
+    </component>
+    <list id="n1_h59f" name="clubList" xy="7,119" size="209,487" overflow="scroll" scrollBar="hidden" lineGap="10" defaultItem="ui://vil278bsh59f4" align="center">
       <item controllers="isClub,0"/>
       <item controllers="isClub,0"/>
       <item controllers="isClub,0"/>
     </list>
-    <component id="n3_h59f" name="content" src="h59f5" fileName="pageContent.xml" xy="218,15" size="900,600" controller="isClub,0"/>
+    <text id="n17_is8o" name="diamondText" xy="148,69" size="83,30" fontSize="22" color="#89402f" align="center" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text="999998&#xA;"/>
+    <component id="n3_h59f" name="content" src="h59f5" fileName="pageContent.xml" xy="216,119" size="913,489"/>
+    <component id="n18_n6uz" name="n18" src="h59f8" fileName="clubPage.xml" xy="216,119" hideByEditor="true" controller="isClub,0"/>
   </displayList>
 </component>

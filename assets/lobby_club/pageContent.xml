@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="900,600">
-  <controller name="isClub" exported="true" pages="0,no,1,yes" selected="1"/>
+<component size="913,489">
+  <controller name="isClub" pages="0,no,1,yes" selected="1"/>
   <displayList>
     <component id="n3_h59f" name="noClubPage" src="h59f7" fileName="noClubPage.xml" xy="0,0" controller="isClub,0">
       <gearDisplay controller="isClub" pages="0"/>

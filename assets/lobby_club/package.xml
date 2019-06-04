@@ -46,22 +46,22 @@
     <component id="tjkx1i" name="buttonCS.xml" path="/btn/" exported="true"/>
     <component id="tjkx1j" name="buttonSC.xml" path="/btn/" exported="true"/>
     <component id="tjkx1k" name="btnClose.xml" path="/btn/" exported="true"/>
-    <image id="tjkx1m" name="jrfj_btn.png" path="/resource/" exported="true"/>
-    <image id="tjkx1n" name="jrfj_db.png" path="/resource/" exported="true" scale="9grid" scale9grid="141,176,226,205"/>
-    <image id="tjkx1o" name="jrfj_fgx.png" path="/resource/" exported="true"/>
-    <image id="tjkx1p" name="jrfj_sz0.png" path="/resource/" exported="true"/>
-    <image id="tjkx1q" name="jrfj_sz1.png" path="/resource/" exported="true"/>
-    <image id="tjkx1r" name="jrfj_sz2.png" path="/resource/" exported="true"/>
-    <image id="tjkx1s" name="jrfj_sz3.png" path="/resource/" exported="true"/>
-    <image id="tjkx1t" name="jrfj_sz4.png" path="/resource/" exported="true"/>
-    <image id="tjkx1u" name="jrfj_sz5.png" path="/resource/" exported="true"/>
-    <image id="tjkx1v" name="jrfj_sz6.png" path="/resource/" exported="true"/>
-    <image id="tjkx1w" name="jrfj_sz7.png" path="/resource/" exported="true"/>
-    <image id="tjkx1x" name="jrfj_sz8.png" path="/resource/" exported="true"/>
-    <image id="tjkx1y" name="jrfj_sz9.png" path="/resource/" exported="true"/>
-    <image id="tjkx1z" name="jrfj_szcs.png" path="/resource/" exported="true"/>
-    <image id="tjkx20" name="jrfj_szsc.png" path="/resource/" exported="true"/>
-    <image id="tjkx21" name="ty_btnClose.png" path="/resource/" exported="true"/>
+    <image id="tjkx1m" name="jrfj_btn.png" path="/resource/old/" exported="true"/>
+    <image id="tjkx1n" name="jrfj_db.png" path="/resource/old/" exported="true" scale="9grid" scale9grid="141,176,226,205"/>
+    <image id="tjkx1o" name="jrfj_fgx.png" path="/resource/old/" exported="true"/>
+    <image id="tjkx1p" name="jrfj_sz0.png" path="/resource/old/" exported="true"/>
+    <image id="tjkx1q" name="jrfj_sz1.png" path="/resource/old/" exported="true"/>
+    <image id="tjkx1r" name="jrfj_sz2.png" path="/resource/old/" exported="true"/>
+    <image id="tjkx1s" name="jrfj_sz3.png" path="/resource/old/" exported="true"/>
+    <image id="tjkx1t" name="jrfj_sz4.png" path="/resource/old/" exported="true"/>
+    <image id="tjkx1u" name="jrfj_sz5.png" path="/resource/old/" exported="true"/>
+    <image id="tjkx1v" name="jrfj_sz6.png" path="/resource/old/" exported="true"/>
+    <image id="tjkx1w" name="jrfj_sz7.png" path="/resource/old/" exported="true"/>
+    <image id="tjkx1x" name="jrfj_sz8.png" path="/resource/old/" exported="true"/>
+    <image id="tjkx1y" name="jrfj_sz9.png" path="/resource/old/" exported="true"/>
+    <image id="tjkx1z" name="jrfj_szcs.png" path="/resource/old/" exported="true"/>
+    <image id="tjkx20" name="jrfj_szsc.png" path="/resource/old/" exported="true"/>
+    <image id="tjkx21" name="ty_btnClose.png" path="/resource/old/" exported="true"/>
     <component id="tjkx22" name="memberManager.xml" path="/memberManager/" exported="true"/>
     <component id="tjkx23" name="memberListBtn.xml" path="/memberManager/"/>
     <component id="tjkx24" name="applyListBtn.xml" path="/memberManager/"/>
@@ -72,6 +72,106 @@
     <component id="tjkx29" name="memberApplyItem.xml" path="/memberManager/"/>
     <component id="tjkx2c" name="rejectBtn.xml" path="/memberManager/"/>
     <component id="tjkx2d" name="agreeBtn.xml" path="/memberManager/"/>
+    <image id="is8o6n" name="一键组局配置1.jpg" path="/resource/效果图/"/>
+    <image id="is8o6o" name="一键组局配置1标注.jpg" path="/resource/效果图/"/>
+    <image id="is8o6p" name="一键组局配置2.jpg" path="/resource/效果图/"/>
+    <image id="is8o6q" name="一键组局配置2标注.jpg" path="/resource/效果图/"/>
+    <image id="is8o6r" name="创建亲友圈.jpg" path="/resource/效果图/"/>
+    <image id="is8o6s" name="创建亲友圈标注.jpg" path="/resource/效果图/"/>
+    <image id="is8o6t" name="删除玩家.jpg" path="/resource/效果图/"/>
+    <image id="is8o6u" name="删除玩家标注.jpg" path="/resource/效果图/"/>
+    <image id="is8o6v" name="房间管理.jpg" path="/resource/效果图/"/>
+    <image id="is8o6w" name="房间管理标注.jpg" path="/resource/效果图/"/>
+    <image id="is8o6x" name="提示.jpg" path="/resource/效果图/"/>
+    <image id="is8o6y" name="没房间提示.jpg" path="/resource/效果图/"/>
+    <image id="is8o6z" name="没有群.jpg" path="/resource/效果图/"/>
+    <image id="is8o70" name="没有群标注.jpg" path="/resource/效果图/"/>
+    <image id="is8o71" name="申请记录.jpg" path="/resource/效果图/"/>
+    <image id="is8o72" name="申请记录标注.jpg" path="/resource/效果图/"/>
+    <image id="is8o73" name="管理下拉-提示-标注.jpg" path="/resource/效果图/"/>
+    <image id="is8o74" name="管理下拉.jpg" path="/resource/效果图/"/>
+    <image id="is8o75" name="组局设置.jpg" path="/resource/效果图/"/>
+    <image id="is8o76" name="群首页.jpg" path="/resource/效果图/"/>
+    <image id="is8o77" name="群首页标注.jpg" path="/resource/效果图/"/>
+    <image id="is8o78" name="bg.jpg" path="/resource/切图/"/>
+    <image id="is8o79" name="q_1jzj.png" path="/resource/切图/"/>
+    <image id="is8o7a" name="q_an4z.png" path="/resource/切图/"/>
+    <image id="is8o7b" name="q_anfz.png" path="/resource/切图/"/>
+    <image id="is8o7c" name="q_anhs.png" path="/resource/切图/"/>
+    <image id="is8o7d" name="q_anjr.png" path="/resource/切图/"/>
+    <image id="is8o7e" name="q_anqb.png" path="/resource/切图/"/>
+    <image id="is8o7f" name="q_anqbtt.png" path="/resource/切图/"/>
+    <image id="is8o7g" name="q_antc.png" path="/resource/切图/"/>
+    <image id="is8o7h" name="q_antchs.png" path="/resource/切图/"/>
+    <image id="is8o7i" name="q_anyq.png" path="/resource/切图/"/>
+    <image id="is8o7j" name="q_bbkk.png" path="/resource/切图/"/>
+    <image id="is8o7k" name="q_cjk9g.png" path="/resource/切图/"/>
+    <image id="is8o7l" name="q_cjwd.png" path="/resource/切图/"/>
+    <image id="is8o7m" name="q_cysz.png" path="/resource/切图/"/>
+    <image id="is8o7n" name="q_ddwj.png" path="/resource/切图/"/>
+    <image id="is8o7o" name="q_ddwjkk.png" path="/resource/切图/"/>
+    <image id="is8o7p" name="q_fh.png" path="/resource/切图/"/>
+    <image id="is8o7q" name="q_fjgl.png" path="/resource/切图/"/>
+    <image id="is8o7r" name="q_fk.png" path="/resource/切图/"/>
+    <image id="is8o7s" name="q_fx.png" path="/resource/切图/"/>
+    <image id="is8o7t" name="q_fz9g.png" path="/resource/切图/" scale="9grid" scale9grid="27,27,54,54"/>
+    <image id="is8o7u" name="q_fzid.png" path="/resource/切图/"/>
+    <image id="is8o7v" name="q_gl.png" path="/resource/切图/"/>
+    <image id="is8o7w" name="q_glxl9g.png" path="/resource/切图/"/>
+    <image id="is8o7x" name="q_jr.png" path="/resource/切图/"/>
+    <image id="is8o7y" name="q_jrxtq.png" path="/resource/切图/"/>
+    <image id="is8o7z" name="q_lh.png" path="/resource/切图/"/>
+    <image id="is8o80" name="q_mfjr.png" path="/resource/切图/"/>
+    <image id="is8o81" name="q_mfjr_wfj.png" path="/resource/切图/"/>
+    <image id="is8o82" name="q_qian.png" path="/resource/切图/"/>
+    <image id="is8o83" name="q_qun.png" path="/resource/切图/"/>
+    <image id="is8o84" name="q_qunzhu.png" path="/resource/切图/"/>
+    <image id="is8o85" name="q_qyqbt.png" path="/resource/切图/"/>
+    <image id="is8o86" name="q_rmqg.png" path="/resource/切图/"/>
+    <image id="is8o87" name="q_sqjl.png" path="/resource/切图/"/>
+    <image id="is8o88" name="q_srk.png" path="/resource/切图/"/>
+    <image id="is8o89" name="q_sxsj.png" path="/resource/切图/"/>
+    <image id="is8o8a" name="q_sz.png" path="/resource/切图/"/>
+    <image id="is8o8b" name="q_ts9g.png" path="/resource/切图/"/>
+    <image id="is8o8c" name="q_tsjt.png" path="/resource/切图/"/>
+    <image id="is8o8d" name="q_wh.png" path="/resource/切图/"/>
+    <image id="is8o8e" name="q_wjtxk.png" path="/resource/切图/"/>
+    <image id="is8o8f" name="q_wjtxk_fgx.png" path="/resource/切图/"/>
+    <image id="is8o8g" name="q_wz_bj.png" path="/resource/切图/"/>
+    <image id="is8o8h" name="q_wz_cjfj.png" path="/resource/切图/"/>
+    <image id="is8o8i" name="q_wz_cjqr.png" path="/resource/切图/"/>
+    <image id="is8o8j" name="q_wz_cjwd.png" path="/resource/切图/"/>
+    <image id="is8o8k" name="q_wz_fou.png" path="/resource/切图/"/>
+    <image id="is8o8l" name="q_wz_jr.png" path="/resource/切图/"/>
+    <image id="is8o8m" name="q_wz_jrhs.png" path="/resource/切图/"/>
+    <image id="is8o8n" name="q_wz_jsfj.png" path="/resource/切图/"/>
+    <image id="is8o8o" name="q_wz_ljjr.png" path="/resource/切图/"/>
+    <image id="is8o8p" name="q_wz_shi.png" path="/resource/切图/"/>
+    <image id="is8o8q" name="q_wz_sqjl.png" path="/resource/切图/"/>
+    <image id="is8o8r" name="q_wz_yjzj.png" path="/resource/切图/"/>
+    <image id="is8o8s" name="q_wz_yq.png" path="/resource/切图/"/>
+    <image id="is8o8t" name="q_wz_yqhs.png" path="/resource/切图/"/>
+    <image id="is8o8u" name="q_xx9g.png" path="/resource/切图/" scale="9grid" scale9grid="129,29,27,58"/>
+    <image id="is8o8v" name="q_xxk9g.png" path="/resource/切图/"/>
+    <image id="is8o8w" name="q_yh9g.png" path="/resource/切图/"/>
+    <image id="is8o8x" name="q_yhk9g.png" path="/resource/切图/"/>
+    <image id="is8o8y" name="q_yq9g.png" path="/resource/切图/" scale="9grid" scale9grid="48,35,96,70"/>
+    <image id="is8o8z" name="q_yqdq.png" path="/resource/切图/"/>
+    <image id="is8o90" name="q_yqqt.png" path="/resource/切图/"/>
+    <image id="is8o91" name="q_zj.png" path="/resource/切图/"/>
+    <image id="is8o92" name="q_zjbk9g.png" path="/resource/切图/"/>
+    <image id="is8o93" name="q_zjnr9g.png" path="/resource/切图/"/>
+    <image id="is8o94" name="q_zjnr_ty.png" path="/resource/切图/"/>
+    <image id="is8o95" name="q_zjsz.png" path="/resource/切图/"/>
+    <image id="is8o96" name="q_zs.png" path="/resource/切图/"/>
+    <image id="is8o97" name="q_zssz.png" path="/resource/切图/"/>
+    <image id="is8o98" name="rs.png" path="/resource/切图/"/>
+    <component id="is8o99" name="applyRecordBtn.xml" path="/"/>
+    <image id="is8o9a" name="btn_gm.png" path="/resource/切图/"/>
+    <image id="is8o9b" name="ty_btn4_cheng.png" path="/resource/切图/" scale="9grid" scale9grid="29,16,58,17"/>
+    <component id="is8o9c" name="JoinClubBtn.xml" path="/"/>
+    <component id="is8o9d" name="createClubBtn.xml" path="/"/>
+    <component id="is8o9u" name="copyBtn.xml" path="/"/>
   </resources>
   <publish name="lobby_club"/>
 </packageDescription>
