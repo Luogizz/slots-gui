@@ -14,6 +14,7 @@
     <component id="n38_fxwe" name="n11" src="fxwe1g" fileName="mahjong_mine/mahjong_mine_shu.xml" pkg="tjfy9hi3" xy="155,15" visible="false"/>
     <component id="n39_fxwe" name="n12" src="fxwe1g" fileName="mahjong_mine/mahjong_mine_shu.xml" pkg="tjfy9hi3" xy="80,15" visible="false"/>
     <component id="n40_fxwe" name="n13" src="fxwe1g" fileName="mahjong_mine/mahjong_mine_shu.xml" pkg="tjfy9hi3" xy="5,15" visible="false"/>
-    <component id="n41_fxwe" name="n14" src="fxwe1g" fileName="mahjong_mine/mahjong_mine_shu.xml" pkg="tjfy9hi3" xy="1002,15" visible="false"/>
+    <component id="n41_fxwe" name="n14" src="fxwe1g" fileName="mahjong_mine/mahjong_mine_shu.xml" pkg="tjfy9hi3" xy="1001,15" visible="false"/>
+    <component id="n42_g7tj" name="dragHand" src="fxwe1g" fileName="mahjong_mine/mahjong_mine_shu.xml" pkg="tjfy9hi3" xy="534,-21" visible="false"/>
   </displayList>
 </component>
