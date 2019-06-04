@@ -530,7 +530,7 @@
     <component id="y5pf18a" name="classColorBtn.xml" path="/settingRoom/"/>
     <component id="y5pf18b" name="closeBtn.xml" path="/settingRoom/"/>
     <component id="y5pf18c" name="disbandBtn.xml" path="/settingRoom/"/>
-    <component id="y5pf18d" name="setting.xml" path="/settingRoom/"/>
+    <component id="y5pf18d" name="setting.xml" path="/settingRoom/" exported="true"/>
     <component id="y5pf18e" name="shutdownBtn.xml" path="/settingRoom/"/>
     <component id="y5pf18f" name="Slider_grip.xml" path="/settingRoom/"/>
     <component id="y5pf18g" name="soundSlider_grip.xml" path="/settingRoom/"/>

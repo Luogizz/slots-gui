@@ -10,7 +10,5 @@
       <item/>
       <item/>
     </list>
-    <component id="n6_h59f" name="inviteBtn" src="h59fu" fileName="btn/inviteBtn.xml" xy="632,80"/>
-    <component id="n7_h59f" name="joinBtn" src="h59fv" fileName="btn/joinRoomBtn.xml" xy="748,80"/>
   </displayList>
 </component>
