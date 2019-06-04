@@ -47,6 +47,6 @@
       <item controllers="isClub,0"/>
     </list>
     <component id="n3_h59f" name="content" src="h59f5" fileName="pageContent.xml" xy="216,119" size="913,489" hideByEditor="true"/>
-    <component id="n18_n6uz" name="n18" src="h59f8" fileName="clubPage.xml" xy="216,119" hideByEditor="true" controller="isClub,0"/>
+    <component id="n18_n6uz" name="n18" src="h59f8" fileName="clubPage.xml" xy="216,119" controller="isClub,0"/>
   </displayList>
 </component>

@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="169,54" extention="Button">
-  <Button/>
-  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver"/>
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
   <displayList>
-    <image id="n0_n6uz" src="is8o7e" name="n0" xy="0,0">
-      <relation target="" sidePair="width,height"/>
+    <image id="n0_n6uz" name="n0" src="is8o7e" fileName="resource/切图/q_anqb.png" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
     </image>
+    <image id="n1_n6uz" name="n1" src="is8o7f" fileName="resource/切图/q_anqbtt.png" xy="14,13"/>
+    <text id="n2_n6uz" name="n2" xy="78,18" size="30,19" fontSize="12" text="全部"/>
   </displayList>
+  <Button/>
 </component>
