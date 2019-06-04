@@ -1,23 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="913,489">
+<component size="913,489" designImage="ui://vil278bsis8o76" designImageOffsetX="-216" designImageOffsetY="-119" designImageAlpha="100">
   <controller name="isClub" exported="true" pages="0,no,1,yes" selected="0"/>
   <displayList>
-    <text id="n2_h59f" name="diamond" xy="58,18" size="164,30" fontSize="20" align="center" vAlign="middle" autoSize="none" singleLine="true" text="群主钻石数量"/>
-    <component id="n4_h59f" name="shareBtn" src="h59fb" fileName="btn/shareBtn.xml" xy="452,8"/>
-    <component id="n6_h59f" name="memberSettingBtn" src="h59fk" fileName="btn/memberSettingBtn.xml" xy="564,8"/>
-    <component id="n8_h59f" name="appointBtn" src="h59fj" fileName="btn/appointBtn.xml" xy="678,8"/>
-    <component id="n9_h59f" name="settingBtn" src="h59fl" fileName="btn/settingBtn.xml" xy="788,8"/>
-    <list id="n10_h59f" name="roomList" xy="20,77" size="861,404" overflow="scroll" scrollBar="hidden" lineGap="10" defaultItem="ui://vil278bsh59ft" align="center">
+    <list id="n10_h59f" name="roomList" xy="0,7" size="905,392" overflow="scroll" scrollBar="hidden" lineGap="10" defaultItem="ui://vil278bsh59ft" align="center">
       <item/>
       <item/>
       <item/>
     </list>
-    <component id="n11_h59f" name="filterBtn" src="h59fn" fileName="btn/filterBtn.xml" xy="37,527"/>
-    <component id="n12_h59f" name="refreshBtn" src="h59fo" fileName="btn/refreshBtn.xml" xy="172,527"/>
-    <component id="n13_h59f" name="gameRecordBtn" src="h59fp" fileName="btn/gameRecordBtn.xml" xy="306,527"/>
-    <component id="n14_h59f" name="createQuicklyBtn" src="h59fq" fileName="btn/createQuicklyBtn.xml" xy="527,527"/>
-    <component id="n15_h59f" name="tipsBtn" src="h59fr" fileName="btn/tipsBtn.xml" xy="660,527"/>
-    <component id="n16_h59f" name="createRoomBtn" src="h59fs" fileName="btn/createRoomBtn.xml" xy="791,527"/>
-    <component id="n19_apn9" name="settingPopup" src="apn915" fileName="settingPopup.xml" xy="690,26" size="150,80" hideByEditor="true"/>
   </displayList>
 </component>
