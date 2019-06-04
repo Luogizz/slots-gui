@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="913,489" designImage="ui://vil278bsis8o6z" designImageOffsetX="-216" designImageOffsetY="-119" designImageAlpha="100">
+<component size="913,489" designImage="ui://vil278bsis8o6z" designImageOffsetX="-216" designImageOffsetY="-119" designImageAlpha="0">
   <controller name="isClub" exported="true" pages="0,no,1,yes" selected="0"/>
   <displayList>
-    <component id="n13_is8o" name="joinClubBtn" src="is8o9c" fileName="JoinClubBtn.xml" xy="54,402"/>
-    <component id="n14_is8o" name="createClubBtn" src="is8o9d" fileName="createClubBtn.xml" xy="503,402"/>
-    <component id="n38_is8o" name="copyBtn" src="is8o9u" fileName="copyBtn.xml" xy="827,302"/>
     <image id="n18_is8o" name="bg" src="is8o8u" fileName="resource/切图/q_xx9g.png" xy="-2,9" size="447,116"/>
     <image id="n20_is8o" name="bg" src="is8o8u" fileName="resource/切图/q_xx9g.png" xy="456,9" size="447,116"/>
     <image id="n21_is8o" name="bg" src="is8o8u" fileName="resource/切图/q_xx9g.png" xy="-2,127" size="447,116"/>
@@ -15,6 +12,9 @@
     <image id="n25_is8o" name="icon" src="is8o83" fileName="resource/切图/q_qun.png" xy="478,156"/>
     <image id="n29_is8o" name="n29" src="is8o8d" fileName="resource/切图/q_wh.png" xy="9,246"/>
     <image id="n33_is8o" name="bg" src="is8o7t" fileName="resource/切图/q_fz9g.png" xy="3,291" size="889,106"/>
+    <component id="n13_is8o" name="joinClubBtn" src="is8o9c" fileName="btn/JoinClubBtn.xml" xy="54,402"/>
+    <component id="n14_is8o" name="createClubBtn" src="is8o9d" fileName="btn/createClubBtn.xml" xy="503,402"/>
+    <component id="n38_is8o" name="copyBtn" src="is8o9u" fileName="btn/copyBtn.xml" xy="827,302"/>
     <text id="n19_is8o" name="text" xy="123,49" size="305,34" fontSize="25" color="#926a3b" leading="0" letterSpacing="-1" bold="true" text="亲友圈房间不消耗个人房卡"/>
     <text id="n26_is8o" name="text" xy="579,49" size="255,34" fontSize="25" color="#926a3b" leading="0" letterSpacing="-1" bold="true" text="丰富的亲友圈活动福利"/>
     <text id="n27_is8o" name="text" xy="121,164" size="180,34" fontSize="25" color="#926a3b" leading="0" letterSpacing="-1" bold="true" text="轻松赚钱的神器"/>

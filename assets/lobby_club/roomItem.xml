@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="861,150" bgColorEnabled="true">
+<component size="901,137" designImageAlpha="0" bgColorEnabled="true">
   <displayList>
-    <text id="n0_h59f" name="name" xy="0,0" size="123,40" fontSize="20" align="center" vAlign="middle" autoSize="none" singleLine="true" text="游戏名称"/>
-    <text id="n1_h59f" name="rule" xy="151,0" size="520,40" fontSize="20" align="center" vAlign="middle" autoSize="none" singleLine="true" text="游戏规则"/>
-    <text id="n3_h59f" name="status" xy="735,0" size="123,40" fontSize="30" align="center" vAlign="middle" autoSize="none" singleLine="true" text="状态"/>
-    <list id="n5_h59f" name="playerList" xy="6,43" size="583,105" layout="row" overflow="scroll" scroll="horizontal" scrollBar="hidden" colGap="20" defaultItem="ui://vil278bsh59fw" vAlign="middle">
+    <image id="n6_c3rl" name="bg" src="is8o92" fileName="resource/切图/q_zjbk9g.png" xy="0,0" size="901,137"/>
+    <text id="n0_h59f" name="name" xy="14,8" size="137,34" fontSize="25" color="#ffe080" align="center" vAlign="middle" leading="0" autoSize="none" bold="true" strokeColor="#83311e" singleLine="true" autoClearText="true" text="不带混麻将"/>
+    <text id="n1_h59f" name="rule" xy="156,8" size="628,34" fontSize="20" color="#764e1f" vAlign="middle" vars="true" autoSize="none" singleLine="true" autoClearText="true" text="4人  2圈  中发白带幺"/>
+    <text id="n3_h59f" name="status" xy="786,8" size="105,34" fontSize="25" color="#b3522e" align="center" vAlign="middle" letterSpacing="-1" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="已开局"/>
+    <list id="n5_h59f" name="playerList" xy="14,44" size="575,84" layout="row" overflow="scroll" scroll="horizontal" scrollBar="hidden" margin="0,0,2,0" colGap="2" defaultItem="ui://vil278bsh59fw" vAlign="middle">
       <item/>
       <item/>
       <item/>
       <item/>
     </list>
+    <component id="n8_c3rl" name="n8" src="c3rla7" fileName="btn/inviteBtn.xml" xy="597,54"/>
+    <component id="n9_c3rl" name="n9" src="c3rla6" fileName="btn/JoinBtn.xml" xy="747,52"/>
   </displayList>
 </component>

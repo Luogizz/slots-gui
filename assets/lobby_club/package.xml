@@ -2,47 +2,47 @@
 <packageDescription id="vil278bs" jpegQuality="80" compressPNG="true">
   <resources>
     <component id="h59f0" name="clubView.xml" path="/" exported="true"/>
-    <component id="h59f1" name="backBtn.xml" path="/btn/" exported="true"/>
-    <component id="h59f4" name="clubItem.xml" path="/"/>
+    <component id="h59f1" name="backBtn.xml" path="/btn/"/>
+    <component id="h59f4" name="clubItem.xml" path="/btn/"/>
     <component id="h59f5" name="pageContent.xml" path="/"/>
     <component id="h59f7" name="noClubPage.xml" path="/"/>
     <component id="h59f8" name="clubPage.xml" path="/"/>
     <component id="h59ft" name="roomItem.xml" path="/"/>
-    <component id="h59fw" name="playerItem.xml" path="/"/>
+    <component id="h59fw" name="playerItem.xml" path="/btn/"/>
     <component id="h59fx" name="applyRecord.xml" path="/" exported="true"/>
     <component id="h59fz" name="recordItem.xml" path="/"/>
-    <component id="h59f10" name="spaceBtn.xml" path="/btn/" exported="true"/>
+    <component id="h59f10" name="spaceBtn.xml" path="/btn/"/>
     <component id="apn913" name="createClubView.xml" path="/createClubView/" exported="true"/>
-    <component id="apn916" name="settingPopupItem.xml" path="/"/>
+    <component id="apn916" name="settingPopupItem.xml" path="/btn/"/>
     <component id="tjkx17" name="joinClub.xml" path="/" exported="true"/>
-    <component id="tjkx18" name="button0.xml" path="/btn/" exported="true"/>
-    <component id="tjkx19" name="button1.xml" path="/btn/" exported="true"/>
-    <component id="tjkx1a" name="button2.xml" path="/btn/" exported="true"/>
-    <component id="tjkx1b" name="button3.xml" path="/btn/" exported="true"/>
-    <component id="tjkx1c" name="button4.xml" path="/btn/" exported="true"/>
-    <component id="tjkx1d" name="button5.xml" path="/btn/" exported="true"/>
-    <component id="tjkx1e" name="button6.xml" path="/btn/" exported="true"/>
-    <component id="tjkx1f" name="button7.xml" path="/btn/" exported="true"/>
-    <component id="tjkx1g" name="button8.xml" path="/btn/" exported="true"/>
-    <component id="tjkx1h" name="button9.xml" path="/btn/" exported="true"/>
-    <component id="tjkx1i" name="buttonCS.xml" path="/btn/" exported="true"/>
-    <component id="tjkx1j" name="buttonSC.xml" path="/btn/" exported="true"/>
-    <image id="tjkx1m" name="jrfj_btn.png" path="/resource/old/" exported="true"/>
-    <image id="tjkx1n" name="jrfj_db.png" path="/resource/old/" exported="true" scale="9grid" scale9grid="141,176,226,205"/>
-    <image id="tjkx1o" name="jrfj_fgx.png" path="/resource/old/" exported="true"/>
-    <image id="tjkx1p" name="jrfj_sz0.png" path="/resource/old/" exported="true"/>
-    <image id="tjkx1q" name="jrfj_sz1.png" path="/resource/old/" exported="true"/>
-    <image id="tjkx1r" name="jrfj_sz2.png" path="/resource/old/" exported="true"/>
-    <image id="tjkx1s" name="jrfj_sz3.png" path="/resource/old/" exported="true"/>
-    <image id="tjkx1t" name="jrfj_sz4.png" path="/resource/old/" exported="true"/>
-    <image id="tjkx1u" name="jrfj_sz5.png" path="/resource/old/" exported="true"/>
-    <image id="tjkx1v" name="jrfj_sz6.png" path="/resource/old/" exported="true"/>
-    <image id="tjkx1w" name="jrfj_sz7.png" path="/resource/old/" exported="true"/>
-    <image id="tjkx1x" name="jrfj_sz8.png" path="/resource/old/" exported="true"/>
-    <image id="tjkx1y" name="jrfj_sz9.png" path="/resource/old/" exported="true"/>
-    <image id="tjkx1z" name="jrfj_szcs.png" path="/resource/old/" exported="true"/>
-    <image id="tjkx20" name="jrfj_szsc.png" path="/resource/old/" exported="true"/>
-    <image id="tjkx21" name="ty_btnClose.png" path="/resource/old/" exported="true"/>
+    <component id="tjkx18" name="button0.xml" path="/btn/numberBtn/"/>
+    <component id="tjkx19" name="button1.xml" path="/btn/numberBtn/"/>
+    <component id="tjkx1a" name="button2.xml" path="/btn/numberBtn/"/>
+    <component id="tjkx1b" name="button3.xml" path="/btn/numberBtn/"/>
+    <component id="tjkx1c" name="button4.xml" path="/btn/numberBtn/"/>
+    <component id="tjkx1d" name="button5.xml" path="/btn/numberBtn/"/>
+    <component id="tjkx1e" name="button6.xml" path="/btn/numberBtn/"/>
+    <component id="tjkx1f" name="button7.xml" path="/btn/numberBtn/"/>
+    <component id="tjkx1g" name="button8.xml" path="/btn/numberBtn/"/>
+    <component id="tjkx1h" name="button9.xml" path="/btn/numberBtn/"/>
+    <component id="tjkx1i" name="buttonCS.xml" path="/btn/numberBtn/"/>
+    <component id="tjkx1j" name="buttonSC.xml" path="/btn/numberBtn/"/>
+    <image id="tjkx1m" name="jrfj_btn.png" path="/resource/old/"/>
+    <image id="tjkx1n" name="jrfj_db.png" path="/resource/切图/" scale9grid="141,176,226,205"/>
+    <image id="tjkx1o" name="jrfj_fgx.png" path="/resource/old/"/>
+    <image id="tjkx1p" name="jrfj_sz0.png" path="/resource/old/"/>
+    <image id="tjkx1q" name="jrfj_sz1.png" path="/resource/old/"/>
+    <image id="tjkx1r" name="jrfj_sz2.png" path="/resource/old/"/>
+    <image id="tjkx1s" name="jrfj_sz3.png" path="/resource/old/"/>
+    <image id="tjkx1t" name="jrfj_sz4.png" path="/resource/old/"/>
+    <image id="tjkx1u" name="jrfj_sz5.png" path="/resource/old/"/>
+    <image id="tjkx1v" name="jrfj_sz6.png" path="/resource/old/"/>
+    <image id="tjkx1w" name="jrfj_sz7.png" path="/resource/old/"/>
+    <image id="tjkx1x" name="jrfj_sz8.png" path="/resource/old/"/>
+    <image id="tjkx1y" name="jrfj_sz9.png" path="/resource/old/"/>
+    <image id="tjkx1z" name="jrfj_szcs.png" path="/resource/old/"/>
+    <image id="tjkx20" name="jrfj_szsc.png" path="/resource/old/"/>
+    <image id="tjkx21" name="ty_btnClose.png" path="/resource/切图/"/>
     <component id="tjkx22" name="memberManager.xml" path="/memberManager/" exported="true"/>
     <component id="tjkx23" name="memberListBtn.xml" path="/memberManager/"/>
     <component id="tjkx24" name="applyListBtn.xml" path="/memberManager/"/>
@@ -86,11 +86,11 @@
     <image id="is8o7h" name="q_antchs.png" path="/resource/切图/"/>
     <image id="is8o7i" name="q_anyq.png" path="/resource/切图/"/>
     <image id="is8o7j" name="q_bbkk.png" path="/resource/切图/"/>
-    <image id="is8o7k" name="q_cjk9g.png" path="/resource/切图/"/>
+    <image id="is8o7k" name="q_cjk9g.png" path="/resource/切图/" scale="9grid" scale9grid="30,28,60,56"/>
     <image id="is8o7l" name="q_cjwd.png" path="/resource/切图/"/>
     <image id="is8o7m" name="q_cysz.png" path="/resource/切图/"/>
     <image id="is8o7n" name="q_ddwj.png" path="/resource/切图/"/>
-    <image id="is8o7o" name="q_ddwjkk.png" path="/resource/切图/"/>
+    <image id="is8o7o" name="q_ddwjkk.png" path="/resource/切图/" scale="9grid" scale9grid="19,20,38,40"/>
     <image id="is8o7p" name="q_fh.png" path="/resource/切图/"/>
     <image id="is8o7q" name="q_fjgl.png" path="/resource/切图/"/>
     <image id="is8o7r" name="q_fk.png" path="/resource/切图/"/>
@@ -110,7 +110,7 @@
     <image id="is8o85" name="q_qyqbt.png" path="/resource/切图/"/>
     <image id="is8o86" name="q_rmqg.png" path="/resource/切图/"/>
     <image id="is8o87" name="q_sqjl.png" path="/resource/切图/"/>
-    <image id="is8o88" name="q_srk.png" path="/resource/切图/"/>
+    <image id="is8o88" name="q_srk.png" path="/resource/切图/" scale="9grid" scale9grid="25,12,50,24"/>
     <image id="is8o89" name="q_sxsj.png" path="/resource/切图/"/>
     <image id="is8o8a" name="q_sz.png" path="/resource/切图/"/>
     <image id="is8o8b" name="q_ts9g.png" path="/resource/切图/"/>
@@ -140,25 +140,47 @@
     <image id="is8o8z" name="q_yqdq.png" path="/resource/切图/"/>
     <image id="is8o90" name="q_yqqt.png" path="/resource/切图/"/>
     <image id="is8o91" name="q_zj.png" path="/resource/切图/"/>
-    <image id="is8o92" name="q_zjbk9g.png" path="/resource/切图/"/>
-    <image id="is8o93" name="q_zjnr9g.png" path="/resource/切图/"/>
+    <image id="is8o92" name="q_zjbk9g.png" path="/resource/切图/" scale="9grid" scale9grid="37,67,74,38"/>
+    <image id="is8o93" name="q_zjnr9g.png" path="/resource/切图/" scale="9grid" scale9grid="23,23,46,46"/>
     <image id="is8o94" name="q_zjnr_ty.png" path="/resource/切图/"/>
     <image id="is8o95" name="q_zjsz.png" path="/resource/切图/"/>
     <image id="is8o96" name="q_zs.png" path="/resource/切图/"/>
     <image id="is8o97" name="q_zssz.png" path="/resource/切图/"/>
     <image id="is8o98" name="rs.png" path="/resource/切图/"/>
-    <component id="is8o99" name="applyRecordBtn.xml" path="/"/>
+    <component id="is8o99" name="applyRecordBtn.xml" path="/btn/"/>
     <image id="is8o9a" name="btn_gm.png" path="/resource/切图/"/>
     <image id="is8o9b" name="ty_btn4_cheng.png" path="/resource/切图/" scale="9grid" scale9grid="29,16,58,17"/>
-    <component id="is8o9c" name="JoinClubBtn.xml" path="/"/>
-    <component id="is8o9d" name="createClubBtn.xml" path="/"/>
-    <component id="is8o9u" name="copyBtn.xml" path="/"/>
-    <component id="n6uz9v" name="copyIdBtn.xml" path="/"/>
-    <component id="n6uz9w" name="shareBtn.xml" path="/"/>
-    <component id="n6uz9x" name="appointManagerBtn.xml" path="/"/>
-    <component id="n6uz9y" name="memberSettingBtn.xml" path="/"/>
-    <component id="n6uz9z" name="managerBtn.xml" path="/"/>
-    <component id="n6uza0" name="AllBtn.xml" path="/"/>
+    <component id="is8o9c" name="JoinClubBtn.xml" path="/btn/"/>
+    <component id="is8o9d" name="createClubBtn.xml" path="/btn/"/>
+    <component id="is8o9u" name="copyBtn.xml" path="/btn/"/>
+    <component id="n6uz9v" name="copyIdBtn.xml" path="/btn/"/>
+    <component id="n6uz9w" name="shareBtn.xml" path="/btn/"/>
+    <component id="n6uz9x" name="appointManagerBtn.xml" path="/btn/"/>
+    <component id="n6uz9y" name="memberSettingBtn.xml" path="/btn/"/>
+    <component id="n6uz9z" name="managerBtn.xml" path="/btn/"/>
+    <component id="n6uza0" name="AllBtn.xml" path="/btn/"/>
+    <component id="c3rla1" name="refreshBtn.xml" path="/btn/"/>
+    <component id="c3rla2" name="gameRecordBtn.xml" path="/btn/"/>
+    <component id="c3rla3" name="quicklyCreateRoomBtn.xml" path="/btn/"/>
+    <component id="c3rla4" name="createRoomBtn.xml" path="/btn/"/>
+    <component id="c3rla5" name="tipsBtn.xml" path="/btn/"/>
+    <component id="c3rla6" name="JoinBtn.xml" path="/btn/"/>
+    <component id="c3rla7" name="inviteBtn.xml" path="/btn/"/>
+    <component id="c3rla8" name="closeBtn.xml" path="/btn/"/>
+    <image id="c3rla9" name="ty_tanchuang2.png" path="/resource/切图/" scale="9grid" scale9grid="139,236,232,125"/>
+    <image id="c3rlaa" name="ty_tanchuang2_biaoti.png" path="/resource/切图/"/>
+    <component id="c3rlab" name="confirmBtn.xml" path="/btn/"/>
+    <component id="c3rlac" name="buyBtn.xml" path="/btn/"/>
+    <image id="j6fxad" name="c_成员管理_成员列表.jpg" path="/resource/效果图/"/>
+    <image id="j6fxae" name="c_成员管理_成员列表_标注.jpg" path="/resource/效果图/"/>
+    <image id="j6fxaf" name="c_成员管理_查看玩家.jpg" path="/resource/效果图/"/>
+    <image id="j6fxag" name="c_成员管理_查看玩家_标注.jpg" path="/resource/效果图/"/>
+    <image id="j6fxah" name="c_成员管理（普通用户）.jpg" path="/resource/效果图/"/>
+    <image id="j6fxai" name="c_成员管理（普通用户）_标注.jpg" path="/resource/效果图/"/>
+    <image id="j6fxaj" name="c_成员管理（馆主）_删除成员.jpg" path="/resource/效果图/"/>
+    <image id="j6fxak" name="c_成员管理（馆主）_删除成员_标注.jpg" path="/resource/效果图/"/>
+    <image id="j6fxal" name="c_成员管理（馆主）_申请列表.jpg" path="/resource/效果图/"/>
+    <image id="j6fxam" name="c_成员管理（馆主）_申请列表_标注.jpg" path="/resource/效果图/"/>
   </resources>
   <publish name="lobby_club"/>
 </packageDescription>
