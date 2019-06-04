@@ -301,7 +301,7 @@
     <image id="fxwe11a" name="suit7.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
     <image id="fxwe11b" name="suit8.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
     <image id="fxwe11c" name="suit9.png" path="/大丰麻将美术改版/2 游戏内/切图/tiles/"/>
-    <image id="fxwe11d" name="beiban.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/" scale9grid="128,128,256,256"/>
+    <image id="fxwe11d" name="beiban.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
     <image id="fxwe11e" name="fengge.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
     <image id="fxwe11f" name="guanbi.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
     <image id="fxwe11g" name="gze.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
@@ -524,27 +524,28 @@
     <component id="g0pr184" name="discard_tip.xml" path="/desk/mine/"/>
     <component id="g0pr185" name="discard_tip.xml" path="/desk/right/"/>
     <component id="rh8w186" name="check_ting_button.xml" path="/desk/"/>
-    <component id="tjkx187" name="setting.xml" path="/settingRoom/" exported="true"/>
-    <component id="tjkx189" name="disbandBtn.xml" path="/settingRoom/"/>
-    <component id="tjkx18a" name="shutdownBtn.xml" path="/settingRoom/"/>
-    <component id="tjkx18b" name="arrowBtn.xml" path="/settingRoom/"/>
-    <component id="tjkx18c" name="classColorBtn.xml" path="/settingRoom/"/>
-    <component id="tjkx18d" name="blueColorBtn.xml" path="/settingRoom/"/>
-    <component id="tjkx18e" name="closeBtn.xml" path="/settingRoom/"/>
-    <component id="tjkx18f" name="soundSlider_grip.xml" path="/settingRoom/"/>
-    <component id="qhzt18h" name="bar.xml" path="/settingRoom/"/>
-    <component id="qhzt18o" name="Slider_grip.xml" path="/settingRoom/"/>
-    <component id="egq518p" name="room_rule_view.xml" path="/roomRule/" exported="true"/>
-    <image id="egq518q" name="ty_tanchuang2.png" path="/roomRule/resource/" scale="9grid" scale9grid="213,216,88,125"/>
-    <component id="egq518r" name="radioButton.xml" path="/roomRule/"/>
-    <image id="egq518s" name="cjfj_di_y.png" path="/roomRule/resource/"/>
-    <image id="egq518t" name="cjfj_di_y1.png" path="/roomRule/resource/"/>
-    <image id="egq518u" name="游戏内游戏规则.jpg" path="/roomRule/resource/"/>
-    <image id="egq518v" name="ty_btnClose.png" path="/roomRule/resource/"/>
-    <component id="egq518w" name="closeBtn.xml" path="/roomRule/resource/"/>
-    <component id="egq518x" name="checkBox.xml" path="/roomRule/"/>
-    <image id="egq518y" name="cjfj_di_f.png" path="/roomRule/resource/"/>
-    <image id="egq518z" name="cjfj_gou.png" path="/roomRule/resource/"/>
+    <component id="y5pf187" name="arrowBtn.xml" path="/settingRoom/"/>
+    <component id="y5pf188" name="bar.xml" path="/settingRoom/"/>
+    <component id="y5pf189" name="blueColorBtn.xml" path="/settingRoom/"/>
+    <component id="y5pf18a" name="classColorBtn.xml" path="/settingRoom/"/>
+    <component id="y5pf18b" name="closeBtn.xml" path="/settingRoom/"/>
+    <component id="y5pf18c" name="disbandBtn.xml" path="/settingRoom/"/>
+    <component id="y5pf18d" name="setting.xml" path="/settingRoom/" exported="true"/>
+    <component id="y5pf18e" name="shutdownBtn.xml" path="/settingRoom/"/>
+    <component id="y5pf18f" name="Slider_grip.xml" path="/settingRoom/"/>
+    <component id="y5pf18g" name="soundSlider_grip.xml" path="/settingRoom/"/>
+    <component id="y5pf18h" name="checkBox.xml" path="/roomRule/"/>
+    <component id="y5pf18i" name="radioButton.xml" path="/roomRule/"/>
+    <component id="y5pf18j" name="room_rule_view.xml" path="/roomRule/"/>
+    <image id="y5pf18k" name="cjfj_di_f.png" path="/roomRule/resource/"/>
+    <image id="y5pf18l" name="cjfj_di_y.png" path="/roomRule/resource/"/>
+    <image id="y5pf18m" name="cjfj_di_y1.png" path="/roomRule/resource/"/>
+    <image id="y5pf18n" name="cjfj_gou.png" path="/roomRule/resource/"/>
+    <component id="y5pf18o" name="closeBtn.xml" path="/roomRule/resource/"/>
+    <image id="y5pf18p" name="ty_btnClose.png" path="/roomRule/resource/"/>
+    <image id="y5pf18q" name="ty_tanchuang2.png" path="/roomRule/resource/"/>
+    <image id="y5pf18r" name="游戏内游戏规则.jpg" path="/roomRule/resource/"/>
+    <component id="y5pf18s" name="meld_cancel_button.xml" path="/desk/"/>
   </resources>
   <publish name="dafeng"/>
 </packageDescription>
