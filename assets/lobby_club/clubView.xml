@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="1136,640" designImage="0" designImageAlpha="0">
-  <controller name="isClub" pages="0,No,1,Yes" selected="0"/>
+<component size="1136,640" designImage="ui://vil278bsis8o74" designImageAlpha="100">
+  <controller name="isClub" pages="0,No,1,Yes" selected="1"/>
   <displayList>
     <image id="n9_is8o" name="bg" src="is8o7j" fileName="resource/切图/q_bbkk.png" xy="563,0" size="574,640"/>
     <image id="n7_h59f" name="bg" src="is8o7j" fileName="resource/切图/q_bbkk.png" xy="0,0" size="568,640" flip="hz"/>

@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="1136,640">
+<component size="1136,640" designImage="ui://vil278bsis8o71" designImageAlpha="100">
   <displayList>
-    <graph id="n4_h59f" name="bg" xy="229,155" size="680,280" type="rect"/>
-    <component id="n1_h59f" name="closeBtn" src="c3rla8" fileName="btn/closeBtn.xml" xy="828,104"/>
-    <text id="n2_h59f" name="title" xy="443,159" size="253,43" fontSize="30" align="center" vAlign="middle" autoSize="none" text="申请记录"/>
-    <list id="n3_h59f" name="recordList" xy="311,212" size="513,167" overflow="scroll" scrollBar="hidden" lineGap="10" defaultItem="ui://vil278bsh59fz" autoClearItems="true">
+    <image id="n5_cr3i" name="bg1" src="c3rla9" fileName="resource/切图/ty_tanchuang2.png" xy="194,78" size="739,482"/>
+    <image id="n6_cr3i" name="titmeBg" src="c3rlaa" fileName="resource/切图/ty_tanchuang2_biaoti.png" xy="432,78" size="256,66"/>
+    <image id="n7_cr3i" name="title" src="is8o87" fileName="resource/切图/q_sqjl.png" xy="499,89"/>
+    <component id="n8_cr3i" name="closeBtn" src="c3rla8" fileName="btn/closeBtn.xml" xy="815,46" scale="0.95,0.95"/>
+    <image id="n9_cr3i" name="bg" src="is8o7k" fileName="resource/切图/q_cjk9g.png" xy="265,164" size="598,373"/>
+    <list id="n3_h59f" name="recordList" xy="277,177" size="569,337" overflow="scroll" scrollBar="hidden" lineGap="10" defaultItem="ui://vil278bsh59fz" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
       <item/>
       <item/>
       <item/>
