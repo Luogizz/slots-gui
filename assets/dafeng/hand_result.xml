@@ -4,7 +4,7 @@
     <image id="n0_rhc4" name="n0" src="fxwe13c" fileName="大丰麻将美术改版/2 游戏内/切图/j_结算/shudban.png" xy="1,-3" size="1136,645"/>
     <text id="n1_rhc4" name="roomNumber" xy="69,67" size="128,27" fontSize="20" color="#f1d15c" strokeColor="#734305" text="房号:1231456"/>
     <text id="n2_rhc4" name="date" xy="75,90" size="191,28" fontSize="20" color="#f1d15c" strokeColor="#734305" text="2018-12-12 08:20:20&#xA;"/>
-    <component id="n3_rhc4" name="againBtn" src="fxwe17j" fileName="handResult/again_button.xml" xy="589,554"/>
+    <component id="n3_rhc4" name="againBtn" src="fxwe17j" fileName="handResult/again_button.xml" xy="586,553"/>
     <component id="n4_rhc4" name="shanreBtn" src="fxwe17k" fileName="handResult/share_button.xml" xy="350,553"/>
     <graph id="n8_e27g" name="aniPos" xy="568,70" pivot="0.5,0.5" size="0,0"/>
     <component id="n9_fxwe" name="player1" src="fxwe17f" fileName="handResult/hand_result_player.xml" xy="52,115"/>
@@ -14,6 +14,6 @@
     <image id="n13_fxwe" name="n13" src="fxwe12y" fileName="大丰麻将美术改版/2 游戏内/切图/j_结算/fgx.png" xy="91,220"/>
     <image id="n14_fxwe" name="n14" src="fxwe12y" fileName="大丰麻将美术改版/2 游戏内/切图/j_结算/fgx.png" xy="91,326"/>
     <image id="n15_fxwe" name="n15" src="fxwe12y" fileName="大丰麻将美术改版/2 游戏内/切图/j_结算/fgx.png" xy="91,432"/>
-    <component id="n16_ra97" name="fakeList" src="fxwe15s" fileName="desk/mine/desk_hand.xml" xy="56,538" scale="0.3,0.3"/>
+    <component id="n16_ra97" name="fakeList" src="fxwe15s" fileName="desk/mine/desk_hand.xml" xy="785,539" scale="0.35,0.35"/>
   </displayList>
 </component>
