@@ -8,21 +8,21 @@
       <relation target="n18_rh8w" sidePair="bottom-bottom,height-height"/>
     </image>
     <image id="n2_rh8w" name="n2" src="rh8wo" fileName="image/y_xxk.png" xy="18,17" size="445,156"/>
+    <image id="n11_rh8w" name="n11" src="rh8wk" fileName="image/y_sz.png" xy="40,182"/>
+    <image id="n12_rh8w" name="n12" src="rh8wk" fileName="image/y_sz.png" xy="300,182"/>
+    <image id="n13_rh8w" name="n13" src="rh8wp" fileName="image/y_zs.png" xy="284,179"/>
+    <image id="n14_rh8w" name="n14" src="rh8wg" fileName="image/y_mlz.png" xy="30,179"/>
     <component id="n3_rh8w" name="kickoutBtn" src="rh8wv" fileName="kickout_button.xml" xy="355,24" visible="false"/>
     <component id="n5_rh8w" name="head" src="rh8ww" fileName="head_button.xml" xy="34,33"/>
+    <loader id="n17_rh8w" name="sex" xy="279,22" size="32,27" url="ui://tyl78gwtrh8wj"/>
+    <list id="n18_rh8w" name="list" xy="19,221" size="446,9" layout="flow_hz" overflow="scroll" margin="5,0,10,0" lineGap="2" colGap="18" lineItemCount="4" defaultItem="ui://tyl78gwtrh8wz"/>
     <text id="n6_rh8w" name="name" xy="143,28" size="128,28" fontSize="20" color="#976b3d" autoSize="none" bold="true" text="小魔兽巴拉&#xA;"/>
     <text id="n7_rh8w" name="ip" xy="145,57" size="203,28" fontSize="20" color="#976b3d" autoSize="none" text="小魔兽巴拉&#xA;"/>
     <text id="n8_rh8w" name="id" xy="145,83" size="254,28" fontSize="20" color="#976b3d" autoSize="none" text="小魔兽巴拉&#xA;"/>
     <text id="n9_rh8w" name="address" xy="145,112" size="305,28" fontSize="20" color="#976b3d" autoSize="none" text="小魔兽巴拉&#xA;"/>
     <text id="n10_rh8w" name="number" xy="145,142" size="306,28" fontSize="20" color="#976b3d" autoSize="none" text="小魔兽巴拉&#xA;"/>
-    <image id="n11_rh8w" name="n11" src="rh8wk" fileName="image/y_sz.png" xy="40,182"/>
-    <image id="n12_rh8w" name="n12" src="rh8wk" fileName="image/y_sz.png" xy="300,182"/>
-    <image id="n13_rh8w" name="n13" src="rh8wp" fileName="image/y_zs.png" xy="284,179"/>
-    <image id="n14_rh8w" name="n14" src="rh8wg" fileName="image/y_mlz.png" xy="30,179"/>
-    <text id="n15_rh8w" name="xinNum" xy="72,186" size="112,28" fontSize="20" color="#ea3d3d" align="center" autoSize="none" bold="true" text="99999"/>
-    <text id="n16_rh8w" name="zuanNum" xy="329,186" size="112,28" fontSize="20" color="#527983" align="center" autoSize="none" bold="true" text="99999"/>
-    <loader id="n17_rh8w" name="sex" xy="279,22" size="32,27" url="ui://tyl78gwtrh8wj"/>
-    <list id="n18_rh8w" name="list" xy="19,221" size="446,9" layout="flow_hz" overflow="scroll" margin="5,0,10,0" lineGap="2" colGap="18" lineItemCount="4" defaultItem="ui://tyl78gwtrh8wz"/>
+    <text id="n15_rh8w" name="xinNum" xy="72,186" size="112,28" font="ui://tyl78gwtg7tj1e" fontSize="20" color="#ea3d3d" align="center" autoSize="none" bold="true" text="99999"/>
+    <text id="n16_rh8w" name="zuanNum" xy="329,186" size="112,28" font="ui://tyl78gwtg7tj1e" fontSize="20" color="#527983" align="center" autoSize="none" bold="true" text="99999"/>
   </displayList>
   <relation target="n0_rh8w" sidePair="width-width,height-height"/>
 </component>
