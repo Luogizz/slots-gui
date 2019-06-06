@@ -6,5 +6,8 @@
     <text id="n5_kq45" name="roomNumber" xy="12,12" size="140,28" fontSize="20" color="#f5f6d3" vAlign="middle" letterSpacing="1" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="12345号 房间"/>
     <text id="n9_cr3i" name="gameName" xy="158,13" size="140,28" fontSize="20" color="#3defff" vAlign="middle" letterSpacing="1" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="(大丰麻将) 4局"/>
     <image id="n10_cr3i" name="n10" src="cr3i1a" fileName="resource/zj_jt.png" xy="877,17"/>
+    <image id="n12_cr3i" name="n12" src="kq45c" fileName="resource/zj_srk.png" xy="25,72" size="79,77"/>
+    <image id="n11_cr3i" name="n11" src="kq45e" fileName="resource/zj_fanzhu.png" xy="19,70"/>
+    <image id="n13_cr3i" name="n13" src="cr3i1g" fileName="resource/dyj.png" xy="190,50"/>
   </displayList>
 </component>
