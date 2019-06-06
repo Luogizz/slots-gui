@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="782,595" remark="textfield_fold">
+  <controller name="pay" pages="0,owner,1,aa" selected="0"/>
+  <controller name="player" pages="0,2人,1,3人,2,4人" selected="0"/>
+  <controller name="difen" pages="0,1,1,2,2,3,3,4" selected="0"/>
+  <controller name="xuanma" pages="0,1,1,2,2,2,3,3" selected="0"/>
+  <controller name="round" pages="1,8,2,16" selected="0"/>
+  <controller name="fengding" pages="0,1,1,2" selected="0"/>
+  <displayList>
+    <component id="n83_cr3i" name="round8Button" src="h59f1y" fileName="radioButton.xml" xy="159,2" size="122,35">
+      <Button checked="true" controller="round" page="1"/>
+    </component>
+    <component id="n84_cr3i" name="round16Button" src="h59f1y" fileName="radioButton.xml" xy="386,2" size="122,35">
+      <Button controller="round" page="2"/>
+    </component>
+    <component id="n85_cr3i" name="ownerPayButton" src="h59f1y" fileName="radioButton.xml" xy="159,47" size="156,35">
+      <Button checked="true" controller="pay" page="0"/>
+    </component>
+    <component id="n86_cr3i" name="aapPayButton" src="h59f1y" fileName="radioButton.xml" xy="386,47" size="156,35">
+      <Button controller="pay" page="1"/>
+    </component>
+    <component id="n87_cr3i" name="2Player" src="h59f1y" fileName="radioButton.xml" xy="159,92" size="122,35">
+      <Button checked="true" controller="player" page="0"/>
+    </component>
+    <component id="n88_cr3i" name="3Player" src="h59f1y" fileName="radioButton.xml" xy="386,92" size="122,35">
+      <Button controller="player" page="1"/>
+    </component>
+    <component id="n89_cr3i" name="4Player" src="h59f1y" fileName="radioButton.xml" xy="613,92" size="122,35">
+      <Button controller="player" page="2"/>
+    </component>
+    <component id="n90_cr3i" name="xuanma1" src="h59f1y" fileName="radioButton.xml" xy="159,182" size="122,35">
+      <Button checked="true" controller="xuanma" page="0"/>
+    </component>
+    <component id="n91_cr3i" name="xuanma2" src="h59f1y" fileName="radioButton.xml" xy="315,182" size="122,35">
+      <Button controller="xuanma" page="1"/>
+    </component>
+    <component id="n92_cr3i" name="xuanma3" src="h59f1y" fileName="radioButton.xml" xy="471,182" size="122,35">
+      <Button controller="xuanma" page="3"/>
+    </component>
+    <component id="n93_cr3i" name="xuanma4" src="h59f1y" fileName="radioButton.xml" xy="627,182" size="122,35">
+      <Button controller="xuanma" page="2"/>
+    </component>
+    <component id="n94_cr3i" name="difen1" src="h59f1y" fileName="radioButton.xml" xy="159,227" size="122,35">
+      <Button checked="true" controller="difen" page="0"/>
+    </component>
+    <component id="n116_cr3i" name="difen2" src="h59f1y" fileName="radioButton.xml" xy="315,227" size="122,35">
+      <Button controller="difen" page="1"/>
+    </component>
+    <component id="n117_cr3i" name="difen3" src="h59f1y" fileName="radioButton.xml" xy="471,227" size="122,35">
+      <Button controller="difen" page="2"/>
+    </component>
+    <component id="n95_cr3i" name="difen4" src="h59f1y" fileName="radioButton.xml" xy="627,227" size="122,35">
+      <Button controller="difen" page="3"/>
+    </component>
+    <component id="n119_cr3i" name="fengding1" src="h59f1y" fileName="radioButton.xml" xy="159,137" size="156,35">
+      <Button controller="fengding" page="0"/>
+    </component>
+    <component id="n120_cr3i" name="fengding2" src="h59f1y" fileName="radioButton.xml" xy="386,137" size="156,35">
+      <Button controller="fengding" page="1"/>
+    </component>
+    <component id="n96_cr3i" name="qufengpai" src="h59f23" fileName="checkBox.xml" xy="160,272" size="200,35"/>
+    <component id="n97_cr3i" name="gangbao3jia" src="h59f23" fileName="checkBox.xml" xy="386,272">
+      <Button checked="true"/>
+    </component>
+    <component id="n98_cr3i" name="gangl2bei" src="h59f23" fileName="checkBox.xml" xy="613,272"/>
+    <component id="n105_cr3i" name="laoyueliangbei" src="h59f23" fileName="checkBox.xml" xy="159,317" size="200,35"/>
+    <component id="n106_cr3i" name="qiduizi2bei" src="h59f23" fileName="checkBox.xml" xy="386,317" size="200,35">
+      <Button checked="true"/>
+    </component>
+    <component id="n107_cr3i" name="qiduizi4bei" src="h59f23" fileName="checkBox.xml" xy="613,317" size="200,35">
+      <Button checked="true"/>
+    </component>
+    <component id="n108_cr3i" name="fengiz2bei" src="h59f23" fileName="checkBox.xml" xy="159,362" size="200,35"/>
+    <component id="n109_cr3i" name="qingyise2bei" src="h59f23" fileName="checkBox.xml" xy="386,362" size="200,35"/>
+    <component id="n110_cr3i" name="pengpenghu2bei" src="h59f23" fileName="checkBox.xml" xy="613,362" size="200,35"/>
+    <component id="n111_cr3i" name="tianhu5bei" src="h59f23" fileName="checkBox.xml" xy="159,407" size="200,35">
+      <Button checked="true"/>
+    </component>
+    <component id="n112_cr3i" name="13yao10bei" src="h59f23" fileName="checkBox.xml" xy="386,407" size="200,35">
+      <Button checked="true"/>
+    </component>
+    <text id="n99_cr3i" name="text1" xy="22,5" size="105,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="局      数 :"/>
+    <text id="n100_cr3i" name="text2" xy="22,50" size="104,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="付费模式:"/>
+    <text id="n101_cr3i" name="text3" xy="22,95" size="105,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="人      数 :"/>
+    <text id="n102_cr3i" name="text4" xy="22,185" size="105,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="选      马 :"/>
+    <text id="n103_cr3i" name="text5" xy="22,230" size="103,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="底      分 :"/>
+    <text id="n104_cr3i" name="text6" xy="22,275" size="104,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="其他玩法:"/>
+    <text id="n118_cr3i" name="text7" xy="23,140" size="105,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="封      顶 :"/>
+    <component id="n20_kdqv" name="createRoomButton" src="kdqv1f" fileName="btnCreateRoom.xml" xy="267,495"/>
+    <component id="n62_hqw9" name="consumeCom" src="hqw91r" fileName="diamondConsume.xml" xy="200,456"/>
+    <text id="n63_hqw9" name="versionLab" xy="669,546" size="105,29" fontSize="25" align="center" vAlign="middle" autoSize="none" text="v1.0.3"/>
+  </displayList>
+</component>

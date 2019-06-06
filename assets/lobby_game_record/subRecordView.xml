@@ -9,11 +9,11 @@
       <item/>
       <item/>
     </list>
-    <text id="n6_kq45" name="round" xy="197,57" size="66,39" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="局数"/>
-    <text id="n7_kq45" name="time" xy="287,57" size="65,39" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="时间"/>
-    <text id="n8_kq45" name="player1" xy="373,57" size="95,39" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="&#xA;"/>
-    <text id="n13_kq45" name="player2" xy="472,57" size="95,39" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" text=""/>
-    <text id="n12_kq45" name="player3" xy="571,57" size="95,39" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" text=""/>
-    <text id="n11_kq45" name="player4" xy="674,57" size="95,39" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" text=""/>
+    <text id="n6_kq45" name="round" xy="197,57" size="72,39" fontSize="20" color="#ffffff" align="center" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text="局数"/>
+    <text id="n7_kq45" name="time" xy="287,57" size="71,39" fontSize="20" color="#ffffff" align="center" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text="时间"/>
+    <text id="n8_kq45" name="player1" xy="373,57" size="95,39" fontSize="20" color="#ffffff" align="center" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text="10000006"/>
+    <text id="n13_kq45" name="player2" xy="472,57" size="95,39" fontSize="20" color="#ffffff" align="center" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text=""/>
+    <text id="n12_kq45" name="player3" xy="571,57" size="95,39" fontSize="20" color="#ffffff" align="center" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text=""/>
+    <text id="n11_kq45" name="player4" xy="674,57" size="95,39" fontSize="20" color="#ffffff" align="center" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text=""/>
   </displayList>
 </component>
