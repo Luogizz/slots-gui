@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="100,50" extention="Button">
-  <controller name="button" pages="0,up,1,down" selected="0"/>
+<component size="115,54" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
   <displayList>
-    <graph id="n0_tjkx" name="n0" xy="0,0" size="100,50" touchable="false" type="rect" lineSize="0" fillColor="#fff0f0f0">
-      <gearDisplay controller="button" pages="0"/>
+    <image id="n0_cr3i" name="n0" src="cr3ibk" fileName="resource/切图/ty_btn4_lan.png" xy="0,0" size="115,54">
       <relation target="" sidePair="width-width,height-height"/>
-    </graph>
-    <text id="n3_tjkx" name="n3" xy="0,0" size="100,50" fontSize="30" align="center" vAlign="middle" autoSize="none" text="同意"/>
+    </image>
+    <image id="n1_cr3i" name="n1" src="cr3ibj" fileName="resource/切图/btn_ty.png" xy="34,12"/>
   </displayList>
-  <Button mode="Radio"/>
+  <Button downEffect="scale" downEffectValue="0.80"/>
 </component>

@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="800,120">
+<component size="567,86" designImage="ui://vil278bsj6fxal" designImageOffsetX="-270" designImageOffsetY="-281" designImageAlpha="0">
   <displayList>
-    <graph id="n0_tjkx" name="bg" xy="0,0" size="800,130" type="rect"/>
-    <graph id="n1_tjkx" name="icon" xy="21,17" size="100,100" type="rect"/>
-    <text id="n2_tjkx" name="name" xy="134,23" size="130,35" fontSize="25" vAlign="middle" autoSize="none" text="名字"/>
-    <text id="n3_tjkx" name="id" xy="134,72" size="127,35" fontSize="25" vAlign="middle" autoSize="none" text="ID"/>
-    <text id="n4_tjkx" name="info" xy="269,23" size="256,39" fontSize="30" vAlign="middle" autoSize="none" text="申请信息"/>
-    <text id="n5_tjkx" name="time" xy="269,72" size="258,39" fontSize="30" vAlign="middle" autoSize="none" text="2019-06-06"/>
-    <component id="n8_tjkx" name="agreeBtn" src="tjkx2d" fileName="memberManager/agreeBtn.xml" xy="537,43"/>
-    <component id="n9_tjkx" name="rejectBtn" src="tjkx2c" fileName="memberManager/rejectBtn.xml" xy="645,43"/>
+    <image id="n11_cr3i" name="bg" src="j6fxax" fileName="resource/切图/zj_di_dyj.png" xy="0,0" size="567,86">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n12_cr3i" name="icon" src="j6fxb1" fileName="resource/切图/wdpyq_txk_q.png" xy="14,6" size="75,75"/>
+    <text id="n14_cr3i" name="name" xy="94,5" size="169,30" fontSize="22" color="#96693a" vAlign="middle" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="玩家名字七个字"/>
+    <text id="n15_cr3i" name="text1" xy="94,35" size="195,29" fontSize="22" color="#96693a" vAlign="middle" letterSpacing="-2" autoSize="none" singleLine="true" text="申请加入您的牌友群"/>
+    <text id="n18_cr3i" name="time" xy="94,59" size="195,29" fontSize="22" color="#96693a" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text="2019/06/05   06:05"/>
+    <component id="n19_cr3i" name="agreeBtn" src="cr3ibh" fileName="memberManager/agreeBtn.xml" xy="441,19"/>
+    <component id="n20_cr3i" name="rejectBtn" src="cr3ibl" fileName="memberManager/rejectBtn.xml" xy="305,18"/>
   </displayList>
 </component>

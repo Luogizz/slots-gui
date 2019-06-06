@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="567,86" designImage="ui://vil278bsj6fxaj" designImageOffsetX="-270" designImageOffsetY="-280" designImageAlpha="0">
+  <displayList>
+    <image id="n11_cr3i" name="bg" src="j6fxax" fileName="resource/切图/zj_di_dyj.png" xy="0,0" size="567,81">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n12_cr3i" name="icon" src="j6fxb1" fileName="resource/切图/wdpyq_txk_q.png" xy="14,3" size="75,75"/>
+    <text id="n14_cr3i" name="name" xy="95,13" size="169,30" fontSize="22" color="#96693a" vAlign="middle" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="玩家名字七个字"/>
+    <text id="n18_cr3i" name="id" xy="94,45" size="195,29" fontSize="22" color="#96693a" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text="2019/06/05   06:05"/>
+    <component id="n21_cr3i" name="deleteBtn" src="cr3ibn" fileName="memberManager/deleteBtn.xml" xy="441,16"/>
+  </displayList>
+</component>

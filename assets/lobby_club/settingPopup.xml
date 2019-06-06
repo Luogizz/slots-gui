@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="187,250" designImage="ui://vil278bsis8o74" designImageOffsetX="-949" designImageOffsetY="-105" designImageAlpha="100">
+  <displayList>
+    <image id="n0_cr3i" name="n0" src="is8o7w" fileName="resource/切图/q_glxl9g.png" xy="0,0" size="187,232"/>
+    <component id="n1_cr3i" name="n1" src="cr3ibq" fileName="modifyClubName.xml" xy="8,19" size="170,59"/>
+    <image id="n2_cr3i" name="n2" src="is8o8f" fileName="resource/切图/q_wjtxk_fgx.png" xy="11,79"/>
+    <image id="n3_cr3i" name="n3" src="is8o8f" fileName="resource/切图/q_wjtxk_fgx.png" xy="11,150"/>
+    <component id="n5_cr3i" name="n5" src="cr3ibr" fileName="disbandClub.xml" xy="8,90"/>
+    <component id="n6_cr3i" name="n6" src="cr3ibs" fileName="quickyRoomSetting.xml" xy="8,161"/>
+  </displayList>
+</component>

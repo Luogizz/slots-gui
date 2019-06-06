@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="229,82" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n0_c3rl" name="n0" src="is8o7a" fileName="resource/切图/q_an4z.png" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_c3rl" name="n1" src="is8o8r" fileName="resource/切图/q_wz_yjzj.png" xy="35,18"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue="0.80"/>
+</component>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="10,250" extention="ScrollBar">
+  <displayList>
+    <image id="n0_cr3i" name="n0" src="j6fxb4" fileName="resource/切图/cg_hdt1.png" xy="0,0" size="10,250">
+      <relation target="" sidePair="height-height"/>
+    </image>
+    <graph id="n1_cr3i" name="bar" xy="0,0" size="10,250">
+      <relation target="" sidePair="height-height"/>
+    </graph>
+    <component id="n2_cr3i" name="grip" src="cr3ibf" fileName="memberManager/ScrollBar1_grip.xml" xy="-5,0"/>
+  </displayList>
+  <ScrollBar/>
+</component>

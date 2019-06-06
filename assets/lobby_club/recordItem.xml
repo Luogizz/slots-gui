@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="500,80">
+<component size="570,82" designImage="ui://vil278bsis8o71" designImageOffsetX="-278" designImageOffsetY="-177" designImageAlpha="0">
   <displayList>
-    <graph id="n6_h59f" name="bg" xy="0,0" size="500,80" type="rect"/>
-    <text id="n0_h59f" name="name" xy="5,10" size="84,21" fontSize="15" text="申请人名称"/>
-    <text id="n1_h59f" name="n1" xy="230,10" size="69,21" fontSize="15" text="入会申请"/>
-    <text id="n2_h59f" name="id" xy="5,43" size="153,21" fontSize="15" text="亲友圈ID：13513514"/>
-    <text id="n3_h59f" name="time" xy="230,42" size="131,21" fontSize="15" text="时间：2019-09-09"/>
-    <text id="n4_h59f" name="result" xy="391,11" size="107,50" fontSize="20" align="center" vAlign="middle" autoSize="none" text="同意申请"/>
+    <image id="n6_h59f" name="bg" src="is8o8x" fileName="resource/切图/q_yhk9g.png" xy="0,0" size="570,82"/>
+    <text id="n0_h59f" name="clubName" xy="46,14" size="159,30" fontSize="22" color="#96693a" vAlign="middle" letterSpacing="-1" bold="true" singleLine="true" autoClearText="true" text="亲友圈名七个字"/>
+    <text id="n1_h59f" name="n1" xy="215,17" size="76,25" fontSize="18" color="#96693a" vAlign="middle" letterSpacing="-1" bold="true" singleLine="true" autoClearText="true" text="入会申请"/>
+    <text id="n2_h59f" name="id" xy="15,45" size="175,25" fontSize="18" color="#96693a" vAlign="middle" singleLine="true" autoClearText="true" text="亲友圈ID：13513514"/>
+    <text id="n3_h59f" name="time" xy="216,45" size="240,26" fontSize="19" color="#96693a" vAlign="middle" singleLine="true" autoClearText="true" text="时间：2019-09-09  12:24:55"/>
+    <text id="n4_h59f" name="result" xy="464,19" size="107,50" fontSize="22" color="#b3522e" align="center" vAlign="middle" autoSize="none" bold="true" text="提交申请"/>
+    <image id="n8_cr3i" name="n8" src="is8o83" fileName="resource/切图/q_qun.png" xy="15,15" scale="0.43,0.43"/>
   </displayList>
 </component>
