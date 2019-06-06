@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1136,640" designImage="ui://tnqevky2egq518u" designImageAlpha="100">
-  <controller name="payCtrl" pages="0,房主支付,1,钻石平摊" selected="0"/>
+  <controller name="payCtrl" pages="0,房主支付,1,钻石平摊" selected="1"/>
   <controller name="fengdingCtrl" pages="0,20/40,1,30/60,2,50/100/150,3,100/200/300" selected="0"/>
   <controller name="dunziCtrl" pages="0,1/2,1,10/20/30" selected="0"/>
   <controller name="roundCtrl" pages="0,4局,1,8局,2,16局" selected="0"/>
   <displayList>
-    <image id="n0_egq5" name="n0" src="egq518q" fileName="roomRule/resource/ty_tanchuang2.png" xy="86,22" size="967,591"/>
-    <component id="n3_egq5" name="closeBtn" src="egq518w" fileName="roomRule/resource/closeBtn.xml" xy="938,0"/>
-    <component id="n1_egq5" name="ownerPay" src="egq518r" fileName="roomRule/radioButton.xml" xy="310,138" touchable="false">
-      <Button checked="true" controller="payCtrl" page="0"/>
+    <image id="n0_egq5" name="n0" src="y5pf18q" fileName="roomRule/resource/ty_tanchuang2.png" xy="86,22" size="967,591"/>
+    <component id="n3_egq5" name="closeBtn" src="y5pf18o" fileName="roomRule/resource/closeBtn.xml" xy="938,0"/>
+    <component id="n1_egq5" name="ownerPay" src="y5pf18i" fileName="roomRule/radioButton.xml" xy="310,138" touchable="false">
+      <Button controller="payCtrl" page="0"/>
     </component>
-    <component id="n4_egq5" name="aaPay" src="egq518r" fileName="roomRule/radioButton.xml" xy="556,137" touchable="false">
+    <component id="n4_egq5" name="aaPay" src="y5pf18i" fileName="roomRule/radioButton.xml" xy="556,137" touchable="false">
       <Button controller="payCtrl" page="1"/>
     </component>
-    <component id="n9_egq5" name="fengding1" src="egq518r" fileName="roomRule/radioButton.xml" xy="310,289" touchable="false">
-      <Button checked="true" controller="fengdingCtrl" page="0"/>
+    <component id="n9_egq5" name="fengding1" src="y5pf18i" fileName="roomRule/radioButton.xml" xy="310,289" touchable="false">
+      <Button controller="fengdingCtrl" page="0"/>
     </component>
-    <component id="n10_egq5" name="fengding2" src="egq518r" fileName="roomRule/radioButton.xml" xy="556,290" touchable="false">
+    <component id="n10_egq5" name="fengding2" src="y5pf18i" fileName="roomRule/radioButton.xml" xy="556,290" touchable="false">
       <Button controller="fengdingCtrl" page="1"/>
     </component>
-    <component id="n11_egq5" name="fengding3" src="egq518r" fileName="roomRule/radioButton.xml" xy="786,290" touchable="false">
+    <component id="n11_egq5" name="fengding3" src="y5pf18i" fileName="roomRule/radioButton.xml" xy="786,290" touchable="false">
       <Button controller="fengdingCtrl" page="2"/>
     </component>
-    <component id="n12_egq5" name="fengding4" src="egq518r" fileName="roomRule/radioButton.xml" xy="310,366" touchable="false">
+    <component id="n12_egq5" name="fengding4" src="y5pf18i" fileName="roomRule/radioButton.xml" xy="310,366" touchable="false">
       <Button controller="fengdingCtrl" page="3"/>
     </component>
-    <component id="n13_egq5" name="dunzi1" src="egq518r" fileName="roomRule/radioButton.xml" xy="310,434" touchable="false">
-      <Button checked="true" controller="dunziCtrl" page="0"/>
+    <component id="n13_egq5" name="dunzi1" src="y5pf18i" fileName="roomRule/radioButton.xml" xy="310,434" touchable="false">
+      <Button controller="dunziCtrl" page="0"/>
     </component>
-    <component id="n14_egq5" name="dunzi2" src="egq518r" fileName="roomRule/radioButton.xml" xy="558,436" touchable="false">
+    <component id="n14_egq5" name="dunzi2" src="y5pf18i" fileName="roomRule/radioButton.xml" xy="558,436" touchable="false">
       <Button controller="dunziCtrl" page="1"/>
     </component>
-    <component id="n15_egq5" name="round1" src="egq518r" fileName="roomRule/radioButton.xml" xy="310,502" touchable="false">
-      <Button checked="true" controller="roundCtrl" page="0"/>
+    <component id="n15_egq5" name="round1" src="y5pf18i" fileName="roomRule/radioButton.xml" xy="310,502" touchable="false">
+      <Button controller="roundCtrl" page="0"/>
     </component>
-    <component id="n16_egq5" name="round2" src="egq518r" fileName="roomRule/radioButton.xml" xy="558,502" touchable="false">
+    <component id="n16_egq5" name="round2" src="y5pf18i" fileName="roomRule/radioButton.xml" xy="558,502" touchable="false">
       <Button controller="roundCtrl" page="1"/>
     </component>
-    <component id="n17_egq5" name="round3" src="egq518r" fileName="roomRule/radioButton.xml" xy="791,502" touchable="false">
+    <component id="n17_egq5" name="round3" src="y5pf18i" fileName="roomRule/radioButton.xml" xy="791,502" touchable="false">
       <Button controller="roundCtrl" page="2"/>
     </component>
-    <component id="n19_egq5" name="zmjf" src="egq518x" fileName="roomRule/checkBox.xml" xy="314,211" touchable="false"/>
-    <component id="n20_egq5" name="lzjf" src="egq518x" fileName="roomRule/checkBox.xml" xy="560,213" touchable="false"/>
-    <component id="n21_egq5" name="jyz" src="egq518x" fileName="roomRule/checkBox.xml" xy="792,214" touchable="false"/>
+    <component id="n19_egq5" name="zmjf" src="y5pf18h" fileName="roomRule/checkBox.xml" xy="314,211" touchable="false"/>
+    <component id="n20_egq5" name="lzjf" src="y5pf18h" fileName="roomRule/checkBox.xml" xy="560,213" touchable="false"/>
+    <component id="n21_egq5" name="jyz" src="y5pf18h" fileName="roomRule/checkBox.xml" xy="792,214" touchable="false"/>
     <text id="n2_egq5" name="payText" xy="192,141" size="104,30" fontSize="22" color="#943f35" align="center" vAlign="middle" bold="true" text="付费模式:"/>
     <text id="n5_egq5" name="ruleText" xy="192,219" size="104,30" fontSize="22" color="#943f35" align="center" vAlign="middle" bold="true" text="玩法规则:"/>
     <text id="n6_egq5" name="fengding" xy="192,295" size="100,30" fontSize="22" color="#943f35" align="center" vAlign="middle" bold="true" text="封       顶:"/>

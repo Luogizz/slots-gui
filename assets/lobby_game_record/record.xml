@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="788,110">
+<component size="922,177" designImage="ui://0oi8ctskcr3iu" designImageOffsetX="-148" designImageOffsetY="-50" designImageAlpha="100">
   <displayList>
-    <image id="n3_kq45" name="bg" src="kq45m" fileName="resource/phb_nr_dk.png" xy="0,0" size="788,110"/>
-    <text id="n0_kq45" name="name" xy="26,36" size="67,39" fontSize="30" align="center" vAlign="middle" autoSize="none" text=""/>
-    <text id="n4_kq45" name="time" xy="125,34" size="245,39" fontSize="30" align="center" vAlign="middle" autoSize="none" text="&#xA;"/>
-    <text id="n5_kq45" name="roomNumber" xy="411,34" size="106,39" fontSize="30" align="center" vAlign="middle" autoSize="none" text=""/>
-    <text id="n6_kq45" name="owner" xy="564,34" size="66,39" fontSize="30" align="center" vAlign="middle" autoSize="none" text=""/>
-    <text id="n7_kq45" name="result" xy="680,34" size="66,39" fontSize="30" align="center" vAlign="middle" autoSize="none" text=""/>
+    <image id="n3_kq45" name="bg" src="kq45a" fileName="resource/zj_diban.png" xy="0,0" size="922,177" hideByEditor="true"/>
+    <text id="n4_kq45" name="time" xy="654,13" size="206,28" fontSize="20" color="#3defff" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text="2017-12-13  18:00:01"/>
+    <text id="n5_kq45" name="roomNumber" xy="12,12" size="140,28" fontSize="20" color="#f5f6d3" vAlign="middle" letterSpacing="1" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="12345号 房间"/>
+    <text id="n9_cr3i" name="gameName" xy="158,13" size="140,28" fontSize="20" color="#3defff" vAlign="middle" letterSpacing="1" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="(大丰麻将) 4局"/>
+    <image id="n10_cr3i" name="n10" src="cr3i1a" fileName="resource/zj_jt.png" xy="877,17"/>
   </displayList>
 </component>

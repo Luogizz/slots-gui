@@ -536,14 +536,14 @@
     <component id="y5pf18g" name="soundSlider_grip.xml" path="/settingRoom/"/>
     <component id="y5pf18h" name="checkBox.xml" path="/roomRule/"/>
     <component id="y5pf18i" name="radioButton.xml" path="/roomRule/"/>
-    <component id="y5pf18j" name="room_rule_view.xml" path="/roomRule/"/>
+    <component id="y5pf18j" name="room_rule_view.xml" path="/roomRule/" exported="true"/>
     <image id="y5pf18k" name="cjfj_di_f.png" path="/roomRule/resource/"/>
     <image id="y5pf18l" name="cjfj_di_y.png" path="/roomRule/resource/"/>
     <image id="y5pf18m" name="cjfj_di_y1.png" path="/roomRule/resource/"/>
     <image id="y5pf18n" name="cjfj_gou.png" path="/roomRule/resource/"/>
     <component id="y5pf18o" name="closeBtn.xml" path="/roomRule/resource/"/>
     <image id="y5pf18p" name="ty_btnClose.png" path="/roomRule/resource/"/>
-    <image id="y5pf18q" name="ty_tanchuang2.png" path="/roomRule/resource/"/>
+    <image id="y5pf18q" name="ty_tanchuang2.png" path="/roomRule/resource/" scale="9grid" scale9grid="128,121,256,242"/>
     <image id="y5pf18r" name="游戏内游戏规则.jpg" path="/roomRule/resource/"/>
     <component id="y5pf18s" name="meld_cancel_button.xml" path="/desk/"/>
   </resources>

@@ -2,7 +2,7 @@
 <component size="120,146" pivot="0.5,0.5" extention="Button">
   <controller name="button" pages="0,up,1,down" selected="0"/>
   <displayList>
-    <image id="n0_egq5" name="n0" src="egq518v" fileName="roomRule/resource/ty_btnClose.png" xy="0,0">
+    <image id="n0_egq5" name="n0" src="y5pf18p" fileName="roomRule/resource/ty_btnClose.png" xy="0,0">
       <relation target="" sidePair="width-width,height-height"/>
     </image>
   </displayList>
