@@ -5,7 +5,7 @@
     <image id="n0_kdqv" name="n0" src="kdqv1e" fileName="resource/ty_btn1_cheng.png" xy="0,0">
       <relation target="" sidePair="width-width,height-height"/>
     </image>
-    <text id="n2_kdqv" name="title" xy="62,23" size="129,39" fontSize="30" color="#330000" autoSize="none" bold="true" text="创建房间">
+    <text id="n2_kdqv" name="title" xy="62,23" size="136,39" fontSize="30" color="#330000" autoSize="none" bold="true" text="创建房间">
       <relation target="n0_kdqv" sidePair="center-center,middle-middle"/>
     </text>
   </displayList>
