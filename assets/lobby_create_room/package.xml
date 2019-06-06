@@ -30,7 +30,6 @@
     <component id="h59f23" name="checkBox.xml" path="/"/>
     <component id="cr3i25" name="btnZJMJ.xml" path="/"/>
     <component id="cr3i26" name="zjmjRoom.xml" path="/"/>
-    <component id="cr3i28" name="zjmjRuleCom.xml" path="/"/>
   </resources>
   <publish name="lobby_create_room"/>
 </packageDescription>

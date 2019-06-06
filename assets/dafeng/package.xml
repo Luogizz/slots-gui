@@ -536,7 +536,7 @@
     <component id="y5pf18g" name="soundSlider_grip.xml" path="/settingRoom/"/>
     <component id="y5pf18h" name="checkBox.xml" path="/roomRule/"/>
     <component id="y5pf18i" name="radioButton.xml" path="/roomRule/"/>
-    <component id="y5pf18j" name="room_rule_view.xml" path="/roomRule/"/>
+    <component id="y5pf18j" name="room_rule_view.xml" path="/roomRule/" exported="true"/>
     <image id="y5pf18k" name="cjfj_di_f.png" path="/roomRule/resource/"/>
     <image id="y5pf18l" name="cjfj_di_y.png" path="/roomRule/resource/"/>
     <image id="y5pf18m" name="cjfj_di_y1.png" path="/roomRule/resource/"/>

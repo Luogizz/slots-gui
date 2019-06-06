@@ -48,6 +48,7 @@
     <component id="cr3i1e" name="closeBtn.xml" path="/"/>
     <component id="cr3i1f" name="getRecordByCodeBtn.xml" path="/"/>
     <image id="cr3i1g" name="dyj.png" path="/resource/"/>
+    <image id="hshz1h" name="zj_4_di.png" path="/resource/" scale="9grid" scale9grid="8,8,16,16"/>
   </resources>
   <publish name="lobby_game_record"/>
 </packageDescription>

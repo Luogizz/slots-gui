@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="922,177" designImage="ui://0oi8ctskcr3iu" designImageOffsetX="-148" designImageOffsetY="-50" designImageAlpha="100">
   <displayList>
-    <image id="n3_kq45" name="bg" src="kq45a" fileName="resource/zj_diban.png" xy="0,0" size="922,177" hideByEditor="true"/>
-    <text id="n4_kq45" name="time" xy="654,13" size="206,28" fontSize="20" color="#3defff" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text="2017-12-13  18:00:01"/>
-    <text id="n5_kq45" name="roomNumber" xy="12,12" size="140,28" fontSize="20" color="#f5f6d3" vAlign="middle" letterSpacing="1" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="12345号 房间"/>
-    <text id="n9_cr3i" name="gameName" xy="158,13" size="140,28" fontSize="20" color="#3defff" vAlign="middle" letterSpacing="1" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="(大丰麻将) 4局"/>
-    <image id="n10_cr3i" name="n10" src="cr3i1a" fileName="resource/zj_jt.png" xy="877,17"/>
+    <image id="n3_kq45" name="bg" src="kq45a" fileName="resource/zj_diban.png" xy="0,0" size="922,177"/>
+    <image id="n37_hshz" name="bg1" src="hshz1h" fileName="resource/zj_4_di.png" xy="18,62" size="207,96"/>
+    <image id="n38_hshz" name="bg2" src="hshz1h" fileName="resource/zj_4_di.png" xy="243,62" size="207,96"/>
+    <image id="n39_hshz" name="bg3" src="hshz1h" fileName="resource/zj_4_di.png" xy="467,62" size="207,96"/>
+    <image id="n40_hshz" name="bg4" src="hshz1h" fileName="resource/zj_4_di.png" xy="691,62" size="207,96"/>
+    <image id="n10_cr3i" name="arrow" src="cr3i1a" fileName="resource/zj_jt.png" xy="877,17"/>
+    <image id="n12_cr3i" name="iconFrame1" src="kq45c" fileName="resource/zj_srk.png" xy="25,72" size="79,77"/>
+    <image id="n18_hshz" name="iconFrame2" src="kq45c" fileName="resource/zj_srk.png" xy="251,72" size="79,77"/>
+    <image id="n24_hshz" name="iconFrame3" src="kq45c" fileName="resource/zj_srk.png" xy="473,72" size="79,77"/>
+    <image id="n30_hshz" name="iconFrame4" src="kq45c" fileName="resource/zj_srk.png" xy="700,72" size="79,77"/>
+    <image id="n11_cr3i" name="owner1" src="kq45e" fileName="resource/zj_fanzhu.png" xy="19,70" size="21,42"/>
+    <image id="n19_hshz" name="owner2" src="kq45e" fileName="resource/zj_fanzhu.png" xy="245,70"/>
+    <image id="n25_hshz" name="owner3" src="kq45e" fileName="resource/zj_fanzhu.png" xy="467,70"/>
+    <image id="n31_hshz" name="owner4" src="kq45e" fileName="resource/zj_fanzhu.png" xy="694,70"/>
+    <image id="n13_cr3i" name="winner1" src="cr3i1g" fileName="resource/dyj.png" xy="201,60" size="62,104" scale="0.65,0.65"/>
+    <image id="n20_hshz" name="winner2" src="cr3i1g" fileName="resource/dyj.png" xy="424,60" scale="0.65,0.65"/>
+    <image id="n26_hshz" name="winner3" src="cr3i1g" fileName="resource/dyj.png" xy="649,60" scale="0.65,0.65"/>
+    <image id="n32_hshz" name="winner4" src="cr3i1g" fileName="resource/dyj.png" xy="875,60" scale="0.65,0.65"/>
+    <text id="n14_hshz" name="playerName1" xy="104,73" size="99,28" fontSize="20" color="#96693a" vAlign="middle" letterSpacing="1" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="用户2399"/>
+    <text id="n21_hshz" name="playerName2" xy="330,73" size="98,28" fontSize="20" color="#96693a" vAlign="middle" letterSpacing="1" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="用户2399"/>
+    <text id="n27_hshz" name="playerName3" xy="552,73" size="98,28" fontSize="20" color="#96693a" vAlign="middle" letterSpacing="1" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="用户2399"/>
+    <text id="n33_hshz" name="playerName4" xy="779,73" size="98,28" fontSize="20" color="#96693a" vAlign="middle" letterSpacing="1" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="用户2399"/>
+    <text id="n15_hshz" name="playerScore1" xy="104,115" size="98,41" fontSize="32" color="#96693a" vAlign="middle" letterSpacing="1" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="-100&#xA;"/>
+    <text id="n22_hshz" name="playerScore2" xy="330,115" size="98,41" fontSize="32" color="#96693a" vAlign="middle" letterSpacing="1" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="-100&#xA;"/>
+    <text id="n28_hshz" name="playerScore3" xy="552,115" size="98,41" fontSize="32" color="#96693a" vAlign="middle" letterSpacing="1" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="-100&#xA;"/>
+    <text id="n34_hshz" name="playerScore4" xy="779,115" size="98,41" fontSize="32" color="#96693a" vAlign="middle" letterSpacing="1" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="-100&#xA;"/>
+    <text id="n4_kq45" name="time" xy="654,13" size="214,28" fontSize="20" color="#3defff" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text="2017-12-13  18:00:01"/>
+    <text id="n5_kq45" name="roomNumber" xy="12,12" size="145,28" fontSize="20" color="#f5f6d3" vAlign="middle" letterSpacing="1" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="12345号 房间"/>
+    <text id="n9_cr3i" name="gameName" xy="158,13" size="168,28" fontSize="20" color="#3defff" vAlign="middle" letterSpacing="1" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="(大丰麻将) 4局"/>
   </displayList>
 </component>
