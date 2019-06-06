@@ -5,5 +5,6 @@
     <component id="n11_fxwe" name="n2" src="fxwe1m" fileName="mahjong_fan_heng.xml" xy="0,30"/>
     <component id="n12_fxwe" name="n3" src="fxwe1m" fileName="mahjong_fan_heng.xml" xy="0,62"/>
     <component id="n13_fxwe" name="n4" src="fxwe1m" fileName="mahjong_fan_heng.xml" xy="0,21"/>
+    <component id="n14_ra97" name="n0" src="fxwe1k" fileName="mahjong_left/mahjong_left_luo.xml" xy="0,21" visible="false"/>
   </displayList>
 </component>
