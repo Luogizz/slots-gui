@@ -15,5 +15,6 @@
     <image id="n14_fxwe" name="n14" src="fxwe12y" fileName="大丰麻将美术改版/2 游戏内/切图/j_结算/fgx.png" xy="91,326"/>
     <image id="n15_fxwe" name="n15" src="fxwe12y" fileName="大丰麻将美术改版/2 游戏内/切图/j_结算/fgx.png" xy="91,432"/>
     <component id="n16_ra97" name="fakeList" src="fxwe15s" fileName="desk/mine/desk_hand.xml" xy="785,539" scale="0.35,0.35"/>
+    <component id="n18_ra97" name="guizeBtn" src="fxwe15h" fileName="desk/guize_button.xml" xy="1049,59"/>
   </displayList>
 </component>
