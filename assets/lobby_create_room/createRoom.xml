@@ -13,15 +13,7 @@
       <item url="ui://58oggipch59f1t"/>
       <item url="ui://58oggipch59f1s"/>
     </list>
-    <component id="n50_kdqv" name="damjRule" src="kdqv1g" fileName="mjRoom.xml" xy="282,30" size="782,595">
-      <gearDisplay controller="gameList" pages="2"/>
-    </component>
-    <component id="n49_kdqv" name="gzRule" src="kdqvx" fileName="gzRoom.xml" xy="282,30" size="782,595">
-      <gearDisplay controller="gameList" pages="3"/>
-    </component>
-    <component id="n60_cr3i" name="zjmjRoom" src="cr3i26" fileName="zjmjRoom.xml" xy="282,30">
-      <gearDisplay controller="gameList" pages="6"/>
-    </component>
+    <graph id="n62_epyd" name="mount" xy="266,30" size="38,35"/>
     <component id="n58_kdqv" name="downloadProgress" src="kdqv1p" fileName="downloadProgress.xml" xy="377,241" hideByEditor="true"/>
   </displayList>
 </component>
