@@ -11,7 +11,7 @@
       <item/>
       <item/>
     </list>
-    <text id="n15_h59f" name="title" xy="605,84" size="113,34" fontSize="25" color="#0000ff" align="center" vAlign="middle" bold="true" singleLine="true" autoClearText="true" text="我是标题"/>
+    <text id="n15_h59f" name="title" xy="605,84" size="109,34" fontSize="25" color="#0000ff" align="center" vAlign="middle" bold="true" singleLine="true" autoClearText="true" text="我是标题"/>
     <component id="n26_h59f" name="textComponent" src="h59fm" fileName="textComponent.xml" xy="354,131"/>
     <list id="n27_h59f" name="emailAttachmentList" xy="363,466" size="610,85" layout="row" overflow="scroll" scroll="horizontal" scrollBar="hidden" defaultItem="ui://vztvq5emh59f13" autoClearItems="true">
       <item/>
@@ -19,5 +19,6 @@
       <item/>
     </list>
     <component id="n11_h59f" name="closeBtn" src="h59fe" fileName="closeBtn.xml" xy="1030,28"/>
+    <component id="n29_mw1f" name="back" src="mw1f17" fileName="back.xml" xy="81,23"/>
   </displayList>
 </component>

@@ -15,5 +15,6 @@
     </list>
     <graph id="n62_epyd" name="mount" xy="266,30" size="38,35"/>
     <component id="n58_kdqv" name="downloadProgress" src="kdqv1p" fileName="downloadProgress.xml" xy="377,241" hideByEditor="true"/>
+    <component id="n63_mw1f" name="back" src="mw1f27" fileName="back.xml" xy="22,7"/>
   </displayList>
 </component>

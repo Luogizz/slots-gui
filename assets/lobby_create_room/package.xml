@@ -30,6 +30,8 @@
     <component id="h59f23" name="checkBox.xml" path="/"/>
     <component id="cr3i25" name="btnZJMJ.xml" path="/"/>
     <component id="cr3i26" name="zjmjRoom.xml" path="/" exported="true"/>
+    <component id="mw1f27" name="back.xml" path="/"/>
+    <image id="mw1f28" name="pjhf_fanhui.png" path="/"/>
   </resources>
   <publish name="lobby_create_room"/>
 </packageDescription>
