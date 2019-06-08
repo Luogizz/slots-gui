@@ -5,7 +5,7 @@
   <controller name="difen" pages="0,1,1,2,2,3,3,4" selected="0"/>
   <controller name="xuanma" pages="0,1,1,2,2,2,3,3" selected="0"/>
   <controller name="round" pages="1,8,2,16" selected="0"/>
-  <controller name="fengding" pages="0,1,1,2" selected="0"/>
+  <controller name="fengding" pages="0,0,1,1,2,2" selected="0"/>
   <displayList>
     <component id="n83_cr3i" name="round8Button" src="h59f1y" fileName="radioButton.xml" xy="159,2" size="122,35">
       <Button checked="true" controller="round" page="1"/>
@@ -52,11 +52,14 @@
     <component id="n95_cr3i" name="difen4" src="h59f1y" fileName="radioButton.xml" xy="627,227" size="122,35">
       <Button controller="difen" page="3"/>
     </component>
-    <component id="n119_cr3i" name="fengding1" src="h59f1y" fileName="radioButton.xml" xy="159,137" size="156,35">
-      <Button controller="fengding" page="0"/>
+    <component id="n121_i2yo" name="fengding0" src="h59f1y" fileName="radioButton.xml" xy="160,136" size="156,35">
+      <Button checked="true" controller="fengding" page="0"/>
     </component>
-    <component id="n120_cr3i" name="fengding2" src="h59f1y" fileName="radioButton.xml" xy="386,137" size="156,35">
+    <component id="n119_cr3i" name="fengding1" src="h59f1y" fileName="radioButton.xml" xy="388,136" size="156,35">
       <Button controller="fengding" page="1"/>
+    </component>
+    <component id="n120_cr3i" name="fengding2" src="h59f1y" fileName="radioButton.xml" xy="612,134" size="156,35">
+      <Button controller="fengding" page="2"/>
     </component>
     <component id="n96_cr3i" name="qufengpai" src="h59f23" fileName="checkBox.xml" xy="160,272" size="200,35"/>
     <component id="n97_cr3i" name="gangbao3jia" src="h59f23" fileName="checkBox.xml" xy="386,272">
@@ -79,13 +82,13 @@
     <component id="n112_cr3i" name="13yao10bei" src="h59f23" fileName="checkBox.xml" xy="386,407" size="200,35">
       <Button checked="true"/>
     </component>
-    <text id="n99_cr3i" name="text1" xy="22,5" size="105,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="局      数 :"/>
+    <text id="n99_cr3i" name="text1" xy="22,5" size="100,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="局      数 :"/>
     <text id="n100_cr3i" name="text2" xy="22,50" size="104,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="付费模式:"/>
-    <text id="n101_cr3i" name="text3" xy="22,95" size="105,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="人      数 :"/>
-    <text id="n102_cr3i" name="text4" xy="22,185" size="105,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="选      马 :"/>
-    <text id="n103_cr3i" name="text5" xy="22,230" size="103,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="底      分 :"/>
+    <text id="n101_cr3i" name="text3" xy="22,95" size="100,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="人      数 :"/>
+    <text id="n102_cr3i" name="text4" xy="22,185" size="100,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="选      马 :"/>
+    <text id="n103_cr3i" name="text5" xy="22,230" size="100,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="底      分 :"/>
     <text id="n104_cr3i" name="text6" xy="22,275" size="104,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="其他玩法:"/>
-    <text id="n118_cr3i" name="text7" xy="23,140" size="105,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="封      顶 :"/>
+    <text id="n118_cr3i" name="text7" xy="23,140" size="100,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="封      顶 :"/>
     <component id="n20_kdqv" name="createRoomButton" src="kdqv1f" fileName="btnCreateRoom.xml" xy="267,495"/>
     <component id="n62_hqw9" name="consumeCom" src="hqw91r" fileName="diamondConsume.xml" xy="200,456"/>
     <text id="n63_hqw9" name="versionLab" xy="669,546" size="105,29" fontSize="25" align="center" vAlign="middle" autoSize="none" text="v1.0.3"/>
