@@ -15,7 +15,6 @@
     <image id="kq45g" name="ty_tanchuang3.png" path="/resource/" scale="9grid" scale9grid="252,100,47,202"/>
     <image id="kq45h" name="pcbjk.png" path="/resource/" scale="9grid" scale9grid="152,76,304,152"/>
     <image id="kq45i" name="xgb.png" path="/resource/"/>
-    <component id="kq45j" name="closeBrn.xml" path="/"/>
     <component id="kq45k" name="record.xml" path="/" exported="true"/>
     <image id="kq45l" name="zj_tiao.png" path="/resource/" scale="9grid" scale9grid="94,20,26,40"/>
     <image id="kq45m" name="phb_nr_dk.png" path="/resource/" scale="9grid" scale9grid="39,37,78,74"/>
@@ -25,15 +24,15 @@
     <image id="kq45q" name="zj_btn_fx.png" path="/resource/"/>
     <component id="l84rr" name="shareBtn.xml" path="/"/>
     <component id="l84rt" name="playBtn.xml" path="/"/>
-    <image id="cr3iu" name="z_战绩1.jpg" path="/效果图/"/>
-    <image id="cr3iv" name="z_战绩1_提示框.jpg" path="/效果图/"/>
-    <image id="cr3iw" name="z_战绩1_标注.jpg" path="/效果图/"/>
-    <image id="cr3ix" name="z_战绩1_输入回访码.jpg" path="/效果图/"/>
-    <image id="cr3iy" name="z_战绩2.jpg" path="/效果图/"/>
-    <image id="cr3iz" name="z_战绩2_标注.jpg" path="/效果图/"/>
-    <image id="cr3i10" name="z_战绩_标注.jpg" path="/效果图/"/>
-    <image id="cr3i11" name="z_战绩_没有战绩提示.jpg" path="/效果图/"/>
-    <image id="cr3i12" name="z_战绩_没有战绩提示_标注.jpg" path="/效果图/"/>
+    <image id="cr3iu" name="z_战绩1.jpg" path="/resource/效果图/"/>
+    <image id="cr3iv" name="z_战绩1_提示框.jpg" path="/resource/效果图/"/>
+    <image id="cr3iw" name="z_战绩1_标注.jpg" path="/resource/效果图/"/>
+    <image id="cr3ix" name="z_战绩1_输入回访码.jpg" path="/resource/效果图/"/>
+    <image id="cr3iy" name="z_战绩2.jpg" path="/resource/效果图/"/>
+    <image id="cr3iz" name="z_战绩2_标注.jpg" path="/resource/效果图/"/>
+    <image id="cr3i10" name="z_战绩_标注.jpg" path="/resource/效果图/"/>
+    <image id="cr3i11" name="z_战绩_没有战绩提示.jpg" path="/resource/效果图/"/>
+    <image id="cr3i12" name="z_战绩_没有战绩提示_标注.jpg" path="/resource/效果图/"/>
     <image id="cr3i13" name="zj_btn.png" path="/resource/"/>
     <image id="cr3i14" name="zj_btn_hf.png" path="/resource/"/>
     <image id="cr3i15" name="zj_btn_nt.png" path="/resource/"/>
@@ -49,6 +48,7 @@
     <component id="cr3i1f" name="getRecordByCodeBtn.xml" path="/"/>
     <image id="cr3i1g" name="dyj.png" path="/resource/"/>
     <image id="hshz1h" name="zj_4_di.png" path="/resource/" scale="9grid" scale9grid="8,8,16,16"/>
+    <component id="vej91i" name="arrrowBtn.xml" path="/"/>
   </resources>
   <publish name="lobby_game_record"/>
 </packageDescription>
