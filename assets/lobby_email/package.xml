@@ -38,6 +38,8 @@
     <component id="h59f14" name="spaceBtn.xml" path="/"/>
     <image id="h59f15" name="tbzs.png" path="/resource/"/>
     <image id="tjkx16" name="yxn_bj_hs.png" path="/resource/"/>
+    <component id="mw1f17" name="back.xml" path="/"/>
+    <image id="mw1f18" name="pjhf_fanhui.png" path="/"/>
   </resources>
   <publish name="lobby_email"/>
 </packageDescription>
