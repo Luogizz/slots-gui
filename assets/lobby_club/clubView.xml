@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="1136,640" designImage="ui://vil278bsis8o74" designImageAlpha="100" designImageLayer="1">
+<component size="1136,106" designImage="ui://vil278bsis8o74" designImageAlpha="100">
   <controller name="isClub" pages="0,No,1,Yes" selected="1"/>
   <displayList>
     <image id="n9_is8o" name="bg" src="is8o7j" fileName="resource/切图/q_bbkk.png" xy="563,0" size="574,640"/>
@@ -47,5 +47,6 @@
       <item controllers="isClub,0"/>
     </list>
     <component id="n3_h59f" name="content" src="h59f5" fileName="pageContent.xml" xy="216,119" size="913,489"/>
+    <graph id="n33_vej9" name="popupPosition" xy="949,106" size="20,20" hideByEditor="true"/>
   </displayList>
 </component>

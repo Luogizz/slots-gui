@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<component size="170,59" extention="Button">
-  <controller name="button" pages="0,up,1,down" selected="0"/>
-  <displayList>
-    <text id="n4_cr3i" name="n4" xy="0,0" size="170,59" fontSize="22" color="#926a3b" align="center" vAlign="middle" letterSpacing="-3" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="一键组局设置"/>
-  </displayList>
-  <Button/>
-</component>
