@@ -548,6 +548,7 @@
     <component id="y5pf18s" name="meld_cancel_button.xml" path="/desk/"/>
     <component id="mw1f18t" name="back.xml" path="/"/>
     <image id="mw1f18u" name="pjhf_fanhui.png" path="/"/>
+    <component id="vej918x" name="spaceBtn.xml" path="/roomRule/" exported="true"/>
   </resources>
   <publish name="dafeng"/>
 </packageDescription>

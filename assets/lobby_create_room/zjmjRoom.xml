@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="782,595" remark="textfield_fold">
+<component size="782,443" remark="textfield_fold">
   <controller name="pay" pages="0,owner,1,aa" selected="0"/>
   <controller name="player" pages="0,2人,1,3人,2,4人" selected="0"/>
   <controller name="difen" pages="0,1,1,2,2,3,3,4" selected="0"/>
@@ -89,8 +89,5 @@
     <text id="n103_cr3i" name="text5" xy="22,230" size="100,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="底      分 :"/>
     <text id="n104_cr3i" name="text6" xy="22,275" size="104,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="其他玩法:"/>
     <text id="n118_cr3i" name="text7" xy="23,140" size="100,30" fontSize="22" color="#660033" align="center" vAlign="middle" bold="true" text="封      顶 :"/>
-    <component id="n20_kdqv" name="createRoomButton" src="kdqv1f" fileName="btnCreateRoom.xml" xy="267,495"/>
-    <component id="n62_hqw9" name="consumeCom" src="hqw91r" fileName="diamondConsume.xml" xy="200,456"/>
-    <text id="n63_hqw9" name="versionLab" xy="669,546" size="105,29" fontSize="25" align="center" vAlign="middle" autoSize="none" text="v1.0.3"/>
   </displayList>
 </component>
