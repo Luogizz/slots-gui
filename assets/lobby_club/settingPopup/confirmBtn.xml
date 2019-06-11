@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="230,84" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n0_lulw" name="n0" src="lulwca" fileName="bg/ty_btn2_cheng.png" pkg="wkrvvhuq" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_lulw" name="n1" src="lulw0" fileName="bg/ty_zi_qd_d.png" pkg="wkrvvhuq" xy="69,18"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue="0.80"/>
+</component>

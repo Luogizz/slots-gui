@@ -15,12 +15,14 @@
     <image id="lulwc0" name="ty_btn2_lan.png" path="/bg/" exported="true"/>
     <image id="kdqv1e" name="ty_btn1_cheng.png" path="/bg/" exported="true"/>
     <image id="kdqv1a" name="ty_tanchuang1.png" path="/bg/" exported="true" scale="9grid" scale9grid="128,128,256,256"/>
-    <image id="h59ff" name="ty_di_pic1.png" path="/bg/" exported="true" scale="9grid" scale9grid="23,23,46,46"/>
+    <image id="h59ff" name="ty_di_pic1.png" path="/bg/" exported="true" scale="9grid" scale9grid="23,32,39,27"/>
     <image id="h59fk" name="ty_xiala1.png" path="/bg/" exported="true"/>
     <image id="h59fl" name="ty_xiala2.png" path="/bg/" exported="true"/>
     <image id="kq452" name="ty_bg.jpg" path="/bg/" exported="true"/>
     <image id="kq456" name="ty_btnBack.png" path="/bg/" exported="true"/>
     <image id="kq453" name="ty_Deng.png" path="/bg/" exported="true"/>
+    <image id="lulw0" name="ty_zi_qd_d.png" path="/bg/" exported="true"/>
+    <image id="lulw1" name="ty_zi_qx.png" path="/bg/" exported="true"/>
   </resources>
   <publish name="lobby_bg_package"/>
 </packageDescription>

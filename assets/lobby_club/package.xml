@@ -226,7 +226,10 @@
     <image id="lulwch" name="s_设置_解散该群_标注.jpg" path="/resource/效果图/"/>
     <image id="lulwci" name="s_设置_退出该群.jpg" path="/resource/效果图/"/>
     <image id="lulwcj" name="s_设置_退出该群_标注.jpg" path="/resource/效果图/"/>
-    <component id="lulwck" name="modifyClubNameCom.xml" path="/settingPopup/"/>
+    <component id="lulwck" name="modifyClubNameCom.xml" path="/settingPopup/" exported="true"/>
+    <component id="lulwcm" name="confirmBtn.xml" path="/settingPopup/"/>
+    <component id="lulwcn" name="quitClubCom.xml" path="/settingPopup/" exported="true"/>
+    <component id="lulwco" name="disbandClubCom.xml" path="/settingPopup/" exported="true"/>
   </resources>
   <publish name="lobby_club"/>
 </packageDescription>
