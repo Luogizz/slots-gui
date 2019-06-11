@@ -2,6 +2,7 @@
 <component size="1136,640" opaque="false" designImage="ui://tnqevky2fxweua">
   <displayList>
     <component id="n0_fxwe" name="head" src="fxwe15n" fileName="common/head_button.xml" xy="889,57"/>
+    <text id="n18_sskg" name="nameText" xy="836,103" size="103,25" fontSize="18" color="#fbb41d" align="center" vAlign="middle" autoSize="shrink" text=""/>
     <image id="n1_fxwe" name="owner" src="fxwexq" fileName="大丰麻将美术改版/2 游戏内/切图/bq_fanzhu.png" xy="820,15"/>
     <image id="n2_fxwe" name="hua" src="fxweyd" fileName="大丰麻将美术改版/2 游戏内/切图/huabg.png" xy="935,8"/>
     <text id="n16_rh8w" name="huaText" xy="972,12" size="40,20" fontSize="18" color="#fbb41d" autoSize="none" strokeColor="#011a26" text="12"/>
