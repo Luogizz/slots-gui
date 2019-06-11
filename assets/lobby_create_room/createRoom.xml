@@ -3,7 +3,7 @@
   <controller name="gameList" pages="6,zjmj,2,mj,3,gz,4,ddz" selected="0"/>
   <displayList>
     <graph id="n59_h8zv" name="diBg" xy="0,0" size="1136,640" touchable="false" type="rect" fillColor="#00000000"/>
-    <image id="n42_kdqv" name="bgRight" src="kdqv1a" fileName="resource/ty_tanchuang1.png" xy="266,22" size="829,600"/>
+    <image id="n42_kdqv" name="bgRight" src="kdqv1a" fileName="resource/ty_tanchuang1.png" xy="266,22" size="829,600" pkg="wkrvvhuq"/>
     <image id="n71_vej9" name="n71" src="hqw91q" fileName="resource/dt_zuan.png" xy="654,477"/>
     <image id="n43_kdqv" name="bgLeft" src="kdqv19" fileName="resource/cjfj_bq_di.png" xy="1,10" size="296,625"/>
     <component id="n51_kdqv" name="closeBtn" src="kdqv1i" fileName="btnClose.xml" xy="1012,-3"/>

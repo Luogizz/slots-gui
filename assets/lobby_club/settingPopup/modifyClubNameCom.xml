@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="172,211" designImage="ui://vil278bslulwce" designImageOffsetX="-220" designImageOffsetY="-90" designImageAlpha="100">
+  <displayList>
+    <image id="n0_lulw" name="n0" src="lulwcl" fileName="resource/切图/ty_tanchuang3.png" xy="-3,-2" size="630,434" aspect="true" scale="1.1,1.1"/>
+    <component id="n1_lulw" name="n1" src="c3rla8" fileName="btn/closeBtn.xml" xy="601,-45"/>
+  </displayList>
+</component>

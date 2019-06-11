@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="120,146" pivot="0.5,0.5" extention="Button">
+<component size="183,66" pivot="0.5,0.5" extention="Button">
   <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
   <displayList>
-    <image id="n0_h8zv" name="n0" src="tjkx21" fileName="resource/ty_btnClose.png" xy="0,0" pkg="wkrvvhuq">
+    <image id="n0_lulw" name="n0" src="lulwc3" fileName="memberManager/resource/btn_qxsq.png" xy="0,0">
       <relation target="" sidePair="width-width,height-height"/>
     </image>
   </displayList>

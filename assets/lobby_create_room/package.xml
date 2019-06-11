@@ -15,17 +15,13 @@
     <image id="kdqvu" name="cjfj_yq_an.png" path="/resource/"/>
     <component id="kdqvx" name="gzRoom.xml" path="/" exported="true"/>
     <image id="kdqv19" name="cjfj_bq_di.png" path="/resource/" scale="9grid" scale9grid="73,160,147,238"/>
-    <image id="kdqv1a" name="ty_tanchuang1.png" path="/resource/" scale="9grid" scale9grid="128,128,256,256"/>
-    <image id="kdqv1e" name="ty_btn1_cheng.png" path="/resource/"/>
     <component id="kdqv1f" name="btnCreateRoom.xml" path="/"/>
     <component id="kdqv1g" name="mjRoom.xml" path="/" exported="true"/>
-    <image id="kdqv1h" name="ty_btnClose.png" path="/resource/"/>
     <component id="kdqv1i" name="btnClose.xml" path="/"/>
     <image id="hqw91q" name="dt_zuan.png" path="/resource/"/>
     <component id="hqw91r" name="diamondConsume.xml" path="/"/>
     <component id="h59f1s" name="btnDDZ.xml" path="/"/>
     <component id="h59f1t" name="btnGZ.xml" path="/"/>
-    <image id="h59f1w" name="ty_btnClose.png" path="/"/>
     <component id="h59f1y" name="radioButton.xml" path="/"/>
     <component id="h59f23" name="checkBox.xml" path="/"/>
     <component id="cr3i25" name="btnZJMJ.xml" path="/"/>

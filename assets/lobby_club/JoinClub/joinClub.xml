@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1136,640">
   <displayList>
-    <image id="n44_h8zv" name="bg" src="tjkx1n" fileName="resource/old/jrfj_db.png" xy="248,26" size="640,590"/>
+    <image id="n44_h8zv" name="bg" src="tjkx1n" fileName="resource/old/jrfj_db.png" xy="248,26" size="640,590" pkg="wkrvvhuq"/>
     <graph id="n48_h8zv" name="diBg" xy="0,0" size="1136,640" touchable="false" type="rect" fillColor="#00ffffff"/>
     <image id="n32_h8zv" name="n32" src="tjkx1o" fileName="resource/old/jrfj_fgx.png" xy="396,182"/>
     <image id="n33_h8zv" name="n33" src="tjkx1o" fileName="resource/old/jrfj_fgx.png" xy="468,182"/>

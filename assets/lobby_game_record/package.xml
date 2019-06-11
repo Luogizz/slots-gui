@@ -2,17 +2,13 @@
 <packageDescription id="0oi8ctsk" jpegQuality="80" compressPNG="true">
   <resources>
     <component id="kq450" name="recordView.xml" path="/" exported="true"/>
-    <image id="kq452" name="ty_bg.jpg" path="/resource/"/>
-    <image id="kq453" name="ty_Deng.png" path="/resource/"/>
     <image id="kq454" name="zj_bt.png" path="/resource/"/>
-    <image id="kq456" name="ty_btnBack.png" path="/resource/"/>
     <image id="kq458" name="zj_btn_ckhf.png" path="/resource/"/>
     <image id="kq45a" name="zj_diban.png" path="/resource/" scale="9grid" scale9grid="137,88,16,14" gridTile="16"/>
     <image id="kq45c" name="zj_srk.png" path="/resource/" scale="9grid" scale9grid="17,17,34,34" gridTile="16"/>
     <image id="kq45d" name="zj_bk.png" path="/resource/"/>
     <image id="kq45e" name="zj_fanzhu.png" path="/resource/"/>
     <image id="kq45f" name="z_战绩1.jpg" path="/resource/"/>
-    <image id="kq45g" name="ty_tanchuang3.png" path="/resource/" scale="9grid" scale9grid="252,100,47,202"/>
     <image id="kq45h" name="pcbjk.png" path="/resource/" scale="9grid" scale9grid="152,76,304,152"/>
     <image id="kq45i" name="xgb.png" path="/resource/"/>
     <component id="kq45k" name="record.xml" path="/" exported="true"/>
