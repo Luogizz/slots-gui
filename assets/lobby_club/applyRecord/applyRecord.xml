@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="1136,640" designImage="ui://vil278bsis8o71" designImageAlpha="100">
+<component size="1136,640" designImage="ui://vil278bsis8o71" designImageAlpha="0">
   <displayList>
     <image id="n5_cr3i" name="bg1" src="c3rla9" fileName="resource/切图/ty_tanchuang2.png" xy="194,78" size="739,482"/>
     <image id="n6_cr3i" name="titmeBg" src="c3rlaa" fileName="resource/切图/ty_tanchuang2_biaoti.png" xy="432,78" size="256,66"/>

@@ -552,6 +552,7 @@
     <image id="dtxt18w" name="ltqp_qp_sj.png" path="/大丰麻将美术改版/2 游戏内/切图/" scale="9grid" scale9grid="27,30,5,6" gridTile="16"/>
     <component id="dtxt18x" name="qipao1.xml" path="/desk/"/>
     <component id="dtxt18y" name="qipao2.xml" path="/desk/"/>
+    <component id="vej918x" name="spaceBtn.xml" path="/roomRule/" exported="true"/>
   </resources>
   <publish name="dafeng"/>
 </packageDescription>

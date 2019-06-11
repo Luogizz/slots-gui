@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="1136,640" designImage="ui://0oi8ctskcr3iu" designImageAlpha="0">
+<component size="1136,640" designImage="ui://0oi8ctskcr3iu" designImageAlpha="100">
   <displayList>
     <image id="n1_kq45" name="bg" src="kq452" fileName="resource/ty_bg.jpg" xy="0,0" size="1136,640"/>
     <image id="n12_cr3i" name="bg1" src="kq453" fileName="resource/ty_Deng.png" xy="-33,349"/>
     <image id="n13_cr3i" name="bg2" src="kq454" fileName="resource/zj_bt.png" xy="44,449"/>
-    <list id="n3_kq45" name="list" xy="150,46" size="921,472" overflow="scroll" scrollBar="hidden" lineGap="10" defaultItem="ui://0oi8ctskkq45k" align="center" autoClearItems="true">
-      <item/>
-      <item/>
+    <list id="n3_kq45" name="list" xy="147,50" size="922,472" overflow="scroll" scrollBar="hidden" lineGap="10" defaultItem="ui://0oi8ctskkq45k" align="center" autoClearItems="true">
       <item/>
     </list>
     <component id="n11_cr3i" name="closeBtn" src="cr3i1e" fileName="closeBtn.xml" xy="-15,-1"/>

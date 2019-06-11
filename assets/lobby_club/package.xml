@@ -9,12 +9,12 @@
     <component id="h59f8" name="clubPage.xml" path="/"/>
     <component id="h59ft" name="roomItem.xml" path="/"/>
     <component id="h59fw" name="playerItem.xml" path="/btn/"/>
-    <component id="h59fx" name="applyRecord.xml" path="/" exported="true"/>
-    <component id="h59fz" name="recordItem.xml" path="/"/>
+    <component id="h59fx" name="applyRecord.xml" path="/applyRecord/" exported="true"/>
+    <component id="h59fz" name="recordItem.xml" path="/applyRecord/"/>
     <component id="h59f10" name="spaceBtn.xml" path="/btn/"/>
     <component id="apn913" name="createClubView.xml" path="/createClubView/" exported="true"/>
     <component id="apn916" name="settingPopupItem.xml" path="/btn/"/>
-    <component id="tjkx17" name="joinClub.xml" path="/" exported="true"/>
+    <component id="tjkx17" name="joinClub.xml" path="/JoinClub/" exported="true"/>
     <component id="tjkx18" name="button0.xml" path="/btn/numberBtn/"/>
     <component id="tjkx19" name="button1.xml" path="/btn/numberBtn/"/>
     <component id="tjkx1a" name="button2.xml" path="/btn/numberBtn/"/>
@@ -206,10 +206,12 @@
     <component id="cr3ibm" name="deleteMemberItem.xml" path="/memberManager/"/>
     <component id="cr3ibn" name="deleteBtn.xml" path="/memberManager/"/>
     <image id="cr3ibo" name="btn_sc.png" path="/resource/切图/"/>
-    <component id="cr3ibp" name="settingPopup.xml" path="/"/>
-    <component id="cr3ibq" name="modifyClubName.xml" path="/"/>
-    <component id="cr3ibr" name="disbandClub.xml" path="/"/>
-    <component id="cr3ibs" name="quickyRoomSetting.xml" path="/"/>
+    <component id="cr3ibp" name="settingPopup.xml" path="/settingPopup/" exported="true"/>
+    <component id="cr3ibq" name="modifyClubName.xml" path="/settingPopup/"/>
+    <component id="cr3ibr" name="disbandClub.xml" path="/settingPopup/"/>
+    <component id="cr3ibs" name="quickyRoomSetting.xml" path="/settingPopup/"/>
+    <component id="lulwbt" name="quitClub.xml" path="/settingPopup/"/>
+    <component id="lulwbu" name="managerCom.xml" path="/settingPopup/"/>
   </resources>
   <publish name="lobby_club"/>
 </packageDescription>

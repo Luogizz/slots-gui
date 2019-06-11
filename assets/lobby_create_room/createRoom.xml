@@ -3,7 +3,8 @@
   <controller name="gameList" pages="6,zjmj,2,mj,3,gz,4,ddz" selected="0"/>
   <displayList>
     <graph id="n59_h8zv" name="diBg" xy="0,0" size="1136,640" touchable="false" type="rect" fillColor="#00000000"/>
-    <image id="n42_kdqv" name="bgRight" src="kdqv1a" fileName="resource/ty_tanchuang1.png" xy="249,22" size="829,600"/>
+    <image id="n42_kdqv" name="bgRight" src="kdqv1a" fileName="resource/ty_tanchuang1.png" xy="266,22" size="829,600"/>
+    <image id="n71_vej9" name="n71" src="hqw91q" fileName="resource/dt_zuan.png" xy="654,477"/>
     <image id="n43_kdqv" name="bgLeft" src="kdqv19" fileName="resource/cjfj_bq_di.png" xy="1,10" size="296,625"/>
     <component id="n51_kdqv" name="closeBtn" src="kdqv1i" fileName="btnClose.xml" xy="1012,-3"/>
     <list id="n0_onfo" name="gamelist" xy="50,145" size="195,420" overflow="scroll" margin="5,0,0,0" lineGap="5" align="center" selectionController="gameList">
@@ -13,8 +14,12 @@
       <item url="ui://58oggipch59f1t"/>
       <item url="ui://58oggipch59f1s"/>
     </list>
-    <graph id="n62_epyd" name="mount" xy="266,30" size="38,35"/>
+    <graph id="n62_epyd" name="mount" xy="266,37" size="38,35"/>
     <component id="n58_kdqv" name="downloadProgress" src="kdqv1p" fileName="downloadProgress.xml" xy="377,241" hideByEditor="true"/>
     <component id="n63_mw1f" name="back" src="mw1f27" fileName="back.xml" xy="22,7"/>
+    <component id="n64_vej9" name="createRoomButton" src="kdqv1f" fileName="btnCreateRoom.xml" xy="532,512"/>
+    <text id="n72_vej9" name="consumeText" xy="695,475" size="69,34" fontSize="25" color="#660033" vAlign="middle" autoSize="none" bold="true" text="x4"/>
+    <text id="n70_vej9" name="consume" xy="576,477" size="74,34" fontSize="25" color="#660033" vAlign="middle" autoSize="none" bold="true" text="消耗"/>
+    <text id="n66_vej9" name="versionLab" xy="934,563" size="105,29" fontSize="25" align="center" vAlign="middle" autoSize="none" text="v1.0.3"/>
   </displayList>
 </component>
