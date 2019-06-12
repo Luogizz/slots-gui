@@ -451,9 +451,6 @@
     <component id="fxwe15g" name="setting_button.xml" path="/desk/"/>
     <component id="fxwe15h" name="guize_button.xml" path="/desk/"/>
     <component id="fxwe15i" name="chat_button.xml" path="/desk/"/>
-    <image id="fxwe15k" name="boy_img.png" path="/大丰麻将美术改版/2 游戏内/头像/"/>
-    <image id="fxwe15l" name="girl_img.png" path="/大丰麻将美术改版/2 游戏内/头像/"/>
-    <image id="fxwe15m" name="txk_wx80.png" path="/大丰麻将美术改版/2 游戏内/头像/"/>
     <component id="fxwe15n" name="head_button.xml" path="/common/"/>
     <component id="fxwe15p" name="desk_view_mine.xml" path="/desk/mine/"/>
     <component id="fxwe15s" name="desk_hand.xml" path="/desk/mine/"/>

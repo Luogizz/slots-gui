@@ -23,6 +23,9 @@
     <image id="kq453" name="ty_Deng.png" path="/bg/" exported="true"/>
     <image id="lulw0" name="ty_zi_qd_d.png" path="/bg/" exported="true"/>
     <image id="lulw1" name="ty_zi_qx.png" path="/bg/" exported="true"/>
+    <image id="fxwe15k" name="boy_img.png" path="/头像/" exported="true"/>
+    <image id="fxwe15l" name="girl_img.png" path="/头像/" exported="true"/>
+    <image id="fxwe15m" name="txk_wx80.png" path="/头像/" exported="true"/>
   </resources>
   <publish name="lobby_bg_package"/>
 </packageDescription>
