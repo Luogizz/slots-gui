@@ -11,12 +11,12 @@
     <image id="n3_fxwe" name="n3" src="fxweya" fileName="大丰麻将美术改版/2 游戏内/切图/fenquanbg.png" xy="35,44"/>
     <component id="n21_fxwe" name="fengquan" src="fxwe1g" fileName="mahjong_mine/mahjong_mine_shu.xml" pkg="tjfy9hi3" xy="53,50" scale="0.4,0.4"/>
     <image id="n2_fxwe" name="n2" src="fxwexj" fileName="大丰麻将美术改版/2 游戏内/切图/bgUp.png" xy="280,1" size="554,36"/>
-    <image id="n4_fxwe" name="n4" src="fxweyb" fileName="大丰麻将美术改版/2 游戏内/切图/fgxian.png" xy="482,7"/>
-    <image id="n5_fxwe" name="n5" src="fxweyb" fileName="大丰麻将美术改版/2 游戏内/切图/fgxian.png" xy="636,7"/>
+    <image id="n4_fxwe" name="n4" src="fxweyb" fileName="大丰麻将美术改版/2 游戏内/切图/fgxian.png" xy="482,7" visible="false"/>
+    <image id="n5_fxwe" name="n5" src="fxweyb" fileName="大丰麻将美术改版/2 游戏内/切图/fgxian.png" xy="636,7" visible="false"/>
     <text id="n6_fxwe" name="time" xy="15,10" size="10,25" fontSize="18" color="#219289" bold="true" text=""/>
-    <image id="n7_fxwe" name="wifi" src="fxweyo" fileName="大丰麻将美术改版/2 游戏内/切图/wifi.png" xy="70,10"/>
-    <image id="n8_fxwe" name="dianliang" src="fxwexw" fileName="大丰麻将美术改版/2 游戏内/切图/dian.png" xy="98,11"/>
-    <text id="n9_fxwe" name="roomInfo" xy="321,2" size="469,25" fontSize="20" color="#c07f25" autoSize="none" bold="true" strokeColor="#280000" strokeSize="2" text=""/>
+    <image id="n7_fxwe" name="wifi" src="fxweyo" fileName="大丰麻将美术改版/2 游戏内/切图/wifi.png" xy="70,10" visible="false"/>
+    <image id="n8_fxwe" name="dianliang" src="fxwexw" fileName="大丰麻将美术改版/2 游戏内/切图/dian.png" xy="98,11" visible="false"/>
+    <text id="n9_fxwe" name="roomInfo" xy="321,2" size="469,25" fontSize="20" color="#c07f25" align="center" vAlign="middle" autoSize="none" bold="true" strokeColor="#280000" strokeSize="2" text=""/>
     <component id="n10_fxwe" name="chatBtn" src="fxwe15i" fileName="desk/chat_button.xml" xy="1031,293"/>
     <component id="n11_fxwe" name="settingBtn" src="fxwe15g" fileName="desk/setting_button.xml" xy="1067,17"/>
     <component id="n12_fxwe" name="guizeBtn" src="fxwe15h" fileName="desk/guize_button.xml" xy="1018,21"/>
