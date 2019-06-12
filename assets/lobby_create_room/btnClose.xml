@@ -2,7 +2,7 @@
 <component size="120,146" pivot="0.5,0.5" extention="Button">
   <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
   <displayList>
-    <image id="n0_kdqv" name="n0" src="kdqv1h" fileName="resource/ty_btnClose.png" xy="0,0">
+    <image id="n0_kdqv" name="n0" src="tjkx21" fileName="resource/ty_btnClose.png" xy="0,0" pkg="wkrvvhuq">
       <relation target="" sidePair="width-width,height-height"/>
     </image>
   </displayList>

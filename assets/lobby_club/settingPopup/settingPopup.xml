@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="187,313" designImage="ui://vil278bsis8o74" designImageOffsetX="-949" designImageOffsetY="-105" designImageAlpha="100">
+<component size="187,313" designImage="ui://vil278bsis8o74" designImageOffsetX="-949" designImageOffsetY="-105" designImageAlpha="0">
   <displayList>
     <image id="n0_cr3i" name="bg" src="is8o7w" fileName="resource/切图/q_glxl9g.png" xy="0,0" size="187,307"/>
     <component id="n11_lulw" name="quitClubBtn" src="lulwbt" fileName="settingPopup/quitClub.xml" xy="8,235"/>

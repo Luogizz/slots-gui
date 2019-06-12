@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="wkrvvhuq" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="is8o9b" name="ty_btn4_cheng.png" path="/bg/" exported="true" scale="9grid" scale9grid="29,16,58,17"/>
+    <image id="cr3ibk" name="ty_btn4_lan.png" path="/bg/" exported="true"/>
+    <image id="tjkx21" name="ty_btnClose.png" path="/bg/" exported="true"/>
+    <image id="lulwbw" name="ty_di_Pic2.png" path="/bg/" exported="true" scale="9grid" scale9grid="64,64,128,128"/>
+    <image id="c3rla9" name="ty_tanchuang2.png" path="/bg/" exported="true" scale="9grid" scale9grid="139,236,232,125"/>
+    <image id="c3rlaa" name="ty_tanchuang2_biaoti.png" path="/bg/" exported="true"/>
+    <image id="lulwcl" name="ty_tanchuang3.png" path="/bg/" exported="true" scale="9grid" scale9grid="233,113,26,108"/>
+    <image id="is8o78" name="ty_bg_zj.jpg" path="/bg/" exported="true"/>
+    <image id="tjkx1n" name="ty_jrfj_db.png" path="/bg/" exported="true" scale9grid="141,176,226,205"/>
+    <image id="is8o7j" name="ty_q_bbkk.png" path="/bg/" exported="true"/>
+    <image id="lulwca" name="ty_btn2_cheng.png" path="/bg/" exported="true"/>
+    <image id="lulwc0" name="ty_btn2_lan.png" path="/bg/" exported="true"/>
+    <image id="kdqv1e" name="ty_btn1_cheng.png" path="/bg/" exported="true"/>
+    <image id="kdqv1a" name="ty_tanchuang1.png" path="/bg/" exported="true" scale="9grid" scale9grid="128,128,256,256"/>
+    <image id="h59ff" name="ty_di_pic1.png" path="/bg/" exported="true" scale="9grid" scale9grid="23,32,39,27"/>
+    <image id="h59fk" name="ty_xiala1.png" path="/bg/" exported="true"/>
+    <image id="h59fl" name="ty_xiala2.png" path="/bg/" exported="true"/>
+    <image id="kq452" name="ty_bg.jpg" path="/bg/" exported="true"/>
+    <image id="kq456" name="ty_btnBack.png" path="/bg/" exported="true"/>
+    <image id="kq453" name="ty_Deng.png" path="/bg/" exported="true"/>
+    <image id="lulw0" name="ty_zi_qd_d.png" path="/bg/" exported="true"/>
+    <image id="lulw1" name="ty_zi_qx.png" path="/bg/" exported="true"/>
+  </resources>
+  <publish name="lobby_bg_package"/>
+</packageDescription>

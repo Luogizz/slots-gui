@@ -14,9 +14,6 @@
     <image id="h59fa" name="yl.png" path="/resource/"/>
     <image id="h59fd" name="btnClose1.png" path="/resource/"/>
     <component id="h59fe" name="closeBtn.xml" path="/"/>
-    <image id="h59ff" name="ty_di_pic1.png" path="/resource/" scale="9grid" scale9grid="23,23,46,46"/>
-    <image id="h59fk" name="ty_xiala1.png" path="/resource/"/>
-    <image id="h59fl" name="ty_xiala2.png" path="/resource/"/>
     <component id="h59fm" name="textComponent.xml" path="/"/>
     <component id="h59fn" name="ScrollBar_HZ.xml" path="/component/" exported="true"/>
     <image id="h59fo" name="s10.png.jpg" path="/resource/" duplicatePadding="true"/>

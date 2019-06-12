@@ -30,7 +30,6 @@
     <component id="h8zvr" name="button0.xml" path="/"/>
     <component id="h8zvs" name="buttonCS.xml" path="/"/>
     <component id="h8zvt" name="buttonSC.xml" path="/"/>
-    <image id="h8zvv" name="ty_btnClose.png" path="/resource/" exported="true"/>
     <component id="h8zvw" name="btnClose.xml" path="/"/>
   </resources>
   <publish name="lobby_join_room"/>
