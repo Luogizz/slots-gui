@@ -1,17 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="901,137" designImageAlpha="0" bgColorEnabled="true">
+<component size="903,138" designImage="ui://vil278bsis8o76" designImageOffsetX="-214" designImageOffsetY="-271" designImageAlpha="100" bgColorEnabled="true">
   <displayList>
-    <image id="n6_c3rl" name="bg" src="is8o92" fileName="resource/切图/q_zjbk9g.png" xy="0,0" size="901,137"/>
+    <image id="n6_c3rl" name="bg" src="is8o92" fileName="resource/切图/q_zjbk9g.png" xy="0,0" size="903,138"/>
+    <loader id="n11_jfpk" name="loader1" xy="24,51" size="70,69" url="https://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83er5prllVA37yiac4Vv8ZAXwbg0Zicibn6ZjsgJ4ha0hmFBY8MUTRMnRTmSlvzPd8XJZzd0icuyGoiakj4A/132" align="center" vAlign="middle" fill="scaleNoBorder"/>
+    <loader id="n14_jfpk" name="loader2" xy="109,51" size="70,70" align="center" vAlign="middle" fill="scale"/>
+    <loader id="n17_jfpk" name="loader3" xy="191,51" size="70,70" align="center" vAlign="middle" fill="scale"/>
+    <loader id="n20_jfpk" name="loader4" xy="277,51" size="70,70" align="center" vAlign="middle" fill="scale"/>
+    <loader id="n23_jfpk" name="loader5" xy="362,51" size="70,70" align="center" vAlign="middle" fill="scale"/>
+    <loader id="n26_jfpk" name="loader6" xy="446,51" size="70,70" align="center" vAlign="middle" fill="scale"/>
+    <image id="n10_jfpk" name="iconFrame1" src="is8o8e" fileName="resource/切图/q_wjtxk.png" xy="21,49"/>
+    <image id="n13_jfpk" name="iconFrame2" src="is8o8e" fileName="resource/切图/q_wjtxk.png" xy="106,49"/>
+    <image id="n16_jfpk" name="iconFrame3" src="is8o8e" fileName="resource/切图/q_wjtxk.png" xy="188,49"/>
+    <image id="n19_jfpk" name="iconFrame4" src="is8o8e" fileName="resource/切图/q_wjtxk.png" xy="274,49"/>
+    <image id="n22_jfpk" name="iconFrame5" src="is8o8e" fileName="resource/切图/q_wjtxk.png" xy="359,49"/>
+    <image id="n25_jfpk" name="iconFrame6" src="is8o8e" fileName="resource/切图/q_wjtxk.png" xy="443,49"/>
+    <image id="n41_jfpk" name="notPlayer1" src="is8o7n" fileName="resource/切图/q_ddwj.png" xy="21,49"/>
+    <image id="n42_jfpk" name="notPlayer2" src="is8o7n" fileName="resource/切图/q_ddwj.png" xy="106,49"/>
+    <image id="n43_jfpk" name="notPlayer3" src="is8o7n" fileName="resource/切图/q_ddwj.png" xy="188,49"/>
+    <image id="n44_jfpk" name="notPlayer4" src="is8o7n" fileName="resource/切图/q_ddwj.png" xy="274,49"/>
+    <image id="n45_jfpk" name="notPlayer5" src="is8o7n" fileName="resource/切图/q_ddwj.png" xy="359,49"/>
+    <image id="n46_jfpk" name="notPlayer6" src="is8o7n" fileName="resource/切图/q_ddwj.png" xy="443,49"/>
     <text id="n0_h59f" name="name" xy="14,8" size="137,34" fontSize="25" color="#ffe080" align="center" vAlign="middle" leading="0" autoSize="none" bold="true" strokeColor="#83311e" singleLine="true" autoClearText="true" text="不带混麻将"/>
     <text id="n1_h59f" name="rule" xy="156,8" size="628,34" fontSize="20" color="#764e1f" vAlign="middle" vars="true" autoSize="none" singleLine="true" autoClearText="true" text="4人  2圈  中发白带幺"/>
     <text id="n3_h59f" name="status" xy="786,8" size="105,34" fontSize="25" color="#b3522e" align="center" vAlign="middle" letterSpacing="-1" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="已开局"/>
-    <list id="n5_h59f" name="playerList" xy="14,44" size="575,84" layout="row" overflow="scroll" scroll="horizontal" scrollBar="hidden" margin="0,0,2,0" colGap="2" defaultItem="ui://vil278bsh59fw" vAlign="middle">
-      <item/>
-      <item/>
-      <item/>
-      <item/>
-    </list>
-    <component id="n8_c3rl" name="n8" src="c3rla7" fileName="btn/inviteBtn.xml" xy="597,54"/>
-    <component id="n9_c3rl" name="n9" src="c3rla6" fileName="btn/JoinBtn.xml" xy="747,52"/>
+    <component id="n8_c3rl" name="inviteBtn" src="c3rla7" fileName="btn/inviteBtn.xml" xy="597,54"/>
+    <component id="n9_c3rl" name="JoinBtn" src="c3rla6" fileName="btn/JoinBtn.xml" xy="747,54"/>
   </displayList>
 </component>

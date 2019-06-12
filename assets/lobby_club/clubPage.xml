@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="913,489" designImage="ui://vil278bsis8o6y" designImageOffsetX="-216" designImageOffsetY="-119" designImageAlpha="0">
+<component size="913,489" designImage="ui://vil278bsis8o6y" designImageOffsetX="-216" designImageOffsetY="-119" designImageAlpha="100" designImageForTest="true">
   <controller name="hasRoom" pages="0,no,1,yes" selected="1"/>
   <displayList>
-    <image id="n27_j6fx" name="bg" src="is8o7t" fileName="resource/切图/q_fz9g.png" xy="-1,10" size="905,392"/>
-    <list id="n10_h59f" name="roomList" xy="-1,17" size="905,392" overflow="scroll" scrollBar="hidden" lineGap="6" defaultItem="ui://vil278bsh59ft" align="center" autoClearItems="true">
+    <image id="n27_j6fx" name="bg" src="is8o7t" fileName="resource/切图/q_fz9g.png" xy="-1,13" size="905,392"/>
+    <list id="n10_h59f" name="roomList" xy="1,14" size="905,392" overflow="scroll" scrollBar="hidden" lineGap="6" defaultItem="ui://vil278bsh59ft" align="center" autoClearItems="true">
       <gearDisplay controller="hasRoom" pages="1"/>
       <item/>
       <item/>
