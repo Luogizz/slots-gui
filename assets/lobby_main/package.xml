@@ -61,6 +61,8 @@
     <component id="jrto1o" name="ButtonCreateRoom.xml" path="/"/>
     <component id="h59f1q" name="ComponentUserInfo.xml" path="/"/>
     <component id="h59f1r" name="ComponentDiamond.xml" path="/"/>
+    <image id="jfpk1s" name="bg.png" path="/大厅_slices/"/>
+    <image id="jfpk1t" name="grxx_txbk.png" path="/大厅_slices/"/>
   </resources>
   <publish name="lobby_main"/>
 </packageDescription>
