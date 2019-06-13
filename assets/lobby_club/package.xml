@@ -151,7 +151,7 @@
     <component id="c3rla1" name="refreshBtn.xml" path="/btn/"/>
     <component id="c3rla2" name="gameRecordBtn.xml" path="/btn/"/>
     <component id="c3rla3" name="quicklyCreateRoomBtn.xml" path="/btn/"/>
-    <component id="c3rla4" name="createRoomBtn.xml" path="/btn/"/>
+    <component id="c3rla4" name="return2GameBtn.xml" path="/btn/"/>
     <component id="c3rla5" name="tipsBtn.xml" path="/btn/"/>
     <component id="c3rla6" name="JoinBtn.xml" path="/btn/"/>
     <component id="c3rla7" name="inviteBtn.xml" path="/btn/"/>
@@ -230,6 +230,9 @@
     <component id="lulwcm" name="confirmBtn.xml" path="/settingPopup/"/>
     <component id="lulwcn" name="quitClubCom.xml" path="/settingPopup/" exported="true"/>
     <component id="lulwco" name="disbandClubCom.xml" path="/settingPopup/" exported="true"/>
+    <component id="x2fzcp" name="createRoomBtn.xml" path="/btn/"/>
+    <image id="x2fzcq" name="wdpyq_zi_fhfj.png" path="/resource/切图/"/>
+    <image id="x2fzcr" name="q_btn_lan.png" path="/resource/切图/"/>
   </resources>
   <publish name="lobby_club"/>
 </packageDescription>

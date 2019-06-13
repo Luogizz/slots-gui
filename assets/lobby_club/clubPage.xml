@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="913,489" designImage="ui://vil278bsis8o6y" designImageOffsetX="-216" designImageOffsetY="-119" designImageAlpha="100" designImageForTest="true">
-  <controller name="hasRoom" pages="0,no,1,yes" selected="1"/>
+  <controller name="hasRoom" pages="0,no,1,yes" selected="0"/>
+  <controller name="isInRoom" pages="0,no,1,yes" selected="0"/>
   <displayList>
     <image id="n27_j6fx" name="bg" src="is8o7t" fileName="resource/切图/q_fz9g.png" xy="-1,13" size="905,392"/>
     <list id="n10_h59f" name="roomList" xy="1,14" size="905,392" overflow="scroll" scrollBar="hidden" lineGap="6" defaultItem="ui://vil278bsh59ft" align="center" autoClearItems="true">
@@ -14,7 +15,12 @@
     <component id="n22_c3rl" name="refreshBtn" src="c3rla1" fileName="btn/refreshBtn.xml" xy="184,414"/>
     <component id="n23_c3rl" name="gameRecordBtn" src="c3rla2" fileName="btn/gameRecordBtn.xml" xy="273,414"/>
     <component id="n24_c3rl" name="quicklyCreateRoom" src="c3rla3" fileName="btn/quicklyCreateRoomBtn.xml" xy="356,405"/>
-    <component id="n25_c3rl" name="createRoomBtn" src="c3rla4" fileName="btn/createRoomBtn.xml" xy="673,405"/>
+    <component id="n30_x2fz" name="createRoomBtn" src="x2fzcp" fileName="btn/createRoomBtn.xml" xy="673,405">
+      <gearDisplay controller="isInRoom" pages="0"/>
+    </component>
+    <component id="n25_c3rl" name="return2GameBtn" src="c3rla4" fileName="btn/return2GameBtn.xml" xy="673,405">
+      <gearDisplay controller="isInRoom" pages="1"/>
+    </component>
     <component id="n26_c3rl" name="tipsBtn" src="c3rla5" fileName="btn/tipsBtn.xml" xy="583,424"/>
     <image id="n28_j6fx" name="noRoomIcon" src="is8o80" fileName="resource/切图/q_mfjr.png" xy="346,80">
       <gearDisplay controller="hasRoom" pages="0"/>
