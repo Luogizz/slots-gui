@@ -233,6 +233,16 @@
     <component id="x2fzcp" name="createRoomBtn.xml" path="/btn/"/>
     <image id="x2fzcq" name="wdpyq_zi_fhfj.png" path="/resource/切图/"/>
     <image id="x2fzcr" name="q_btn_lan.png" path="/resource/切图/"/>
+    <component id="x2fzcs" name="filterPopup.xml" path="/filterPopup/" exported="true"/>
+    <image id="x2fzct" name="c_茶馆主界面_普通用户_选游戏.jpg" path="/resource/效果图/"/>
+    <image id="x2fzcu" name="cgTips_btn_choose.png" path="/filterPopup/resource/"/>
+    <image id="x2fzcv" name="cgTips_diban.png" path="/filterPopup/resource/"/>
+    <image id="x2fzcw" name="cgTips_line.png" path="/filterPopup/resource/"/>
+    <image id="x2fzcx" name="cgTips_pic1.png" path="/filterPopup/resource/"/>
+    <image id="x2fzcy" name="cgTips_pic2.png" path="/filterPopup/resource/"/>
+    <component id="x2fzcz" name="dfmj.xml" path="/filterPopup/resource/"/>
+    <component id="x2fzd0" name="zjmj.xml" path="/filterPopup/resource/"/>
+    <component id="x2fzd1" name="allGame.xml" path="/filterPopup/resource/"/>
   </resources>
   <publish name="lobby_club"/>
 </packageDescription>
