@@ -1,19 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="1136,640" designImageAlpha="100">
+<component size="1136,640" designImage="ui://0oi8ctskcr3iu" designImageAlpha="100">
   <displayList>
-    <image id="n1_kq45" name="bg" src="kq45h" fileName="resource/pcbjk.png" xy="159,49" size="818,522"/>
-    <component id="n2_kq45" name="closeBtn" src="kq45j" fileName="closeBrn.xml" xy="940,60"/>
-    <list id="n3_kq45" name="list" xy="171,107" size="788,445" overflow="scroll" lineGap="10" defaultItem="ui://0oi8ctskkq45o" align="center" autoClearItems="true">
+    <image id="n14_hshz" name="bg" src="kq452" fileName="resource/ty_bg.jpg" xy="0,0" size="1136,640" pkg="wkrvvhuq"/>
+    <image id="n15_hshz" name="bg1" src="kq453" fileName="resource/ty_Deng.png" xy="-33,349" pkg="wkrvvhuq"/>
+    <image id="n16_hshz" name="bg2" src="kq454" fileName="resource/zj_bt.png" xy="44,449"/>
+    <image id="n18_hshz" name="n18" src="kq45a" fileName="resource/zj_diban.png" xy="147,50" size="922,396"/>
+    <component id="n17_hshz" name="closeBtn" src="cr3i1e" fileName="closeBtn.xml" xy="-15,-1"/>
+    <component id="n33_vej9" name="arrow" src="vej91i" fileName="arrrowBtn.xml" xy="1025,67"/>
+    <list id="n3_kq45" name="list" xy="162,154" size="890,277" overflow="scroll" scrollBar="hidden" lineGap="15" defaultItem="ui://0oi8ctskkq45o" align="center" autoClearItems="true">
       <item/>
       <item/>
       <item/>
       <item/>
     </list>
-    <text id="n6_kq45" name="round" xy="197,57" size="72,39" fontSize="20" color="#ffffff" align="center" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text="局数"/>
-    <text id="n7_kq45" name="time" xy="287,57" size="71,39" fontSize="20" color="#ffffff" align="center" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text="时间"/>
-    <text id="n8_kq45" name="player1" xy="373,57" size="95,39" fontSize="20" color="#ffffff" align="center" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text="10000006"/>
-    <text id="n13_kq45" name="player2" xy="472,57" size="95,39" fontSize="20" color="#ffffff" align="center" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text=""/>
-    <text id="n12_kq45" name="player3" xy="571,57" size="95,39" fontSize="20" color="#ffffff" align="center" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text=""/>
-    <text id="n11_kq45" name="player4" xy="674,57" size="95,39" fontSize="20" color="#ffffff" align="center" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text=""/>
+    <image id="n27_hshz" name="owner1" src="kq45e" fileName="resource/zj_fanzhu.png" xy="340,107"/>
+    <image id="n28_hshz" name="owner2" src="kq45e" fileName="resource/zj_fanzhu.png" xy="485,107"/>
+    <image id="n30_hshz" name="owner3" src="kq45e" fileName="resource/zj_fanzhu.png" xy="613,107"/>
+    <image id="n29_hshz" name="owner4" src="kq45e" fileName="resource/zj_fanzhu.png" xy="736,107"/>
+    <text id="n20_hshz" name="time" xy="801,63" size="214,28" fontSize="20" color="#3defff" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text="2017-12-13  18:00:01"/>
+    <text id="n21_hshz" name="roomNumber" xy="159,62" size="145,28" fontSize="20" color="#f5f6d3" vAlign="middle" letterSpacing="1" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="12345号 房间"/>
+    <text id="n22_hshz" name="gameName" xy="305,63" size="168,28" fontSize="20" color="#3defff" vAlign="middle" letterSpacing="1" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="(大丰麻将) 4局"/>
+    <text id="n23_hshz" name="playName1" xy="363,117" size="102,28" fontSize="20" color="#96693a" align="center" vAlign="middle" letterSpacing="1" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="Magic+@&#xA;&#xA;&#xA;"/>
+    <text id="n24_hshz" name="playName2" xy="509,117" size="102,28" fontSize="20" color="#96693a" align="center" vAlign="middle" letterSpacing="1" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="Magic+@&#xA;&#xA;&#xA;"/>
+    <text id="n25_hshz" name="playName3" xy="635,116" size="102,28" fontSize="20" color="#96693a" align="center" vAlign="middle" letterSpacing="1" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="Magic+@&#xA;&#xA;&#xA;"/>
+    <text id="n26_hshz" name="playName4" xy="757,117" size="102,28" fontSize="20" color="#96693a" align="center" vAlign="middle" letterSpacing="1" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="Magic+@&#xA;&#xA;&#xA;"/>
   </displayList>
 </component>

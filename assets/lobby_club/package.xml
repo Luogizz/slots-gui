@@ -9,12 +9,12 @@
     <component id="h59f8" name="clubPage.xml" path="/"/>
     <component id="h59ft" name="roomItem.xml" path="/"/>
     <component id="h59fw" name="playerItem.xml" path="/btn/"/>
-    <component id="h59fx" name="applyRecord.xml" path="/" exported="true"/>
-    <component id="h59fz" name="recordItem.xml" path="/"/>
+    <component id="h59fx" name="applyRecord.xml" path="/applyRecord/" exported="true"/>
+    <component id="h59fz" name="recordItem.xml" path="/applyRecord/"/>
     <component id="h59f10" name="spaceBtn.xml" path="/btn/"/>
     <component id="apn913" name="createClubView.xml" path="/createClubView/" exported="true"/>
     <component id="apn916" name="settingPopupItem.xml" path="/btn/"/>
-    <component id="tjkx17" name="joinClub.xml" path="/" exported="true"/>
+    <component id="tjkx17" name="joinClub.xml" path="/JoinClub/" exported="true"/>
     <component id="tjkx18" name="button0.xml" path="/btn/numberBtn/"/>
     <component id="tjkx19" name="button1.xml" path="/btn/numberBtn/"/>
     <component id="tjkx1a" name="button2.xml" path="/btn/numberBtn/"/>
@@ -28,7 +28,6 @@
     <component id="tjkx1i" name="buttonCS.xml" path="/btn/numberBtn/"/>
     <component id="tjkx1j" name="buttonSC.xml" path="/btn/numberBtn/"/>
     <image id="tjkx1m" name="jrfj_btn.png" path="/resource/old/"/>
-    <image id="tjkx1n" name="jrfj_db.png" path="/resource/切图/" scale9grid="141,176,226,205"/>
     <image id="tjkx1o" name="jrfj_fgx.png" path="/resource/old/"/>
     <image id="tjkx1p" name="jrfj_sz0.png" path="/resource/old/"/>
     <image id="tjkx1q" name="jrfj_sz1.png" path="/resource/old/"/>
@@ -42,9 +41,8 @@
     <image id="tjkx1y" name="jrfj_sz9.png" path="/resource/old/"/>
     <image id="tjkx1z" name="jrfj_szcs.png" path="/resource/old/"/>
     <image id="tjkx20" name="jrfj_szsc.png" path="/resource/old/"/>
-    <image id="tjkx21" name="ty_btnClose.png" path="/resource/切图/"/>
     <component id="tjkx22" name="memberManager.xml" path="/memberManager/" exported="true"/>
-    <component id="tjkx23" name="memberListBtn.xml" path="/memberManager/"/>
+    <component id="tjkx23" name="memberListBtn.xml" path="/memberManager/btn/"/>
     <component id="tjkx28" name="memberDelete.xml" path="/memberManager/"/>
     <component id="tjkx29" name="memberApplyItem.xml" path="/memberManager/"/>
     <image id="is8o6n" name="一键组局配置1.jpg" path="/resource/效果图/"/>
@@ -68,7 +66,6 @@
     <image id="is8o75" name="组局设置.jpg" path="/resource/效果图/"/>
     <image id="is8o76" name="群首页.jpg" path="/resource/效果图/"/>
     <image id="is8o77" name="群首页标注.jpg" path="/resource/效果图/"/>
-    <image id="is8o78" name="bg.jpg" path="/resource/切图/"/>
     <image id="is8o79" name="q_1jzj.png" path="/resource/切图/"/>
     <image id="is8o7a" name="q_an4z.png" path="/resource/切图/"/>
     <image id="is8o7b" name="q_anfz.png" path="/resource/切图/"/>
@@ -79,7 +76,6 @@
     <image id="is8o7g" name="q_antc.png" path="/resource/切图/"/>
     <image id="is8o7h" name="q_antchs.png" path="/resource/切图/"/>
     <image id="is8o7i" name="q_anyq.png" path="/resource/切图/"/>
-    <image id="is8o7j" name="q_bbkk.png" path="/resource/切图/"/>
     <image id="is8o7k" name="q_cjk9g.png" path="/resource/切图/" scale="9grid" scale9grid="30,28,60,56"/>
     <image id="is8o7l" name="q_cjwd.png" path="/resource/切图/"/>
     <image id="is8o7m" name="q_cysz.png" path="/resource/切图/"/>
@@ -143,7 +139,6 @@
     <image id="is8o98" name="rs.png" path="/resource/切图/"/>
     <component id="is8o99" name="applyRecordBtn.xml" path="/btn/"/>
     <image id="is8o9a" name="btn_gm.png" path="/resource/切图/"/>
-    <image id="is8o9b" name="ty_btn4_cheng.png" path="/resource/切图/" scale="9grid" scale9grid="29,16,58,17"/>
     <component id="is8o9c" name="JoinClubBtn.xml" path="/btn/"/>
     <component id="is8o9d" name="createClubBtn.xml" path="/btn/"/>
     <component id="is8o9u" name="copyBtn.xml" path="/btn/"/>
@@ -161,8 +156,6 @@
     <component id="c3rla6" name="JoinBtn.xml" path="/btn/"/>
     <component id="c3rla7" name="inviteBtn.xml" path="/btn/"/>
     <component id="c3rla8" name="closeBtn.xml" path="/btn/"/>
-    <image id="c3rla9" name="ty_tanchuang2.png" path="/resource/切图/" scale="9grid" scale9grid="139,236,232,125"/>
-    <image id="c3rlaa" name="ty_tanchuang2_biaoti.png" path="/resource/切图/"/>
     <component id="c3rlab" name="confirmBtn.xml" path="/btn/"/>
     <component id="c3rlac" name="buyBtn.xml" path="/btn/"/>
     <image id="j6fxad" name="c_成员管理_成员列表.jpg" path="/resource/效果图/"/>
@@ -182,11 +175,11 @@
     <image id="j6fxar" name="yq2Choose.png" path="/resource/切图/"/>
     <image id="j6fxas" name="yq3.png" path="/resource/切图/"/>
     <image id="j6fxat" name="yq3Choose.png" path="/resource/切图/"/>
-    <component id="j6fxau" name="applyListBtn.xml" path="/memberManager/"/>
-    <component id="j6fxav" name="deleteMemberBtn.xml" path="/memberManager/"/>
+    <component id="j6fxau" name="applyListBtn.xml" path="/memberManager/btn/"/>
+    <component id="j6fxav" name="deleteMemberBtn.xml" path="/memberManager/btn/"/>
     <image id="j6fxax" name="zj_di_dyj.png" path="/resource/切图/" scale="9grid" scale9grid="16,16,32,32"/>
     <image id="j6fxay" name="zj_di_dyj2.png" path="/resource/切图/"/>
-    <component id="j6fxaz" name="memberItem.xml" path="/memberManager/"/>
+    <component id="j6fxaz" name="memberItem.xml" path="/memberManager/btn/"/>
     <image id="j6fxb0" name="bq_gz.png" path="/resource/切图/"/>
     <image id="j6fxb1" name="wdpyq_txk_q.png" path="/resource/切图/"/>
     <image id="j6fxb2" name="wdpyq_txk_gr2.png" path="/resource/切图/"/>
@@ -195,21 +188,48 @@
     <image id="j6fxb5" name="cg_hdt2.png" path="/resource/切图/" scale="9grid" scale9grid="5,29,10,58"/>
     <image id="j6fxb6" name="cg_srk.png" path="/resource/切图/" scale="9grid" scale9grid="16,12,32,24"/>
     <image id="j6fxb7" name="btn_cz.png" path="/resource/切图/"/>
-    <component id="j6fxb8" name="findBtn.xml" path="/memberManager/"/>
+    <component id="j6fxb8" name="findBtn.xml" path="/memberManager/btn/"/>
     <component id="cr3ibf" name="scrollBarGrip.xml" path="/memberManager/"/>
-    <component id="cr3ibg" name="scrollBar.xml" path="/memberManager/" exported="true"/>
-    <component id="cr3ibh" name="agreeBtn.xml" path="/memberManager/"/>
+    <component id="cr3ibg" name="scrollBar.xml" path="/memberManager/"/>
+    <component id="cr3ibh" name="agreeBtn.xml" path="/memberManager/btn/"/>
     <image id="cr3ibi" name="btn_jj.png" path="/resource/切图/"/>
     <image id="cr3ibj" name="btn_ty.png" path="/resource/切图/"/>
-    <image id="cr3ibk" name="ty_btn4_lan.png" path="/resource/切图/"/>
-    <component id="cr3ibl" name="rejectBtn.xml" path="/memberManager/"/>
+    <component id="cr3ibl" name="rejectBtn.xml" path="/memberManager/btn/"/>
     <component id="cr3ibm" name="deleteMemberItem.xml" path="/memberManager/"/>
-    <component id="cr3ibn" name="deleteBtn.xml" path="/memberManager/"/>
+    <component id="cr3ibn" name="deleteBtn.xml" path="/memberManager/btn/"/>
     <image id="cr3ibo" name="btn_sc.png" path="/resource/切图/"/>
-    <component id="cr3ibp" name="settingPopup.xml" path="/"/>
-    <component id="cr3ibq" name="modifyClubName.xml" path="/"/>
-    <component id="cr3ibr" name="disbandClub.xml" path="/"/>
-    <component id="cr3ibs" name="quickyRoomSetting.xml" path="/"/>
+    <component id="cr3ibp" name="settingPopup.xml" path="/settingPopup/" exported="true"/>
+    <component id="cr3ibq" name="modifyClubName.xml" path="/settingPopup/"/>
+    <component id="cr3ibr" name="disbandClub.xml" path="/settingPopup/"/>
+    <component id="cr3ibs" name="quickyRoomSetting.xml" path="/settingPopup/"/>
+    <component id="lulwbt" name="quitClub.xml" path="/settingPopup/"/>
+    <component id="lulwbu" name="managerCom.xml" path="/settingPopup/"/>
+    <component id="lulwbv" name="memberOperationDialog.xml" path="/memberManager/" exported="true"/>
+    <image id="lulwbx" name="wdpyq_jb_qg.png" path="/resource/切图/"/>
+    <image id="lulwby" name="wdpyq_jb_qz.png" path="/resource/切图/"/>
+    <component id="lulwbz" name="revokeClubManagerBtn.xml" path="/memberManager/btn/"/>
+    <image id="lulwc1" name="btn_cxqg.png" path="/memberManager/resource/"/>
+    <image id="lulwc2" name="btn_qrcj.png" path="/memberManager/resource/"/>
+    <image id="lulwc3" name="btn_qxsq.png" path="/memberManager/resource/"/>
+    <image id="lulwc4" name="btn_rmgl.png" path="/memberManager/resource/"/>
+    <image id="lulwc5" name="btn_sccy.png" path="/memberManager/resource/"/>
+    <image id="lulwc6" name="btn_sqjf.png" path="/memberManager/resource/"/>
+    <image id="lulwc7" name="btn_twqg.png" path="/memberManager/resource/"/>
+    <image id="lulwc8" name="btn_ycqg.png" path="/memberManager/resource/"/>
+    <component id="lulwc9" name="authorize2CreateRoom.xml" path="/memberManager/btn/"/>
+    <component id="lulwcb" name="delMemberBtn.xml" path="/memberManager/btn/"/>
+    <component id="lulwcc" name="cancelAuthorizeBtn.xml" path="/memberManager/btn/"/>
+    <component id="lulwcd" name="up2ManagerBtn.xml" path="/memberManager/btn/"/>
+    <image id="lulwce" name="s_设置_修改群名.jpg" path="/resource/效果图/"/>
+    <image id="lulwcf" name="s_设置_修改群名_标注.jpg" path="/resource/效果图/"/>
+    <image id="lulwcg" name="s_设置_解散该群.jpg" path="/resource/效果图/"/>
+    <image id="lulwch" name="s_设置_解散该群_标注.jpg" path="/resource/效果图/"/>
+    <image id="lulwci" name="s_设置_退出该群.jpg" path="/resource/效果图/"/>
+    <image id="lulwcj" name="s_设置_退出该群_标注.jpg" path="/resource/效果图/"/>
+    <component id="lulwck" name="modifyClubNameCom.xml" path="/settingPopup/" exported="true"/>
+    <component id="lulwcm" name="confirmBtn.xml" path="/settingPopup/"/>
+    <component id="lulwcn" name="quitClubCom.xml" path="/settingPopup/" exported="true"/>
+    <component id="lulwco" name="disbandClubCom.xml" path="/settingPopup/" exported="true"/>
   </resources>
   <publish name="lobby_club"/>
 </packageDescription>

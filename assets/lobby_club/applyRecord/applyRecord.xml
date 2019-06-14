@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="1136,640" designImage="ui://vil278bsis8o71" designImageAlpha="100">
+<component size="1136,640" designImage="ui://vil278bsis8o71" designImageAlpha="0">
   <displayList>
-    <image id="n5_cr3i" name="bg1" src="c3rla9" fileName="resource/切图/ty_tanchuang2.png" xy="194,78" size="739,482"/>
-    <image id="n6_cr3i" name="titmeBg" src="c3rlaa" fileName="resource/切图/ty_tanchuang2_biaoti.png" xy="432,78" size="256,66"/>
+    <image id="n5_cr3i" name="bg1" src="c3rla9" fileName="resource/切图/ty_tanchuang2.png" xy="194,78" size="739,482" pkg="wkrvvhuq"/>
+    <image id="n6_cr3i" name="titmeBg" src="c3rlaa" fileName="resource/切图/ty_tanchuang2_biaoti.png" xy="432,78" size="256,66" pkg="wkrvvhuq"/>
     <image id="n7_cr3i" name="title" src="is8o87" fileName="resource/切图/q_sqjl.png" xy="499,89"/>
     <component id="n8_cr3i" name="closeBtn" src="c3rla8" fileName="btn/closeBtn.xml" xy="815,46" scale="0.95,0.95"/>
     <image id="n9_cr3i" name="bg" src="is8o7k" fileName="resource/切图/q_cjk9g.png" xy="265,164" size="598,373"/>

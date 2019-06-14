@@ -2,6 +2,7 @@
 <component size="1136,640" opaque="false" designImage="ui://tnqevky2fxweua">
   <displayList>
     <component id="n0_fxwe" name="head" src="fxwe15n" fileName="common/head_button.xml" xy="889,57"/>
+    <text id="n18_sskg" name="nameText" xy="836,103" size="103,25" fontSize="18" color="#fbb41d" align="center" vAlign="middle" autoSize="shrink" text=""/>
     <image id="n1_fxwe" name="owner" src="fxwexq" fileName="大丰麻将美术改版/2 游戏内/切图/bq_fanzhu.png" xy="820,15"/>
     <image id="n2_fxwe" name="hua" src="fxweyd" fileName="大丰麻将美术改版/2 游戏内/切图/huabg.png" xy="935,8"/>
     <text id="n16_rh8w" name="huaText" xy="972,12" size="40,20" fontSize="18" color="#fbb41d" autoSize="none" strokeColor="#011a26" text="12"/>
@@ -17,5 +18,6 @@
     <graph id="n13_fxwe" name="aniPos" xy="574,156" pivot="0.5,0.5" size="0,0" visible="false"/>
     <component id="n14_g0pr" name="discardTip" src="g0pr182" fileName="desk/dui/discard_tip.xml" xy="501,104" visible="false"/>
     <graph id="n15_rh8w" name="userInfoPos" xy="357,40" size="20,26"/>
+    <component id="n17_dtxt" name="qipao" src="dtxt18y" fileName="desk/qipao2.xml" xy="410,52" visible="false"/>
   </displayList>
 </component>

@@ -451,9 +451,6 @@
     <component id="fxwe15g" name="setting_button.xml" path="/desk/"/>
     <component id="fxwe15h" name="guize_button.xml" path="/desk/"/>
     <component id="fxwe15i" name="chat_button.xml" path="/desk/"/>
-    <image id="fxwe15k" name="boy_img.png" path="/大丰麻将美术改版/2 游戏内/头像/"/>
-    <image id="fxwe15l" name="girl_img.png" path="/大丰麻将美术改版/2 游戏内/头像/"/>
-    <image id="fxwe15m" name="txk_wx80.png" path="/大丰麻将美术改版/2 游戏内/头像/"/>
     <component id="fxwe15n" name="head_button.xml" path="/common/"/>
     <component id="fxwe15p" name="desk_view_mine.xml" path="/desk/mine/"/>
     <component id="fxwe15s" name="desk_hand.xml" path="/desk/mine/"/>
@@ -548,6 +545,11 @@
     <component id="y5pf18s" name="meld_cancel_button.xml" path="/desk/"/>
     <component id="mw1f18t" name="back.xml" path="/"/>
     <image id="mw1f18u" name="pjhf_fanhui.png" path="/"/>
+    <image id="dtxt18v" name="ltqp_qp01.png" path="/大丰麻将美术改版/2 游戏内/切图/" scale="9grid" scale9grid="32,33,9,3" gridTile="16"/>
+    <image id="dtxt18w" name="ltqp_qp_sj.png" path="/大丰麻将美术改版/2 游戏内/切图/" scale="9grid" scale9grid="27,30,5,6" gridTile="16"/>
+    <component id="dtxt18x" name="qipao1.xml" path="/desk/"/>
+    <component id="dtxt18y" name="qipao2.xml" path="/desk/"/>
+    <component id="vej918x" name="spaceBtn.xml" path="/roomRule/" exported="true"/>
   </resources>
   <publish name="dafeng"/>
 </packageDescription>

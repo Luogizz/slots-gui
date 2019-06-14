@@ -4,7 +4,7 @@
     <image id="n0" name="n0" src="h59f1" fileName="resource/lan_di.png" xy="100,39" size="184,562"/>
     <image id="n1" name="n1" src="h59f2" fileName="resource/bg_di_heng.png" xy="112,53" size="155,63"/>
     <image id="n2" name="n2" src="h59f3" fileName="resource/yj_title.png" xy="122,64"/>
-    <image id="n14_h59f" name="n14" src="h59ff" fileName="resource/ty_di_pic1.png" xy="315,65" size="716,505"/>
+    <image id="n14_h59f" name="n14" src="h59ff" fileName="resource/ty_di_pic1.png" xy="315,65" size="716,505" pkg="wkrvvhuq"/>
     <image id="n13_h59f" name="n13" src="h59f1" fileName="resource/lan_di.png" xy="284,39" size="775,562"/>
     <list id="n3" name="mailList" xy="114,113" size="154,473" overflow="scroll" scrollBar="hidden" clipSoftness="0,20" defaultItem="ui://vztvq5emh59f4" align="center" autoClearItems="true">
       <item/>

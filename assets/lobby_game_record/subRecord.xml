@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="788,110">
+<component size="887,80" designImage="ui://0oi8ctskcr3iy" designImageOffsetX="-164" designImageOffsetY="-155" designImageAlpha="100">
   <displayList>
-    <image id="n3_kq45" name="bg" src="kq45m" fileName="resource/phb_nr_dk.png" xy="0,0" size="788,110"/>
-    <text id="n8_kq45" name="roundText" xy="23,37" size="62,29" fontSize="22" align="center" vAlign="middle" autoSize="none" text=""/>
-    <text id="n9_kq45" name="time" xy="113,37" size="67,29" fontSize="22" align="center" vAlign="middle" autoSize="none" text="&#xA;&#xA;"/>
-    <text id="n10_kq45" name="score1" xy="209,37" size="67,29" fontSize="22" align="center" vAlign="middle" autoSize="none" text="&#xA;&#xA;&#xA;"/>
-    <text id="n11_kq45" name="score2" xy="309,37" size="67,29" fontSize="22" align="center" vAlign="middle" autoSize="none" text="&#xA;&#xA;"/>
-    <text id="n12_kq45" name="score3" xy="414,37" size="67,29" fontSize="22" align="center" vAlign="middle" autoSize="none" text="&#xA;"/>
-    <text id="n13_kq45" name="score4" xy="519,37" size="67,29" fontSize="22" align="center" vAlign="middle" autoSize="none" text="&#xA;"/>
-    <component id="n18_l84r" name="shareBtn" src="l84rr" fileName="shareBtn.xml" xy="622,17"/>
-    <component id="n19_l84r" name="playBtn" src="l84rt" fileName="playBtn.xml" xy="705,17"/>
+    <image id="n3_kq45" name="bg" src="kq45l" fileName="resource/zj_tiao.png" xy="0,0" size="887,80"/>
+    <image id="n24_hshz" name="bg1" src="cr3i17" fileName="resource/zj_fgx.png" xy="329,16"/>
+    <image id="n25_hshz" name="bg2" src="cr3i17" fileName="resource/zj_fgx.png" xy="453,16"/>
+    <image id="n26_hshz" name="bg3" src="cr3i17" fileName="resource/zj_fgx.png" xy="581,16"/>
+    <text id="n8_kq45" name="roundText" xy="9,27" size="62,29" fontSize="26" color="#c78c2e" align="center" vAlign="middle" autoSize="none" text="01"/>
+    <text id="n9_kq45" name="time" xy="90,30" size="102,27" fontSize="20" color="#96693a" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text="11:21:59&#xA;"/>
+    <text id="n10_kq45" name="score1" xy="189,23" size="119,34" fontSize="26" align="center" vAlign="middle" letterSpacing="1" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="-100&#xA;&#xA;&#xA;&#xA;"/>
+    <text id="n20_hshz" name="score2" xy="331,23" size="119,34" fontSize="26" align="center" vAlign="middle" letterSpacing="1" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="+100&#xA;&#xA;&#xA;&#xA;"/>
+    <text id="n21_hshz" name="score3" xy="456,23" size="119,34" fontSize="26" align="center" vAlign="middle" letterSpacing="1" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="-100&#xA;&#xA;&#xA;&#xA;"/>
+    <text id="n22_hshz" name="score4" xy="587,23" size="119,34" fontSize="26" align="center" vAlign="middle" letterSpacing="1" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="-100&#xA;&#xA;&#xA;&#xA;"/>
+    <component id="n18_l84r" name="shareBtn" src="l84rr" fileName="shareBtn.xml" xy="719,6"/>
+    <component id="n19_l84r" name="playBtn" src="l84rt" fileName="playBtn.xml" xy="810,5"/>
   </displayList>
 </component>
