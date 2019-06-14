@@ -17,6 +17,6 @@
     <component id="n15_jq88" name="lights" src="jq88dt" fileName="desk/desk_light_list.xml" xy="142,53"/>
     <graph id="n16_e27g" name="aniPos" xy="310,179" pivot="0.5,0.5" size="44,34"/>
     <graph id="n17_rh8w" name="userInfoPos" xy="140,130" size="20,26"/>
-    <component id="n18_js7w" name="qipao" src="dtxt18x" fileName="qipao1.xml" pkg="bb38kaz6" xy="154,142" visible="false"/>
+    <component id="n18_js7w" name="qipao" src="ooqzeu" fileName="qipao1.xml" xy="154,142" visible="false"/>
   </displayList>
 </component>

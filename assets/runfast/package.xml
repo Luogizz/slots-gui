@@ -470,6 +470,10 @@
     <component id="fxweer" name="play_button.xml" path="/record/"/>
     <component id="fxwees" name="share_button.xml" path="/record/"/>
     <image id="js7wet" name="bg_2d.jpg" path="/大丰关张美术资源/切图/"/>
+    <component id="ooqzeu" name="qipao1.xml" path="/" exported="true"/>
+    <component id="ooqzev" name="qipao2.xml" path="/" exported="true"/>
+    <image id="ooqzew" name="ltqp_qp01.png" path="/大丰关张美术资源/切图/" scale="9grid" scale9grid="32,33,9,3" gridTile="16"/>
+    <image id="ooqzex" name="ltqp_qp_sj.png" path="/大丰关张美术资源/切图/" scale="9grid" scale9grid="27,30,5,6" gridTile="16"/>
   </resources>
   <publish name="runfast"/>
 </packageDescription>

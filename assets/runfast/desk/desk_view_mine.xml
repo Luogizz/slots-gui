@@ -15,6 +15,6 @@
     <text id="n64_b6aq" name="countDown" xy="439,283" size="60,45" visible="false" font="ui://ppyzj5nref8pct" fontSize="12" align="center" vAlign="middle" autoSize="none" text="20"/>
     <graph id="n66_e27g" name="aniPos" xy="555,295" pivot="0.5,0.5" size="50,36"/>
     <graph id="n68_rh8w" name="userInfoPos" xy="28,283" size="20,26"/>
-    <component id="n70_js7w" name="qipao" src="dtxt18x" fileName="qipao1.xml" pkg="bb38kaz6" xy="137,527" visible="false"/>
+    <component id="n72_ooqz" name="qipao" src="ooqzeu" fileName="qipao1.xml" xy="146,539" visible="false"/>
   </displayList>
 </component>
