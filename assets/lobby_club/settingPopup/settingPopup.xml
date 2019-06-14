@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="187,313" designImage="ui://vil278bsis8o74" designImageOffsetX="-949" designImageOffsetY="-105" designImageAlpha="0">
+  <controller name="isManager" pages="0,no,1,yes" selected="0"/>
   <displayList>
-    <image id="n0_cr3i" name="bg" src="is8o7w" fileName="resource/切图/q_glxl9g.png" xy="0,0" size="187,307"/>
-    <component id="n11_lulw" name="quitClubBtn" src="lulwbt" fileName="settingPopup/quitClub.xml" xy="8,235"/>
-    <component id="n1_cr3i" name="managerCom" src="lulwbu" fileName="settingPopup/managerCom.xml" xy="8,19"/>
+    <image id="n0_cr3i" name="bg" src="is8o7w" fileName="resource/切图/q_glxl9g.png" xy="0,0" size="187,94">
+      <gearSize controller="isManager" pages="0" values="187,94,1,1" default="187,307,1,1"/>
+    </image>
+    <component id="n11_lulw" name="quitClubBtn" src="lulwbt" fileName="settingPopup/quitClub.xml" xy="8,19">
+      <gearDisplay controller="isManager" pages="0,1"/>
+      <gearXY controller="isManager" pages="0" values="8,19" default="8,235"/>
+    </component>
+    <component id="n1_cr3i" name="managerCom" src="lulwbu" fileName="settingPopup/managerCom.xml" xy="8,19">
+      <gearDisplay controller="isManager" pages="1"/>
+    </component>
   </displayList>
 </component>
