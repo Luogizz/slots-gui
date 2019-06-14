@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1136,640" designImageLayer="1">
+  <controller name="inRoom" pages="0,no,1,yes" selected="0"/>
   <displayList>
     <image id="n21_d5oe" name="n21" src="tdax1l" fileName="大厅_slices/bg@2x.png" xy="0,0"/>
     <image id="n22_d5oe" name="n22" src="d5oei" fileName="大厅_slices/底栏@2x.png" xy="-3,593" size="1140,50"/>
@@ -17,7 +18,12 @@
     <component id="n11_d5oe" name="n11" src="d5oe1b" fileName="ButtonHuoDong.xml" xy="347,570"/>
     <component id="n12_d5oe" name="n12" src="d5oe1c" fileName="ButtonJiaRuYouXi.xml" xy="47,545"/>
     <component id="n29_d5oe" name="n29" src="d5oe1k" fileName="HSGameList.xml" xy="379,98" size="718,463"/>
-    <component id="n32_jrto" name="createRoom" src="jrto1o" fileName="ButtonCreateRoom.xml" xy="298,567"/>
+    <component id="n32_jrto" name="createRoom" src="jrto1o" fileName="ButtonCreateRoom.xml" xy="298,560">
+      <gearDisplay controller="inRoom" pages="0"/>
+    </component>
+    <component id="n37_x2fz" name="returnGameBtn" src="x2fz1v" fileName="ButtonReturnGame.xml" xy="298,560">
+      <gearDisplay controller="inRoom" pages="1"/>
+    </component>
     <component id="n33_h59f" name="userInfo" src="h59f1q" fileName="ComponentUserInfo.xml" xy="0,4"/>
     <component id="n36_h59f" name="diamondNode" src="h59f1r" fileName="ComponentDiamond.xml" xy="911,24"/>
   </displayList>

@@ -6,7 +6,7 @@
       <relation target="" sidePair="width-width,height-height"/>
     </image>
     <image id="n1_n6uz" name="n1" src="is8o7f" fileName="resource/切图/q_anqbtt.png" xy="32,12"/>
-    <text id="n2_n6uz" name="n2" xy="79,9" size="66,39" fontSize="30" color="#89402f" letterSpacing="-1" bold="true" text="全部"/>
+    <text id="n2_n6uz" name="selectedGameName" xy="79,13" size="47,28" fontSize="20" color="#89402f" align="center" vAlign="middle" letterSpacing="-1" bold="true" text="全部"/>
   </displayList>
   <Button downEffect="scale" downEffectValue="0.80"/>
 </component>

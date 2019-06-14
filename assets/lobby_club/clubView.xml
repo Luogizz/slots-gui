@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="1136,640" designImage="ui://vil278bsis8o74" designImageAlpha="100">
-  <controller name="isClub" pages="0,No,1,Yes" selected="0"/>
+<component size="1136,640" designImage="ui://vil278bsis8o76" designImageAlpha="100">
+  <controller name="isClub" pages="0,No,1,Yes" selected="1"/>
   <displayList>
     <image id="n9_is8o" name="bg" src="is8o7j" fileName="bg/ty_q_bbkk.png" pkg="wkrvvhuq" xy="563,0" size="574,640"/>
     <image id="n7_h59f" name="bg" src="is8o7j" fileName="bg/ty_q_bbkk.png" pkg="wkrvvhuq" xy="0,0" size="568,640" flip="hz"/>
@@ -8,7 +8,7 @@
     <image id="n25_n6uz" name="iconBg" src="is8o97" fileName="resource/切图/q_zssz.png" xy="309,69" size="91,30">
       <gearDisplay controller="isClub" pages="1"/>
     </image>
-    <image id="n24_n6uz" name="memberCountIcon" src="is8o98" fileName="resource/切图/rs.png" xy="555,66">
+    <image id="n24_n6uz" name="memberCountIcon" src="is8o98" fileName="resource/切图/rs.png" xy="295,66">
       <gearDisplay controller="isClub" pages="1"/>
     </image>
     <image id="n15_is8o" name="diamondBg" src="is8o97" fileName="resource/切图/q_zssz.png" xy="127,69"/>
@@ -22,21 +22,14 @@
     <component id="n12_is8o" name="applyRecordBtn" src="is8o99" fileName="btn/applyRecordBtn.xml" xy="957,49">
       <gearDisplay controller="isClub" pages="0"/>
     </component>
-    <component id="n19_n6uz" name="copyIdBtn" src="n6uz9v" fileName="btn/copyIdBtn.xml" xy="681,49">
+    <list id="n34_x2fz" name="operationBtn" xy="667,49" size="439,75" layout="flow_hz" overflow="hidden" colGap="17" align="right">
       <gearDisplay controller="isClub" pages="1"/>
-    </component>
-    <component id="n20_n6uz" name="shareBtn" src="n6uz9w" fileName="btn/shareBtn.xml" xy="771,50">
-      <gearDisplay controller="isClub" pages="1"/>
-    </component>
-    <component id="n21_n6uz" name="appointManagerBtn" src="n6uz9x" fileName="btn/appointManagerBtn.xml" xy="855,51">
-      <gearDisplay controller="isClub" pages="1"/>
-    </component>
-    <component id="n22_n6uz" name="memberSettingBtn" src="n6uz9y" fileName="btn/memberSettingBtn.xml" xy="945,51">
-      <gearDisplay controller="isClub" pages="1"/>
-    </component>
-    <component id="n23_n6uz" name="managerBtn" src="n6uz9z" fileName="btn/managerBtn.xml" xy="1040,49">
-      <gearDisplay controller="isClub" pages="1"/>
-    </component>
+      <item url="ui://vil278bsn6uz9v"/>
+      <item url="ui://vil278bsn6uz9w"/>
+      <item url="ui://vil278bsn6uz9x"/>
+      <item url="ui://vil278bsn6uz9y"/>
+      <item url="ui://vil278bsn6uz9z"/>
+    </list>
     <text id="n26_n6uz" name="memberCountText" xy="320,69" size="74,30" fontSize="22" color="#89402f" align="center" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text="9人">
       <gearDisplay controller="isClub" pages="1"/>
     </text>
