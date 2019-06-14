@@ -2,10 +2,11 @@
 <component size="92,92" pivot="0.5,0.5" anchor="true" extention="Button">
   <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
   <displayList>
+    <loader id="n1_ef8p" name="n1" xy="5,3" size="82,82" url="ui://ppyzj5nref8pcq" align="center" vAlign="middle" fill="scale"/>
     <image id="n0_ef8p" name="n0" src="ef8p3t" fileName="大丰关张美术资源/切图/t_通用/txk_wx80.png" xy="0,0">
       <relation target="" sidePair="width-width,height-height"/>
     </image>
-    <loader id="n1_ef8p" name="n1" xy="0,0" size="92,92" url="ui://ppyzj5nref8pcq" align="center" vAlign="middle"/>
+    <graph id="n2_js7w" name="pos" xy="50,48" pivot="0.5,0.5" anchor="true" size="8,9"/>
   </displayList>
   <Button/>
 </component>

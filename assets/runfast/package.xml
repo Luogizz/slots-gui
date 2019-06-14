@@ -406,9 +406,7 @@
     <component id="ef8pcr" name="desk_view_right.xml" path="/desk/"/>
     <font id="ef8pct" name="desk_countdown_font.fnt" path="/desk/" exported="true"/>
     <component id="ef8pcu" name="desk_roominfo_button.xml" path="/desk/"/>
-    <component id="ef8pcx" name="desk_poker_number.xml" path="/common/" exported="true"/>
     <component id="ef8pcy" name="desk_my_poker_list.xml" path="/desk/"/>
-    <component id="ef8pcz" name="desk_card_button.xml" path="/desk/"/>
     <component id="ef8pd0" name="desk_cancel_button.xml" path="/desk/" exported="true"/>
     <component id="ef8pd1" name="desk_ok_button.xml" path="/desk/" exported="true"/>
     <component id="vp44d2" name="desk_ready_button.xml" path="/desk/"/>
@@ -471,6 +469,7 @@
     <component id="fxweeq" name="record_detail_item.xml" path="/record/"/>
     <component id="fxweer" name="play_button.xml" path="/record/"/>
     <component id="fxwees" name="share_button.xml" path="/record/"/>
+    <image id="js7wet" name="bg_2d.jpg" path="/大丰关张美术资源/切图/"/>
   </resources>
   <publish name="runfast"/>
 </packageDescription>
