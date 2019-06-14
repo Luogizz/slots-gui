@@ -5,6 +5,6 @@
     <image id="n0_lulw" name="bg" src="lulwcl" fileName="bg/ty_tanchuang3.png" pkg="wkrvvhuq" xy="217,88" size="623,434" scale="1.1,1.1"/>
     <component id="n4_lulw" name="confirmBtn" src="lulwcm" fileName="settingPopup/confirmBtn.xml" xy="444,420"/>
     <component id="n1_lulw" name="closeBtn" src="c3rla8" fileName="btn/closeBtn.xml" xy="821,43"/>
-    <richtext id="n3_lulw" name="confirmText" xy="338,262" size="469,41" fontSize="32" color="#527983" vAlign="middle" letterSpacing="1" autoSize="none" bold="true" singleLine="true" text="确定要退出&lt;font color=&quot;#96693a&quot;> 群名有七个字 &lt;/font>吗?"/>
+    <richtext id="n3_lulw" name="confirmText" xy="338,262" size="469,41" fontSize="32" color="#527983" align="center" vAlign="middle" letterSpacing="1" autoSize="none" bold="true" singleLine="true" text="确定要退出&lt;font color=&quot;#96693a&quot;> 群名有七个字 &lt;/font>吗?"/>
   </displayList>
 </component>
