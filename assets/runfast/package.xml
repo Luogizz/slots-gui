@@ -406,9 +406,7 @@
     <component id="ef8pcr" name="desk_view_right.xml" path="/desk/"/>
     <font id="ef8pct" name="desk_countdown_font.fnt" path="/desk/" exported="true"/>
     <component id="ef8pcu" name="desk_roominfo_button.xml" path="/desk/"/>
-    <component id="ef8pcx" name="desk_poker_number.xml" path="/common/" exported="true"/>
     <component id="ef8pcy" name="desk_my_poker_list.xml" path="/desk/"/>
-    <component id="ef8pcz" name="desk_card_button.xml" path="/desk/"/>
     <component id="ef8pd0" name="desk_cancel_button.xml" path="/desk/" exported="true"/>
     <component id="ef8pd1" name="desk_ok_button.xml" path="/desk/" exported="true"/>
     <component id="vp44d2" name="desk_ready_button.xml" path="/desk/"/>
@@ -471,6 +469,11 @@
     <component id="fxweeq" name="record_detail_item.xml" path="/record/"/>
     <component id="fxweer" name="play_button.xml" path="/record/"/>
     <component id="fxwees" name="share_button.xml" path="/record/"/>
+    <image id="js7wet" name="bg_2d.jpg" path="/大丰关张美术资源/切图/"/>
+    <component id="ooqzeu" name="qipao1.xml" path="/" exported="true"/>
+    <component id="ooqzev" name="qipao2.xml" path="/" exported="true"/>
+    <image id="ooqzew" name="ltqp_qp01.png" path="/大丰关张美术资源/切图/" scale="9grid" scale9grid="32,33,9,3" gridTile="16"/>
+    <image id="ooqzex" name="ltqp_qp_sj.png" path="/大丰关张美术资源/切图/" scale="9grid" scale9grid="27,30,5,6" gridTile="16"/>
   </resources>
   <publish name="runfast"/>
 </packageDescription>

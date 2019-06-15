@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1136,640" opaque="false" designImage="ui://ppyzj5nref8p7c" designImageLayer="1">
   <displayList>
+    <component id="n65_jq88" name="discards" src="jq88du" fileName="desk/desk_discard_my_list.xml" xy="357,266"/>
+    <component id="n71_js7w" name="lights" src="ef8pcy" fileName="desk/desk_my_poker_list.xml" xy="577,492"/>
     <component id="n60_ef8p" name="hands" src="ef8pcy" fileName="desk/desk_my_poker_list.xml" xy="577,492"/>
     <image id="n67_fxwe" name="roomOwner" src="ef8p3r" fileName="大丰关张美术资源/切图/t_通用/jb_fz.png" xy="2,540" visible="false"/>
     <component id="n57_ef8p" name="head" src="ef8pck" fileName="common/desk_user_button.xml" xy="69,585"/>
@@ -11,8 +13,8 @@
     <image id="n61_vp44" name="ready" src="ef8p4m" fileName="大丰关张美术资源/切图/z_准备开始gps/ok.png" xy="158,509" visible="false"/>
     <image id="n63_b6aq" name="count" src="ef8pb5" fileName="大丰关张美术资源/老版/切图/ui_poker/y_游戏内/yxn_nz.png" xy="427,262" visible="false"/>
     <text id="n64_b6aq" name="countDown" xy="439,283" size="60,45" visible="false" font="ui://ppyzj5nref8pct" fontSize="12" align="center" vAlign="middle" autoSize="none" text="20"/>
-    <component id="n65_jq88" name="discards" src="jq88du" fileName="desk/desk_discard_my_list.xml" xy="357,266"/>
     <graph id="n66_e27g" name="aniPos" xy="555,295" pivot="0.5,0.5" size="50,36"/>
     <graph id="n68_rh8w" name="userInfoPos" xy="28,283" size="20,26"/>
+    <component id="n72_ooqz" name="qipao" src="ooqzeu" fileName="qipao1.xml" xy="146,539" visible="false"/>
   </displayList>
 </component>

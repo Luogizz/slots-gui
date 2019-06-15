@@ -3,7 +3,7 @@
   <Button/>
   <controller name="button" pages="0,up,1,down,2,over,3,selectedOver"/>
   <displayList>
-    <image id="n0_ef8p" pkg="p966ud2t" src="ef8p0" name="n0" xy="0,0">
+    <image id="n0_ef8p" src="ef8p0" name="n0" xy="0,0">
       <relation target="" sidePair="width,height"/>
     </image>
   </displayList>
