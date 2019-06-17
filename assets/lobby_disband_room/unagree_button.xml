@@ -2,10 +2,10 @@
 <component size="184,68" pivot="0.5,0.5" extention="Button">
   <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
   <displayList>
-    <image id="n0_mjk8" name="n0" src="fxwe17t" fileName="大丰关张美术资源/切图/t_通用/an_4zl.png" xy="0,0">
+    <image id="n0_mjk8" name="n0" src="gukr7" fileName="大丰关张美术资源/切图/t_通用/an_4zl.png" xy="0,0">
       <relation target="" sidePair="width-width,height-height"/>
     </image>
-    <image id="n1_mjk8" name="n1" src="fxwe17u" fileName="大丰关张美术资源/切图/j_解散房间/an_bty.png" xy="36,8"/>
+    <image id="n1_mjk8" name="n1" src="gukr8" fileName="大丰关张美术资源/切图/j_解散房间/an_bty.png" xy="36,8"/>
   </displayList>
   <Button downEffect="scale" downEffectValue="0.80"/>
 </component>

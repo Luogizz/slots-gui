@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1136,640" designImage="ui://vil278bs100i3d2" designImageAlpha="100">
-  <displayList/>
+  <displayList>
+    <image id="n3_100i3" name="bg1" src="c3rla9" fileName="bg/ty_tanchuang2.png" pkg="wkrvvhuq" xy="193,77" size="739,482"/>
+    <image id="n4_100i3" name="titmeBg" src="c3rlaa" fileName="bg/ty_tanchuang2_biaoti.png" pkg="wkrvvhuq" xy="443,78" size="244,66"/>
+    <image id="n5_100i3" name="title" src="j6fxan" fileName="resource/切图/bt_cygl.png" xy="503,88"/>
+    <image id="n6_100i3" name="bg2" src="j6fxb3" fileName="resource/切图/cg_di1.png" xy="262,154" size="600,375"/>
+    <component id="n7_100i3" name="closeBtn" src="c3rla8" fileName="btn/closeBtn.xml" xy="814,45" scale="0.95,0.95"/>
+  </displayList>
 </component>

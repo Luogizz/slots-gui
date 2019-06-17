@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="c1drhdc2" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="gukr0" name="disband_room.xml" path="/" exported="true"/>
+    <image id="gukr1" name="bg.png" path="/resource/"/>
+    <image id="gukr2" name="jsfj.png" path="/resource/"/>
+    <component id="gukr3" name="agree_button.xml" path="/"/>
+    <image id="gukr4" name="an_h.png" path="/resource/"/>
+    <image id="gukr5" name="an_ty.png" path="/resource/"/>
+    <component id="gukr6" name="unagree_button.xml" path="/"/>
+    <image id="gukr7" name="an_4zl.png" path="/resource/"/>
+    <image id="gukr8" name="an_bty.png" path="/resource/"/>
+    <component id="gukr9" name="disband_room_player.xml" path="/"/>
+    <image id="gukra" name="y_xxk.png" path="/resource/" scale="9grid" scale9grid="32,32,64,64" gridTile="16"/>
+    <image id="gukrb" name="zt_gou.png" path="/resource/"/>
+    <image id="gukrc" name="x.png" path="/resource/"/>
+    <image id="gukrd" name="wenhao.png" path="/resource/"/>
+  </resources>
+  <publish name="lobby_disband_room"/>
+</packageDescription>
