@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="570,139">
+  <controller name="item" pages="0,是群管,1,没群管,2,不是群管" selected="2"/>
+  <displayList>
+    <image id="n27_g9uc" name="bg" src="j6fxax" fileName="resource/切图/zj_di_dyj.png" xy="3,6" size="567,133"/>
+    <image id="n10_g9uc" name="mark" src="lulwbx" fileName="resource/切图/wdpyq_jb_qg.png" xy="0,0">
+      <gearDisplay controller="item" pages="0"/>
+    </image>
+    <image id="n11_g9uc" name="iconFrame" src="is8o8e" fileName="resource/切图/q_wjtxk.png" xy="16,35">
+      <gearDisplay controller="item" pages="0,2"/>
+    </image>
+    <component id="n29_g9uc" name="add" src="g9uc3dg" fileName="appointManager/addBtn.xml" xy="17,39">
+      <gearDisplay controller="item" pages="1"/>
+    </component>
+    <component id="n30_g9uc" name="up2ManagerBtn" src="lulwcd" fileName="memberManager/btn/up2ManagerBtn.xml" xy="363,41">
+      <gearDisplay controller="item" pages="2"/>
+    </component>
+    <component id="n17_g9uc" name="removeBtn" src="g9uc3dc" fileName="appointManager/removeManager.xml" xy="363,41">
+      <gearDisplay controller="item" pages="0"/>
+    </component>
+    <text id="n13_g9uc" name="name" xy="99,42" size="223,34" fontSize="26" color="#96693a" vAlign="middle" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="玩家名字七个字">
+      <gearDisplay controller="item" pages="0,2"/>
+    </text>
+    <text id="n14_g9uc" name="id" xy="99,75" size="223,30" fontSize="22" color="#96693a" vAlign="middle" letterSpacing="1" autoSize="none" singleLine="true" autoClearText="true" text="ID : 12345">
+      <gearDisplay controller="item" pages="0,2"/>
+    </text>
+    <text id="n28_g9uc" name="text" xy="99,54" size="137,41" fontSize="32" color="#527983" vAlign="middle" leading="2" bold="true" text="添加群管">
+      <gearDisplay controller="item" pages="1"/>
+    </text>
+    <loader id="n12_g9uc" name="loader" xy="20,38" size="70,70" aspect="true">
+      <gearDisplay controller="item" pages="0,2"/>
+    </loader>
+  </displayList>
+</component>

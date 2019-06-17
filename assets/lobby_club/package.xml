@@ -250,7 +250,15 @@
     <image id="100i3d6" name="r_任命群管_标注.jpg" path="/resource/效果图/"/>
     <image id="100i3d7" name="r_任命群管_添加群管.jpg" path="/resource/效果图/"/>
     <image id="100i3d8" name="r_任命群管_添加群管_标注.jpg" path="/resource/效果图/"/>
-    <component id="100i3d9" name="appointManager.xml" path="/appointManager/"/>
+    <component id="100i3d9" name="appointManager.xml" path="/appointManager/" exported="true"/>
+    <image id="g9uc3da" name="bt_rmqg.png" path="/appointManager/resource/"/>
+    <image id="g9uc3db" name="bt_tjgl.png" path="/appointManager/resource/"/>
+    <component id="g9uc3dc" name="removeManager.xml" path="/appointManager/"/>
+    <image id="g9uc3dd" name="btn_twqg.png" path="/appointManager/resource/"/>
+    <image id="g9uc3de" name="btn_ycqg.png" path="/appointManager/resource/"/>
+    <image id="g9uc3df" name="btn_tjqg.png" path="/appointManager/resource/"/>
+    <component id="g9uc3dg" name="addBtn.xml" path="/appointManager/"/>
+    <component id="g9uc3di" name="item.xml" path="/appointManager/"/>
   </resources>
   <publish name="lobby_club"/>
 </packageDescription>
