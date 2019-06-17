@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="250,140">
   <displayList>
-    <graph id="n1_vp44" name="n1" xy="37,52" pivot="0.5,0.5" anchor="true" size="150,210" scale="0.5,0.5"/>
-    <graph id="n2_vp44" name="n2" xy="62,52" pivot="0.5,0.5" anchor="true" size="150,210" scale="0.5,0.5"/>
-    <graph id="n3_vp44" name="n3" xy="87,52" pivot="0.5,0.5" anchor="true" size="150,210" scale="0.5,0.5"/>
-    <graph id="n4_vp44" name="n4" xy="112,52" pivot="0.5,0.5" anchor="true" size="150,210" scale="0.5,0.5"/>
-    <graph id="n5_vp44" name="n5" xy="137,52" pivot="0.5,0.5" anchor="true" size="150,210" scale="0.5,0.5"/>
-    <graph id="n6_vp44" name="n6" xy="162,52" pivot="0.5,0.5" anchor="true" size="150,210" scale="0.5,0.5"/>
-    <graph id="n7_vp44" name="n7" xy="187,52" pivot="0.5,0.5" anchor="true" size="150,210" scale="0.5,0.5"/>
-    <graph id="n8_vp44" name="n8" xy="212,52" pivot="0.5,0.5" anchor="true" size="150,210" scale="0.5,0.5"/>
-    <graph id="n9_vp44" name="n9" xy="37,87" pivot="0.5,0.5" anchor="true" size="150,210" scale="0.5,0.5"/>
-    <graph id="n10_vp44" name="n10" xy="62,87" pivot="0.5,0.5" anchor="true" size="150,210" scale="0.5,0.5"/>
-    <graph id="n11_vp44" name="n11" xy="87,87" pivot="0.5,0.5" anchor="true" size="150,210" scale="0.5,0.5"/>
-    <graph id="n12_vp44" name="n12" xy="112,87" pivot="0.5,0.5" anchor="true" size="150,210" scale="0.5,0.5"/>
-    <graph id="n13_vp44" name="n13" xy="137,87" pivot="0.5,0.5" anchor="true" size="150,210" scale="0.5,0.5"/>
-    <graph id="n14_vp44" name="n14" xy="162,87" pivot="0.5,0.5" anchor="true" size="150,210" scale="0.5,0.5"/>
-    <graph id="n15_vp44" name="n15" xy="187,87" pivot="0.5,0.5" anchor="true" size="150,210" scale="0.5,0.5"/>
-    <graph id="n16_vp44" name="n16" xy="212,87" pivot="0.5,0.5" anchor="true" size="150,210" scale="0.5,0.5"/>
+    <component id="n1_vp44" name="n1" src="ef8pcx" fileName="desk_poker_number.xml" pkg="p966ud2t" xy="37,52" size="150,210" scale="0.5,0.5" visible="false"/>
+    <component id="n2_vp44" name="n2" src="ef8pcx" fileName="desk_poker_number.xml" pkg="p966ud2t" xy="62,52" size="150,210" scale="0.5,0.5" visible="false"/>
+    <component id="n3_vp44" name="n3" src="ef8pcx" fileName="desk_poker_number.xml" pkg="p966ud2t" xy="87,52" size="150,210" scale="0.5,0.5" visible="false"/>
+    <component id="n4_vp44" name="n4" src="ef8pcx" fileName="desk_poker_number.xml" pkg="p966ud2t" xy="112,52" size="150,210" scale="0.5,0.5" visible="false"/>
+    <component id="n5_vp44" name="n5" src="ef8pcx" fileName="desk_poker_number.xml" pkg="p966ud2t" xy="137,52" size="150,210" scale="0.5,0.5" visible="false"/>
+    <component id="n6_vp44" name="n6" src="ef8pcx" fileName="desk_poker_number.xml" pkg="p966ud2t" xy="162,52" size="150,210" scale="0.5,0.5" visible="false"/>
+    <component id="n7_vp44" name="n7" src="ef8pcx" fileName="desk_poker_number.xml" pkg="p966ud2t" xy="187,52" size="150,210" scale="0.5,0.5" visible="false"/>
+    <component id="n8_vp44" name="n8" src="ef8pcx" fileName="desk_poker_number.xml" pkg="p966ud2t" xy="212,52" size="150,210" scale="0.5,0.5" visible="false"/>
+    <component id="n9_vp44" name="n9" src="ef8pcx" fileName="desk_poker_number.xml" pkg="p966ud2t" xy="37,87" size="150,210" scale="0.5,0.5" visible="false"/>
+    <component id="n10_vp44" name="n10" src="ef8pcx" fileName="desk_poker_number.xml" pkg="p966ud2t" xy="62,87" size="150,210" scale="0.5,0.5" visible="false"/>
+    <component id="n11_vp44" name="n11" src="ef8pcx" fileName="desk_poker_number.xml" pkg="p966ud2t" xy="87,87" size="150,210" scale="0.5,0.5" visible="false"/>
+    <component id="n12_vp44" name="n12" src="ef8pcx" fileName="desk_poker_number.xml" pkg="p966ud2t" xy="112,87" size="150,210" scale="0.5,0.5" visible="false"/>
+    <component id="n13_vp44" name="n13" src="ef8pcx" fileName="desk_poker_number.xml" pkg="p966ud2t" xy="137,87" size="150,210" scale="0.5,0.5" visible="false"/>
+    <component id="n14_vp44" name="n14" src="ef8pcx" fileName="desk_poker_number.xml" pkg="p966ud2t" xy="162,87" size="150,210" scale="0.5,0.5" visible="false"/>
+    <component id="n15_vp44" name="n15" src="ef8pcx" fileName="desk_poker_number.xml" pkg="p966ud2t" xy="187,87" size="150,210" scale="0.5,0.5" visible="false"/>
+    <component id="n16_vp44" name="n16" src="ef8pcx" fileName="desk_poker_number.xml" pkg="p966ud2t" xy="212,87" size="150,210" scale="0.5,0.5" visible="false"/>
   </displayList>
 </component>

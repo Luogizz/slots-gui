@@ -9,7 +9,7 @@
       <relation target="n8_ef8p" sidePair="width-width"/>
     </image>
     <text id="n8_ef8p" name="scoreText" xy="70,244" pivot="0.5,0.5" anchor="true" size="19,24" visible="false" font="ui://ppyzj5nref8pcn" fontSize="12" text="0"/>
-    <text id="n9_ef8p" name="handsNum" xy="159,196" pivot="0.5,0.5" anchor="true" size="47,27" visible="false" font="ui://ppyzj5nref8pco" fontSize="12" align="center" vAlign="middle" autoSize="none" text="11"/>
+    <text id="n9_ef8p" name="handsNum" xy="159,196" pivot="0.5,0.5" anchor="true" size="47,27" visible="false" font="ui://ppyzj5nref8pco" fontSize="0" align="center" vAlign="middle" leading="0" autoSize="none" text="&#xA;"/>
     <image id="n11_vp44" name="ready" src="ef8p4m" fileName="大丰关张美术资源/切图/z_准备开始gps/ok.png" xy="207,143" visible="false"/>
     <component id="n12_vp44" name="discards" src="vp44d3" fileName="desk/desk_discard_other_list.xml" xy="190,123"/>
     <image id="n13_b6aq" name="count" src="ef8pb5" fileName="大丰关张美术资源/老版/切图/ui_poker/y_游戏内/yxn_nz.png" xy="186,129" visible="false"/>
@@ -17,5 +17,6 @@
     <component id="n15_jq88" name="lights" src="jq88dt" fileName="desk/desk_light_list.xml" xy="142,53"/>
     <graph id="n16_e27g" name="aniPos" xy="310,179" pivot="0.5,0.5" size="44,34"/>
     <graph id="n17_rh8w" name="userInfoPos" xy="140,130" size="20,26"/>
+    <component id="n18_js7w" name="qipao" src="ooqzeu" fileName="qipao1.xml" xy="154,142" visible="false"/>
   </displayList>
 </component>
