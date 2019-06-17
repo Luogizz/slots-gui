@@ -3,6 +3,6 @@
   <Button/>
   <controller name="button" pages="0,up,1,down,2,over,3,selectedOver"/>
   <displayList>
-    <image id="n0_qhzt" src="fxwe11u" name="n0" xy="0,0"/>
+    <image id="n0_qhzt" src="qly112" name="n0" xy="0,0"/>
   </displayList>
 </component>

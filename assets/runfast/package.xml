@@ -474,6 +474,22 @@
     <component id="ooqzev" name="qipao2.xml" path="/" exported="true"/>
     <image id="ooqzew" name="ltqp_qp01.png" path="/大丰关张美术资源/切图/" scale="9grid" scale9grid="32,33,9,3" gridTile="16"/>
     <image id="ooqzex" name="ltqp_qp_sj.png" path="/大丰关张美术资源/切图/" scale="9grid" scale9grid="27,30,5,6" gridTile="16"/>
+    <image id="qly1ez" name="gze.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
+    <image id="qly1f1" name="jdtman.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
+    <image id="qly1f2" name="syin.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
+    <image id="qly1f4" name="pls_hui.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
+    <image id="qly1f5" name="pls.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
+    <image id="qly1f7" name="jds_hui.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
+    <image id="qly1f8" name="jds.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
+    <image id="qly1fa" name="szgb.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
+    <image id="qly1fc" name="sqjs.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
+    <image id="qly1fe" name="beiban.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
+    <image id="qly1ff" name="fengge.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
+    <image id="qly1fg" name="shuipinx.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
+    <image id="qly1fh" name="yxgze.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
+    <image id="qly1fj" name="guanbi.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
+    <image id="qly1fk" name="设置.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
+    <image id="qly1fm" name="yyue.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
   </resources>
   <publish name="runfast"/>
 </packageDescription>

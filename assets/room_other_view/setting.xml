@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640" designImage="ui://c1drhdc2qly110" designImageAlpha="100">
+  <controller name="bgController" pages="0,经典,1,普蓝" selected="0"/>
+  <displayList>
+    <graph id="n2_tjkx" name="bg" xy="0,0" size="652,640" type="rect" fillColor="#00ffffff"/>
+    <image id="n1_tjkx" name="bgImg" src="qly1u" fileName="大丰麻将美术改版/2 游戏内/切图/s_设置/beiban.png" xy="632,1" size="504,638"/>
+    <image id="n5_tjkx" name="n5" src="qly1v" fileName="大丰麻将美术改版/2 游戏内/切图/s_设置/fengge.png" xy="657,180" size="470,251"/>
+    <image id="n10_tjkx" name="n10" src="qly1w" fileName="大丰麻将美术改版/2 游戏内/切图/s_设置/shuipinx.png" xy="660,197"/>
+    <image id="n12_tjkx" name="n12" src="qly1x" fileName="大丰麻将美术改版/2 游戏内/切图/s_设置/yxgze.png" xy="663,457"/>
+    <component id="n3_tjkx" name="shutdownBtn" src="qly1y" fileName="settingRoom/shutdownBtn.xml" xy="910,548"/>
+    <component id="n4_tjkx" name="disbandBtn" src="qly1r" fileName="settingRoom/disbandBtn.xml" xy="687,548"/>
+    <component id="n7_tjkx" name="arrowBtn" src="qly1e" fileName="settingRoom/arrowBtn.xml" xy="1054,463"/>
+    <component id="n8_tjkx" name="blueColorBtn" src="qly1j" fileName="settingRoom/blueColorBtn.xml" xy="892,244"/>
+    <component id="n9_tjkx" name="classColorBtn" src="qly1m" fileName="settingRoom/classColorBtn.xml" xy="663,244"/>
+    <component id="n11_tjkx" name="closeBtn" src="qly1p" fileName="settingRoom/closeBtn.xml" xy="1068,14"/>
+    <text id="n15_tjkx" name="n15" xy="688,50" size="53,31" fontSize="24" color="#8fc9ca" text="音效"/>
+    <text id="n16_tjkx" name="n16" xy="688,114" size="53,31" fontSize="24" color="#8fc9ca" text="音乐"/>
+    <text id="n17_tjkx" name="n17" xy="838,190" size="101,31" fontSize="24" color="#8fc9ca" text="选择桌面"/>
+  </displayList>
+</component>

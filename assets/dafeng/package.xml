@@ -507,16 +507,6 @@
     <component id="g0pr184" name="discard_tip.xml" path="/desk/mine/"/>
     <component id="g0pr185" name="discard_tip.xml" path="/desk/right/"/>
     <component id="rh8w186" name="check_ting_button.xml" path="/desk/"/>
-    <component id="y5pf187" name="arrowBtn.xml" path="/settingRoom/"/>
-    <component id="y5pf188" name="bar.xml" path="/settingRoom/"/>
-    <component id="y5pf189" name="blueColorBtn.xml" path="/settingRoom/"/>
-    <component id="y5pf18a" name="classColorBtn.xml" path="/settingRoom/"/>
-    <component id="y5pf18b" name="closeBtn.xml" path="/settingRoom/"/>
-    <component id="y5pf18c" name="disbandBtn.xml" path="/settingRoom/"/>
-    <component id="y5pf18d" name="setting.xml" path="/settingRoom/" exported="true"/>
-    <component id="y5pf18e" name="shutdownBtn.xml" path="/settingRoom/"/>
-    <component id="y5pf18f" name="Slider_grip.xml" path="/settingRoom/"/>
-    <component id="y5pf18g" name="soundSlider_grip.xml" path="/settingRoom/"/>
     <component id="y5pf18h" name="checkBox.xml" path="/roomRule/"/>
     <component id="y5pf18i" name="radioButton.xml" path="/roomRule/"/>
     <component id="y5pf18j" name="room_rule_view.xml" path="/roomRule/" exported="true"/>
