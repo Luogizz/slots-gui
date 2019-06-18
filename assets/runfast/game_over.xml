@@ -9,6 +9,6 @@
     <component id="n5_rhc4" name="player2" src="rhc4df" fileName="gameOver/game_over_player.xml" xy="428,130"/>
     <component id="n6_rhc4" name="player3" src="rhc4df" fileName="gameOver/game_over_player.xml" xy="736,130"/>
     <component id="n7_rhc4" name="backHallBtn" src="rhc4de" fileName="gameOver/back_hall_button.xml" xy="624,561"/>
-    <graph id="n8_e27g" name="aniPos" xy="568,320" size="0,0"/>
+    <graph id="n8_e27g" name="aniPos" xy="568,70" size="0,0"/>
   </displayList>
 </component>
