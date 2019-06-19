@@ -40,6 +40,8 @@
     <component id="qly111" name="Slider_grip.xml" path="/settingRoom/"/>
     <image id="qly112" name="yyue.png" path="/resource/s_设置/"/>
     <component id="qly113" name="soundSlider_grip.xml" path="/settingRoom/"/>
+    <image id="t23f14" name="tcfj.png" path="/resource/s_设置/"/>
+    <component id="t23f15" name="exitBtn.xml" path="/settingRoom/"/>
   </resources>
   <publish name="room_other_view"/>
 </packageDescription>
