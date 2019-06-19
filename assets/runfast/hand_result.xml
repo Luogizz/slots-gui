@@ -9,6 +9,6 @@
     <component id="n5_rhc4" name="player1" src="rhc4d7" fileName="handResult/hand_result_player.xml" xy="49,79" size="1021,144"/>
     <component id="n6_rhc4" name="player2" src="rhc4d7" fileName="handResult/hand_result_player.xml" xy="49,238"/>
     <component id="n7_rhc4" name="player3" src="rhc4d7" fileName="handResult/hand_result_player.xml" xy="49,390"/>
-    <graph id="n8_e27g" name="aniPos" xy="568,320" pivot="0.5,0.5" size="0,0"/>
+    <graph id="n8_e27g" name="aniPos" xy="568,70" pivot="0.5,0.5" size="0,0"/>
   </displayList>
 </component>
