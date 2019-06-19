@@ -529,6 +529,7 @@
     <component id="dtxt18y" name="qipao2.xml" path="/" exported="true"/>
     <image id="ooqz191" name="ltqp_qp01.png" path="/大丰麻将美术改版/2 游戏内/切图/" scale="9grid" scale9grid="32,33,9,3" gridTile="16"/>
     <image id="ooqz192" name="ltqp_qp_sj.png" path="/大丰麻将美术改版/2 游戏内/切图/" scale="9grid" scale9grid="27,30,5,6" gridTile="16"/>
+    <component id="qly1193" name="invite_button.xml" path="/desk/"/>
   </resources>
   <publish name="dafeng"/>
 </packageDescription>

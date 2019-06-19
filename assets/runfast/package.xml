@@ -490,6 +490,7 @@
     <image id="qly1fj" name="guanbi.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
     <image id="qly1fk" name="设置.jpg" path="/大丰麻将美术改版/2 游戏内/效果图和标注/"/>
     <image id="qly1fm" name="yyue.png" path="/大丰麻将美术改版/2 游戏内/切图/s_设置/"/>
+    <component id="qly1fo" name="invite_button.xml" path="/desk/"/>
   </resources>
   <publish name="runfast"/>
 </packageDescription>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1136,640" designImage="ui://ppyzj5nref8p7c" adaptationTest="FitSize">
   <displayList>
-    <image id="n1_ef8p" name="n1" src="js7wet" fileName="bg_2d.jpg" xy="0,0" size="1136,640"/>
+    <image id="n1_ef8p" name="n1" src="js7wet" fileName="大丰关张美术资源/切图/bg_2d.jpg" xy="0,0" size="1136,640"/>
     <image id="n30_ef8p" name="n30" src="ef8pf" fileName="大丰关张美术资源/切图/2d/dk_tt.png" xy="0,595" size="1135,42"/>
     <component id="n3_ef8p" name="chat" src="ef8pc2" fileName="desk/desk_chat_button.xml" xy="979,591"/>
     <component id="n4_ef8p" name="voice" src="ef8pc3" fileName="desk/desk_voice_button.xml" xy="825,591" visible="false"/>
@@ -19,7 +19,8 @@
     <component id="n35_ef8p" name="roomInfoBtn" src="ef8pcu" fileName="desk/desk_roominfo_button.xml" xy="566,22" pivot="0.5,0.5" anchor="true" size="337,46" restrictSize="322,0,0,0">
       <relation target="n33_ef8p" sidePair="width-width"/>
     </component>
-    <component id="n37_vp44" name="ready" src="vp44d2" fileName="desk/desk_ready_button.xml" xy="440,467" visible="false"/>
+    <component id="n40_qly1" name="invite" src="qly1fo" fileName="desk/invite_button.xml" xy="243,414"/>
+    <component id="n37_vp44" name="ready" src="vp44d2" fileName="desk/desk_ready_button.xml" xy="730,413" visible="false"/>
     <loader id="n39_6906" name="donate" xy="521,277" pivot="0.5,0.5" anchor="true" size="105,97" visible="false"/>
   </displayList>
 </component>

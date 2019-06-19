@@ -21,8 +21,9 @@
     <component id="n11_fxwe" name="settingBtn" src="fxwe15g" fileName="desk/setting_button.xml" xy="71,21"/>
     <component id="n12_fxwe" name="guizeBtn" src="fxwe15h" fileName="desk/guize_button.xml" xy="22,25"/>
     <component id="n24_fxwe" name="roundMask" src="fxwe16s" fileName="desk/round_mask.xml" xy="514,249"/>
-    <component id="n30_x2fz" name="return2LobbyBtn" src="x2fz190" fileName="desk/return_lobby_btn.xml" xy="240,427"/>
-    <component id="n19_fxwe" name="ready" src="fxwe167" fileName="desk/ready_button.xml" xy="666,427"/>
+    <component id="n30_x2fz" name="return2LobbyBtn" src="x2fz190" fileName="desk/return_lobby_btn.xml" xy="196,427"/>
+    <component id="n31_qly1" name="invite" src="qly1193" fileName="desk/invite_button.xml" xy="480,427"/>
+    <component id="n19_fxwe" name="ready" src="fxwe167" fileName="desk/ready_button.xml" xy="760,427"/>
     <text id="n28_rh8w" name="tilesInWall" xy="177,14" size="93,27" visible="false" fontSize="20" color="#93ebf1" autoSize="none" text=""/>
     <component id="n26_rh8w" name="checkReadyHandBtn" src="rh8w186" fileName="desk/check_ting_button.xml" xy="45,294" visible="false" blend="screen"/>
     <component id="n17_fxwe" name="player4" src="fxwe15t" fileName="desk/left/desk_view_left.xml" xy="0,0"/>
