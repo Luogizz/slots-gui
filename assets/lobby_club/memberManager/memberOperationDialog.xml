@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="666,290" designImage="ui://vil278bsj6fxaf" designImageAlpha="0">
-  <controller name="memberLevel" pages="0,群主,1,管理,2,群员" selected="2"/>
+  <controller name="memberLevel" pages="0,群主,1,管理,2,群员" selected="0"/>
   <controller name="isAuth" pages="0,已授权,1,未授权" selected="0"/>
   <displayList>
     <image id="n0_lulw" name="bg" src="lulwbw" fileName="bg/ty_di_Pic2.png" pkg="wkrvvhuq" xy="0,0" size="666,290"/>
@@ -12,7 +12,7 @@
       <gearDisplay controller="memberLevel" pages="0"/>
     </image>
     <image id="n17_100i3" name="iconFrame" src="is8o8e" fileName="resource/切图/q_wjtxk.png" xy="136,63"/>
-    <loader id="n10_lulw" name="loader" xy="140,66" size="70,70" aspect="true"/>
+    <loader id="n10_lulw" name="loader" xy="139,65" size="70,70" aspect="true" align="center" vAlign="middle" fill="scale"/>
     <text id="n4_lulw" name="name" xy="228,60" size="223,44" fontSize="32" color="#96693a" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text="玩家名字七个字"/>
     <text id="n5_lulw" name="id" xy="228,103" size="223,44" fontSize="24" color="#96693a" vAlign="middle" letterSpacing="1" autoSize="none" singleLine="true" autoClearText="true" text="ID : 12345"/>
     <component id="n7_lulw" name="revokeBtn" src="lulwbz" fileName="memberManager/btn/revokeClubManagerBtn.xml" xy="47,181" size="183,66">

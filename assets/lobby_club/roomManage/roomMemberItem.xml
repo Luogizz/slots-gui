@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="288,84" extention="Button" designImage="ui://vil278bsis8o6v" designImageOffsetX="-270" designImageOffsetY="-195" designImageAlpha="0">
+  <controller name="kitout" pages="0,yes,1,no" selected="0"/>
+  <displayList>
+    <image id="n0_j6fx" name="bg1" src="j6fxax" fileName="resource/切图/zj_di_dyj.png" xy="0,0" size="288,84">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n5_r54k" name="iconFrame" src="is8o8e" fileName="resource/切图/q_wjtxk.png" xy="4,4"/>
+    <loader id="n6_r54k" name="loader" xy="7,6" size="70,70" aspect="true" align="center" vAlign="middle" fill="scale"/>
+    <component id="n8_r54k" name="kitoutBtn" src="r54k63dl" fileName="roomManage/kitoutBtn.xml" xy="241,1">
+      <gearDisplay controller="kitout" pages="0"/>
+    </component>
+    <component id="n9_r54k" name="kitoutGrayBtn" src="r54k63dm" fileName="roomManage/kitoutGrayBtn.xml" xy="241,1" touchable="false" grayed="true">
+      <gearDisplay controller="kitout" pages="1"/>
+    </component>
+    <text id="n1_j6fx" name="name" xy="83,5" size="155,30" fontSize="20" color="#96693a" vAlign="middle" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="玩家名字七个字"/>
+    <text id="n7_r54k" name="score" xy="85,55" size="154,30" fontSize="18" color="#96693a" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text="当前分数 : -5000&#xA;"/>
+    <text id="n2_j6fx" name="id" xy="86,31" size="152,30" fontSize="18" color="#96693a" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text="ID  : 12345"/>
+  </displayList>
+  <Button/>
+</component>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640" designImage="ui://vil278bsis8o6v" designImageAlpha="0">
+  <displayList>
+    <image id="n3_100i3" name="bg" src="c3rla9" fileName="bg/ty_tanchuang2.png" pkg="wkrvvhuq" xy="195,78" size="739,482"/>
+    <image id="n4_100i3" name="titmeBg" src="c3rlaa" fileName="bg/ty_tanchuang2_biaoti.png" pkg="wkrvvhuq" xy="445,78" size="244,66"/>
+    <image id="n40_g9uc" name="title" src="is8o7q" fileName="resource/切图/q_fjgl.png" xy="502,89"/>
+    <image id="n47_10f06" name="bg1" src="is8o8w" fileName="resource/切图/q_yh9g.png" xy="264,187" size="599,280"/>
+    <component id="n7_100i3" name="closeBtn" src="c3rla8" fileName="btn/closeBtn.xml" xy="814,46" scale="0.95,0.95"/>
+    <component id="n52_r54k" name="disbandRoomBtn" src="r54k63dn" fileName="roomManage/disbandRoomBtn.xml" xy="722,474"/>
+    <text id="n46_10f06" name="roomInfo" xy="266,155" size="595,30" fontSize="20" color="#764e1f" vAlign="middle" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="不带混麻将 房号 : 888666 当前人数 : 4 局数 :  4/12 状态 : 已开局"/>
+    <list id="n48_r54k" name="playerList" xy="269,193" size="587,267" layout="flow_hz" overflow="scroll" scrollBar="hidden" lineGap="8" colGap="8" defaultItem="ui://vil278bsp4hl63dk" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n50_r54k" name="text" xy="261,472" size="450,81" fontSize="18" color="#764e1f" autoSize="none" singleLine="true" text="1.麻将/斗地主 手局发牌后不可提出玩家。&#xA;2.拍分 每小局准备时，可提出玩家，游戏中不可踢出。&#xA;3.解散房间为群主/管理员的功能，点击可直接解散房间。"/>
+  </displayList>
+</component>

@@ -4,11 +4,12 @@
     <image id="n11_cr3i" name="bg" src="j6fxax" fileName="resource/切图/zj_di_dyj.png" xy="0,0" size="567,86">
       <relation target="" sidePair="width-width,height-height"/>
     </image>
-    <image id="n12_cr3i" name="icon" src="j6fxb1" fileName="resource/切图/wdpyq_txk_q.png" xy="14,6" size="75,75"/>
+    <image id="n12_cr3i" name="icon" src="is8o8e" fileName="resource/切图/q_wjtxk.png" xy="14,6" size="75,75"/>
     <text id="n14_cr3i" name="name" xy="94,5" size="169,30" fontSize="22" color="#96693a" vAlign="middle" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="玩家名字七个字"/>
     <text id="n15_cr3i" name="text1" xy="94,35" size="195,29" fontSize="22" color="#96693a" vAlign="middle" letterSpacing="-2" autoSize="none" singleLine="true" text="申请加入您的牌友群"/>
     <text id="n18_cr3i" name="time" xy="94,59" size="195,29" fontSize="22" color="#96693a" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text="2019/06/05   06:05"/>
-    <component id="n19_cr3i" name="agreeBtn" src="cr3ibh" fileName="memberManager/agreeBtn.xml" xy="441,19"/>
-    <component id="n20_cr3i" name="rejectBtn" src="cr3ibl" fileName="memberManager/rejectBtn.xml" xy="305,18"/>
+    <component id="n19_cr3i" name="agreeBtn" src="cr3ibh" fileName="memberManager/btn/agreeBtn.xml" xy="441,19"/>
+    <component id="n20_cr3i" name="rejectBtn" src="cr3ibl" fileName="memberManager/btn/rejectBtn.xml" xy="305,18"/>
+    <loader id="n21_r54k" name="loader" xy="16,8" size="70,68" align="center" vAlign="middle" fill="scale"/>
   </displayList>
 </component>
