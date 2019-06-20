@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="1136,640" designImage="ui://tnqevky2fxwet8" designImageLayer="1">
+<component size="1136,640" anchor="true" designImage="ui://tnqevky2fxwet8" designImageLayer="1">
   <controller name="bgController" pages="0,经典,1,普蓝" selected="0"/>
   <displayList>
     <image id="n29_qhzt" name="blueBg" src="fxwexi" fileName="大丰麻将美术改版/2 游戏内/切图/bg2.jpg" xy="0,0" size="1136,640">
