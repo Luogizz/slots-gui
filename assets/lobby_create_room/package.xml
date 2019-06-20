@@ -28,6 +28,11 @@
     <component id="cr3i26" name="zjmjRoom.xml" path="/" exported="true"/>
     <component id="mw1f27" name="back.xml" path="/"/>
     <image id="mw1f28" name="pjhf_fanhui.png" path="/"/>
+    <component id="t23f29" name="btnSaveConfig.xml" path="/"/>
+    <image id="t23f2a" name="cjfj_bt.png" path="/resource/"/>
+    <image id="t23f2b" name="q_sz.png" path="/resource/"/>
+    <image id="t23f2c" name="ty_zi_qd_d.png" path="/resource/"/>
+    <image id="t23f2d" name="q_zjsz.png" path="/resource/"/>
   </resources>
   <publish name="lobby_create_room"/>
 </packageDescription>

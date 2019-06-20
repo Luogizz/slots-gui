@@ -261,6 +261,8 @@
     <component id="r54k63dl" name="kitoutBtn.xml" path="/roomManage/"/>
     <component id="r54k63dm" name="kitoutGrayBtn.xml" path="/roomManage/"/>
     <component id="r54k63dn" name="disbandRoomBtn.xml" path="/roomManage/"/>
+    <component id="t23f63do" name="quicklyCreateRoom.xml" path="/quicklyCreateRoom/" exported="true"/>
+    <component id="t23f63dp" name="editBtn.xml" path="/quicklyCreateRoom/"/>
   </resources>
   <publish name="lobby_club"/>
 </packageDescription>
