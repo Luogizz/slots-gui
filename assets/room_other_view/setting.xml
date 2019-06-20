@@ -25,7 +25,7 @@
     <component id="n19_t23f" name="soundSlider" src="t23f19" fileName="settingRoom/soundSlider.xml" xy="762,53" size="274,22">
       <Slider value="50" max="100"/>
     </component>
-    <component id="n20_t23f" name="musixSlider" src="t23f1c" fileName="settingRoom/musixSleder.xml" xy="762,119" size="274,22">
+    <component id="n20_t23f" name="musicSlider" src="t23f1c" fileName="settingRoom/musixSleder.xml" xy="762,119" size="274,22">
       <Slider value="50" max="100"/>
     </component>
   </displayList>
