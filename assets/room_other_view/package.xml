@@ -37,11 +37,15 @@
     <image id="qly1x" name="yxgze.png" path="/resource/s_设置/"/>
     <component id="qly1y" name="shutdownBtn.xml" path="/settingRoom/"/>
     <image id="qly1z" name="guanbi.png" path="/resource/s_设置/"/>
-    <component id="qly111" name="Slider_grip.xml" path="/settingRoom/"/>
     <image id="qly112" name="yyue.png" path="/resource/s_设置/"/>
-    <component id="qly113" name="soundSlider_grip.xml" path="/settingRoom/"/>
     <image id="t23f14" name="tcfj.png" path="/resource/s_设置/"/>
     <component id="t23f15" name="exitBtn.xml" path="/settingRoom/"/>
+    <image id="t23f16" name="ty_jdtBottom.png" path="/resource/s_设置/" scale="9grid" scale9grid="19,0,106,22"/>
+    <image id="t23f17" name="ty_jdtColor.png" path="/resource/s_设置/" scale="9grid" scale9grid="13,0,114,22"/>
+    <component id="t23f18" name="soundSlider_grip.xml" path="/settingRoom/"/>
+    <component id="t23f19" name="soundSlider.xml" path="/settingRoom/"/>
+    <component id="t23f1b" name="musixSleder_grip.xml" path="/settingRoom/"/>
+    <component id="t23f1c" name="musixSleder.xml" path="/settingRoom/"/>
   </resources>
   <publish name="room_other_view"/>
 </packageDescription>

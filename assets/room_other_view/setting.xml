@@ -22,5 +22,11 @@
     <text id="n15_tjkx" name="n15" xy="688,50" size="53,31" fontSize="24" color="#8fc9ca" text="音效"/>
     <text id="n16_tjkx" name="n16" xy="688,114" size="53,31" fontSize="24" color="#8fc9ca" text="音乐"/>
     <text id="n17_tjkx" name="n17" xy="838,190" size="101,31" fontSize="24" color="#8fc9ca" text="选择桌面"/>
+    <component id="n19_t23f" name="n19" src="t23f19" fileName="settingRoom/soundSlider.xml" xy="762,53" size="274,22">
+      <Slider value="50" max="100"/>
+    </component>
+    <component id="n20_t23f" name="n20" src="t23f1c" fileName="settingRoom/musixSleder.xml" xy="762,119" size="274,22">
+      <Slider value="50" max="100"/>
+    </component>
   </displayList>
 </component>
