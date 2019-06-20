@@ -5,6 +5,7 @@
     <image id="n0_d5oe" name="n0" src="d5oep" fileName="大厅_slices/消息@2x.png" xy="0,0">
       <relation target="" sidePair="width-width,height-height"/>
     </image>
+    <image id="n1_t23f" name="redPoint" src="t23f1w" fileName="大厅_slices/red-point.png" xy="46,-9" hideByEditor="true" visible="false"/>
   </displayList>
   <Button downEffect="scale" downEffectValue="0.80"/>
 </component>

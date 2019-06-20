@@ -65,6 +65,7 @@
     <image id="jfpk1t" name="grxx_txbk.png" path="/大厅_slices/"/>
     <image id="x2fz1u" name="wdpyq_zi_fhfj.png" path="/大厅_slices/"/>
     <component id="x2fz1v" name="ButtonReturnGame.xml" path="/"/>
+    <image id="t23f1w" name="red-point.png" path="/大厅_slices/"/>
   </resources>
   <publish name="lobby_main"/>
 </packageDescription>
