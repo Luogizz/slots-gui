@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1136,640" designImage="ui://vil278bsis8o6p" designImageAlpha="100">
-  <controller name="hasConfig" pages="0,yes,1,no" selected="1"/>
+  <controller name="hasConfig" pages="0,yes,1,no" selected="0"/>
   <displayList>
     <image id="n3_100i3" name="bg" src="c3rla9" fileName="bg/ty_tanchuang2.png" pkg="wkrvvhuq" xy="193,78" size="739,482"/>
     <image id="n4_100i3" name="titmeBg" src="c3rlaa" fileName="bg/ty_tanchuang2_biaoti.png" pkg="wkrvvhuq" xy="433,78" size="256,66"/>
@@ -12,11 +12,9 @@
     <text id="n49_t23f" name="text2" xy="310,265" size="497,82" fontSize="22" color="#96693a" align="center" vAlign="middle" leading="15" letterSpacing="-1" autoSize="none" bold="true" text="您还未设定一键组局配置&#xA;可点击下方 “编辑” 一键组局的房间配置">
       <gearDisplay controller="hasConfig" pages="1"/>
     </text>
-    <text id="n52_t23f" name="text3" xy="289,236" size="531,217" fontSize="20" color="#96693a" leading="5" letterSpacing="-1" autoSize="none" bold="true" autoClearText="true" text="游戏  :  不带混麻将&#xA;人数  :  3人&#xA;模式  :  局模式&#xA;局数  :  4局&#xA;玩法  :  坐园子&#xA;底分  :  1分">
-      <gearDisplay controller="hasConfig" pages="0"/>
-    </text>
     <text id="n53_t23f" name="text4" xy="291,203" size="149,30" fontSize="22" color="#96693a" vAlign="middle" leading="5" letterSpacing="-1" autoSize="none" bold="true" singleLine="true" text="一键组局配置   :">
       <gearDisplay controller="hasConfig" pages="0"/>
     </text>
+    <component id="n54_t23f" name="textComponent" src="t23f63dq" fileName="quicklyCreateRoom/textComponent.xml" xy="289,236" size="531,217"/>
   </displayList>
 </component>
