@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1136,640" designImage="ui://vztvq5emt23f19" designImageAlpha="100">
-  <controller name="hasAttachment" pages="0,yes,1,no" selected="1"/>
+  <controller name="hasAttachment" pages="0,yes,1,no" selected="0"/>
+  <controller name="isTake" pages="0,yes,1,no" selected="0"/>
   <displayList>
     <image id="n33_t23f" name="bg1" src="kdqv1a" fileName="bg/ty_tanchuang1.png" pkg="wkrvvhuq" xy="261,42" size="846,557"/>
     <image id="n34_t23f" name="bg2" src="t23f15s" fileName="bg/ty_tanchuangPic.png" pkg="wkrvvhuq" xy="1072,18"/>
