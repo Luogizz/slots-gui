@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="120,146" pivot="0.5,0.5" extention="Button">
+<component size="206,84" pivot="0.5,0.5" extention="Button">
   <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
   <displayList>
-    <image id="n0_t23f" name="n0" src="tjkx21" fileName="bg/ty_btnClose.png" pkg="wkrvvhuq" xy="0,0">
+    <image id="n0_t23f" name="n0" src="t23f1u" fileName="resourceNew/ty_btn4_cheng.png" xy="0,0" size="206,84">
       <relation target="" sidePair="width-width,height-height"/>
     </image>
+    <image id="n1_t23f" name="n1" src="t23f1g" fileName="resourceNew/xtxx_lingqu.png" xy="58,18"/>
   </displayList>
   <Button downEffect="scale" downEffectValue="0.80"/>
 </component>

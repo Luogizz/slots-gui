@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,20" extention="Button" bgColor="#000000">
+  <displayList>
+    <graph id="n0_h59f" name="n0" xy="0,0" size="100,20" touchable="false" type="rect" lineSize="0" fillColor="#00f0f0f0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+  </displayList>
+  <Button/>
+</component>

@@ -15,7 +15,7 @@
     <image id="lulwc0" name="ty_btn2_lan.png" path="/bg/" exported="true"/>
     <image id="kdqv1e" name="ty_btn1_cheng.png" path="/bg/" exported="true"/>
     <image id="kdqv1a" name="ty_tanchuang1.png" path="/bg/" exported="true" scale="9grid" scale9grid="128,128,256,256"/>
-    <image id="h59ff" name="ty_di_pic1.png" path="/bg/" exported="true" scale="9grid" scale9grid="23,32,39,27"/>
+    <image id="h59ff" name="ty_di_pic1.png" path="/bg/" exported="true" scale="9grid" scale9grid="31,32,31,22"/>
     <image id="h59fk" name="ty_xiala1.png" path="/bg/" exported="true"/>
     <image id="h59fl" name="ty_xiala2.png" path="/bg/" exported="true"/>
     <image id="kq452" name="ty_bg.jpg" path="/bg/" exported="true"/>
@@ -26,6 +26,15 @@
     <image id="fxwe15k" name="boy_img.png" path="/头像/" exported="true"/>
     <image id="fxwe15l" name="girl_img.png" path="/头像/" exported="true"/>
     <image id="fxwe15m" name="txk_wx80.png" path="/头像/" exported="true"/>
+    <image id="t23f1p" name="cjfj_bq_di.png" path="/bg/" exported="true" scale="9grid" scale9grid="73,235,147,123"/>
+    <image id="t23f1r" name="cjfj_yq_an.png" path="/bg/" exported="true"/>
+    <image id="t23f1q" name="cjfj_yq_liang.png" path="/bg/" exported="true" scale="9grid" scale9grid="47,20,94,40"/>
+    <image id="t23f15n" name="ty_btn1_Hui.png" path="/bg/" exported="true"/>
+    <image id="t23f15o" name="ty_btn2_hui.png" path="/bg/" exported="true"/>
+    <image id="t23f15p" name="ty_btn3_cheng.png" path="/bg/" exported="true"/>
+    <image id="t23f15q" name="ty_btn3_lan.png" path="/bg/" exported="true"/>
+    <image id="t23f15r" name="ty_btn4_Hui.png" path="/bg/" exported="true"/>
+    <image id="t23f15s" name="ty_tanchuangPic.png" path="/bg/" exported="true"/>
   </resources>
   <publish name="lobby_bg_package"/>
 </packageDescription>

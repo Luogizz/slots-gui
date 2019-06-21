@@ -2,41 +2,31 @@
 <packageDescription id="vztvq5em" jpegQuality="80" compressPNG="true">
   <resources>
     <component id="h59f0" name="emailView.xml" path="/" exported="true"/>
-    <image id="h59f1" name="lan_di.png" path="/resource/" scale="9grid" scale9grid="10,15,28,32"/>
-    <image id="h59f2" name="bg_di_heng.png" path="/resource/" scale="9grid" scale9grid="110,16,33,32"/>
-    <image id="h59f3" name="yj_title.png" path="/resource/"/>
     <component id="h59f4" name="mailItem.xml" path="/"/>
-    <image id="h59f5" name="bg_di.png" path="/resource/" scale="9grid" scale9grid="25,26,26,90"/>
-    <image id="h59f6" name="kuang_liang.png" path="/resource/" scale="9grid" scale9grid="17,16,74,73"/>
-    <image id="h59f7" name="quan.png" path="/resource/"/>
-    <image id="h59f8" name="xf_open.png" path="/resource/"/>
-    <image id="h59f9" name="xf.png" path="/resource/"/>
-    <image id="h59fa" name="yl.png" path="/resource/"/>
-    <image id="h59fd" name="btnClose1.png" path="/resource/"/>
-    <component id="h59fe" name="closeBtn.xml" path="/"/>
     <component id="h59fm" name="textComponent.xml" path="/"/>
-    <component id="h59fn" name="ScrollBar_HZ.xml" path="/component/" exported="true"/>
-    <image id="h59fo" name="s10.png.jpg" path="/resource/" duplicatePadding="true"/>
-    <component id="h59fp" name="ScrollUpButton.xml" path="/component/"/>
-    <image id="h59fq" name="s6.png.jpg" path="/resource/" duplicatePadding="true"/>
-    <image id="h59fr" name="s4.png.jpg" path="/resource/" duplicatePadding="true"/>
-    <image id="h59fs" name="s5.png.jpg" path="/resource/" duplicatePadding="true"/>
-    <component id="h59ft" name="ScrollDownButton.xml" path="/component/"/>
-    <image id="h59fu" name="s9.png.jpg" path="/resource/" duplicatePadding="true"/>
-    <image id="h59fv" name="s7.png.jpg" path="/resource/" duplicatePadding="true"/>
-    <image id="h59fw" name="s8.png.jpg" path="/resource/" duplicatePadding="true"/>
-    <component id="h59fx" name="GripButton_HZ.xml" path="/component/"/>
-    <image id="h59fy" name="s1.png.jpg" path="/resource/" duplicatePadding="true"/>
-    <image id="h59fz" name="s2.png.jpg" path="/resource/" duplicatePadding="true"/>
-    <image id="h59f10" name="s3.png.jpg" path="/resource/" duplicatePadding="true"/>
-    <component id="h59f11" name="ScrollBar_VT.xml" path="/component/" exported="true"/>
-    <component id="h59f12" name="GripButton_VT.xml" path="/component/"/>
     <component id="h59f13" name="attachmentItem.xml" path="/"/>
     <component id="h59f14" name="spaceBtn.xml" path="/"/>
-    <image id="h59f15" name="tbzs.png" path="/resource/"/>
-    <image id="tjkx16" name="yxn_bj_hs.png" path="/resource/"/>
     <component id="mw1f17" name="back.xml" path="/"/>
     <image id="mw1f18" name="pjhf_fanhui.png" path="/"/>
+    <image id="t23f19" name="x_系统消息.jpg" path="/效果图/"/>
+    <image id="t23f1a" name="x_系统消息_纯文字.jpg" path="/效果图/"/>
+    <image id="t23f1b" name="x_系统消息_纯文字标注.jpg" path="/效果图/"/>
+    <image id="t23f1c" name="x_系统消息标注.jpg" path="/效果图/"/>
+    <image id="t23f1d" name="xtxx_bt.png" path="/resourceNew/"/>
+    <image id="t23f1e" name="xtxx_bt1.png" path="/resourceNew/"/>
+    <image id="t23f1f" name="xtxx_dik.png" path="/resourceNew/"/>
+    <image id="t23f1g" name="xtxx_lingqu.png" path="/resourceNew/"/>
+    <image id="t23f1h" name="xtxx_tishi.png" path="/resourceNew/"/>
+    <image id="t23f1i" name="xtxx_tub1.png" path="/resourceNew/"/>
+    <image id="t23f1j" name="xtxx_tub2.png" path="/resourceNew/"/>
+    <image id="t23f1k" name="xtxx_tub3.png" path="/resourceNew/"/>
+    <image id="t23f1l" name="xtxx_weidu.png" path="/resourceNew/"/>
+    <image id="t23f1m" name="xtxx_yilingqu.png" path="/resourceNew/"/>
+    <image id="t23f1n" name="xtxx_yilingqu1.png" path="/resourceNew/"/>
+    <image id="t23f1o" name="xtxx_zwjl.png" path="/resourceNew/"/>
+    <component id="t23f1s" name="closeBtn.xml" path="/"/>
+    <component id="t23f1t" name="takeBtn.xml" path="/"/>
+    <image id="t23f1u" name="ty_btn4_cheng.png" path="/resourceNew/" scale="9grid" scale9grid="29,16,58,17"/>
   </resources>
   <publish name="lobby_email"/>
 </packageDescription>

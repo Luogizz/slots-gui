@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="1136,640">
+<component size="1136,640" designImage="ui://58oggipct23f2j" designImageAlpha="100">
   <controller name="gameList" pages="6,zjmj,2,mj,3,gz,4,ddz" selected="0"/>
   <controller name="func" pages="0,create,1,save" selected="0"/>
   <displayList>
-    <graph id="n59_h8zv" name="diBg" xy="0,0" size="1136,640" touchable="false" type="rect" fillColor="#00000000"/>
-    <image id="n42_kdqv" name="bgRight" src="kdqv1a" fileName="bg/ty_tanchuang1.png" pkg="wkrvvhuq" xy="266,22" size="829,600"/>
+    <image id="n42_kdqv" name="bg1" src="kdqv1a" fileName="bg/ty_tanchuang1.png" pkg="wkrvvhuq" xy="266,22" size="829,583"/>
+    <image id="n76_t23f" name="bg2" src="t23f15s" fileName="bg/ty_tanchuangPic.png" pkg="wkrvvhuq" xy="1072,19"/>
+    <image id="n43_kdqv" name="bg3" src="t23f1p" fileName="bg/cjfj_bq_di.png" pkg="wkrvvhuq" xy="3,7" size="296,641"/>
     <image id="n71_vej9" name="n71" src="hqw91q" fileName="resource/dt_zuan.png" xy="654,477"/>
-    <image id="n43_kdqv" name="bgLeft" src="kdqv19" fileName="resource/cjfj_bq_di.png" xy="1,10" size="296,625"/>
     <image id="n75_t23f" name="n75" src="t23f2d" fileName="resource/q_zjsz.png" xy="74,76">
       <gearDisplay controller="func" pages="1"/>
     </image>
     <image id="n74_t23f" name="n74" src="t23f2a" fileName="resource/cjfj_bt.png" xy="74,74">
       <gearDisplay controller="func" pages="0"/>
     </image>
-    <component id="n51_kdqv" name="closeBtn" src="kdqv1i" fileName="btnClose.xml" xy="1012,-3"/>
-    <list id="n0_onfo" name="gamelist" xy="50,145" size="195,420" overflow="scroll" margin="5,0,0,0" lineGap="5" align="center" selectionController="gameList">
+    <component id="n51_kdqv" name="closeBtn" src="kdqv1i" fileName="btnClose.xml" xy="1033,-17" scale="0.95,0.95"/>
+    <list id="n0_onfo" name="gamelist" xy="50,145" size="195,420" overflow="scroll" scrollBar="hidden" align="center" selectionController="gameList">
       <gearDisplay controller="gameList" pages=""/>
-      <item url="ui://58oggipccr3i25"/>
-      <item url="ui://58oggipckdqvt"/>
-      <item url="ui://58oggipch59f1t"/>
+      <item url="ui://58oggipct23f2i"/>
+      <item url="ui://58oggipct23f2g"/>
+      <item url="ui://58oggipct23f2h"/>
       <item url="ui://58oggipch59f1s"/>
     </list>
     <graph id="n62_epyd" name="mount" xy="266,37" size="38,35"/>
