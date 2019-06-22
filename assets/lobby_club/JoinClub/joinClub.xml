@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1136,640">
   <displayList>
-    <image id="n44_h8zv" name="bg" src="tjkx1n" fileName="resource/old/jrfj_db.png" xy="248,26" size="640,590" pkg="wkrvvhuq"/>
+    <image id="n44_h8zv" name="bg" src="tjkx1n" fileName="bg/ty_jrfj_db.png" pkg="wkrvvhuq" xy="248,26" size="640,590"/>
     <graph id="n48_h8zv" name="diBg" xy="0,0" size="1136,640" touchable="false" type="rect" fillColor="#00ffffff"/>
     <image id="n32_h8zv" name="n32" src="tjkx1o" fileName="resource/old/jrfj_fgx.png" xy="396,182"/>
     <image id="n33_h8zv" name="n33" src="tjkx1o" fileName="resource/old/jrfj_fgx.png" xy="468,182"/>
     <image id="n34_h8zv" name="n34" src="tjkx1o" fileName="resource/old/jrfj_fgx.png" xy="540,182"/>
     <image id="n35_h8zv" name="n35" src="tjkx1o" fileName="resource/old/jrfj_fgx.png" xy="610,182"/>
     <image id="n36_h8zv" name="n36" src="tjkx1o" fileName="resource/old/jrfj_fgx.png" xy="682,182"/>
-    <component id="n49_c3rl" name="closeBtn" src="c3rla8" fileName="closeBtn.xml" xy="772,-2"/>
+    <component id="n49_c3rl" name="closeBtn" src="c3rla8" fileName="btn/closeBtn.xml" xy="772,-2"/>
     <component id="n19_h8zv" name="button0" src="tjkx18" fileName="btn/numberBtn/button0.xml" xy="497,479"/>
     <component id="n20_h8zv" name="button1" src="tjkx19" fileName="btn/numberBtn/button1.xml" xy="329,220"/>
     <component id="n21_h8zv" name="button2" src="tjkx1a" fileName="btn/numberBtn/button2.xml" xy="497,219"/>
@@ -26,6 +26,6 @@
     <text id="n40_h8zv" name="number3" xy="540,135" size="49,50" fontSize="40" color="#943f35" align="center" vAlign="middle" autoSize="none" bold="true" text=""/>
     <text id="n41_h8zv" name="number4" xy="610,135" size="49,50" fontSize="40" color="#943f35" align="center" vAlign="middle" autoSize="none" bold="true" text=""/>
     <text id="n42_h8zv" name="number5" xy="682,135" size="49,50" fontSize="40" color="#943f35" align="center" vAlign="middle" autoSize="none" bold="true" text=""/>
-    <text id="n47_h8zv" name="hintText" xy="426,127" size="282,46" fontSize="30" color="#b78957" align="center" vAlign="middle" autoSize="none" bold="true" text="请输入5位茶馆号"/>
+    <text id="n47_h8zv" name="hintText" xy="426,127" size="282,46" fontSize="30" color="#b78957" align="center" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="请输入5位茶馆号"/>
   </displayList>
 </component>

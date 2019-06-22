@@ -13,7 +13,7 @@
     <component id="n9_r54k" name="kitoutGrayBtn" src="r54k63dm" fileName="roomManage/kitoutGrayBtn.xml" xy="241,1" touchable="false" grayed="true">
       <gearDisplay controller="kitout" pages="1"/>
     </component>
-    <text id="n1_j6fx" name="name" xy="83,5" size="155,30" fontSize="20" color="#96693a" vAlign="middle" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="玩家名字七个字"/>
+    <text id="n1_j6fx" name="name" xy="84,4" size="155,30" fontSize="20" color="#96693a" vAlign="middle" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="玩家名字七个字"/>
     <text id="n7_r54k" name="score" xy="85,55" size="154,30" fontSize="18" color="#96693a" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text="当前分数 : -5000&#xA;"/>
     <text id="n2_j6fx" name="id" xy="86,31" size="152,30" fontSize="18" color="#96693a" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text="ID  : 12345"/>
   </displayList>

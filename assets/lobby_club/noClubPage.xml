@@ -15,13 +15,13 @@
     <component id="n13_is8o" name="joinClubBtn" src="is8o9c" fileName="btn/JoinClubBtn.xml" xy="54,402"/>
     <component id="n14_is8o" name="createClubBtn" src="is8o9d" fileName="btn/createClubBtn.xml" xy="503,402"/>
     <component id="n38_is8o" name="copyBtn" src="is8o9u" fileName="btn/copyBtn.xml" xy="827,302"/>
-    <text id="n19_is8o" name="text" xy="123,49" size="305,34" fontSize="25" color="#926a3b" leading="0" letterSpacing="-1" bold="true" text="亲友圈房间不消耗个人房卡"/>
-    <text id="n26_is8o" name="text" xy="579,49" size="255,34" fontSize="25" color="#926a3b" leading="0" letterSpacing="-1" bold="true" text="丰富的亲友圈活动福利"/>
-    <text id="n27_is8o" name="text" xy="121,164" size="180,34" fontSize="25" color="#926a3b" leading="0" letterSpacing="-1" bold="true" text="轻松赚钱的神器"/>
-    <text id="n28_is8o" name="text" xy="579,164" size="255,34" fontSize="25" color="#926a3b" leading="0" letterSpacing="-1" bold="true" text="协助管理群的无敌利器"/>
-    <text id="n30_is8o" name="text" xy="52,253" size="205,34" fontSize="25" color="#ffffd7" leading="0" letterSpacing="-1" bold="true" strokeColor="#83541d" strokeSize="2" text="加入亲友圈的方法"/>
-    <text id="n34_is8o" name="text" xy="20,307" size="326,31" fontSize="24" color="#764e1f" leading="0" letterSpacing="-1" text="1.联系代理销售商获得亲友圈ID;"/>
-    <text id="n35_is8o" name="text" xy="20,344" size="547,31" fontSize="24" color="#764e1f" leading="0" letterSpacing="-1" text="2.成为代理销售商可创建亲友圈,立即添加微信号了解 :"/>
-    <text id="n36_is8o" name="text" xy="582,344" size="94,31" fontSize="24" color="#359031" leading="0" letterSpacing="-1" text="qykf9999"/>
+    <text id="n19_is8o" name="text" xy="123,49" size="305,34" fontSize="25" color="#926a3b" leading="0" letterSpacing="-1" bold="true" singleLine="true" text="亲友圈房间不消耗个人房卡"/>
+    <text id="n26_is8o" name="text" xy="579,49" size="255,34" fontSize="25" color="#926a3b" leading="0" letterSpacing="-1" bold="true" singleLine="true" text="丰富的亲友圈活动福利"/>
+    <text id="n27_is8o" name="text" xy="121,164" size="180,34" fontSize="25" color="#926a3b" leading="0" letterSpacing="-1" bold="true" singleLine="true" text="轻松赚钱的神器"/>
+    <text id="n28_is8o" name="text" xy="579,164" size="255,34" fontSize="25" color="#926a3b" leading="0" letterSpacing="-1" bold="true" singleLine="true" text="协助管理群的无敌利器"/>
+    <text id="n30_is8o" name="text" xy="52,253" size="205,34" fontSize="25" color="#ffffd7" leading="0" letterSpacing="-1" bold="true" strokeColor="#83541d" strokeSize="2" singleLine="true" text="加入亲友圈的方法"/>
+    <text id="n34_is8o" name="text" xy="20,307" size="326,31" fontSize="24" color="#764e1f" leading="0" letterSpacing="-1" singleLine="true" text="1.联系代理销售商获得亲友圈ID;"/>
+    <text id="n35_is8o" name="text" xy="20,344" size="547,31" fontSize="24" color="#764e1f" leading="0" letterSpacing="-1" singleLine="true" text="2.成为代理销售商可创建亲友圈,立即添加微信号了解 :"/>
+    <text id="n36_is8o" name="text" xy="582,344" size="94,31" fontSize="24" color="#359031" leading="0" letterSpacing="-1" singleLine="true" text="qykf9999"/>
   </displayList>
 </component>

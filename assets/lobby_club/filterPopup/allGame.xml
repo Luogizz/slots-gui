@@ -6,10 +6,10 @@
       <gearDisplay controller="button" pages="1"/>
       <relation target="" sidePair="width-width,height-height"/>
     </image>
-    <text id="n1_x2fz" name="normal" xy="0,0" size="164,68" fontSize="25" color="#926a3b" align="center" vAlign="middle" autoSize="none" bold="true" text="大丰麻将">
+    <text id="n1_x2fz" name="normal" xy="0,0" size="164,68" fontSize="25" color="#926a3b" align="center" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="全部">
       <gearDisplay controller="button" pages="0"/>
     </text>
-    <text id="n2_x2fz" name="selected" xy="0,0" size="164,68" fontSize="25" color="#faf987" align="center" vAlign="middle" autoSize="none" bold="true" text="大丰麻将">
+    <text id="n2_x2fz" name="selected" xy="0,0" size="164,68" fontSize="25" color="#faf987" align="center" vAlign="middle" autoSize="none" bold="true" text="全部">
       <gearDisplay controller="button" pages="1"/>
     </text>
   </displayList>

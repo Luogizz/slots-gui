@@ -6,7 +6,7 @@
     <text id="n1_h59f" name="n1" xy="215,17" size="77,25" fontSize="18" color="#96693a" vAlign="middle" letterSpacing="-1" bold="true" singleLine="true" text="入会申请"/>
     <text id="n2_h59f" name="id" xy="15,45" size="174,25" fontSize="18" color="#96693a" vAlign="middle" singleLine="true" autoClearText="true" text="亲友圈ID：13513514"/>
     <text id="n3_h59f" name="time" xy="216,45" size="248,26" fontSize="19" color="#96693a" vAlign="middle" singleLine="true" autoClearText="true" text="时间：2019-09-09  12:24:55"/>
-    <text id="n4_h59f" name="result" xy="464,19" size="107,50" fontSize="22" color="#b3522e" align="center" vAlign="middle" autoSize="none" bold="true" text="提交申请"/>
+    <text id="n4_h59f" name="result" xy="464,19" size="107,50" fontSize="22" color="#b3522e" align="center" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="提交申请"/>
     <image id="n8_cr3i" name="n8" src="is8o83" fileName="resource/切图/q_qun.png" xy="15,15" scale="0.43,0.43"/>
   </displayList>
 </component>

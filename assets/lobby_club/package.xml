@@ -237,9 +237,9 @@
     <image id="x2fzcw" name="cgTips_line.png" path="/filterPopup/resource/"/>
     <image id="x2fzcx" name="cgTips_pic1.png" path="/filterPopup/resource/"/>
     <image id="x2fzcy" name="cgTips_pic2.png" path="/filterPopup/resource/"/>
-    <component id="x2fzcz" name="dfmj.xml" path="/filterPopup/resource/"/>
-    <component id="x2fzd0" name="zjmj.xml" path="/filterPopup/resource/"/>
-    <component id="x2fzd1" name="allGame.xml" path="/filterPopup/resource/"/>
+    <component id="x2fzcz" name="dfmj.xml" path="/filterPopup/"/>
+    <component id="x2fzd0" name="zjmj.xml" path="/filterPopup/"/>
+    <component id="x2fzd1" name="allGame.xml" path="/filterPopup/"/>
     <image id="100i3d2" name="r_任命群管.jpg" path="/resource/效果图/"/>
     <image id="100i3d3" name="r_任命群管_查找群员.jpg" path="/resource/效果图/"/>
     <image id="100i3d4" name="r_任命群管_查找群员_标注.jpg" path="/resource/效果图/"/>
@@ -264,6 +264,7 @@
     <component id="t23f63do" name="quicklyCreateRoom.xml" path="/quicklyCreateRoom/" exported="true"/>
     <component id="t23f63dp" name="editBtn.xml" path="/quicklyCreateRoom/"/>
     <component id="t23f63dq" name="textComponent.xml" path="/quicklyCreateRoom/"/>
+    <component id="jrlz63dr" name="ruleTextCom.xml" path="/"/>
   </resources>
   <publish name="lobby_club"/>
 </packageDescription>
