@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1136,640" designImage="ui://tnqevky2fxwet8" designImageAlpha="0" designImageLayer="1">
-  <controller name="bgController" pages="0,经典,1,普蓝" selected="0"/>
+  <controller name="bgController" pages="0,经典,1,普蓝" selected="1"/>
   <displayList>
-    <image id="n1_fxwe" name="1" src="fxwexh" fileName="大丰麻将美术改版/2 游戏内/切图/bg1.jpg" xy="0,-201" size="1136,1136" color="#000000"/>
-    <image id="n36_jrlz" name="2" src="fxwexh" fileName="大丰麻将美术改版/2 游戏内/切图/bg1.jpg" xy="-519,0" size="2260,640" color="#000000"/>
     <image id="n29_qhzt" name="blueBg" src="fxwexi" fileName="大丰麻将美术改版/2 游戏内/切图/bg2.jpg" xy="0,0" size="1136,640">
       <gearDisplay controller="bgController" pages="1"/>
     </image>
     <image id="n35_jrlz" name="classBg" src="fxwexh" fileName="大丰麻将美术改版/2 游戏内/切图/bg1.jpg" xy="0,0" size="1136,640">
       <gearDisplay controller="bgController" pages="0"/>
     </image>
-    <image id="n3_fxwe" name="n3" src="fxweya" fileName="大丰麻将美术改版/2 游戏内/切图/fenquanbg.png" xy="1034,44">
-      <relation target="n29_qhzt" sidePair="right-right,top-top"/>
-    </image>
-    <component id="n21_fxwe" name="fengquan" src="fxwe1g" fileName="mahjong_mine/mahjong_mine_shu.xml" pkg="tjfy9hi3" xy="1052,55" scale="0.4,0.4"/>
     <text id="n6_fxwe" name="time" xy="15,10" size="10,25" fontSize="18" color="#219289" bold="true" text=""/>
     <image id="n7_fxwe" name="wifi" src="fxweyo" fileName="大丰麻将美术改版/2 游戏内/切图/wifi.png" xy="70,10" visible="false"/>
     <image id="n8_fxwe" name="dianliang" src="fxwexw" fileName="大丰麻将美术改版/2 游戏内/切图/dian.png" xy="98,11" visible="false"/>
@@ -58,6 +52,11 @@
     <component id="n19_fxwe" name="ready" src="fxwe167" fileName="desk/ready_button.xml" xy="760,427" group="n34_jrlz"/>
     <group id="n34_jrlz" name="btn" xy="196,427" size="794,79" advanced="true" collapsed="true">
       <relation target="n29_qhzt" sidePair="bottom-bottom"/>
+    </group>
+    <image id="n3_fxwe" name="n3" src="fxweya" fileName="大丰麻将美术改版/2 游戏内/切图/fenquanbg.png" xy="1034,44" group="n37_gw75"/>
+    <component id="n21_fxwe" name="fengquan" src="fxwe1g" fileName="mahjong_mine/mahjong_mine_shu.xml" pkg="tjfy9hi3" xy="1052,55" group="n37_gw75" scale="0.4,0.4"/>
+    <group id="n37_gw75" name="fengquan" xy="1034,44" size="98,131" advanced="true" collapsed="true">
+      <relation target="n29_qhzt" sidePair="right-right"/>
     </group>
   </displayList>
 </component>
