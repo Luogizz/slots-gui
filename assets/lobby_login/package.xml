@@ -13,6 +13,7 @@
     <image id="iq3lb" name="loading1.jpg" path="/login/"/>
     <image id="iq3lc" name="zhdl_jdt_di.png" path="/login/" scale="9grid" scale9grid="2,4,4,8"/>
     <image id="iq3ld" name="zhdl_jdt_yanse.png" path="/login/"/>
+    <image id="w0ywe" name="ty_btn2_cheng.png" path="/login/"/>
   </resources>
   <publish name="lobby_login"/>
 </packageDescription>

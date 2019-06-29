@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1136,640" designImage="ui://abjl44hfhxjx1y" designImageAlpha="100">
-  <controller name="inRoom" pages="0,no,1,yes" selected="1"/>
+  <controller name="inRoom" pages="0,no,1,yes" selected="0"/>
   <displayList>
     <image id="n21_d5oe" name="bg" src="hxjx2h" fileName="resource/dt_blackground.jpg" xy="0,0" size="1136,640"/>
     <loader id="n41_hxjx" name="loader" xy="16,18" size="73,75" align="center" vAlign="middle" fill="scale"/>
@@ -12,22 +12,27 @@
     <image id="n50_hxjx" name="noAuth" src="hxjx2u" fileName="resource/dt_yrz.png" xy="292,0"/>
     <image id="n51_hxjx" name="role" src="hxjx2w" fileName="resource/role_dt.png" xy="253,186"/>
     <image id="n28_d5oe" name="pmd" src="d5oe9" fileName="大厅_slices/公告@2x.png" xy="361,15" size="565,41"/>
-    <component id="n1_d5oe" name="clubBtn" src="d5oe11" fileName="ButtonQinYouQuan.xml" xy="817,507"/>
-    <component id="n6_d5oe" name="shareBtn" src="d5oe16" fileName="ButtonYaoQing.xml" xy="187,543"/>
-    <component id="n7_d5oe" name="hezuoBtn" src="d5oe17" fileName="ButtonHezuo.xml" xy="2,134"/>
-    <component id="n8_d5oe" name="btnZJ" src="d5oe18" fileName="ButtonZhanJi.xml" xy="997,511"/>
-    <component id="n9_d5oe" name="emailBtn" src="d5oe19" fileName="ButtonXiaoXi.xml" xy="1047,315"/>
-    <component id="n10_d5oe" name="settingBtn" src="d5oe1a" fileName="ButtonSheZhi.xml" xy="1047,68"/>
-    <component id="n11_d5oe" name="activeBtn" src="d5oe1b" fileName="ButtonHuoDong.xml" xy="97,543"/>
-    <component id="n12_d5oe" name="joinRoomBtn" src="d5oe1c" fileName="ButtonJiaRuYouXi.xml" xy="639,83" scale="1.08,1.08">
+    <component id="n1_d5oe" name="clubBtn" src="d5oe11" fileName="Button/ButtonQinYouQuan.xml" xy="817,507"/>
+    <component id="n6_d5oe" name="shareBtn" src="d5oe16" fileName="Button/ButtonYaoQing.xml" xy="187,543"/>
+    <component id="n7_d5oe" name="hezuoBtn" src="d5oe17" fileName="Button/ButtonHezuo.xml" xy="2,134"/>
+    <component id="n8_d5oe" name="btnZJ" src="d5oe18" fileName="Button/ButtonZhanJi.xml" xy="997,511"/>
+    <component id="n9_d5oe" name="emailBtn" src="d5oe19" fileName="Button/ButtonXiaoXi.xml" xy="1047,315"/>
+    <component id="n10_d5oe" name="settingBtn" src="d5oe1a" fileName="Button/ButtonSheZhi.xml" xy="1047,68"/>
+    <component id="n11_d5oe" name="activeBtn" src="d5oe1b" fileName="Button/ButtonHuoDong.xml" xy="97,543"/>
+    <component id="n12_d5oe" name="joinRoomBtn" src="d5oe1c" fileName="Button/ButtonJiaRuYouXi.xml" xy="639,83" scale="1.08,1.08">
       <gearDisplay controller="inRoom" pages="0"/>
     </component>
-    <component id="n32_jrto" name="createRoom" src="jrto1o" fileName="ButtonCreateRoom.xml" xy="444,61">
+    <component id="n32_jrto" name="createRoom" src="jrto1o" fileName="Button/ButtonCreateRoom.xml" xy="444,61">
       <gearDisplay controller="inRoom" pages="0"/>
     </component>
-    <component id="n37_x2fz" name="returnGameBtn" src="x2fz1v" fileName="ButtonReturnGame.xml" xy="530,225">
+    <component id="n52_w0yw" name="bindCodeBtn" src="w0yw2y" fileName="Button/ButtonBindCode.xml" xy="2,247"/>
+    <component id="n37_x2fz" name="returnGameBtn" src="x2fz1v" fileName="Button/ButtonReturnGame.xml" xy="530,225">
       <gearDisplay controller="inRoom" pages="1"/>
     </component>
+    <component id="n53_w0yw" name="luckyDrawBtn" src="w0yw2z" fileName="Button/ButtonLuckyDraw.xml" xy="277,542"/>
+    <component id="n54_w0yw" name="agentBtn" src="w0yw30" fileName="Button/ButtonAgent.xml" xy="6,543"/>
+    <component id="n55_w0yw" name="helpBtn" src="w0yw31" fileName="Button/ButtonHelp.xml" xy="1047,151"/>
+    <component id="n56_w0yw" name="costomedBtn" src="w0yw32" fileName="Button/ButtonCostomed.xml" xy="1047,233"/>
     <text id="n43_hxjx" name="name" xy="99,24" size="178,30" fontSize="22" color="#7c4241" vAlign="middle" leading="0" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="玩家名字"/>
     <text id="n47_hxjx" name="diamond" xy="137,56" size="93,29" fontSize="22" color="#ffd585" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text="9999999&#xA;"/>
   </displayList>

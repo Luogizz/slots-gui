@@ -8,9 +8,9 @@
       <ProgressBar max="100"/>
     </component>
     <text id="n13_lyez" name="gameAdvice" xy="0,616" size="1136,23" fontSize="16" color="#c6a495" align="center" autoSize="none" singleLine="true" text="健康游戏忠告 : 抵制不良游戏,拒绝盗版游戏.注意自我保护,谨防受骗上当.适度游戏益脑,沉迷游戏伤身.合理安排时间，享受健康生活."/>
-    <text id="n15_lyez" name="text1" xy="298,596" size="221,22" fontSize="16" color="#c6a495" align="center" text="著作权登记号：201925251515"/>
+    <text id="n15_lyez" name="text1" xy="298,596" size="225,22" fontSize="16" color="#c6a495" align="center" text="著作权登记号：201925251515"/>
     <text id="n23_lyez" name="text2" xy="532,595" size="250,22" fontSize="16" color="#c6a495" align="center" text="著作权人：深圳市xxx科技有限公司"/>
     <text id="n26_vahs" name="versionName" xy="1070,606" size="64,27" fontSize="20" color="#ffffff" align="center" autoSize="none" text=""/>
-    <text id="n27_iq3l" name="progressText" xy="464,531" size="228,38" fontSize="28" color="#ffcc99" align="center" vAlign="middle" autoSize="none" bold="true" text="正在加载80%"/>
+    <text id="n27_iq3l" name="progressText" xy="464,531" size="228,38" fontSize="28" color="#ffcc99" align="center" vAlign="middle" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="正在加载80%"/>
   </displayList>
 </component>

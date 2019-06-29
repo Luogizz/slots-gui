@@ -36,22 +36,22 @@
     <image id="d5oey" name="钻石底框@2x.png" path="/大厅_slices/"/>
     <image id="d5oez" name="防火防盗防...@2x.png" path="/大厅_slices/"/>
     <component id="d5oe10" name="Main.xml" path="/" exported="true"/>
-    <component id="d5oe11" name="ButtonQinYouQuan.xml" path="/"/>
-    <component id="d5oe16" name="ButtonYaoQing.xml" path="/"/>
-    <component id="d5oe17" name="ButtonHezuo.xml" path="/"/>
-    <component id="d5oe18" name="ButtonZhanJi.xml" path="/"/>
-    <component id="d5oe19" name="ButtonXiaoXi.xml" path="/"/>
-    <component id="d5oe1a" name="ButtonSheZhi.xml" path="/"/>
-    <component id="d5oe1b" name="ButtonHuoDong.xml" path="/"/>
-    <component id="d5oe1c" name="ButtonJiaRuYouXi.xml" path="/"/>
+    <component id="d5oe11" name="ButtonQinYouQuan.xml" path="/Button/"/>
+    <component id="d5oe16" name="ButtonYaoQing.xml" path="/Button/"/>
+    <component id="d5oe17" name="ButtonHezuo.xml" path="/Button/"/>
+    <component id="d5oe18" name="ButtonZhanJi.xml" path="/Button/"/>
+    <component id="d5oe19" name="ButtonXiaoXi.xml" path="/Button/"/>
+    <component id="d5oe1a" name="ButtonSheZhi.xml" path="/Button/"/>
+    <component id="d5oe1b" name="ButtonHuoDong.xml" path="/Button/"/>
+    <component id="d5oe1c" name="ButtonJiaRuYouXi.xml" path="/Button/"/>
     <image id="tdax1l" name="bg@2x.png" path="/大厅_slices/"/>
     <image id="jrto1m" name="cjfj_bt.png" path="/大厅_slices/"/>
     <image id="jrto1n" name="cjfj_yq_liang.png" path="/大厅_slices/"/>
-    <component id="jrto1o" name="ButtonCreateRoom.xml" path="/"/>
+    <component id="jrto1o" name="ButtonCreateRoom.xml" path="/Button/"/>
     <image id="jfpk1s" name="bg.png" path="/大厅_slices/"/>
     <image id="jfpk1t" name="grxx_txbk.png" path="/大厅_slices/"/>
     <image id="x2fz1u" name="wdpyq_zi_fhfj.png" path="/大厅_slices/"/>
-    <component id="x2fz1v" name="ButtonReturnGame.xml" path="/"/>
+    <component id="x2fz1v" name="ButtonReturnGame.xml" path="/Button/"/>
     <image id="t23f1w" name="red-point.png" path="/大厅_slices/"/>
     <image id="hxjx1y" name="d_大丰改版大厅.jpg" path="/"/>
     <image id="hxjx1z" name="btn_bmsz.png" path="/resource/"/>
@@ -89,6 +89,11 @@
     <image id="hxjx2v" name="dt_zuan.png" path="/resource/"/>
     <image id="hxjx2w" name="role_dt.png" path="/resource/"/>
     <image id="iq3l2x" name="dt_pkf_fh.png" path="/resource/"/>
+    <component id="w0yw2y" name="ButtonBindCode.xml" path="/Button/"/>
+    <component id="w0yw2z" name="ButtonLuckyDraw.xml" path="/Button/"/>
+    <component id="w0yw30" name="ButtonAgent.xml" path="/Button/"/>
+    <component id="w0yw31" name="ButtonHelp.xml" path="/Button/"/>
+    <component id="w0yw32" name="ButtonCostomed.xml" path="/Button/"/>
   </resources>
   <publish name="lobby_main"/>
 </packageDescription>
