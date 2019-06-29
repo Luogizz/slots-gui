@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <packageDescription id="abjl44hf" jpegQuality="80" compressPNG="true">
   <resources>
-    <image id="d5oe0" name="大厅.jpg" path="/"/>
     <image id="d5oe1" name="+@2x.png" path="/大厅_slices/"/>
     <image id="d5oe3" name="dian1@2x.png" path="/大厅_slices/"/>
     <image id="d5oe4" name="dian2@2x.png" path="/大厅_slices/"/>
@@ -38,8 +37,6 @@
     <image id="d5oez" name="防火防盗防...@2x.png" path="/大厅_slices/"/>
     <component id="d5oe10" name="Main.xml" path="/" exported="true"/>
     <component id="d5oe11" name="ButtonQinYouQuan.xml" path="/"/>
-    <component id="d5oe14" name="ButtonBiShaiChang.xml" path="/"/>
-    <component id="d5oe15" name="ButtonJinBiChang.xml" path="/"/>
     <component id="d5oe16" name="ButtonYaoQing.xml" path="/"/>
     <component id="d5oe17" name="ButtonHezuo.xml" path="/"/>
     <component id="d5oe18" name="ButtonZhanJi.xml" path="/"/>
@@ -47,25 +44,51 @@
     <component id="d5oe1a" name="ButtonSheZhi.xml" path="/"/>
     <component id="d5oe1b" name="ButtonHuoDong.xml" path="/"/>
     <component id="d5oe1c" name="ButtonJiaRuYouXi.xml" path="/"/>
-    <component id="d5oe1d" name="ButtonMore.xml" path="/"/>
-    <component id="d5oe1e" name="ButtonJingDianNiuNiu.xml" path="/"/>
-    <component id="d5oe1f" name="ButtonTuiDaoHu.xml" path="/"/>
-    <component id="d5oe1g" name="ButtonPingSanZhang.xml" path="/"/>
-    <component id="d5oe1h" name="ButtonZiPai.xml" path="/"/>
-    <component id="d5oe1i" name="ButtonHongZhong.xml" path="/"/>
-    <component id="d5oe1j" name="ButtonMahjong.xml" path="/"/>
-    <component id="d5oe1k" name="HSGameList.xml" path="/"/>
     <image id="tdax1l" name="bg@2x.png" path="/大厅_slices/"/>
     <image id="jrto1m" name="cjfj_bt.png" path="/大厅_slices/"/>
     <image id="jrto1n" name="cjfj_yq_liang.png" path="/大厅_slices/"/>
     <component id="jrto1o" name="ButtonCreateRoom.xml" path="/"/>
-    <component id="h59f1q" name="ComponentUserInfo.xml" path="/"/>
-    <component id="h59f1r" name="ComponentDiamond.xml" path="/"/>
     <image id="jfpk1s" name="bg.png" path="/大厅_slices/"/>
     <image id="jfpk1t" name="grxx_txbk.png" path="/大厅_slices/"/>
     <image id="x2fz1u" name="wdpyq_zi_fhfj.png" path="/大厅_slices/"/>
     <component id="x2fz1v" name="ButtonReturnGame.xml" path="/"/>
     <image id="t23f1w" name="red-point.png" path="/大厅_slices/"/>
+    <image id="hxjx1y" name="d_大丰改版大厅.jpg" path="/"/>
+    <image id="hxjx1z" name="btn_bmsz.png" path="/resource/"/>
+    <image id="hxjx20" name="btn_cj.png" path="/resource/"/>
+    <image id="hxjx21" name="btn_cjfj.png" path="/resource/"/>
+    <image id="hxjx22" name="btn_dl.png" path="/resource/"/>
+    <image id="hxjx23" name="btn_fx.png" path="/resource/"/>
+    <image id="hxjx24" name="btn_gm.png" path="/resource/"/>
+    <image id="hxjx25" name="btn_grpm.png" path="/resource/"/>
+    <image id="hxjx26" name="btn_hd.png" path="/resource/"/>
+    <image id="hxjx27" name="btn_help.png" path="/resource/"/>
+    <image id="hxjx28" name="btn_jia.png" path="/resource/"/>
+    <image id="hxjx29" name="btn_jlb.png" path="/resource/"/>
+    <image id="hxjx2a" name="btn_jrfj.png" path="/resource/"/>
+    <image id="hxjx2b" name="btn_jwdp.png" path="/resource/"/>
+    <image id="hxjx2c" name="btn_kefu.png" path="/resource/"/>
+    <image id="hxjx2d" name="btn_mail.png" path="/resource/"/>
+    <image id="hxjx2e" name="btn_phb.png" path="/resource/"/>
+    <image id="hxjx2f" name="btn_setting.png" path="/resource/"/>
+    <image id="hxjx2g" name="btn_zhanji.png" path="/resource/"/>
+    <image id="hxjx2h" name="dt_blackground.jpg" path="/resource/"/>
+    <image id="hxjx2i" name="dt_diGonggao522x38.png" path="/resource/"/>
+    <image id="hxjx2j" name="dt_diName.png" path="/resource/" scale="9grid" scale9grid="27,24,19,48"/>
+    <image id="hxjx2k" name="dt_di_Downleft.png" path="/resource/"/>
+    <image id="hxjx2l" name="dt_iconGonggao.png" path="/resource/"/>
+    <image id="hxjx2m" name="dt_kmd.png" path="/resource/"/>
+    <image id="hxjx2n" name="dt_ms.png" path="/resource/"/>
+    <image id="hxjx2o" name="dt_rz.png" path="/resource/"/>
+    <image id="hxjx2p" name="dt_tips1.png" path="/resource/"/>
+    <image id="hxjx2q" name="dt_tips2.png" path="/resource/"/>
+    <image id="hxjx2r" name="dt_touxiangLinshi.png" path="/resource/"/>
+    <image id="hxjx2s" name="dt_xin.png" path="/resource/"/>
+    <image id="hxjx2t" name="dt_xyqp.jpg" path="/resource/"/>
+    <image id="hxjx2u" name="dt_yrz.png" path="/resource/"/>
+    <image id="hxjx2v" name="dt_zuan.png" path="/resource/"/>
+    <image id="hxjx2w" name="role_dt.png" path="/resource/"/>
+    <image id="iq3l2x" name="dt_pkf_fh.png" path="/resource/"/>
   </resources>
   <publish name="lobby_main"/>
 </packageDescription>

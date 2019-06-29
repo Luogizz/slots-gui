@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="188,78" pivot="0.5,0.5" extention="Button">
+<component size="148,520" pivot="0.5,0.5" extention="Button">
   <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
   <displayList>
-    <image id="n0_jrto" name="n0" src="jrto1n" fileName="大厅_slices/cjfj_yq_liang.png" xy="0,0">
+    <image id="n0_jrto" name="n0" src="hxjx21" fileName="resource/btn_cjfj.png" xy="0,0">
       <relation target="" sidePair="width-width,height-height"/>
     </image>
-    <image id="n1_jrto" name="n1" src="jrto1m" fileName="大厅_slices/cjfj_bt.png" xy="23,17"/>
   </displayList>
-  <Button downEffect="scale" downEffectValue="0.80"/>
+  <Button downEffect="scale" downEffectValue="0.95"/>
 </component>

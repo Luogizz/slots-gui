@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="104,60" pivot="0.5,0.5" extention="Button">
+<component size="78,78" pivot="0.5,0.5" extention="Button">
   <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
   <displayList>
-    <image id="n0_d5oe" name="n0" src="d5oep" fileName="大厅_slices/消息@2x.png" xy="0,0">
+    <image id="n0_d5oe" name="n0" src="hxjx2d" fileName="resource/btn_mail.png" xy="0,0">
       <relation target="" sidePair="width-width,height-height"/>
     </image>
-    <image id="n1_t23f" name="redPoint" src="t23f1w" fileName="大厅_slices/red-point.png" xy="46,-9" hideByEditor="true" visible="false"/>
+    <image id="n1_t23f" name="redPoint" src="t23f1w" fileName="大厅_slices/red-point.png" xy="55,-2" hideByEditor="true" visible="false"/>
   </displayList>
   <Button downEffect="scale" downEffectValue="0.80"/>
 </component>
