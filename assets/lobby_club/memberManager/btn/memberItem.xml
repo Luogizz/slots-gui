@@ -5,7 +5,8 @@
     <image id="n0_j6fx" name="bg1" src="j6fxax" fileName="resource/切图/zj_di_dyj.png" xy="0,0" size="278,84">
       <relation target="" sidePair="width-width,height-height"/>
     </image>
-    <image id="n4_j6fx" name="icon" src="j6fxb1" fileName="resource/切图/wdpyq_txk_q.png" xy="13,6" size="75,75"/>
+    <image id="n4_j6fx" name="icon" src="is8o8e" fileName="resource/切图/q_wjtxk.png" xy="13,6" size="75,75"/>
+    <loader id="n5_r54k" name="loader" xy="16,8" size="70,68" align="center" vAlign="middle" fill="scale"/>
     <image id="n3_j6fx" name="owner" src="j6fxb0" fileName="resource/切图/bq_gz.png" xy="-1,0"/>
     <text id="n1_j6fx" name="name" xy="97,17" size="169,30" fontSize="22" color="#96693a" vAlign="middle" letterSpacing="-1" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="玩家名字七个字"/>
     <text id="n2_j6fx" name="id" xy="97,49" size="169,30" fontSize="22" color="#96693a" vAlign="middle" letterSpacing="-1" autoSize="none" singleLine="true" autoClearText="true" text="ID : 12345"/>

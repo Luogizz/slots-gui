@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640" designImage="ui://vil278bs100i3d3" designImageAlpha="100">
+  <controller name="view" pages="0,任命群管,1,添加群管" selected="1"/>
+  <displayList>
+    <image id="n3_100i3" name="bg" src="c3rla9" fileName="bg/ty_tanchuang2.png" pkg="wkrvvhuq" xy="193,78" size="739,482"/>
+    <image id="n4_100i3" name="titmeBg" src="c3rlaa" fileName="bg/ty_tanchuang2_biaoti.png" pkg="wkrvvhuq" xy="440,78"/>
+    <image id="n40_g9uc" name="n40" src="g9uc3db" fileName="appointManager/resource/bt_tjgl.png" xy="491,89">
+      <gearDisplay controller="view" pages="1"/>
+    </image>
+    <image id="n43_g9uc" name="bg3" src="j6fxb6" fileName="resource/切图/cg_srk.png" xy="308,166" size="392,47" alpha="0.8">
+      <gearDisplay controller="view" pages="1"/>
+    </image>
+    <image id="n5_100i3" name="title" src="g9uc3da" fileName="appointManager/resource/bt_rmqg.png" xy="491,89">
+      <gearDisplay controller="view" pages="0"/>
+    </image>
+    <component id="n45_g9uc" name="findBtn" src="j6fxb8" fileName="memberManager/btn/findBtn.xml" xy="714,165">
+      <gearDisplay controller="view" pages="1"/>
+    </component>
+    <component id="n7_100i3" name="closeBtn" src="c3rla8" fileName="btn/closeBtn.xml" xy="814,45" scale="0.95,0.95"/>
+    <text id="n44_g9uc" name="inputField" xy="341,175" size="307,31" input="true" prompt="输入群员ID查找" maxLength="5" keyboardType="4" fontSize="24" autoSize="none" singleLine="true" autoClearText="true" text="">
+      <gearDisplay controller="view" pages="1"/>
+    </text>
+    <text id="n8_g9uc" name="text" xy="280,164" size="338,57" fontSize="24" color="#96693a" leading="2" autoSize="none" text="最多任命 2 个群管&#xA;群管只有审批入群和踢人的权限">
+      <gearDisplay controller="view" pages="0"/>
+    </text>
+    <list id="n39_g9uc" name="managerList" xy="277,229" size="576,284" overflow="hidden" lineGap="5" defaultItem="ui://vil278bsg9uc3di" autoClearItems="true">
+      <gearDisplay controller="view" pages="0"/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n42_g9uc" name="memberList" xy="277,229" size="576,284" overflow="scroll" scrollBar="hidden" lineGap="5" defaultItem="ui://vil278bsg9uc3di" autoClearItems="true">
+      <gearDisplay controller="view" pages="1"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

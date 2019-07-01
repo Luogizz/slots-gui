@@ -6,28 +6,34 @@
     <image id="onfo4" name="cjfj_di_f.png" path="/resource/"/>
     <image id="onfo5" name="cjfj_gou.png" path="/resource/"/>
     <component id="onfo6" name="createRoom.xml" path="/" exported="true"/>
-    <image id="kdqvh" name="cjfj_yq_liang.png" path="/resource/"/>
     <image id="kdqvi" name="type_7w253.png" path="/resource/"/>
     <image id="kdqvj" name="type_ddz.png" path="/resource/"/>
     <image id="kdqvk" name="type_dfgz.png" path="/resource/"/>
     <image id="kdqvl" name="type_dfmj.png" path="/resource/"/>
-    <component id="kdqvt" name="btnDFMJ.xml" path="/"/>
-    <image id="kdqvu" name="cjfj_yq_an.png" path="/resource/"/>
     <component id="kdqvx" name="gzRoom.xml" path="/" exported="true"/>
-    <image id="kdqv19" name="cjfj_bq_di.png" path="/resource/" scale="9grid" scale9grid="73,160,147,238"/>
     <component id="kdqv1f" name="btnCreateRoom.xml" path="/"/>
     <component id="kdqv1g" name="mjRoom.xml" path="/" exported="true"/>
     <component id="kdqv1i" name="btnClose.xml" path="/"/>
     <image id="hqw91q" name="dt_zuan.png" path="/resource/"/>
     <component id="hqw91r" name="diamondConsume.xml" path="/"/>
     <component id="h59f1s" name="btnDDZ.xml" path="/"/>
-    <component id="h59f1t" name="btnGZ.xml" path="/"/>
     <component id="h59f1y" name="radioButton.xml" path="/"/>
     <component id="h59f23" name="checkBox.xml" path="/"/>
-    <component id="cr3i25" name="btnZJMJ.xml" path="/"/>
     <component id="cr3i26" name="zjmjRoom.xml" path="/" exported="true"/>
     <component id="mw1f27" name="back.xml" path="/"/>
     <image id="mw1f28" name="pjhf_fanhui.png" path="/"/>
+    <component id="t23f29" name="btnSaveConfig.xml" path="/"/>
+    <image id="t23f2a" name="cjfj_bt.png" path="/resource/"/>
+    <image id="t23f2b" name="q_sz.png" path="/resource/"/>
+    <image id="t23f2c" name="ty_zi_qd_d.png" path="/resource/"/>
+    <image id="t23f2d" name="q_zjsz.png" path="/resource/"/>
+    <component id="t23f2f" name="spaceBtn.xml" path="/"/>
+    <component id="t23f2g" name="btnDFMJ.xml" path="/"/>
+    <component id="t23f2h" name="btnGZ.xml" path="/"/>
+    <component id="t23f2i" name="btnZJMJ.xml" path="/"/>
+    <image id="t23f2j" name="c_创建房间.jpg" path="/效果图/"/>
+    <image id="t23f2k" name="c_创建房间06_加游戏类型标（背景合层）.jpg" path="/效果图/"/>
+    <image id="t23f2l" name="c_创建房间_标注1.jpg" path="/效果图/"/>
   </resources>
   <publish name="lobby_create_room"/>
 </packageDescription>

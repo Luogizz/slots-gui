@@ -7,10 +7,14 @@
     <image id="n39_hshz" name="bg3" src="hshz1h" fileName="resource/zj_4_di.png" xy="467,62" size="207,96"/>
     <image id="n40_hshz" name="bg4" src="hshz1h" fileName="resource/zj_4_di.png" xy="691,62" size="207,96"/>
     <image id="n10_cr3i" name="arrow" src="cr3i1a" fileName="resource/zj_jt.png" xy="877,17"/>
-    <image id="n12_cr3i" name="iconFrame1" src="kq45c" fileName="resource/zj_srk.png" xy="25,72" size="79,77"/>
-    <image id="n18_hshz" name="iconFrame2" src="kq45c" fileName="resource/zj_srk.png" xy="251,72" size="79,77"/>
-    <image id="n24_hshz" name="iconFrame3" src="kq45c" fileName="resource/zj_srk.png" xy="473,72" size="79,77"/>
-    <image id="n30_hshz" name="iconFrame4" src="kq45c" fileName="resource/zj_srk.png" xy="700,72" size="79,77"/>
+    <loader id="n42_t23f" name="loader1" xy="27,74" size="75,74"/>
+    <loader id="n43_t23f" name="loader2" xy="253,74" size="75,74"/>
+    <loader id="n44_t23f" name="loader3" xy="475,74" size="75,74"/>
+    <loader id="n45_t23f" name="loader4" xy="702,74" size="75,74"/>
+    <image id="n12_cr3i" name="iconFrame1" src="kq45d" fileName="resource/zj_bk.png" xy="25,72" size="79,77"/>
+    <image id="n18_hshz" name="iconFrame2" src="kq45d" fileName="resource/zj_bk.png" xy="251,72" size="79,77"/>
+    <image id="n24_hshz" name="iconFrame3" src="kq45d" fileName="resource/zj_bk.png" xy="473,72" size="79,77"/>
+    <image id="n30_hshz" name="iconFrame4" src="kq45d" fileName="resource/zj_bk.png" xy="700,72" size="79,77"/>
     <image id="n11_cr3i" name="owner1" src="kq45e" fileName="resource/zj_fanzhu.png" xy="19,70" size="21,42"/>
     <image id="n19_hshz" name="owner2" src="kq45e" fileName="resource/zj_fanzhu.png" xy="245,70"/>
     <image id="n25_hshz" name="owner3" src="kq45e" fileName="resource/zj_fanzhu.png" xy="467,70"/>

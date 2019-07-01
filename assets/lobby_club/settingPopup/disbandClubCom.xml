@@ -6,7 +6,7 @@
     <image id="n2_lulw" name="bg1" src="h59ff" fileName="bg/ty_di_pic1.png" pkg="wkrvvhuq" xy="279,151" size="558,240"/>
     <component id="n4_lulw" name="confirmBtn" src="lulwcm" fileName="settingPopup/confirmBtn.xml" xy="444,420"/>
     <component id="n1_lulw" name="closeBtn" src="c3rla8" fileName="btn/closeBtn.xml" xy="821,43"/>
-    <richtext id="n12_lulw" name="confirmText" xy="325,217" size="469,41" fontSize="32" color="#527983" vAlign="middle" letterSpacing="1" autoSize="none" bold="true" singleLine="true" text="确定要解散&lt;font color=&quot;#96693a&quot;> 群名有七个字 &lt;/font>吗?"/>
+    <richtext id="n12_lulw" name="confirmText" xy="325,217" size="469,41" fontSize="32" color="#527983" align="center" vAlign="middle" letterSpacing="1" autoSize="none" bold="true" singleLine="true" text="确定要解散&lt;font color=&quot;#96693a&quot;> 群名有七个字 &lt;/font>吗?"/>
     <text id="n13_lulw" name="text" xy="304,274" size="512,69" fontSize="24" color="#96693a" vAlign="middle" autoSize="none" bold="true" text="确定后解散消息将由官方运营人员进行审核.审核通过后将自动解散,并以邮件的消息通知你！"/>
   </displayList>
 </component>

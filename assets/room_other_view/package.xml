@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="c1drhdc2" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="gukr0" name="disband_room.xml" path="/" exported="true"/>
+    <image id="gukr1" name="bg.png" path="/resource/解散/"/>
+    <image id="gukr2" name="jsfj.png" path="/resource/解散/"/>
+    <component id="gukr3" name="agree_button.xml" path="/disbandRoom/"/>
+    <image id="gukr4" name="an_h.png" path="/resource/解散/"/>
+    <image id="gukr5" name="an_ty.png" path="/resource/解散/"/>
+    <component id="gukr6" name="unagree_button.xml" path="/disbandRoom/"/>
+    <image id="gukr7" name="an_4zl.png" path="/resource/解散/"/>
+    <image id="gukr8" name="an_bty.png" path="/resource/解散/"/>
+    <component id="gukr9" name="disband_room_player.xml" path="/disbandRoom/"/>
+    <image id="gukra" name="y_xxk.png" path="/resource/解散/" scale="9grid" scale9grid="32,32,64,64" gridTile="16"/>
+    <image id="gukrb" name="zt_gou.png" path="/resource/解散/"/>
+    <image id="gukrc" name="x.png" path="/resource/解散/"/>
+    <image id="gukrd" name="wenhao.png" path="/resource/解散/"/>
+    <component id="qly1e" name="arrowBtn.xml" path="/settingRoom/"/>
+    <image id="qly1f" name="gze.png" path="/resource/s_设置/"/>
+    <component id="qly1g" name="bar.xml" path="/settingRoom/"/>
+    <image id="qly1h" name="jdtman.png" path="/resource/s_设置/"/>
+    <image id="qly1i" name="syin.png" path="/resource/s_设置/"/>
+    <component id="qly1j" name="blueColorBtn.xml" path="/settingRoom/"/>
+    <image id="qly1k" name="pls_hui.png" path="/resource/s_设置/"/>
+    <image id="qly1l" name="pls.png" path="/resource/s_设置/"/>
+    <component id="qly1m" name="classColorBtn.xml" path="/settingRoom/"/>
+    <image id="qly1n" name="jds_hui.png" path="/resource/s_设置/"/>
+    <image id="qly1o" name="jds.png" path="/resource/s_设置/"/>
+    <component id="qly1p" name="closeBtn.xml" path="/settingRoom/"/>
+    <image id="qly1q" name="szgb.png" path="/resource/s_设置/"/>
+    <component id="qly1r" name="disbandBtn.xml" path="/settingRoom/"/>
+    <image id="qly1s" name="sqjs.png" path="/resource/s_设置/"/>
+    <component id="qly1t" name="setting.xml" path="/" exported="true"/>
+    <image id="qly1u" name="beiban.png" path="/resource/s_设置/"/>
+    <image id="qly1v" name="fengge.png" path="/resource/s_设置/"/>
+    <image id="qly1w" name="shuipinx.png" path="/resource/s_设置/"/>
+    <image id="qly1x" name="yxgze.png" path="/resource/s_设置/"/>
+    <component id="qly1y" name="shutdownBtn.xml" path="/settingRoom/"/>
+    <image id="qly1z" name="guanbi.png" path="/resource/s_设置/"/>
+    <image id="qly112" name="yyue.png" path="/resource/s_设置/"/>
+    <image id="t23f14" name="tcfj.png" path="/resource/s_设置/"/>
+    <component id="t23f15" name="exitBtn.xml" path="/settingRoom/"/>
+    <image id="t23f16" name="ty_jdtBottom.png" path="/resource/s_设置/" scale="9grid" scale9grid="19,0,106,22"/>
+    <image id="t23f17" name="ty_jdtColor.png" path="/resource/s_设置/" scale="9grid" scale9grid="13,0,114,22"/>
+    <component id="t23f18" name="soundSlider_grip.xml" path="/settingRoom/"/>
+    <component id="t23f19" name="soundSlider.xml" path="/settingRoom/"/>
+    <component id="t23f1b" name="musixSleder_grip.xml" path="/settingRoom/"/>
+    <component id="t23f1c" name="musixSleder.xml" path="/settingRoom/"/>
+  </resources>
+  <publish name="room_other_view"/>
+</packageDescription>

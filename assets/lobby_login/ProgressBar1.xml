@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="1136,25" extention="ProgressBar">
+<component size="1136,16" extention="ProgressBar">
   <displayList>
-    <graph id="n0_acmd" name="n0" xy="0,0" size="1136,25" type="rect" lineColor="#ffa0a0a0" fillColor="#fff0f0f0">
+    <image id="n0_acmd" name="n0" src="iq3lc" fileName="login/zhdl_jdt_di.png" xy="0,-1" size="1136,16">
       <relation target="" sidePair="width-width,height-height"/>
-    </graph>
-    <graph id="n1_acmd" name="bar" xy="0,2" size="1136,20" type="rect" lineSize="0" fillColor="#ff3399ff"/>
-    <text id="n2_acmd" name="title" xy="543,0" size="50,25" fontSize="12" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="100%&#xA;"/>
+    </image>
+    <image id="n1_acmd" name="bar" src="iq3ld" fileName="login/zhdl_jdt_yanse.png" xy="0,0"/>
   </displayList>
   <ProgressBar/>
 </component>

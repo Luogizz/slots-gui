@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="187,307" designImage="ui://vil278bsx2fzct" designImageOffsetX="-124" designImageOffsetY="-250" designImageAlpha="0">
+  <controller name="toggle" pages="0,all,1,df,2,zj" selected="0"/>
+  <displayList>
+    <image id="n0_x2fz" name="bg" src="x2fzcv" fileName="filterPopup/resource/cgTips_diban.png" xy="0,0" size="198,307"/>
+    <component id="n1_x2fz" name="allBtn" src="x2fzd1" fileName="filterPopup/resource/allGame.xml" xy="18,26">
+      <Button checked="true" controller="toggle" page="0"/>
+    </component>
+    <component id="n3_x2fz" name="dfmj" src="x2fzcz" fileName="filterPopup/resource/dfmj.xml" xy="18,114">
+      <Button controller="toggle" page="1"/>
+    </component>
+    <component id="n4_x2fz" name="zjmj" src="x2fzd0" fileName="filterPopup/resource/zjmj.xml" xy="18,202">
+      <Button controller="toggle" page="2"/>
+    </component>
+    <image id="n6_x2fz" name="line1" src="x2fzcw" fileName="filterPopup/resource/cgTips_line.png" xy="16,192"/>
+    <image id="n2_x2fz" name="line2" src="x2fzcw" fileName="filterPopup/resource/cgTips_line.png" xy="18,104"/>
+  </displayList>
+</component>

@@ -7,7 +7,7 @@
     <component id="n4_lulw" name="confirmBtn" src="lulwcm" fileName="settingPopup/confirmBtn.xml" xy="444,420"/>
     <component id="n1_lulw" name="closeBtn" src="c3rla8" fileName="btn/closeBtn.xml" xy="821,43"/>
     <image id="n7_lulw" name="bg2" src="is8o88" fileName="resource/切图/q_srk.png" xy="311,258" size="499,48"/>
-    <text id="n3_lulw" name="n3" xy="387,198" size="379,41" fontSize="32" color="#527983" vAlign="middle" letterSpacing="1" bold="true" singleLine="true" text="请输入您要修改的新群名"/>
+    <text id="n3_lulw" name="n3" xy="361,198" size="402,41" fontSize="32" color="#527983" align="center" vAlign="middle" letterSpacing="1" bold="true" singleLine="true" text="请输入您要修改的新群名"/>
     <text id="n8_lulw" name="inputField" xy="326,264" size="472,34" input="true" prompt="点击此处，输入您的亲友圈名字" maxLength="7" fontSize="24" color="#b78957" align="center" vAlign="middle" ubb="true" autoSize="none" bold="true" singleLine="true" text=""/>
     <richtext id="n6_lulw" name="needDiamondText" xy="392,318" size="305,33" fontSize="24" color="#96693a" autoSize="none" bold="true" singleLine="true" text="修改需要花费&lt;font color=&quot;#527983&quot;> 300 &lt;/font> (钻石)"/>
   </displayList>

@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <packageDescription id="gcpb6umq" jpegQuality="80" compressPNG="true">
   <resources>
-    <image id="e27g0" name="an_h.png" path="/login/" exported="true"/>
-    <image id="e27g1" name="bg@2x.png" path="/login/" exported="true"/>
-    <image id="e27g2" name="btn_KSYX.png" path="/login/" exported="true"/>
-    <image id="e27g3" name="btn_weixin.png" path="/login/" exported="true"/>
+    <image id="e27g0" name="an_h.png" path="/login/"/>
+    <image id="e27g2" name="btn_KSYX.png" path="/login/"/>
+    <image id="e27g3" name="btn_weixin.png" path="/login/"/>
     <component id="e27g4" name="login.xml" path="/" exported="true"/>
     <component id="e27g6" name="login_button.xml" path="/"/>
     <component id="e27g7" name="weixin_button.xml" path="/"/>
     <component id="acmd8" name="ProgressBar1.xml" path="/"/>
+    <image id="iq3l9" name="loading2.jpg" path="/login/"/>
+    <image id="iq3la" name="bj_loading.jpg" path="/login/"/>
+    <image id="iq3lb" name="loading1.jpg" path="/login/"/>
+    <image id="iq3lc" name="zhdl_jdt_di.png" path="/login/" scale="9grid" scale9grid="2,4,4,8"/>
+    <image id="iq3ld" name="zhdl_jdt_yanse.png" path="/login/"/>
+    <image id="w0ywe" name="ty_btn2_cheng.png" path="/login/"/>
   </resources>
   <publish name="lobby_login"/>
 </packageDescription>

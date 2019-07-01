@@ -2,15 +2,17 @@
 <component size="188,78" extention="Button">
   <controller name="button" pages="0,up,1,down" selected="0"/>
   <displayList>
-    <image id="n0_kdqv" name="n0" src="kdqvh" fileName="resource/cjfj_yq_liang.png" xy="0,0">
-      <gearDisplay controller="button" pages="0,1"/>
+    <image id="n4_t23f" name="n4" src="t23f1q" fileName="bg/cjfj_yq_liang.png" pkg="wkrvvhuq" xy="2,2" size="188,77">
+      <gearDisplay controller="button" pages="1"/>
       <relation target="" sidePair="width-width,height-height"/>
     </image>
-    <image id="n4_h59f" name="n4" src="kdqvl" fileName="resource/type_dfmj.png" xy="12,9"/>
-    <text id="n2_kdqv" name="n2" xy="67,22" size="110,34" fontSize="25" color="#333366" align="center" vAlign="middle" bold="true" text="湛江麻将"/>
-    <image id="n3_h59f" name="n3" src="kdqvu" fileName="resource/cjfj_yq_an.png" xy="0,0">
+    <image id="n5_t23f" name="n5" src="t23f1r" fileName="bg/cjfj_yq_an.png" pkg="wkrvvhuq" xy="2,2" size="188,77" alpha="0.5">
       <gearDisplay controller="button" pages="0"/>
+      <gearLook controller="button" pages="0" values="0.5,0,0,1" default="1,0,0,1"/>
     </image>
+    <text id="n6_t23f" name="n6" xy="30,21" size="131,34" fontSize="25" color="#055761" align="center" vAlign="middle" autoSize="none" bold="true" text="湛江麻将">
+      <gearColor controller="button" pages="0" values="#055761,#000000" default="#e8facc,#000000"/>
+    </text>
   </displayList>
   <Button mode="Radio"/>
 </component>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640" designImage="ui://vil278bsis8o6p" designImageAlpha="100">
+  <controller name="hasConfig" pages="0,yes,1,no" selected="0"/>
+  <displayList>
+    <image id="n3_100i3" name="bg" src="c3rla9" fileName="bg/ty_tanchuang2.png" pkg="wkrvvhuq" xy="193,78" size="739,482"/>
+    <image id="n4_100i3" name="titmeBg" src="c3rlaa" fileName="bg/ty_tanchuang2_biaoti.png" pkg="wkrvvhuq" xy="433,78" size="256,66"/>
+    <component id="n7_100i3" name="closeBtn" src="c3rla8" fileName="btn/closeBtn.xml" xy="814,45" scale="0.95,0.95"/>
+    <image id="n5_100i3" name="title" src="is8o79" fileName="resource/切图/q_1jzj.png" xy="470,90"/>
+    <image id="n48_t23f" name="n48" src="is8o7k" fileName="resource/切图/q_cjk9g.png" xy="265,192" size="599,268"/>
+    <component id="n51_t23f" name="editBtn" src="t23f63dp" fileName="quicklyCreateRoom/editBtn.xml" xy="445,464"/>
+    <text id="n47_t23f" name="text1" xy="315,154" size="497,33" fontSize="22" color="#96693a" align="center" vAlign="middle" letterSpacing="-1" autoSize="none" bold="true" singleLine="true" text="亲友圈成员可以使用一键组局开设设定好的房间"/>
+    <text id="n49_t23f" name="text2" xy="310,265" size="497,82" fontSize="22" color="#96693a" align="center" vAlign="middle" leading="15" letterSpacing="-1" autoSize="none" bold="true" text="您还未设定一键组局配置&#xA;可点击下方 “编辑” 一键组局的房间配置">
+      <gearDisplay controller="hasConfig" pages="1"/>
+    </text>
+    <text id="n53_t23f" name="text4" xy="291,203" size="149,30" fontSize="22" color="#96693a" vAlign="middle" leading="5" letterSpacing="-1" autoSize="none" bold="true" singleLine="true" text="一键组局配置   :">
+      <gearDisplay controller="hasConfig" pages="0"/>
+    </text>
+    <component id="n54_t23f" name="textComponent" src="t23f63dq" fileName="quicklyCreateRoom/textComponent.xml" xy="289,236" size="531,217"/>
+  </displayList>
+</component>

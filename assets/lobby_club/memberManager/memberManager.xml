@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="1136,640" designImage="ui://vil278bsj6fxad" designImageAlpha="100">
+<component size="1136,640" designImage="ui://vil278bsj6fxah" designImageAlpha="100">
   <controller name="c1" pages="0,成员列表,1,申请信息,2,删除成员" selected="0"/>
+  <controller name="isManager" pages="0,no,1,yes" selected="0"/>
   <displayList>
     <image id="n12_j6fx" name="bg1" src="c3rla9" fileName="bg/ty_tanchuang2.png" pkg="wkrvvhuq" xy="194,78" size="739,482"/>
     <image id="n15_j6fx" name="titmeBg" src="c3rlaa" fileName="bg/ty_tanchuang2_biaoti.png" pkg="wkrvvhuq" xy="444,79" size="244,66"/>
-    <image id="n19_j6fx" name="bg2" src="j6fxb3" fileName="resource/切图/cg_di1.png" xy="263,155" size="600,375"/>
-    <image id="n20_j6fx" name="bg3" src="j6fxb6" fileName="resource/切图/cg_srk.png" xy="305,219" size="392,47" alpha="0.8"/>
     <image id="n16_j6fx" name="title" src="j6fxan" fileName="resource/切图/bt_cygl.png" xy="504,89"/>
+    <image id="n19_j6fx" name="bg2" src="j6fxb3" fileName="resource/切图/cg_di1.png" xy="263,230" size="600,299">
+      <gearXY controller="isManager" pages="0" values="263,230" default="263,155"/>
+      <gearSize controller="isManager" pages="0" values="600,299,1,1" default="600,375,1,1"/>
+    </image>
     <component id="n14_j6fx" name="closeBtn" src="c3rla8" fileName="btn/closeBtn.xml" xy="815,46" scale="0.95,0.95"/>
-    <component id="n4_tjkx" name="memberListBtn" src="tjkx23" fileName="memberManager/btn/memberListBtn.xml" xy="265,158">
-      <Button checked="true" controller="c1" page="0"/>
-    </component>
-    <component id="n6_tjkx" name="applyListBtn" src="j6fxau" fileName="memberManager/btn/applyListBtn.xml" xy="464,158">
-      <Button controller="c1" page="1"/>
-    </component>
-    <component id="n7_tjkx" name="deleteMemberBtn" src="j6fxav" fileName="memberManager/btn/deleteMemberBtn.xml" xy="661,158">
-      <Button controller="c1" page="2"/>
-    </component>
-    <component id="n22_j6fx" name="findBtn" src="j6fxb8" fileName="memberManager/btn/findBtn.xml" xy="710,218"/>
-    <list id="n18_j6fx" name="memberList" xy="273,277" size="587,250" layout="flow_hz" overflow="scroll" scrollBar="visible" scrollBarRes="ui://vil278bscr3ibg," lineGap="3" colGap="10" defaultItem="ui://vil278bsj6fxaz" autoClearItems="true">
+    <list id="n18_j6fx" name="memberList" xy="273,239" size="587,285" layout="flow_hz" overflow="scroll" scrollBar="visible" scrollBarRes="ui://vil278bscr3ibg," lineGap="3" colGap="10" defaultItem="ui://vil278bsj6fxaz" autoClearItems="true">
       <gearDisplay controller="c1" pages="0"/>
+      <gearXY controller="isManager" pages="1" values="273,277" default="273,239"/>
+      <gearSize controller="isManager" pages="0" values="587,285,1,1" default="587,250,1,1"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
       <item/>
       <item/>
     </list>
@@ -41,6 +42,23 @@
       <item/>
       <item/>
     </list>
-    <text id="n23_j6fx" name="inputField" xy="338,228" size="307,31" input="true" prompt="输入群员ID查找" maxLength="5" keyboardType="4" fontSize="24" autoSize="none" singleLine="true" autoClearText="true" text=""/>
+    <component id="n4_tjkx" name="memberListBtn" src="tjkx23" fileName="memberManager/btn/memberListBtn.xml" xy="265,158" group="n28_x2fz">
+      <Button checked="true" controller="c1" page="0"/>
+    </component>
+    <component id="n6_tjkx" name="applyListBtn" src="j6fxau" fileName="memberManager/btn/applyListBtn.xml" xy="464,158" group="n28_x2fz">
+      <Button controller="c1" page="1"/>
+    </component>
+    <component id="n7_tjkx" name="deleteMemberBtn" src="j6fxav" fileName="memberManager/btn/deleteMemberBtn.xml" xy="661,158" group="n28_x2fz">
+      <Button controller="c1" page="2"/>
+    </component>
+    <group id="n28_x2fz" name="toggleCombination" xy="265,158" size="594,54" advanced="true" collapsed="true">
+      <gearDisplay controller="isManager" pages="1"/>
+    </group>
+    <image id="n20_j6fx" name="bg3" src="j6fxb6" fileName="resource/切图/cg_srk.png" xy="305,166" size="392,47" group="n26_x2fz" alpha="0.8"/>
+    <text id="n23_j6fx" name="inputField" xy="338,175" size="307,31" group="n26_x2fz" input="true" prompt="输入群员ID查找" maxLength="5" keyboardType="4" fontSize="24" autoSize="none" singleLine="true" autoClearText="true" text=""/>
+    <component id="n22_j6fx" name="findBtn" src="j6fxb8" fileName="memberManager/btn/findBtn.xml" xy="710,165" group="n26_x2fz"/>
+    <group id="n26_x2fz" name="findCombination" xy="305,165" size="521,54" advanced="true" collapsed="true">
+      <gearXY controller="isManager" pages="0" values="305,165" default="305,217"/>
+    </group>
   </displayList>
 </component>

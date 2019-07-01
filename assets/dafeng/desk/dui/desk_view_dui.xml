@@ -18,6 +18,6 @@
     <graph id="n13_fxwe" name="aniPos" xy="574,156" pivot="0.5,0.5" size="0,0" visible="false"/>
     <component id="n14_g0pr" name="discardTip" src="g0pr182" fileName="desk/dui/discard_tip.xml" xy="501,104" visible="false"/>
     <graph id="n15_rh8w" name="userInfoPos" xy="357,40" size="20,26"/>
-    <component id="n17_dtxt" name="qipao" src="dtxt18y" fileName="desk/qipao2.xml" xy="410,52" visible="false"/>
+    <component id="n17_dtxt" name="qipao" src="dtxt18y" fileName="qipao2.xml" xy="410,52" visible="false"/>
   </displayList>
 </component>

@@ -500,20 +500,6 @@
     <component id="fxwe17j" name="again_button.xml" path="/handResult/"/>
     <component id="fxwe17k" name="share_button.xml" path="/handResult/"/>
     <component id="fxwe17l" name="back_hall_button.xml" path="/gameOver/"/>
-    <component id="fxwe17m" name="disband_room.xml" path="/" exported="true"/>
-    <image id="fxwe17n" name="bg.png" path="/大丰关张美术资源/切图/f_房间设置/"/>
-    <image id="fxwe17o" name="jsfj.png" path="/大丰关张美术资源/切图/j_解散房间/"/>
-    <component id="fxwe17p" name="agree_button.xml" path="/disbandRoom/"/>
-    <image id="fxwe17q" name="an_h.png" path="/大丰关张美术资源/切图/t_通用/"/>
-    <image id="fxwe17r" name="an_ty.png" path="/大丰关张美术资源/切图/j_解散房间/"/>
-    <component id="fxwe17s" name="unagree_button.xml" path="/disbandRoom/"/>
-    <image id="fxwe17t" name="an_4zl.png" path="/大丰关张美术资源/切图/t_通用/"/>
-    <image id="fxwe17u" name="an_bty.png" path="/大丰关张美术资源/切图/j_解散房间/"/>
-    <component id="fxwe17v" name="disband_room_player.xml" path="/disbandRoom/"/>
-    <image id="fxwe17w" name="y_xxk.png" path="/大丰关张美术资源/切图/j_解散房间/" scale="9grid" scale9grid="32,32,64,64" gridTile="16"/>
-    <image id="fxwe17x" name="zt_gou.png" path="/大丰关张美术资源/切图/j_解散房间/"/>
-    <image id="fxwe17y" name="x.png" path="/大丰关张美术资源/切图/j_解散房间/"/>
-    <image id="fxwe17z" name="wenhao.png" path="/大丰关张美术资源/切图/j_解散房间/"/>
     <image id="fxwe180" name="zhua.png" path="/大丰麻将美术改版/2 游戏内/切图/出牌按钮/"/>
     <component id="fxwe181" name="zhua_button.xml" path="/desk/button/" exported="true"/>
     <component id="g0pr182" name="discard_tip.xml" path="/desk/dui/"/>
@@ -521,16 +507,6 @@
     <component id="g0pr184" name="discard_tip.xml" path="/desk/mine/"/>
     <component id="g0pr185" name="discard_tip.xml" path="/desk/right/"/>
     <component id="rh8w186" name="check_ting_button.xml" path="/desk/"/>
-    <component id="y5pf187" name="arrowBtn.xml" path="/settingRoom/"/>
-    <component id="y5pf188" name="bar.xml" path="/settingRoom/"/>
-    <component id="y5pf189" name="blueColorBtn.xml" path="/settingRoom/"/>
-    <component id="y5pf18a" name="classColorBtn.xml" path="/settingRoom/"/>
-    <component id="y5pf18b" name="closeBtn.xml" path="/settingRoom/"/>
-    <component id="y5pf18c" name="disbandBtn.xml" path="/settingRoom/"/>
-    <component id="y5pf18d" name="setting.xml" path="/settingRoom/" exported="true"/>
-    <component id="y5pf18e" name="shutdownBtn.xml" path="/settingRoom/"/>
-    <component id="y5pf18f" name="Slider_grip.xml" path="/settingRoom/"/>
-    <component id="y5pf18g" name="soundSlider_grip.xml" path="/settingRoom/"/>
     <component id="y5pf18h" name="checkBox.xml" path="/roomRule/"/>
     <component id="y5pf18i" name="radioButton.xml" path="/roomRule/"/>
     <component id="y5pf18j" name="room_rule_view.xml" path="/roomRule/" exported="true"/>
@@ -545,11 +521,15 @@
     <component id="y5pf18s" name="meld_cancel_button.xml" path="/desk/"/>
     <component id="mw1f18t" name="back.xml" path="/"/>
     <image id="mw1f18u" name="pjhf_fanhui.png" path="/"/>
-    <image id="dtxt18v" name="ltqp_qp01.png" path="/大丰麻将美术改版/2 游戏内/切图/" scale="9grid" scale9grid="32,33,9,3" gridTile="16"/>
-    <image id="dtxt18w" name="ltqp_qp_sj.png" path="/大丰麻将美术改版/2 游戏内/切图/" scale="9grid" scale9grid="27,30,5,6" gridTile="16"/>
-    <component id="dtxt18x" name="qipao1.xml" path="/desk/"/>
-    <component id="dtxt18y" name="qipao2.xml" path="/desk/"/>
     <component id="vej918x" name="spaceBtn.xml" path="/roomRule/" exported="true"/>
+    <component id="js7w18z" name="Component1.xml" path="/"/>
+    <image id="x2fz18z" name="fhdt.png" path="/大丰麻将美术改版/2 游戏内/切图/z_准备开始gps/"/>
+    <component id="x2fz190" name="return_lobby_btn.xml" path="/desk/"/>
+    <component id="dtxt18x" name="qipao1.xml" path="/" exported="true"/>
+    <component id="dtxt18y" name="qipao2.xml" path="/" exported="true"/>
+    <image id="ooqz191" name="ltqp_qp01.png" path="/大丰麻将美术改版/2 游戏内/切图/" scale="9grid" scale9grid="32,33,9,3" gridTile="16"/>
+    <image id="ooqz192" name="ltqp_qp_sj.png" path="/大丰麻将美术改版/2 游戏内/切图/" scale="9grid" scale9grid="27,30,5,6" gridTile="16"/>
+    <component id="qly1193" name="invite_button.xml" path="/desk/"/>
   </resources>
   <publish name="dafeng"/>
 </packageDescription>

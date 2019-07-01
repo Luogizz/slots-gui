@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1136,220" pivot="0.5,0.5" anchor="true">
   <displayList>
-    <graph id="n0_ef8p" name="n1" xy="218,106" pivot="0.5,0.5" anchor="true" size="150,210"/>
-    <graph id="n1_ef8p" name="n2" xy="268,106" pivot="0.5,0.5" anchor="true" size="150,210"/>
-    <graph id="n2_ef8p" name="n3" xy="318,106" pivot="0.5,0.5" anchor="true" size="150,210"/>
-    <graph id="n3_ef8p" name="n4" xy="368,106" pivot="0.5,0.5" anchor="true" size="150,210"/>
-    <graph id="n4_ef8p" name="n5" xy="418,106" pivot="0.5,0.5" anchor="true" size="150,210"/>
-    <graph id="n5_ef8p" name="n6" xy="468,106" pivot="0.5,0.5" anchor="true" size="150,210"/>
-    <graph id="n6_ef8p" name="n7" xy="518,106" pivot="0.5,0.5" anchor="true" size="150,210"/>
-    <graph id="n7_ef8p" name="n8" xy="568,106" pivot="0.5,0.5" anchor="true" size="150,210"/>
-    <graph id="n8_ef8p" name="n9" xy="618,106" pivot="0.5,0.5" anchor="true" size="150,210"/>
-    <graph id="n9_ef8p" name="n10" xy="668,106" pivot="0.5,0.5" anchor="true" size="150,210"/>
-    <graph id="n10_ef8p" name="n11" xy="718,106" pivot="0.5,0.5" anchor="true" size="150,210"/>
-    <graph id="n11_ef8p" name="n12" xy="768,106" pivot="0.5,0.5" anchor="true" size="150,210"/>
-    <graph id="n12_ef8p" name="n13" xy="818,106" pivot="0.5,0.5" anchor="true" size="150,210"/>
-    <graph id="n13_ef8p" name="n14" xy="868,106" pivot="0.5,0.5" anchor="true" size="150,210"/>
-    <graph id="n14_ef8p" name="n15" xy="918,106" pivot="0.5,0.5" anchor="true" size="150,210"/>
-    <graph id="n15_ef8p" name="n16" xy="968,106" pivot="0.5,0.5" anchor="true" size="150,210"/>
+    <component id="n0_ef8p" name="n1" src="ef8pcx" fileName="desk_poker_number.xml" pkg="p966ud2t" xy="218,106" size="150,210" visible="false"/>
+    <component id="n1_ef8p" name="n2" src="ef8pcx" fileName="desk_poker_number.xml" pkg="p966ud2t" xy="268,106" size="150,210" visible="false"/>
+    <component id="n2_ef8p" name="n3" src="ef8pcx" fileName="desk_poker_number.xml" pkg="p966ud2t" xy="318,106" size="150,210" visible="false"/>
+    <component id="n3_ef8p" name="n4" src="ef8pcx" fileName="desk_poker_number.xml" pkg="p966ud2t" xy="368,106" size="150,210" visible="false"/>
+    <component id="n4_ef8p" name="n5" src="ef8pcx" fileName="desk_poker_number.xml" pkg="p966ud2t" xy="418,106" size="150,210" visible="false"/>
+    <component id="n5_ef8p" name="n6" src="ef8pcx" fileName="desk_poker_number.xml" pkg="p966ud2t" xy="468,106" size="150,210" visible="false"/>
+    <component id="n6_ef8p" name="n7" src="ef8pcx" fileName="desk_poker_number.xml" pkg="p966ud2t" xy="518,106" size="150,210" visible="false"/>
+    <component id="n7_ef8p" name="n8" src="ef8pcx" fileName="desk_poker_number.xml" pkg="p966ud2t" xy="568,106" size="150,210" visible="false"/>
+    <component id="n8_ef8p" name="n9" src="ef8pcx" fileName="desk_poker_number.xml" pkg="p966ud2t" xy="618,106" size="150,210" visible="false"/>
+    <component id="n9_ef8p" name="n10" src="ef8pcx" fileName="desk_poker_number.xml" pkg="p966ud2t" xy="668,106" size="150,210" visible="false"/>
+    <component id="n10_ef8p" name="n11" src="ef8pcx" fileName="desk_poker_number.xml" pkg="p966ud2t" xy="718,106" size="150,210" visible="false"/>
+    <component id="n11_ef8p" name="n12" src="ef8pcx" fileName="desk_poker_number.xml" pkg="p966ud2t" xy="768,106" size="150,210" visible="false"/>
+    <component id="n12_ef8p" name="n13" src="ef8pcx" fileName="desk_poker_number.xml" pkg="p966ud2t" xy="818,106" size="150,210" visible="false"/>
+    <component id="n13_ef8p" name="n14" src="ef8pcx" fileName="desk_poker_number.xml" pkg="p966ud2t" xy="868,106" size="150,210" visible="false"/>
+    <component id="n14_ef8p" name="n15" src="ef8pcx" fileName="desk_poker_number.xml" pkg="p966ud2t" xy="918,106" size="150,210" visible="false"/>
+    <component id="n15_ef8p" name="n16" src="ef8pcx" fileName="desk_poker_number.xml" pkg="p966ud2t" xy="968,106" size="150,210" visible="false"/>
   </displayList>
 </component>

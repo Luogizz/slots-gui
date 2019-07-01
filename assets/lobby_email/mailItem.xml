@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="154,84" extention="Button">
+<component size="188,77" extention="Button" designImage="ui://vztvq5emt23f19" designImageOffsetX="-55" designImageOffsetY="-145" designImageAlpha="0">
   <controller name="button" pages="0,up,1,down" selected="0"/>
   <controller name="c1" pages="0,未读,1,已读" selected="0"/>
   <displayList>
-    <image id="n10" name="bg" src="h59f5" fileName="resource/bg_di.png" xy="0,2" size="154,84"/>
-    <image id="n19_h59f" name="n19" src="h59f6" fileName="resource/kuang_liang.png" xy="0,0" size="154,84">
+    <image id="n19_h59f" name="bg1" src="t23f1q" fileName="bg/cjfj_yq_liang.png" pkg="wkrvvhuq" xy="0,0" size="188,78">
       <gearDisplay controller="button" pages="1"/>
     </image>
-    <image id="n20_h59f" name="image" src="h59f9" fileName="resource/xf.png" xy="18,25" scale="0.9,0.9">
+    <image id="n26_t23f" name="bg2" src="t23f1r" fileName="bg/cjfj_yq_an.png" pkg="wkrvvhuq" xy="0,0" pivot="0.5,0">
+      <gearDisplay controller="button" pages="0"/>
+      <gearLook controller="button" default="1,0,0,1"/>
+    </image>
+    <image id="n20_h59f" name="image" src="t23f1l" fileName="resourceNew/xtxx_weidu.png" xy="0,-1" scale="0.9,0.9" alpha="0.5">
       <gearDisplay controller="c1" pages="0"/>
+      <gearLook controller="button" pages="0" values="0.5,0,0,1" default="1,0,0,1"/>
     </image>
-    <image id="n21_h59f" name="openImage" src="h59f8" fileName="resource/xf_open.png" xy="18,13" scale="0.9,0.9">
-      <gearDisplay controller="c1" pages="1"/>
-    </image>
-    <image id="n25_tjkx" name="n25" src="tjkx16" fileName="resource/yxn_bj_hs.png" xy="125,3">
-      <gearDisplay controller="c1" pages="0"/>
-    </image>
-    <component id="n24_h59f" name="spaceBtn" src="h59f14" fileName="spaceBtn.xml" xy="0,0" size="154,84"/>
-    <text id="n22_h59f" name="title" xy="64,31" size="65,27" fontSize="20" color="#660033" vAlign="middle" autoSize="none" text="标题1阿斯"/>
+    <component id="n24_h59f" name="spaceBtn" src="h59f14" fileName="spaceBtn.xml" xy="0,0" size="188,73" alpha="0"/>
+    <text id="n22_h59f" name="title" xy="33,22" size="119,31" fontSize="24" color="#055761" align="center" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="邮件">
+      <gearColor controller="button" pages="0" values="#055761,#000000" default="#e8facc,#000000"/>
+    </text>
   </displayList>
   <Button mode="Radio"/>
   <transition name="t0">

@@ -1,24 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="1136,640">
+<component size="1136,640" designImage="ui://vztvq5emt23f19" designImageAlpha="100">
+  <controller name="hasAttachment" pages="0,yes,1,no" selected="0"/>
+  <controller name="isTake" pages="0,yes,1,no" selected="0"/>
   <displayList>
-    <image id="n0" name="n0" src="h59f1" fileName="resource/lan_di.png" xy="100,39" size="184,562"/>
-    <image id="n1" name="n1" src="h59f2" fileName="resource/bg_di_heng.png" xy="112,53" size="155,63"/>
-    <image id="n2" name="n2" src="h59f3" fileName="resource/yj_title.png" xy="122,64"/>
-    <image id="n14_h59f" name="n14" src="h59ff" fileName="resource/ty_di_pic1.png" xy="315,65" size="716,505" pkg="wkrvvhuq"/>
-    <image id="n13_h59f" name="n13" src="h59f1" fileName="resource/lan_di.png" xy="284,39" size="775,562"/>
-    <list id="n3" name="mailList" xy="114,113" size="154,473" overflow="scroll" scrollBar="hidden" clipSoftness="0,20" defaultItem="ui://vztvq5emh59f4" align="center" autoClearItems="true">
+    <image id="n33_t23f" name="bg1" src="kdqv1a" fileName="bg/ty_tanchuang1.png" pkg="wkrvvhuq" xy="261,42" size="846,557"/>
+    <image id="n34_t23f" name="bg2" src="t23f15s" fileName="bg/ty_tanchuangPic.png" pkg="wkrvvhuq" xy="1072,18"/>
+    <image id="n14_h59f" name="bg3" src="h59ff" fileName="bg/ty_di_pic1.png" pkg="wkrvvhuq" xy="286,143" size="786,279"/>
+    <image id="n0" name="bg4" src="t23f1p" fileName="bg/cjfj_bq_di.png" pkg="wkrvvhuq" xy="3,7" size="296,640"/>
+    <component id="n32_t23f" name="closeBtn" src="t23f1s" fileName="closeBtn.xml" xy="1036,-12" scale="0.95,0.95"/>
+    <component id="n29_mw1f" name="back" src="mw1f17" fileName="back.xml" xy="16,5"/>
+    <component id="n35_t23f" name="takeBtn" src="t23f1t" fileName="takeBtn.xml" xy="844,452" size="206,84">
+      <gearDisplay controller="hasAttachment" pages="0"/>
+    </component>
+    <image id="n2" name="bg5" src="t23f1d" fileName="resourceNew/xtxx_bt.png" xy="81,73"/>
+    <image id="n30_t23f" name="bg6" src="t23f1e" fileName="resourceNew/xtxx_bt1.png" xy="441,98"/>
+    <image id="n31_t23f" name="bg7" src="t23f1e" fileName="resourceNew/xtxx_bt1.png" xy="795,98" flip="hz"/>
+    <list id="n3" name="mailList" xy="54,142" size="189,441" overflow="scroll" scrollBar="hidden" clipSoftness="0,20" defaultItem="ui://vztvq5emh59f4" align="center" autoClearItems="true">
       <item/>
       <item/>
       <item/>
     </list>
-    <text id="n15_h59f" name="title" xy="605,84" size="109,34" fontSize="25" color="#0000ff" align="center" vAlign="middle" bold="true" singleLine="true" autoClearText="true" text="我是标题"/>
-    <component id="n26_h59f" name="textComponent" src="h59fm" fileName="textComponent.xml" xy="354,131"/>
-    <list id="n27_h59f" name="emailAttachmentList" xy="363,466" size="610,85" layout="row" overflow="scroll" scroll="horizontal" scrollBar="hidden" defaultItem="ui://vztvq5emh59f13" autoClearItems="true">
+    <text id="n15_h59f" name="title" xy="568,84" size="205,34" fontSize="28" color="#d14a33" align="center" vAlign="middle" autoSize="none" bold="true" singleLine="true" autoClearText="true" text="我是标题"/>
+    <component id="n26_h59f" name="textComponent" src="h59fm" fileName="textComponent.xml" xy="311,164" size="744,237"/>
+    <list id="n27_h59f" name="emailAttachmentList" xy="288,448" size="534,122" layout="row" scroll="horizontal" colGap="16" defaultItem="ui://vztvq5emh59f13" autoClearItems="true">
+      <gearDisplay controller="hasAttachment" pages="0"/>
       <item/>
       <item/>
       <item/>
     </list>
-    <component id="n11_h59f" name="closeBtn" src="h59fe" fileName="closeBtn.xml" xy="1030,28"/>
-    <component id="n29_mw1f" name="back" src="mw1f17" fileName="back.xml" xy="81,23"/>
   </displayList>
 </component>

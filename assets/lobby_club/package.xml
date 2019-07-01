@@ -8,12 +8,10 @@
     <component id="h59f7" name="noClubPage.xml" path="/"/>
     <component id="h59f8" name="clubPage.xml" path="/"/>
     <component id="h59ft" name="roomItem.xml" path="/"/>
-    <component id="h59fw" name="playerItem.xml" path="/btn/"/>
     <component id="h59fx" name="applyRecord.xml" path="/applyRecord/" exported="true"/>
     <component id="h59fz" name="recordItem.xml" path="/applyRecord/"/>
     <component id="h59f10" name="spaceBtn.xml" path="/btn/"/>
     <component id="apn913" name="createClubView.xml" path="/createClubView/" exported="true"/>
-    <component id="apn916" name="settingPopupItem.xml" path="/btn/"/>
     <component id="tjkx17" name="joinClub.xml" path="/JoinClub/" exported="true"/>
     <component id="tjkx18" name="button0.xml" path="/btn/numberBtn/"/>
     <component id="tjkx19" name="button1.xml" path="/btn/numberBtn/"/>
@@ -43,7 +41,6 @@
     <image id="tjkx20" name="jrfj_szsc.png" path="/resource/old/"/>
     <component id="tjkx22" name="memberManager.xml" path="/memberManager/" exported="true"/>
     <component id="tjkx23" name="memberListBtn.xml" path="/memberManager/btn/"/>
-    <component id="tjkx28" name="memberDelete.xml" path="/memberManager/"/>
     <component id="tjkx29" name="memberApplyItem.xml" path="/memberManager/"/>
     <image id="is8o6n" name="一键组局配置1.jpg" path="/resource/效果图/"/>
     <image id="is8o6o" name="一键组局配置1标注.jpg" path="/resource/效果图/"/>
@@ -151,7 +148,7 @@
     <component id="c3rla1" name="refreshBtn.xml" path="/btn/"/>
     <component id="c3rla2" name="gameRecordBtn.xml" path="/btn/"/>
     <component id="c3rla3" name="quicklyCreateRoomBtn.xml" path="/btn/"/>
-    <component id="c3rla4" name="createRoomBtn.xml" path="/btn/"/>
+    <component id="c3rla4" name="return2GameBtn.xml" path="/btn/"/>
     <component id="c3rla5" name="tipsBtn.xml" path="/btn/"/>
     <component id="c3rla6" name="JoinBtn.xml" path="/btn/"/>
     <component id="c3rla7" name="inviteBtn.xml" path="/btn/"/>
@@ -230,6 +227,44 @@
     <component id="lulwcm" name="confirmBtn.xml" path="/settingPopup/"/>
     <component id="lulwcn" name="quitClubCom.xml" path="/settingPopup/" exported="true"/>
     <component id="lulwco" name="disbandClubCom.xml" path="/settingPopup/" exported="true"/>
+    <component id="x2fzcp" name="createRoomBtn.xml" path="/btn/"/>
+    <image id="x2fzcq" name="wdpyq_zi_fhfj.png" path="/resource/切图/"/>
+    <image id="x2fzcr" name="q_btn_lan.png" path="/resource/切图/"/>
+    <component id="x2fzcs" name="filterPopup.xml" path="/filterPopup/" exported="true"/>
+    <image id="x2fzct" name="c_茶馆主界面_普通用户_选游戏.jpg" path="/resource/效果图/"/>
+    <image id="x2fzcu" name="cgTips_btn_choose.png" path="/filterPopup/resource/"/>
+    <image id="x2fzcv" name="cgTips_diban.png" path="/filterPopup/resource/"/>
+    <image id="x2fzcw" name="cgTips_line.png" path="/filterPopup/resource/"/>
+    <image id="x2fzcx" name="cgTips_pic1.png" path="/filterPopup/resource/"/>
+    <image id="x2fzcy" name="cgTips_pic2.png" path="/filterPopup/resource/"/>
+    <component id="x2fzcz" name="dfmj.xml" path="/filterPopup/"/>
+    <component id="x2fzd0" name="zjmj.xml" path="/filterPopup/"/>
+    <component id="x2fzd1" name="allGame.xml" path="/filterPopup/"/>
+    <image id="100i3d2" name="r_任命群管.jpg" path="/resource/效果图/"/>
+    <image id="100i3d3" name="r_任命群管_查找群员.jpg" path="/resource/效果图/"/>
+    <image id="100i3d4" name="r_任命群管_查找群员_标注.jpg" path="/resource/效果图/"/>
+    <image id="100i3d5" name="r_任命群管_查找群员提示.jpg" path="/resource/效果图/"/>
+    <image id="100i3d6" name="r_任命群管_标注.jpg" path="/resource/效果图/"/>
+    <image id="100i3d7" name="r_任命群管_添加群管.jpg" path="/resource/效果图/"/>
+    <image id="100i3d8" name="r_任命群管_添加群管_标注.jpg" path="/resource/效果图/"/>
+    <component id="100i3d9" name="roomManageView.xml" path="/roomManage/" exported="true"/>
+    <image id="g9uc3da" name="bt_rmqg.png" path="/appointManager/resource/"/>
+    <image id="g9uc3db" name="bt_tjgl.png" path="/appointManager/resource/"/>
+    <component id="g9uc3dc" name="removeManager.xml" path="/appointManager/"/>
+    <image id="g9uc3dd" name="btn_twqg.png" path="/appointManager/resource/"/>
+    <image id="g9uc3de" name="btn_ycqg.png" path="/appointManager/resource/"/>
+    <image id="g9uc3df" name="btn_tjqg.png" path="/appointManager/resource/"/>
+    <component id="g9uc3dg" name="addBtn.xml" path="/appointManager/"/>
+    <component id="g9uc3di" name="item.xml" path="/appointManager/"/>
+    <component id="10f063dj" name="appointManager.xml" path="/appointManager/" exported="true"/>
+    <component id="p4hl63dk" name="roomMemberItem.xml" path="/roomManage/"/>
+    <component id="r54k63dl" name="kitoutBtn.xml" path="/roomManage/"/>
+    <component id="r54k63dm" name="kitoutGrayBtn.xml" path="/roomManage/"/>
+    <component id="r54k63dn" name="disbandRoomBtn.xml" path="/roomManage/"/>
+    <component id="t23f63do" name="quicklyCreateRoom.xml" path="/quicklyCreateRoom/" exported="true"/>
+    <component id="t23f63dp" name="editBtn.xml" path="/quicklyCreateRoom/"/>
+    <component id="t23f63dq" name="textComponent.xml" path="/quicklyCreateRoom/"/>
+    <component id="jrlz63dr" name="ruleTextCom.xml" path="/"/>
   </resources>
   <publish name="lobby_club"/>
 </packageDescription>

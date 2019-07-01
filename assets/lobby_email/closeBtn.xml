@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="46,40" extention="Button">
-  <Button/>
-  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver"/>
+<component size="120,146" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
   <displayList>
-    <image id="n0_h59f" src="h59fd" name="n0" xy="0,0">
-      <relation target="" sidePair="width,height"/>
+    <image id="n0_t23f" name="n0" src="tjkx21" fileName="bg/ty_btnClose.png" pkg="wkrvvhuq" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
     </image>
   </displayList>
+  <Button downEffect="scale" downEffectValue="0.80"/>
 </component>

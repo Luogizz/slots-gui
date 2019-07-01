@@ -3,7 +3,7 @@
   <controller name="gender" pages="0,women,1,man" selected="0"/>
   <displayList>
     <image id="n0_h59f" name="n0" src="h59f3" fileName="resource/grxx_di.png" xy="285,121" size="568,320"/>
-    <loader id="n2_h59f" name="icon" xy="313,166" size="84,82" url="ui://wkrvvhuqfxwe15l" fill="scale"/>
+    <loader id="n10_jfpk" name="loader" xy="315,167" size="80,80" align="center" vAlign="middle" fill="scale"/>
     <image id="n1_h59f" name="frame1" src="h59fa" fileName="resource/grxx_txbk.png" xy="310,164"/>
     <component id="n3_h59f" name="nick" src="h59fe" fileName="item.xml" xy="414,160"/>
     <component id="n4_h59f" name="id" src="h59fe" fileName="item.xml" xy="414,214"/>
