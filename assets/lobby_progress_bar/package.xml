@@ -5,6 +5,8 @@
     <component id="kq452" name="downloadProgress.xml" path="/" exported="true"/>
     <component id="gz236" name="rolling.xml" path="/" exported="true"/>
     <image id="gz237" name="rolling.png" path="/"/>
+    <image id="f4q69" name="zhdl_jdt_di.png" path="/resource/" scale="9grid" scale9grid="2,4,4,8"/>
+    <image id="f4q6a" name="zhdl_jdt_yanse.png" path="/resource/"/>
   </resources>
   <publish name="lobby_progress_bar"/>
 </packageDescription>
