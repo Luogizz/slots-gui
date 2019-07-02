@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="1136,640" anchor="true" designImage="ui://tnqevky2fxwet8" designImageLayer="1">
+<component size="1136,640" designImage="ui://tnqevky2fxwet8" designImageAlpha="0" designImageLayer="1">
   <controller name="bgController" pages="0,经典,1,普蓝" selected="0"/>
   <displayList>
     <image id="n29_qhzt" name="blueBg" src="fxwexi" fileName="大丰麻将美术改版/2 游戏内/切图/bg2.jpg" xy="0,0" size="1136,640">
@@ -26,10 +26,18 @@
     <component id="n19_fxwe" name="ready" src="fxwe167" fileName="desk/ready_button.xml" xy="760,427"/>
     <text id="n28_rh8w" name="tilesInWall" xy="177,14" size="93,27" visible="false" fontSize="20" color="#93ebf1" autoSize="none" text=""/>
     <component id="n26_rh8w" name="checkReadyHandBtn" src="rh8w186" fileName="desk/check_ting_button.xml" xy="45,294" visible="false" blend="screen"/>
-    <component id="n17_fxwe" name="player4" src="fxwe15t" fileName="desk/left/desk_view_left.xml" xy="0,0"/>
-    <component id="n16_fxwe" name="player3" src="fxwe15v" fileName="desk/dui/desk_view_dui.xml" xy="0,0"/>
-    <component id="n15_fxwe" name="player2" src="fxwe15x" fileName="desk/right/desk_view_right.xml" xy="0,0"/>
-    <component id="n14_fxwe" name="player1" src="fxwe15p" fileName="desk/mine/desk_view_mine.xml" xy="0,0"/>
+    <component id="n17_fxwe" name="player4" src="fxwe15t" fileName="desk/left/desk_view_left.xml" xy="0,0">
+      <relation target="n29_qhzt" sidePair="left-left"/>
+    </component>
+    <component id="n16_fxwe" name="player3" src="fxwe15v" fileName="desk/dui/desk_view_dui.xml" xy="0,0">
+      <relation target="n29_qhzt" sidePair="top-top"/>
+    </component>
+    <component id="n15_fxwe" name="player2" src="fxwe15x" fileName="desk/right/desk_view_right.xml" xy="0,0">
+      <relation target="n29_qhzt" sidePair="right-right"/>
+    </component>
+    <component id="n14_fxwe" name="player1" src="fxwe15p" fileName="desk/mine/desk_view_mine.xml" xy="0,0">
+      <relation target="n29_qhzt" sidePair="left-left"/>
+    </component>
     <component id="n20_fxwe" name="meldOpsPanel" src="fxwe16m" fileName="desk/meld_multi_ops.xml" xy="0,0" visible="false"/>
     <component id="n18_fxwe" name="operationPanel" src="fxwe160" fileName="desk/operation_panel.xml" xy="-1,378"/>
     <component id="n25_fxwe" name="listensPanel" src="fxwe16t" fileName="desk/listens_panel.xml" xy="-1,0" visible="false"/>
