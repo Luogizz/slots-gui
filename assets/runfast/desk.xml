@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="1136,640" designImage="ui://ppyzj5nref8p7c" adaptationTest="FitSize">
+<component size="1136,640" anchor="true" designImage="ui://ppyzj5nref8p7c" adaptationTest="FitSize">
   <displayList>
     <image id="n1_ef8p" name="blueBg" src="js7wet" fileName="大丰关张美术资源/切图/bg_2d.jpg" xy="0,0" size="1136,640"/>
     <image id="n30_ef8p" name="n30" src="ef8pf" fileName="大丰关张美术资源/切图/2d/dk_tt.png" xy="0,595" size="1136,42">
